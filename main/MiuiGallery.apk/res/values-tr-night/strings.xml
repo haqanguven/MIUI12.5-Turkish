@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_recommandation_face_is">&lt;Data> Bu kişinin &lt;font color=#e6ffffff>&lt;b>%1$s&lt;/b>&lt;/font> olduğuna emin misiniz? Bu kişi %2$s albümüne taşınacaktır &lt;/Data></string>
+    <string name="confirm_recommandation_face_not">&lt;Data> Bu kişinin &lt;font color=#e6ffffff>&lt;b>%1$s&lt;/b>&lt;/font> olmadığına emin misiniz? &lt;/Data></string>
+    <string name="confirm_recommandation_multiple_faces_are">&lt;Data> Bu kişilerin &lt;font color=#e6ffffff>&lt;b>%1$s&lt;/b>&lt;/font> olduğuna emin misiniz? Bu kişiler %2$s albümüne taşınacaktır &lt;/Data></string>
+    <string name="confirm_recommandation_multiple_faces_not">&lt;Data> Bu kişilerin &lt;font color=#e6ffffff>&lt;b>%1$s&lt;/b>&lt;/font> olmadığına emin misiniz? &lt;/Data></string>
+</resources>

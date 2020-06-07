@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_insufficient_space_on_external">Harici depolama alanında yeterli alan yok</string>
+    <string name="dialog_insufficient_space_on_cache">Dahili depolama alanında yeterli alan yok</string>
+    <string name="auto_restart_under_wifi">Wifi bu dosyayı otomatik olarak indirecektir</string>
+    <string name="task_already_exist">Görev zaten mevcut</string>
+    <string name="privacy_tip_title">Xunlei hızlandırıcı kullanılsın mı?</string>
+    <string name="privacy_tip_content">"İndirmeyi hızlandırmak için Xunlei hızlandırıcı kullanılsın mı? İndirilecek olan dosyanın bağlantısı Xunlei'nin sunucularına yüklenecektir. Bu servise aktif abone olup olmadığınızı kontrol etmek için Mi hesap bilgileriniz de yüklenecektir"</string>
+    <string name="privacy_tip_cancel">İptal et</string>
+    <string name="privacy_tip_ok">Tamam</string>
+    <string name="privacy_notif_title">Xunlei indirme hızlandırıcısı açık</string>
+    <string name="privacy_notif_content">Ayrıntıları görüntülemek için dokunun</string>
+    <string name="notif_text_engine_on">Hızlandırıcı açık</string>
+    <string name="notif_text_engine_off">Hızlandırıcı kapalı</string>
+    <string name="notif_title_single_downloading">İndiriliyor: %1$s</string>
+    <string name="notif_title_multiple_downloading">%1$d dosya indiriliyor</string>
+    <string name="notif_title_file_size">Toplam: %1$d</string>
+    <string name="paused_waiting_for_network">Ağ bekleniyor</string>
+    <string name="warning_tip_title">Veri kullanımı uyarısı</string>
+    <string name="warning_tip_content">"Wifi ağına bağlı değilsiniz. Bu indirmeyi tamamlamak için mobil veri bağlantınızı kullanmak veri kullanımınızı artıracaktır. Planınızın veri sınırını aşarsanız operatörünüz size ek ücret talep edebilir"</string>
+    <string name="warning_tip_cancel">İndir</string>
+    <string name="warning_tip_ok">Duraklat</string>
+    <string name="dialog_not_show_again">Tekrar gösterme</string>
+    <string name="notification_download_complete">İndirme işlemi tamamlandı</string>
+    <string name="notification_download_failed">İndirme işlemi tamamlanamadı</string>
+    <string name="notification_download_success_more">%1$d indirildi</string>
+    <string name="mobile_recommended_title">Mobil veri kullanımı</string>
+    <string name="recommended_file_size_download_in_mobile">%s dosyayı indirmek için mobil veri kullanılsın mı?</string>
+    <string name="recommended_no_file_size_download_in_mobile">Bu dosyayı indirmek için mobil veri bağlantınız kullanılsın mı?</string>
+    <string name="button_wait_for_wifi">Bekle</string>
+    <string name="button_download_now">Şimdi indir</string>
+    <string name="insufficient_space">Cihazınızın dahili belleğinde yeterli alan yok</string>
+    <string name="enter_garbage_clean">Dahili depolamayı temizleyin</string>
+    <string name="download_apk_desktop_pending">Bekliyor</string>
+    <string name="download_apk_desktop_pause">Duraklatıldı</string>
+    <string name="download_apk_desktop_running">İndiriliyor</string>
+    <string name="download_apk_desktop_installing">Yükleniyor</string>
+    <string name="xl_speedup_experience_notify_title">Xunlei üyelik</string>
+    <string name="xl_speedup_experience_notify_context">Xunlei üyesi olduğunuzda her indirme için hız artar</string>
+    <string name="xl_speedup_notify_button_experience">Ücretsiz deneyin</string>
+    <string name="xl_speedup_notify_button_member">Üye ol</string>
+    <string name="notify_disabled_net_by_app">İnternet bağlantısı güvenlik uygulaması tarafından kısıtlandı</string>
+    <string name="notify_only_wifi_download">Wifi ağı bekleniyor</string>
+    <string name="notify_install_guide_title">%s yükleme tamamlandı</string>
+    <string name="notify_install_guide_msg">Yüklendi</string>
+    <string name="notify_install_guide_forward_text">Aç</string>
+    <string name="dialog_data_limit_title">Veri kullanımı uyarısı</string>
+    <string name="dialog_data_limit_msg1">%s dosyasını indirmek için mobil veri kullanılacak. Şimdi indirilsin mi?</string>
+    <string name="dialog_data_limit_msg2">@string/dialog_tip_limit</string>
+    <string name="dialog_data_limit_msg3">Sınırı değiştir</string>
+    <string name="dialog_data_limit_button1">Wifi ağını bekle</string>
+    <string name="dialog_data_limit_button2">Şimdi indir</string>
+    <string name="dialog_data_limit_sel_title">@string/dialog_tip_limit</string>
+    <string name="dialog_button_ok">Tamam</string>
+    <string name="dialog_button_cancel">İptal et</string>
+    <string name="dialog_tip_limit">"%s'den büyük dosyayı indirirken uyarı ver"</string>
+    <string name="dialog_tip_no_limit">Uyarma</string>
+    <string name="dialog_tip_limit0">Uyar</string>
+    <string name="dialog_content_limit_max">Sınırsız</string>
+    <string name="dialog_content_limit0">İndirmeleri kısıtla</string>
+    <string name="app_label">İndirme yöneticisi</string>
+    <string name="permlab_downloadManager">İndirme yöneticisine erişin</string>
+    <string name="permdesc_downloadManager">Uygulamaya indirme yöneticisine erişme ve dosya indirmek için indirme yöneticisini kullanma izni verir. Zararlı uygulamalar indirme işlemlerini kesmek ve özel bilgilere erişmek için bunu kullanabilir</string>
+    <string name="permlab_downloadManagerAdvanced">Gelişmiş indirme yöneticisi işlevleri.</string>
+    <string name="permdesc_downloadManagerAdvanced">Uygulamaya indirme yöneticisinin gelişmiş fonksiyonlarına erişme izni verir. Zararlı uygulamalar indirme işlemlerini kesmek ve özel bilgilere erişmek için bunu kullanabilir</string>
+    <string name="permlab_downloadCompletedIntent">İndirme bildirimleri gönder</string>
+    <string name="permdesc_downloadCompletedIntent">Uygulamaya tamamlanan indirme işlemleriyle ilgili bildirim gönderme izni verir. Zararlı uygulamalar dosya indiren diğer uygulamaların çalışma biçimini etkilemek için bunu kullanabilir</string>
+    <string name="permlab_seeAllExternal">USB belleğe yapln tüm indr göster</string>
+    <string name="permdesc_seeAllExternal">Uygulamaya indiren uygulamadan bağımsız olarak SD karta yapılan tüm indirme işlemlerini görme izni verir</string>
+    <string name="permlab_downloadCacheNonPurgeable">İndirme önbelleğinde alan ayır</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Uygulamaya dosyaları indirme önbelleğine indirme izni verir. İndirme önbelleği indirme yöneticisine daha fazla alan gerektiğinde otomatik olarak silinemez</string>
+    <string name="permlab_downloadWithoutNotification">dosyaları bildirimde bulunmadan indirme</string>
+    <string name="permdesc_downloadWithoutNotification">Uygulamaya kullanıcıya herhangi bir bildirim göstermeden dosyaları indirme yöneticisi ile indirme izni verir</string>
+    <string name="permlab_accessAllDownloads">Tüm sistem indirmelerine erişim</string>
+    <string name="permdesc_accessAllDownloads">Uygulamaya sistemdeki herhangi bir uygulama tarafından başlatılan tüm indirme işlemlerini görüntüleme ve değiştirme izni verir</string>
+    <string name="download_unknown_title">&lt;Adsız></string>
+    <string name="notification_need_wifi_for_size">İndirme boyutu wifi bağlantısını gerektiriyor</string>
+    <string name="notification_paused_in_background">Arka planda duraklatıldı</string>
+    <string name="wifi_required_title">İndirme boyutu operatör ağı için çok büyük</string>
+    <string name="wifi_required_body" formatted="false">"Bu %s  boyutundaki indirme işlemini tamamlamak için wifi ağı bağlantısı kullanmalısınız
+
+Bu indirme işlemini kablosuz ağa bir sonraki bağlanmanızda başlatmak için %s  öğesine dokunun"</string>
+    <string name="wifi_recommended_title">Sonraki indirme için kuyruktamıydı?</string>
+    <string name="wifi_recommended_body" formatted="false">"Bu %s sürümünden indirmeyi başlatmak mobil veri bağlantınızın aşırı bir şekilde kullanılmasına neden olabilir ve bu da veri planınıza bağlı olarak cep telefonu operatörünüz tarafından masraflara neden olabilir
+
+Bu indirmeyi bir wifi ağına bağlandıktan sonra indirmeye başlatmak için %s üzerine dokunun"</string>
+    <string name="button_queue_for_wifi">Kuyruk</string>
+    <string name="button_cancel_download">İptal et</string>
+    <string name="button_start_now">Şimdi başla</string>
+    <string name="download_percent">%%%d</string>
+    <string name="download_remaining">%s</string>
+    <string name="download_no_application_title">Dosya açılamıyor</string>
+    <string name="root_downloads">İndirmeler</string>
+    <string name="download_queued">Kuyruk</string>
+    <string name="download_running">Devam ediyor</string>
+    <string name="download_error">Başarısız oldu</string>
+    <string name="download_running_percent">Devam ediyor: %%%d</string>
+    <string name="channel_active">İndir</string>
+    <string name="channel_waiting">Bekle</string>
+    <string name="channel_insufficient_space">Yetersiz alan</string>
+    <string name="channel_complete">İndirme tamamlandı</string>
+</resources>

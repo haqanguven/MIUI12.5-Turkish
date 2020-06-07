@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_hiden_test">
+        <item quantity="other">Dahili test öğelerine girmek için %1$d adım kaldı</item>
+        <item quantity="one">Dahili test öğelerine girmek için %1$d adım kaldı</item>
+    </plurals>
+</resources>

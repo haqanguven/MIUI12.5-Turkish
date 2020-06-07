@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_fix">
+        <item>Miui,aç,indir</item>
+        <item>İndirin,yazılım,açık,nerede,çocuklar,nerede,nerede,nasıl,nasıl,app,app indir,indir ve yükle,app yazılımı,ücretsiz indir</item>
+    </string-array>
+    <string-array name="default_corpora">
+        <item>com.android.quicksearchbox/.applications.ApplicationLauncher</item>
+        <item>com.android.quicksearchbox/.provider2.AppIndexActivity2</item>
+        <item>com.android.quicksearchbox/.settings.SettingsSourceActivity</item>
+        <item>com.android.browser/.BookmarkSearchActivity</item>
+        <item>com.xiaomi.providers.appindex/.MainActivity</item>
+        <item>com.android.settings/.search.provider.SettingsProvider</item>
+        <item>com.android.fileexplorer/.FileExplorerTabActivity</item>
+        <item>com.android.quicksearchbox/.xiaomi.XiaomiSearch</item>
+        <item>com.miui.personalassistant/.favorite.ui.GlobalSearchableActivity</item>
+        <item>com.android.contacts/.activities.PeopleActivity</item>
+        <item>com.android.email/com.kingsoft.email2.ui.MailActivityEmail</item>
+        <item>com.android.quicksearchbox/.translation.TranslationActivity</item>
+        <item>com.miui.newhome/.home.ui.favorite.GlobalSearchActivity</item>
+    </string-array>
+    <string-array name="default_corpora_suggest_uris">
+        <item>content://com.android.contacts/search_suggest_query</item>
+    </string-array>
+    <string-array name="func_fix">
+        <item>Miui,aç,indir</item>
+        <item>İndirin,yazılım,açık,nerede,nerede,nerede,nerede,nasıl,set,nasıl ayarlanır</item>
+    </string-array>
+    <array name="hidden_corpora" />
+    <string-array name="setting_fix">
+        <item>Mi telefonu,telefonu,sistem,miui,nasıl,ayarla,açık,iptal,kapat</item>
+        <item>İndirin,açık,yazılım,nerede,nerede,nerede,çocuk,nasıl,ayarla,iptal,çözüm,telefon,kapat,nasıl ayarlanır</item>
+    </string-array>
+</resources>

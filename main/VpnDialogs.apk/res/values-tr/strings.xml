@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="prompt">Bağlantı isteği</string>
+    <string name="warning">"%s uygulaması ağ trafiğini izleyebilmesine olanak veren bir Vpn bağlantısı oluşturmak istiyor. Bağlantıyı yalnızca ilgili kaynağa güveniyorsanız kabul edin. &lt;br /> &lt;br /> Vpn etkin olduğunda ekranın üst kısmında &lt;img src=vpn_icon /> simgesi görüntülenir"</string>
+    <string name="legacy_title">Vpn bağlandı</string>
+    <string name="session">Oturum:</string>
+    <string name="duration">Süre:</string>
+    <string name="data_transmitted">Gönderilen:</string>
+    <string name="data_received">Alınan:</string>
+    <string name="data_value_format">%1$s bayt / %2$s paket</string>
+    <string name="always_on_disconnected_title">"Her zaman açık Vpn'e bağlanılamıyor"</string>
+    <string name="always_on_disconnected_message">"%1$s her zaman bağlı kalmak üzere ayarlandı ancak şu anda bağlantı kurulamıyor. Telefonunuz %1$s’e yeniden bağlanana kadar ortak bir ağ kullanacak"</string>
+    <string name="always_on_disconnected_message_lockdown">"%1$s her zaman bağlı kalmak üzere ayarlandı ancak şu anda bağlantı kurulamıyor. Vpn yeniden bağlanana kadar bir bağlantınız olmaz"</string>
+    <string name="always_on_disconnected_message_separator">" "</string>
+    <string name="always_on_disconnected_message_settings_link">VPN ayarlarını değiştir</string>
+    <string name="configure">Yapılandır</string>
+    <string name="disconnect">Bağlantıyı kes</string>
+    <string name="open_app">Uygulamayı aç</string>
+    <string name="dismiss">Reddet</string>
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ad_service">Reklam hizmeti</string>
+    <string name="app_label">Html görüntüleyici</string>
+    <string name="app_name_which_call">Uygulama: %s</string>
+    <string name="app_version_which_call">Uygulama sürümü: %s</string>
+    <string name="autoconnect">Otomatik bağlan</string>
+    <string name="ime_privacy_policy">Klavye seç</string>
+    <string name="legal_written_offer">Yazılı teklif</string>
+    <string name="license_host_unreachable">"Ağa bağlanılamıyor. Bu bilgiyi görüntülemek için 
+%s adresine gidin"</string>
+    <string name="loading">Yükleniyor</string>
+    <string name="mibi_license">Mi kredi hizmet şartları</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için çek</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Yenileme tamamlandı</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Yenilemek için serbest bırak</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Veri yok</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">Bunu yapma</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Yenileniyor</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Hata</string>
+    <string name="open_wifi_connect_and_use_data_summary">Mobil verileri kullanılıyor. Wifi ağına geçmek için dokunun</string>
+    <string name="open_wifi_connect_summary">Ayrıntıları görüntülemek için dokunun</string>
+    <string name="open_wifi_connect_title">%1$s ağına bağlan</string>
+    <string name="permdesc_accessDrm">Uygulamanın DRM korumalı içeriğe erişmesine izin verin</string>
+    <string name="poco_launcher_privacy_policy">POCO başlatıcı gizlilik politikası</string>
+    <string name="poco_launcher_user_agreement">POCO başlatıcı kullanıcı sözleşmesi</string>
+    <string name="poco_privacy_policy">Poco başlatıcı gizlilik politikası &amp; Poco başlatıcı kullanıcı sözleşmesi</string>
+    <string name="policy_name">Politika: %s</string>
+    <string name="pre_installed_apps">Önceden yüklenmiş uygulamalar</string>
+    <string name="privacy_station_title">"Xiaomi'de gizlilik"</string>
+    <string name="settings_ad_loading">Yükleniyor</string>
+    <string name="settings_ad_loading_unavailable">Bilgi yüklenemedi</string>
+    <string name="settings_license_activity_loading">Yükleniyor</string>
+    <string name="settings_license_activity_title">Açık kaynak lisansları</string>
+    <string name="settings_license_activity_unavailable">Lisanslar yüklenirken bir sorun oluştu</string>
+    <string name="settings_safetylegal_activity_loading">Yükleniyor</string>
+    <string name="settings_safetylegal_activity_title">Güvenlik bilgileri</string>
+    <string name="settings_safetylegal_activity_unreachable">Veri bağlantınız yok. Bu bilgileri şimdi görüntülemek için internete bağlı herhangi bir bilgisayardan %s adresine gidin</string>
+    <string name="settings_safetylegal_title">Güvenlik bilgileri</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

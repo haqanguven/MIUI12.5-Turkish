@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>Tekrar deneyin</item>
+        <item></item>
+        <item></item>
+        <item>Parmak izi tarayıcıyı tamamen kapatın ve baskı uygulayın</item>
+        <item></item>
+        <item>Parmak izi tarayıcıyı tamamen kapatın ve baskı uygulayın</item>
+        <item>Parmak izi sensörünü silin ve tekrar deneyin</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Parmak izi tarayıcıyı tamamen kapatın ve baskı uygulayın</item>
+        <item>Parmak izi tarayıcıyı tamamen kapatın ve baskı uygulayın</item>
+        <item>Çok hızlı. Parmak izi tanınamadı</item>
+        <item>Parmağınızı biraz hareket ettirin ve tekrar deneyin</item>
+        <item>Parmağınızı kaldırın ve tekrar tarayıcıya koyun</item>
+        <item>Parmağınızı tarayıcıda biraz daha uzun tutun</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Parmağınızı hafifçe hareket ettirin</item>
+        <item>Bu parmak izi eklendi. Farklı bir parmak kullanın</item>
+    </string-array>
+</resources>

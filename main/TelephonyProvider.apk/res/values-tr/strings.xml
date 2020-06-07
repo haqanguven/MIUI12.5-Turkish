@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sms_provider_label">Mesajlar</string>
+    <string name="mms_provider_label">Multimedya mesajları</string>
+    <string name="mms_sms_provider_label">Mesajlaşma</string>
+    <string name="siminfo_default_name">Sim %d</string>
+    <string name="apn_source_service" />
+    <string name="app_label">Telefon ve mesajlaşma deposu</string>
+</resources>

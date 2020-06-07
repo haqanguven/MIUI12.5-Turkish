@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wfd hizmeti</string>
+    <string name="perm_label">QC wifi görüntüleme yığını</string>
+    <string name="perm_desc">"Qualcomm wifi görüntüleme yığını Api'larına erişin"</string>
+    <string name="notification_title">Kablosuz ekran</string>
+    <string name="notification_text">Ekran yansıtma açık</string>
+</resources>
