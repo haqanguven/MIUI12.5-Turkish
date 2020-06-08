@@ -359,6 +359,10 @@ Konumu el ile değiştirmek veya şehir seçmek için dokunun"</string>
     <string name="search_weather_keywords">Sıcaklık,Hava tahmini,Hava durumu,Hava kalitesi,Kirlilik derecesi,Nem</string>
     <string name="set_degree_centigrade">°C</string>
     <string name="set_fahrenheit">°F</string>
+    <string name="setting_content_promotion">İçerik tanıtımı</string>
+    <string name="setting_experience_plan_title">Kullanıcı deneyimi programı</string>
+    <string name="setting_today_news">Yeni gün</string>
+    <string name="setting_weather_video">Hava durumu videosu</string>
     <string name="settings">Ayarlar</string>
     <string name="share">Paylaş</string>
     <string name="share_button">Paylaş</string>
