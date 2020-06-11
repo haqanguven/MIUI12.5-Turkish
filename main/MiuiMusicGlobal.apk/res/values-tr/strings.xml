@@ -136,6 +136,7 @@
     <string name="button_sort_by_date">Tarihe Göre</string>
     <string name="button_sort_by_size">Boyuta Göre</string>
     <string name="button_wait_for_wifi">Bekle</string>
+    <string name="buy_vip_skip_ad">Reklamları kaldır</string>
     <string name="cancel">İptal et</string>
     <string name="cancel_running_download">İptal et</string>
     <string name="cannot_download_to_sdcard_hint">Telif hakkı kısıtlamaları nedeniyle SD karta öğeler indirilemiyor. Öğeler bunun yerine dahili depolama birimine indirilecek</string>
@@ -224,7 +225,13 @@
     <string name="click_to_add_album_cover_and_lyric">Albüm kapağı ve şarkı sözleri eklemek için dokunun</string>
     <string name="click_to_shuffle">Hepsini karışık oynatmak için dokunun</string>
     <string name="close_music_time">"Kalan süre: "</string>
-    <string name="com.crashlytics.android.build_id">116a80cc-3815-4e42-b8fc-b1da70d27616</string>
+    <string name="columbus_player_close_desc">Ödülünü kaybedeceksin</string>
+    <string name="columbus_player_close_resume">Videoya devam et</string>
+    <string name="columbus_player_close_title">Video kapatılsın mı?</string>
+    <string name="columbus_player_close_video">Videoyu kapat</string>
+    <string name="columbus_player_install_now">Yükle</string>
+    <string name="columbus_player_learn_more">Daha fazla</string>
+    <string name="com.crashlytics.android.build_id">f4cb99c8-78b7-4f24-83c6-f2e511b74cba</string>
     <string name="comment_format" formatted="false">%s: %s</string>
     <string name="common_google_play_services_enable_button">Etkinleştir</string>
     <string name="common_google_play_services_enable_text">Google Play hizmetlerini etkinleştirmezseniz %1$s çalışmaz</string>
@@ -664,6 +671,46 @@
     <string name="is_scanning">Depolama denetleniyor</string>
     <string name="is_scanning_support_online">"Depolama denetleniyor
 (Bu arada çevrimiçi müzik yayını yapabilir)"</string>
+    <string name="joox_account_bind_mi_account">Mi hesabı ekle</string>
+    <string name="joox_account_cancel_login">İptal et</string>
+    <string name="joox_account_continue_login">Oturum aç</string>
+    <string name="joox_account_fans_center">Hayran merkezi</string>
+    <string name="joox_account_login_conflict_message">Başka bir cihazda oturum açmış görünüyorsunuz. Burada oturum açılsın mı?</string>
+    <string name="joox_account_login_exception">Tekrar oturum açın</string>
+    <string name="joox_account_multi_device_login">Çoklu cihazlar</string>
+    <string name="joox_area_check_failed">Servislerimizin kullanılabilir olmadığı alandasınız gibi görünüyor. Başka bir ağa bağlanın ve uygulamayı yeniden başlatın</string>
+    <string name="joox_auth_button_acquire_vip_instantly">VIP üyelik al</string>
+    <string name="joox_auth_button_login_to_acquire_vip">VIP üyelik almak için oturum açın</string>
+    <string name="joox_auth_dialog_message">Sizin için bazı şarkılar önerdik. Kısıtlamaları kaldırmak için VIP üyelik alın</string>
+    <string name="joox_auth_message_connect_network">Bir süredir sunucuya bağlanılamadı. İndirilen şarkıları oynatmak için ağa bağlanın</string>
+    <string name="joox_auth_message_content_for_vip_only">Bu öge yalnızca VIP üyeler içindir</string>
+    <string name="joox_auth_message_content_offline">Çevrimiçi servisler şu an kullanılabilir değil. Birkaç şeyi geliştireceğiz ve yakında tekrar erişime açacağız. Beklemede kalın</string>
+    <string name="joox_auth_message_login_status_expired">Oturumun süresi doldu. Tekrar oturum açın.</string>
+    <string name="joox_auth_message_one_hour_limit_for_one_company">Her saat aynı kayıt etiketinden altı şarkıya kadar çalabilirsiniz. Şimdi bazı önerilen şarkıları dinleyin</string>
+    <string name="joox_auth_message_recommend_for_you">Önerilen</string>
+    <string name="joox_auth_message_update_vip_to_change_playlist">Çalma listelerini düzenlemek için VIP üyelik alın</string>
+    <string name="joox_auth_message_update_vip_to_download">İndirmek için VIP üyelik alın</string>
+    <string name="joox_auth_message_update_vip_to_listen_offline">VIP üyeliğiniz sona erdi. Şimdi şarkıları çevrimiçi dinleyebilirsiniz. Şarkıları indirmek için VIP üyelik alın</string>
+    <string name="joox_auth_message_update_vip_to_play_on_demand">Telif hakkı kısıtlamalarından dolayı bu şarkı oynatılamıyor. Diğer şarkıları dinlemek için çalmayı karıştırmayı deneyin veya bunu oynatmak için VIP üyelik alın</string>
+    <string name="joox_auth_message_update_vip_to_seek_progress">Telif hakkı kısıtlamalarından dolayı oynatma ilerleme durumu ayarlanamıyor. Kısıtlamaları kaldırmak için VIP üyelik alın</string>
+    <string name="joox_auth_message_update_vip_to_switch_songs">Şarkılar arası geçiş yapmak için VIP üyelik alın</string>
+    <string name="joox_auth_message_update_vip_to_use_function">Bu özelliği kullanmak için VIP üyelik alın</string>
+    <string name="joox_auth_title_download_song">Şarkıları indir</string>
+    <string name="joox_auth_title_login_again">Oturum aç</string>
+    <string name="joox_auth_title_long_time_no_network">Bir süredir ağa bağlı değilsiniz gibi görünüyor</string>
+    <string name="joox_auth_title_shuffle_play">Karıştır</string>
+    <string name="joox_auth_title_vip_content">VIP içerik</string>
+    <string name="joox_auth_title_vip_expired">Üyelik sona erdi</string>
+    <string name="joox_auth_title_vip_function">VIP özellikler</string>
+    <string name="joox_download_title">JOOX indirilenler</string>
+    <string name="joox_privacy_desc">JOOX gizlilik politikası (İsteğe bağlı)</string>
+    <string name="joox_privacy_tips_content">Çevrimiçi servislerimizi kullanmadan önce <a href="/link/click">JOOX gizlilik politikasını</a> okuyun ve kabul edin</string>
+    <string name="joox_privacy_tips_title">JOOX gizlilik politikası</string>
+    <string name="joox_recommend_artist_title">Önerilen sanatçılar</string>
+    <string name="joox_recommend_playlist_title">Önerilen çalma listeleri</string>
+    <string name="joox_search_result_more">Daha</string>
+    <string name="joox_vip_check_to_pay">Satın al</string>
+    <string name="joox_vip_expired_hint">"VIP üyeliğinizin süresi doldu. JOOX'tan indirilen şarkılar yalnızca indirilenlerinizde gösterilecektir."</string>
     <string name="keep_queued_download">Koru</string>
     <string name="ktv_playlist">KTV oynatma listesi</string>
     <string name="language_page_confirm">Onayla</string>
@@ -1106,6 +1153,7 @@ mutlu ol"</string>
     <string name="sunday">Pazar</string>
     <string name="sunday_short">Pazar</string>
     <string name="sunday_shortest">P</string>
+    <string name="supplementary_songs">Ek şarkılar</string>
     <string name="switch_success">Başarıyla değiştirildi</string>
     <string name="tab_album">Albümler</string>
     <string name="tab_album_list">Albümler</string>

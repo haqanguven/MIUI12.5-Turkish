@@ -137,6 +137,7 @@
     <string name="chinese_symbol_animals_tiger">Kaplan</string>
     <string name="clearable_edittext_clear_description">Temizle</string>
     <string name="cloud_service_state_open_reminder">Notları senkronize etmek için Mi bulut ile senkronizasyonu açın</string>
+    <string name="cloud_service_state_open_reminder_note_and_todo">Önemli not ve görevlerin kaybolmaması için Xiaomi bulutu açın</string>
     <string name="cloud_trash_bin_title">Mi buluttaki notları sil</string>
     <string name="confirm_cancel">Reddet</string>
     <string name="confirm_ok">Kabul et</string>
@@ -221,9 +222,12 @@
     <string name="expand_button_title">Gelişmiş</string>
     <string name="first_enter_custom_folder_hint">Burada klasörleri yeniden adlandırabilir veya silebilirsiniz</string>
     <string name="float_todo_guide_cancel">İptal et</string>
-    <string name="float_todo_guide_message">Ana ekran kısayolu, görevleri görüntülemek ve oluşturmak için ekran kenarından kaydırmanızı sağlar. Şimdi kısayol oluşturulsun mu?</string>
+    <string name="float_todo_guide_message">Ana ekran kısayolu görevleri görüntülemek ve oluşturmak için ekran kenarından kaydırmanızı sağlar. Şimdi kısayol oluşturulsun mu?</string>
+    <string name="float_todo_guide_message_v2">Hareket kısayolu ekran kenarından kaydırarak görevler oluşturmanızı ve onları görüntülemenizi sağlar. Bu özelliği ayarlar menüsünden açabilir ve kapatabilirsiniz</string>
     <string name="float_todo_guide_ok">Oluştur</string>
+    <string name="float_todo_guide_ok_v2">Aç</string>
     <string name="float_todo_guide_title">Ana ekran kısayolu</string>
+    <string name="float_todo_guide_title_v2">Hareket kısayolu</string>
     <string name="fmt_chinese_date">N e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
@@ -336,7 +340,7 @@
     <string name="menu_unstick">İğneyi kaldır</string>
     <string name="merge_to_folder">Klasör oluştur</string>
     <string name="micloud_state_total_count">%1$s</string>
-    <string name="midnight">AM</string>
+    <string name="midnight">ÖÖ</string>
     <string name="miuix_appcompat_cloud_state_disabled">Bulut ile senkronizasyon kapalı</string>
     <string name="miuix_appcompat_cloud_state_finished">Bulut ile senkronize edildi</string>
     <string name="miuix_appcompat_cloud_state_syncing">Bulut ile senkronize ediliyor</string>
@@ -430,7 +434,9 @@
     <string name="pref_desc_skip_confirm_for_quick_delete">Doğrulama olmadan notları silmek için 2 parmağınızla yukarı kaydırın</string>
     <string name="pref_desc_todo_float_mode">Görev araç kutusunu açmak için ekranın kenarından itibaren kaydırın</string>
     <string name="pref_remind_type_summary">Sessiz modda hatırlatıcı seslerini çal</string>
+    <string name="pref_remind_type_summary_new">Sessiz modu yoksay ve alarm kapatılana kadar ses çalmaya devam et</string>
     <string name="pref_remind_type_title">Sessiz modu yoksay</string>
+    <string name="pref_remind_type_title_new">Yüksek öncelikli hatırlatıcılar</string>
     <string name="pref_title_cloud_trash_bin">Buluttaki silinmiş notlar</string>
     <string name="pref_title_common">Ek ayarlar</string>
     <string name="pref_title_font_size">Yazı tipi boyutu</string>
@@ -544,6 +550,10 @@
     <string name="sunday">Pazar</string>
     <string name="sunday_short">Pazar</string>
     <string name="sunday_shortest">P</string>
+    <string name="sync_all_terms">%1$s ve %2$s , %3$s</string>
+    <string name="sync_folder_todo">%1$s , %2$s</string>
+    <string name="sync_note_folder">%1$s ve %2$s</string>
+    <string name="sync_note_todo">%1$s , %2$s</string>
     <string name="sync_tips">Notları Mi bulut ile senkronize etmek için dokunun</string>
     <string name="the_anniversary_of_lifting_martial_law">Kalkınma sıkı yönetiminin yıldönümü</string>
     <string name="the_anti_aggression_day">Anti saldırganlık günü</string>
@@ -619,6 +629,7 @@
     <string name="toast_reach_text_limit_truncate">Bu not çok uzun. Not metni metnin sonundan kesilmiştir</string>
     <string name="toast_refuse_to_record_when_in_call">Bu özellik arama sırasında kullanılamaz</string>
     <string name="toast_refuse_to_record_when_in_multi_window">Bu özellik ekran bölme ile birlikte kullanılamaz</string>
+    <string name="toast_refuse_to_record_when_in_multi_window_new">Bölünmüş ekran veya kayan pencerelerde bu özellik kullanılamıyor</string>
     <string name="toast_refuse_to_use_contact">"Kişiler ile ilgili izinler kısıtlı
 Notlar uygulamasına kişilerinizi okuma ve cihazdaki hesapları bulma izni verin"</string>
     <string name="toast_refuse_to_use_external_storage">"Depolama alanı izinleri kısıtlı
@@ -702,6 +713,7 @@ Ses kaydetmek için notlar uygulamasına izin verin"</string>
     <string name="toolbar_voice_description">Ses</string>
     <string name="trash_folder_name">Çöp kutusu</string>
     <string name="trash_folder_reminder">Silmiş olduğunuz notlar 30 gün içerisinde kalıcı olarak silinecektir</string>
+    <string name="trash_folder_reminder_new">Notlar kalıcı olarak silinmeden önce %d gün çöp kutusunda tutulur</string>
     <string name="tuesday">Salı</string>
     <string name="tuesday_short">Salı</string>
     <string name="tuesday_shortest">S</string>

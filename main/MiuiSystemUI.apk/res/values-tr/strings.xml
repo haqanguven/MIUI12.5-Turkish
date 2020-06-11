@@ -438,7 +438,7 @@ Oynatma kalitesi"</string>
     <string name="broadcast_tile">Yayın kiremiti</string>
     <string name="bt_hci_snoop_log">Bluetooth HCI araştırmayı etkinleştir</string>
     <string name="bt_hci_snoop_log_summary">Bir dosyadaki tüm bluetooth HCI paketlerini yakala</string>
-    <string name="bt_is_off">Bluetooth is off</string>
+    <string name="bt_is_off">Bluetooth kapalı</string>
     <string name="bugreport_in_power">Hata raporu kısayolu</string>
     <string name="bugreport_in_power_summary">Hata raporu almak için güç menüsünde bir düğme göster</string>
     <string name="button_convert_fbe">Sil ve dönüştür</string>

@@ -95,7 +95,7 @@
     <string name="dialog_btn_ok_disabled_net">Ağ ayarları</string>
     <string name="dialog_cannot_resume">İndirme işlemi kesintiye uğradı. Baştan başlatın</string>
     <string name="dialog_confirm_delete_checkbox_message">Yerel dosyaları da sil</string>
-    <string name="dialog_confirm_delete_the_download_item_message">Görev silinsin mi</string>
+    <string name="dialog_confirm_delete_the_download_item_message">Görev silinsin mi?</string>
     <string name="dialog_content_limit0">İndirmeleri kısıtla</string>
     <string name="dialog_content_limit_max">Sınırsız</string>
     <string name="dialog_delete_positive">Sil</string>

@@ -1044,12 +1044,12 @@ Neden: %s"</string>
 
 Favoriler listenize kişi eklemek için:
 
-        \""<b><li>"Kişiler\" sekmesine dokunun
-\"\" 
-\""<li>"\"Sık kullanılanlarınıza eklemek istediğiniz kişiye dokunun
-\""</li></li></b>"\" 
-\""<li>"\"Kişi adının yanındaki yıldıza dokunun
-\""</li>"\"
+        "<li><b>Kişiler</b>" sekmesine dokunun
+"</li>" 
+"<li>"Sık kullanılanlarınıza eklemek istediğiniz kişiye dokunun
+"</li>" 
+"<li>"Kişi adının yanındaki yıldıza dokunun
+"</li>"
     "</string>
     <string name="noGroups">Grup yok</string>
     <string name="noMatchingContacts">Eşleşen kişi bulunamadı</string>
@@ -1368,7 +1368,7 @@ Başlamak için ekranınızın altındaki birleştir simgesine dokunun"</string>
     <string name="simContacts_title">Sim kart kişileri</string>
     <string name="sim_account_name">Sim</string>
     <string name="sim_capacity">Sim kart alanını göster</string>
-    <string name="sim_capacity_content" formatted="false">Toplam: %d | Kullanılan: %d</string>
+    <string name="sim_capacity_content">Toplam: %d | Kullanılan: %d</string>
     <string name="sim_card_no_free_space_message">Yeterli boş alan yok</string>
     <string name="sim_card_no_free_space_title">Sim kart dolu</string>
     <string name="sim_contact_existing">Kişi zaten mevcut</string>
@@ -1478,9 +1478,9 @@ Başlamak için ekranınızın altındaki birleştir simgesine dokunun"</string>
     <string name="t9_search_empty_send_sms">Mesaj gönder</string>
     <string name="t9_search_empty_video_call">Görüntülü arama</string>
     <string name="t9_search_guide_pinyin_title1">Kişileri bulmak için rakam girin</string>
-    <string name="t9_search_guide_pinyin_title2" formatted="false"><font fgcolor="">H</font>akan <font fgcolor="">G</font>"\"üven'i aramak için %d ve %d girin\""</string>
+    <string name="t9_search_guide_pinyin_title2" formatted="false"><font fgcolor="">H</font>akan <font fgcolor="">G</font>"üven'i aramak için %d ve %d girin"</string>
     <string name="t9_search_guide_zhuyin_title1">Kişileri bulmak için rakam girin</string>
-    <string name="t9_search_guide_zhuyin_title2" formatted="false"><font fgcolor="">H</font>akan <font fgcolor="">G</font>"\"üven'i aramak için %d ve %d girin\""</string>
+    <string name="t9_search_guide_zhuyin_title2" formatted="false"><font fgcolor="">H</font>akan <font fgcolor="">G</font>"üven'i aramak için %d ve %d girin"</string>
     <string name="take_new_photo">Yeni fotoğraf çek</string>
     <string name="take_photo">Fotoğraf çek</string>
     <string name="the_anniversary_of_lifting_martial_law">Kalkınma sıkı yönetiminin yıldönümü</string>
