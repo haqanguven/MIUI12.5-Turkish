@@ -7508,5 +7508,6 @@ Ayarları şu şekilde güncelle:
 	<string name="text_lines_title">Simge etiket görünümü</string>
 	<string name="icon_shadow_title">Simge gölgeleri</string>
 	<string name="folder_count_title">Klasör düzeni</string>
+	<string name="close_folder">Klasörleri otomatik kapat</string>
 	<string name="time_setting_sound_title">Zaman ayarı sesi</string>
 </resources>

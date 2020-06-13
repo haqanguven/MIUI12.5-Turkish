@@ -34,6 +34,12 @@
         <item>Wifi ve ekran da dahil olmak üzere önemli ayarları yedekleyin</item>
         <item>Cihazınızı kaybettiğiniz zaman uzaktan kolayca kilitleyin</item>
     </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china">
+        <item>Rehberinizi, mesajlarınızı, notlarınızı, takviminizi ve daha fazlasını senkronize edin</item>
+        <item>Uygulamalarınızı, ana ekran düzeninizi ve duvar kağıtlarınızı yedekleyin</item>
+        <item>Wifi ve ekran da dahil olmak üzere önemli ayarları yedekleyin</item>
+        <item>Cihazınızı kaybettiğiniz zaman uzaktan kolayca kilitleyin</item>
+    </string-array>
     <string-array name="micloud_entrance_titleArray">
         <item>Uygulama verilerini senkronize et</item>
         <item>Ana ekran düzenini yedekle</item>
@@ -124,6 +130,11 @@
         <item>Senkronizasyonu aç</item>
         <item>Akıllı yardımcı;Kartlar;Bulut;Senkronize;Bulut hizmetleri;Mi bulut</item>
     </string-array>
+    <string-array name="settings_search_phrase">
+        <item>Hızlı yanıtları senkronize et</item>
+        <item>Senkronizasyonu aç</item>
+        <item>Hızlı yanıtlar;Pano;Düzenleyici;Bulut;Senkronizasyon;Bulut hizmetleri</item>
+    </string-array>
     <string-array name="settings_search_recorder">
         <item>Kayıtları Mi bulut ile senkronize et</item>
         <item>Aç ve senkronizasyonu ayarla</item>
@@ -160,6 +171,11 @@
         <item>Yetersiz depolama;Üyelik;Depolama;Depolama alanı;Bulut;Senkronize;Bulut hizmetleri;Mi bulut;Çöp;Silinen öğeler;Güvenlik</item>
     </string-array>
     <string-array name="settings_search_wlan">
+        <item>Wifi ayarlarını Mi bulut ile senkronize et</item>
+        <item>Senkronizasyonu aç</item>
+        <item>Wifi;Bulut;Senkronize;Bulut hizmetleri;Mi bulut</item>
+    </string-array>
+    <string-array name="settings_search_wlan_china">
         <item>Wifi ayarlarını Mi bulut ile senkronize et</item>
         <item>Senkronizasyonu aç</item>
         <item>Wifi;Bulut;Senkronize;Bulut hizmetleri;Mi bulut</item>
