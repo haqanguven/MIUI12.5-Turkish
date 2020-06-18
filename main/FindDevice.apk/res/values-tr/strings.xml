@@ -28,9 +28,9 @@ Ayrıntılar için satış danışmanınızla iletişime geçin"</string>
     <string name="find_device_error_server">Sunucu hatası: %s</string>
     <string name="find_device_error_unknown">Bilinmeyen hata (%s)</string>
     <string name="find_device_noise_title">Cihazı bul alarmı</string>
-    <string name="find_device_notice">Cihazınızı bulmak, kilitlemek veya geri yüklemek için&lt;br />&lt;b>&lt;font color=#e84700>i.mi.com&lt;/font>&lt;/b>&lt;br /> adresine gidin</string>
+    <string name="find_device_notice">Cihazınızı bulmak, kilitlemek veya geri yüklemek için &lt;b>&lt;font color=#0099FF>i.mi.com&lt;/font>&lt;/b> adresine gidin</string>
     <string name="find_device_notice_sms_alert">Sim kartları değiştirirseniz bu özelliği yeniden etkinleştirmek için otomatik olarak başka bir mesaj gönderilebilir</string>
-    <string name="find_device_stop_noise">"Susturmak için Tamam'a dokunun"</string>
+    <string name="find_device_stop_noise">"Susturmak için tamam'a dokunun"</string>
     <string name="find_device_storage_corrupted">Cihazı bul depolama alanı hasarlı. Cihazınız şu anda güvenli değil</string>
     <string name="find_device_success_title">Cihazı bul</string>
     <string name="find_device_telephony_fault">Cihazı bul: Telefon hatası (%s)</string>
@@ -87,5 +87,5 @@ i.mi.com adresinde oturum açın ve cihazınızın kilidini bu adresten açmayı
     <string name="unlock_wrong_captcha">Girmiş olduğunuz kod hatalı</string>
     <string name="unlocking">Etkinleştiriliyor</string>
     <string name="verifing_account">Şifre doğrulanıyor</string>
-    <string name="verify_password_failed">Mi hesap Kimliği doğrulanamadı: %s</string>
+    <string name="verify_password_failed">Mi hesap kimliği doğrulanamadı: %s</string>
 </resources>
