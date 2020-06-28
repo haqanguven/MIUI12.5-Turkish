@@ -562,6 +562,8 @@
     <string name="uninstall_xspace_dialog_title_format">Çift %s uygulaması kaldırılsın mı?</string>
     <string name="unknown_artist_name">Bilinmeyen sanatçı</string>
     <string name="unnamed_folder_name">Klasör</string>
+    <string name="unstable_dialog_message">Bu cihaz Android 11 geliştirici önizleme programına kaydedilir. Program Android geliştiricilerinin ve meraklılarının Android 11 sürümünün yayın öncesi sürümlerini denemelerini sağlar. Bu yayın öncesi sürüm cihazınızın normal çalışmasını etkileyebilecek hatalar ve kusurlar içerebilir</string>
+    <string name="unstable_dialog_title">Android geliştirici önizleme programı</string>
     <string name="v7_preference_off">Kapalı</string>
     <string name="v7_preference_on">Açık</string>
     <string name="wallpaper">Duvar kağıdı</string>

@@ -1277,7 +1277,7 @@ Başlamak için ekranınızın altındaki birleştir simgesine dokunun"</string>
     <string name="ret_sign">"
 "</string>
     <string name="returnCall">Aramaya dön</string>
-    <string name="return_call">Aramaya geri dönmek için dokunun</string>
+    <string name="return_call">"Aramaya dönmek için dokunun ｜ "</string>
     <string name="return_call_calling">Arama devam ediyor</string>
     <string name="return_call_dialing">Aranıyor</string>
     <string name="return_call_incoming">Gelen arama</string>

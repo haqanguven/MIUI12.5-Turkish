@@ -173,17 +173,19 @@
     <string name="food_module_thumbs_up">Beğen</string>
     <string name="food_module_tip">Yiyeceği çerçevenin içerisine hizalayın</string>
     <string name="food_module_title_food">Kalori</string>
+    <string name="function">Özellikler</string>
     <string name="global_default_language">@string/language_value_english</string>
     <string name="got_it">Anladım</string>
     <string name="gps">Git</string>
     <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="history">Geçmiş</string>
     <string name="history_empty">Burada henüz öğe yok</string>
+    <string name="if_open_result">Uygulamaya döndüğünüzde tarama sonucunu göster</string>
     <string name="if_to_open_milogo_scanning">Xiaomi logosunu tanıma</string>
     <string name="image_file_name_format">"'scanner'_yyyyMMdd_HHmmss"</string>
     <string name="importFailed">İçe aktarılamadı</string>
     <string name="import_contact">Kişiyi içe aktar</string>
-    <string name="impunity_declaration_content">"Barkod okuyucu kameranızı kullanması ve uygulamayı kullanırken çektiğiniz görüntüleri işlemesi gerekir. Kişisel bilgilerinizi içeren nesnelerin fotoğrafını çekmek için tarayıcıyı kullanmayın. Bu özelliği kullanmak için &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Gizlilik politikası&lt;/a>&lt;/font> ve barkod okuyucunun internete bağlanmasına izin vermeniz gerekmektedir"</string>
+    <string name="impunity_declaration_content">"Barkod okuyucunuz kameranızı kullanması ve uygulamayı kullanırken çektiğiniz görüntüleri işlemesi gerekir. Kişisel bilgilerinizi içeren nesnelerin fotoğrafını çekmek için barkod okuyucuyu kullanmayın. &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Gizlilik politikamızı&lt;/a>&lt;/font> okuyun ve kabul edin"</string>
     <string name="impunity_declaration_negative_text">Çık</string>
     <string name="impunity_declaration_title">Gizlilik politikası</string>
     <string name="jd_shopping_title">"JD'de ara"</string>
@@ -212,6 +214,8 @@
     <string name="language_value_spanish">spanish</string>
     <string name="logistics">Hızlı teslimat</string>
     <string name="low_version_tip">"Barkod okuyucuyu kullanabilmek için Miui'yi en yeni sürümüne güncelleyin"</string>
+    <string name="mipayin_dialog_more">Daha fazla</string>
+    <string name="mipayin_dialog_title">Aç</string>
     <string name="miracast_connect">Yansıt</string>
     <string name="miracast_connect_fail">Yansıtılamadı. Tekrar deneyin</string>
     <string name="miracast_connecting">Yansıtılıyor</string>

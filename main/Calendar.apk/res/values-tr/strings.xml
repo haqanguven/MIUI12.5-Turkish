@@ -24,7 +24,7 @@
     <string name="abc_searchview_description_search">Ara</string>
     <string name="abc_searchview_description_submit">Sorgu gönder</string>
     <string name="abc_searchview_description_voice">Sesli arama</string>
-    <string name="abc_shareactionprovider_share_with">patlaş</string>
+    <string name="abc_shareactionprovider_share_with">Paylaş</string>
     <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
     <string name="abc_toolbar_collapse_description">Daralt</string>
     <string name="accessbility_suggestion_dropdown_closed">Öneri yok</string>
@@ -82,7 +82,6 @@
     <string name="anti_aggression_day">Saldırganlık günü</string>
     <string name="anti_aggression_day_tradition">Saldırganlık günü</string>
     <string name="app_label">Takvim</string>
-    <string name="app_name">Dokunma duyusu ile ilgili</string>
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="arbor_day">Ağaç dikme günü</string>
     <string name="arbor_day_tradition">Ağaç dikme günü</string>

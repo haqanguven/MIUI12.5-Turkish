@@ -47,14 +47,17 @@
     <string name="ad_begin_to_download_tip">İndirmeye başlanıyor</string>
     <string name="ad_begin_to_install_tip">Yükleniyor</string>
     <string name="ad_closed_tip">Bu tür reklamları daha az göreceksiniz</string>
+    <string name="ad_details">Detaylar</string>
     <string name="ad_download_download">İndir</string>
     <string name="ad_download_download_now">İndir</string>
     <string name="ad_download_install">Yükle</string>
+    <string name="ad_download_now">İndir</string>
     <string name="ad_download_open">Aç</string>
     <string name="ad_download_pause">Duraklat</string>
     <string name="ad_download_pending">Beklemede</string>
     <string name="ad_download_resume">Devam et</string>
     <string name="ad_downloading_tip">Bu öğe indiriliyor. İlerlemeyi Bildirim çubuğunda görüntüleyebilirsiniz</string>
+    <string name="ad_experience_now">Aç</string>
     <string name="ad_tag_text_1">Popüler</string>
     <string name="ad_tag_text_2">Moda</string>
     <string name="add_resource_detail_fail">Kaynak eklenemedi</string>
@@ -187,10 +190,16 @@
     <string name="common_downloading">İndiriliyor</string>
     <string name="common_format_date_no_year">dd/MM</string>
     <string name="common_skip">Atla</string>
+    <string name="community_community_message_trigger_summary">Mi hesap kimliğinizi kullanarak yanıtlar, beğeniler ve Mi topluluğu durum güncellemeleri hakkında bildirim alın</string>
+    <string name="community_community_message_trigger_title">Etkinlik hakkında bilgilendirme</string>
     <string name="community_cta_dialog_cancel">İptal et</string>
     <string name="community_cta_dialog_des">Bu tema Mi hesap kimliğinizi ve Mi topluluğu durumunuzu gösteren bir saat kısayolu içerir. Farklı bir temaya geçerek veya saat araçlarını kaldırarak bu özelliği kapatabilirsiniz</string>
     <string name="community_cta_dialog_ok">Anladım</string>
     <string name="community_cta_dialog_title">Saat kısayolu</string>
+    <string name="community_entrance_summary">Mi topluluğunda temayla ilgili içerik bulun. Bu özellik seçilen temalar tarafından desteklenir</string>
+    <string name="community_entrance_title">Mi topluluk saati aracı</string>
+    <string name="community_message_trigger_disabled">Kapalı</string>
+    <string name="community_message_trigger_triggered">Açık</string>
     <string name="component_backup_preference_title">Temayı yedekle</string>
     <string name="component_category_finest_title">Genel</string>
     <string name="component_category_more_title">Gelişmiş</string>
@@ -218,7 +227,6 @@
     <string name="de_component_aod_author">Oluştur</string>
     <string name="de_component_author">Geliştirici</string>
     <string name="de_component_tags">Etiketler</string>
-    <string name="de_font_exchange_success">Başarılı bir şekilde satın alındı</string>
     <string name="de_icon_text_comment">Yorum</string>
     <string name="de_icon_text_discuss">Tartışma</string>
     <string name="de_icon_text_favorite">Favorilere ekle</string>
@@ -391,6 +399,8 @@
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
+    <string name="forbid_transparent_wallpaper_by_second_space">İlk alana şeffaf duvar kağıdı uygulayın</string>
+    <string name="forbid_video_wallpaper_by_second_space">İlk alana dinamik duvar kağıdı uygulayın</string>
     <string name="friday">Cuma</string>
     <string name="friday_short">Cuma</string>
     <string name="friday_shortest">C</string>
@@ -467,6 +477,7 @@
     <string name="hide_pull_down_positive">Gizle</string>
     <string name="home_apply_failured">Ana ekran duvar kağıdı uygulanamıyor</string>
     <string name="home_apply_success">Ana ekran duvar kağıdı uygulandı</string>
+    <string name="i_know">Anladım</string>
     <string name="icon_content_description">İletişim kutusu simgesi</string>
     <string name="in_the_end">Görüntülenecek öğe yok</string>
     <string name="incall_show_apply">Giden aramalar için profil videosu</string>
@@ -500,7 +511,7 @@ Bu özelliği kapatmak için Ayarlar > ses &amp; titreşim > Profil videosu ayar
     <string name="loading_resource_detail_info">Yükleniyor</string>
     <string name="local_photos">Yerel fotoğraflar</string>
     <string name="local_resouce_creator_name">Geliştirici: %1$s</string>
-    <string name="lock_screen_apply">Kilit ekranı olarak belirle</string>
+    <string name="lock_screen_apply">Kilit ekranı olarak ayarla</string>
     <string name="lockscreen_apply_failured">Kilit ekranı duvar kağıdı uygulanamıyor</string>
     <string name="lockscreen_apply_failured_but_home_apply_success">Ana ekran duvar kağıdı uygulandı. Kilit ekranı duvar kağıdı uygulanamıyor</string>
     <string name="lockscreen_apply_success">Kilit ekranı duvar kağıdı uygulandı</string>
@@ -522,6 +533,24 @@ Bu özelliği kapatmak için Ayarlar > ses &amp; titreşim > Profil videosu ayar
     <string name="mine_tab_title_like">Beğeniler</string>
     <string name="mine_tab_title_local">Yerel</string>
     <string name="mine_tab_title_purchase">Satın alınanlar</string>
+    <string name="miui_clock_city_name_local">Yerel</string>
+    <string name="miui_clock_city_name_second">İkinci saat</string>
+    <string name="miui_clock_fancy_colon"></string>
+    <string name="miui_digital_clock_dot">:</string>
+    <string name="miui_lock_screen_date">dd MMMM EEEE</string>
+    <string name="miui_lock_screen_date_12">dd MMMM EEEE</string>
+    <string name="miui_lock_screen_date_two_lines">"dd MMMM
+EEEE"</string>
+    <string name="miui_lock_screen_date_two_lines_12">"dd MMMM
+EEEE"</string>
+    <string name="miui_lock_screen_large_date">"dd MMMM
+EEEE"</string>
+    <string name="miui_lock_screen_large_date_12">"dd MMMM
+EEEE"</string>
+    <string name="miui_vertical_time_format_12">"hh
+mm"</string>
+    <string name="miui_vertical_time_format_24">"HH
+mm"</string>
     <string name="miuishare_account_activate_confirmation">Mi hesabını etkinleştir</string>
     <string name="miuishare_account_activate_ok">Etkinleştir</string>
     <string name="miuishare_account_login_cancel">İptal et et</string>
@@ -791,7 +820,6 @@ Bu özelliği kapatmak için Ayarlar > ses &amp; titreşim > Profil videosu ayar
     <string name="resource_detail_vertical_divider">|</string>
     <string name="resource_detail_window_title">%1$s ayrıntı</string>
     <string name="resource_download">İndir</string>
-    <string name="resource_download_notification_title_many">%1$s tema indirildi</string>
     <string name="resource_download_notification_title_one">Tema indirildi</string>
     <string name="resource_download_trial">Dene</string>
     <string name="resource_downloaded_title">İndirilmiş kaynaklar</string>
@@ -812,7 +840,6 @@ Bu özelliği kapatmak için Ayarlar > ses &amp; titreşim > Profil videosu ayar
     <string name="resource_exchange_unavailable">Girmiş olduğunuz kod ile ilişkilendirilmiş olan tema kullanılabilir durumda değil</string>
     <string name="resource_exchange_universal_finish">Temalar uygulamasında öğe indirmek için bu kodu kullanın</string>
     <string name="resource_exchange_universal_goon">Bu kod market içerisindeki herhangi bir temayı indirmek için kullanılabilir</string>
-    <string name="resource_exchange_window_title">Hadiye kodu</string>
     <string name="resource_exchange_wrong_format_by_local">Girmiş olduğunuz kod biçimi hatalı</string>
     <string name="resource_exchange_wrong_format_by_server">Kod doğrulanamadı. Kodu doğru olarak girdiğinizden emin olun</string>
     <string name="resource_expand_full_text">Genişlet</string>
@@ -1016,7 +1043,7 @@ Bu özelliği kapatmak için Ayarlar > ses &amp; titreşim > Profil videosu ayar
     <string name="system_aod_dialog_positive_button">Ayarlar</string>
     <string name="system_aod_dialog_title">Her zaman açık ekran kapalı</string>
     <string name="system_cta_agree_desc">Bu uygulamanın internete bağlanmasına ve yukarıda listelenen zorunlu izinleri vermesine izin verin</string>
-    <string name="system_cta_all_purpose">Temalara hoş geldiniz. Temalarınızı, duvar kağıtlarınızı, zil seslerinizi ve yazı tiplerinizi yönetmek için bu uygulamayı kullanabilirsiniz</string>
+    <string name="system_cta_all_purpose">"Temalara hoş geldiniz. Temalarınızı, duvar kağıtlarınızı, zil seslerinizi ve yazı tiplerinizi yönetmek için bu uygulamayı kullanabilirsiniz. "</string>
     <string name="system_cta_main_purpose">Çevrimiçi ve çevrimdışı temaları, duvar kağıtlarını, zil seslerini, yazı tiplerini ve video duvar kağıtlarını kullanın</string>
     <string name="system_cta_runtime_perm_desc_get_accounts">IMEI bilgisine erişmek ve indirme hizmetleri sağlamak için</string>
     <string name="system_cta_runtime_perm_desc_read_phone_state">Oturum açmak ve sistem hesaplarını yönetmek için</string>
@@ -1119,6 +1146,7 @@ Bu özelliği kapatmak için Ayarlar > ses &amp; titreşim > Profil videosu ayar
     <string name="theme_current_using_has_update">Tema güncellemesi mevcut</string>
     <string name="theme_description_title_customized">Özel</string>
     <string name="theme_description_title_default">Varsayılan</string>
+    <string name="theme_designer_products">Tasarımcı temaları</string>
     <string name="theme_detail_tab_comment">Yorumlar</string>
     <string name="theme_detail_tab_recommend">Önerilen</string>
     <string name="theme_detail_tab_theme">Ayrıntılar</string>
@@ -1232,6 +1260,7 @@ Daha fazla özellik için Temalar > Profil > Tema laboratuvarı menüsüne gidin
     <string name="update_latest">Uygulamanız güncel</string>
     <string name="update_no_net">Bir ağ hatası meydana geldi. Tekrar deneyin</string>
     <string name="update_title">Yeni güncelleme mevcut</string>
+    <string name="use_hint">Dikkat</string>
     <string name="using_theme_has_update_tips">Bu tema için bir güncelleme mevcut</string>
     <string name="using_theme_next_automatic_update">Otomatik güncelle</string>
     <string name="using_theme_next_automatic_update_summary">İndirilen temaları ekran kilitli olduğunda wifi ağı üzerinden otomatik olarak günceller</string>
@@ -1287,11 +1316,11 @@ Daha fazla özellik için Temalar > Profil > Tema laboratuvarı menüsüne gidin
     <string name="wallpaper_online_no_more">Şimdilik bu kadar</string>
     <string name="wallpaper_online_tip">Daha fazla öğe görüntülemek için ağa bağlanın</string>
     <string name="wallpaper_scroll_type_tips">Duvar kağıdı kaydırma</string>
-    <string name="wallpaper_set_as_both">İkisine de uygula</string>
-    <string name="wallpaper_set_as_desktop">Ana ekran olarak belirle</string>
+    <string name="wallpaper_set_as_both">Tümüne uygula</string>
+    <string name="wallpaper_set_as_desktop">Ana ekran olarak ayarla</string>
     <string name="wallpaper_set_as_float_wallpaper">Saydam duvar kağıdı olarak ayarla</string>
     <string name="wallpaper_set_as_incall_show">Profil videosu olarak ayarla</string>
-    <string name="wallpaper_set_as_lockscreen">Kilit ekranı olarak belirle</string>
+    <string name="wallpaper_set_as_lockscreen">Kilit ekranı olarak ayarla</string>
     <string name="wallpaper_setting_all">Tüm duvar kağıtları</string>
     <string name="wallpaper_setting_live">Canlı</string>
     <string name="wallpaper_settings">Duvar kağıdı ayarları</string>

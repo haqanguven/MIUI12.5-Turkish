@@ -1148,6 +1148,10 @@ Not: Yalnızca Ubuntu 8.04 için geçerlidir"</item>
 		<item>Karışık</item>
 		<item>Aosp</item>
 	</string-array>
+	<string-array name="charging_animations_entries">
+		<item>Varsayılan (Uygulamak için cihazı yeniden başlatın)</item>
+		<item>Dalga (Uygulamak için cihazı yeniden başlatın)</item>
+	</string-array>
 	<string-array name="text_lines_entries">
 		<item>Varsayılan</item>
 		<item>Tek satır</item>

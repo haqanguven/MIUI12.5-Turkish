@@ -269,6 +269,8 @@
     <string name="app_debug_settings_oaid_summary">(OAID kopyamak için tıklayın)</string>
     <string name="app_debug_settings_online_title">Çevrimiçi</string>
     <string name="app_debug_settings_preview_title">Önizleme</string>
+    <string name="app_debug_settings_staging2_title">Sahneleme2</string>
+    <string name="app_debug_settings_staging3_title">Sahneleme3</string>
     <string name="app_debug_settings_staging_title">Sahneleme</string>
     <string name="app_debug_settings_toast_switch_error">Env anahtarını değiştir</string>
     <string name="app_debug_settings_vaid">VAID</string>
@@ -1220,6 +1222,14 @@ Takip numaranızı kontrol edin"</string>
     <string name="miuishare_title_share">Paylaş</string>
     <string name="miuishare_wechat_timeline_title">WeChat anlar</string>
     <string name="miuishare_weibo_title">Weibo</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için çek</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Yenileme tamamlandı</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Yenilemek için serbest bırak</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Veri yok</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">Bunu yapma</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Yenileniyor</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Hata</string>
     <string name="month_day_format">dd MMMM yyyy</string>
     <string name="month_day_hour_minute_format_en">dd MMMM yyyy HH:mm</string>
     <string name="month_format_en">dd MMMM yyyy</string>
@@ -1231,6 +1241,9 @@ Takip numaranızı kontrol edin"</string>
     <string name="monthly_report_entry_text">Aylık raporu görüntüleme</string>
     <string name="monthly_report_lable">Aylık rapor</string>
     <string name="more_express_numbers">Daha fazla kurye numarası</string>
+    <string name="mru_setting_brief">Uygulama kasasında aşağı kaydırdıktan sonra görünen hızlı uygulamalar ve kısayollar</string>
+    <string name="mru_setting_brief_detail">"Son kullanılan hızlı uygulamalar ve kısayollar. "</string>
+    <string name="mru_title">Recent items</string>
     <string name="msp_btn_ok">Ayarla</string>
     <string name="msp_memo_app_cancel">Popülerlik patlıyor. Daha sonra tekrar deneyin</string>
     <string name="msp_memo_repeat_pay">Birden fazla siparişin aynı anda ödenmesine izin verilmiyor</string>
@@ -1478,9 +1491,6 @@ Rezervasyon yok, unuttunuz ya da telefon numarasını devre dışı bıraktıysa
     <string name="preload_empty">Henüz bir ürün yok. Yenilemek için aşağıya çekin</string>
     <string name="qq_new">Yeni durum</string>
     <string name="qq_qzone">Facebook temizleyici</string>
-    <string name="quick_app_setting_brief">Son kullanılan hızlı uygulamaları görmek için akıllı yardımcıyı aşağı kaydırın</string>
-    <string name="quick_app_setting_brief_detail">En son kullandığınız tüm hızlı uygulamaları görüntüleyin</string>
-    <string name="quick_app_title">Son hızlı uygulamalar</string>
     <string name="quickstart_accessibility_description">Uygulama kasası seçilen üçüncü taraf uygulamaları için kısayollar sağlar. Bu özelliği kapattığınızda bu kısayollar çalışmaz</string>
     <string name="quickstart_accessibility_service">Uygulama kasası</string>
     <string name="recharge_flow">Mobil veri satın al</string>
