@@ -7502,6 +7502,7 @@ Ayarları şu şekilde güncelle:
     <string name="zone_time_type_dst">Yaz saati uygulaması</string>
     <string name="zone_time_type_standard">Standart saat</string>
 	<string name="statusbar_style_title">Durum çubuğu düzeni</string>
+	<string name="switch_control_panel_title">Kontrol merkezi konumu</string>
 	<string name="icon_app_color_title">Renkli bildirim simgeleri</string>
 	<string name="notif_icon_title">Bildirim simge sayısı</string>
 	<string name="network_type_settings_title">Ağ türü simge ayarları</string>
