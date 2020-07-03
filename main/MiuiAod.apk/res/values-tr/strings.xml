@@ -36,6 +36,7 @@
     <string name="animatable_view_tag">animatable_view_tag</string>
     <string name="animation_clock_panel">Dalga arama</string>
     <string name="aod_close_color_inversion">Bu özellik renk ters çevirme ile birlikte kullanılamaz. Önce renk ters çevirme özelliğini kapatın</string>
+    <string name="aod_component">Görüntülenen öğeler</string>
     <string name="aod_dual_togother">HH:mm</string>
     <string name="aod_dual_togother_12">hh:mm aa</string>
     <string name="aod_lock_screen_date">dd MMMM yyyy EEEE</string>
@@ -84,6 +85,12 @@ EEEE"</string>
     <string name="clock_panel_icon">Saat arayüzü</string>
     <string name="color_change_with_time_description">Metin rengini zamanla otomatik olarak değiştir</string>
     <string name="color_change_with_time_title">Otomatik olarak renk değiştir</string>
+    <string name="component_battery">Pil</string>
+    <string name="component_date_time">Tarih ve saat</string>
+    <string name="component_lunar">Geleneksel Çin takvimi</string>
+    <string name="component_notification">Bildirimler</string>
+    <string name="component_step">Adımlar</string>
+    <string name="continue_to_use">Devam et</string>
     <string name="copy">Kopyala</string>
     <string name="custom_image">Özel fotoğraf</string>
     <string name="deep_space_planet">Dış uzay</string>
@@ -203,11 +210,16 @@ olacağına inan"</string>
     <string name="standard_clock_panel">Standard</string>
     <string name="standard_style">Standart</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="step_component_info_active_tip">Adım sayar Xiaomi sağlık tarafından sağlanır. Devam etmek için Xiaomi sağlık koşullarını kabul edin</string>
+    <string name="step_component_info_desc">Hedefe ulaşıldığında adım sayar bir kupaya dönüşecek</string>
+    <string name="step_component_info_tip">Adım sayar Xiaomi sağlık tarafından sağlanır. Xiaomi sağlığı yükleyin veya güncelleyin. Devam etmek için koşullarını kabul edin</string>
     <string name="summary">Güç tüketimini azaltmak için cihazınız uzun bir süre karanlıkta kaldığında öğeler görüntülenmeyecektir</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="super_wallpaper_date">"dd/M
 EEaa"</string>
-    <string name="super_wallpaper_date_lunar">"N月e
+    <string name="super_wallpaper_date_inter">"dd/M
+EEEE"</string>
+    <string name="super_wallpaper_date_lunar">"N-e
 YY年"</string>
     <string name="temporary_style">10 saniye</string>
     <string name="text_color">Metin rengi</string>

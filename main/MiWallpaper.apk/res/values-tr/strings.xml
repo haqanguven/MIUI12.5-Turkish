@@ -29,12 +29,10 @@
     <string name="abc_toolbar_collapse_description">Daralt</string>
     <string name="actionbar_button_up_description">Geri</string>
     <string name="afternoon">ÖS</string>
-    <string name="already_newest_version">Mevcut sürüm güncel</string>
     <string name="am">ÖÖ</string>
     <string name="app_name">Mi duvar kağıdı</string>
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
-    <string name="cancel_download">İndirme işlemi iptal edildi</string>
     <string name="character_counter_content_description">"Karakter sınırı %1$d/%2$d'yi aştı"</string>
     <string name="character_counter_pattern">%1$d / %2$d</string>
     <string name="chinese_day_1">1. gün</string>
@@ -113,12 +111,7 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Çince geleneksel takvim</string>
-    <string name="download_failed">İndirilemedi</string>
     <string name="early_morning">ÖÖ</string>
-    <string name="earth_id">earth</string>
-    <string name="earth_summary">Dünya insan uygarlığının beşiğidir</string>
-    <string name="earth_super_wallpaper_label">earth</string>
-    <string name="earth_title">Ev</string>
     <string name="earthly_branches_chen">15</string>
     <string name="earthly_branches_chou">12</string>
     <string name="earthly_branches_hai">22</string>
@@ -205,54 +198,47 @@
     <string name="heavenly_stems_xin">8</string>
     <string name="heavenly_stems_yi">2</string>
     <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
-    <string name="install_failed">Yüklenemedi</string>
     <string name="mars_coordinate_latitude_0">73.287°E</string>
     <string name="mars_coordinate_latitude_1">323.483°E</string>
     <string name="mars_coordinate_latitude_2">340.780°E</string>
+    <string name="mars_coordinate_latitude_3">137.379°E</string>
+    <string name="mars_coordinate_latitude_4">303.208°E</string>
     <string name="mars_coordinate_longitude_0">29.290°N</string>
     <string name="mars_coordinate_longitude_1">35.667°S</string>
     <string name="mars_coordinate_longitude_2">22.884°N</string>
-    <string name="mars_id">mars</string>
+    <string name="mars_coordinate_longitude_3">4.676°S</string>
+    <string name="mars_coordinate_longitude_4">20.953°N</string>
     <string name="mars_position_content_0">"Bu bölgede enkaz kaplı buzulların neden olduğuna inanılan uçurumlar, mesalar ve geniş düz vadiler bulunmaktadır. Burada eski Marsta yaşam kanıtı aramaya büyük ilgi duyan kil mineralleri de tespit edilmiştir
 
 NASA / JPL / Arizona Üniversitesi"</string>
     <string name="mars_position_content_1">"Mars gezgini merakı Gale Krateri'ndeki Pahrump tepelerini keşfederken alınır. Bölge bilim adamlarının suyun varlığında oluştuğuna inandıkları tortul kayaçlar içeriyor ve karanlık alanlar kum
 
 NASA / JPL / Arizona Üniversitesi"</string>
-    <string name="mars_position_content_2">"Mawrth Vallis açık renkli kilce zengin kayalara sahip eski bir su çıkış kanalıdır. Kil mineralleri dünya üzerindeki mikroskobik hayatı kolayca korur. Bu yüzden belki de Mawrth'de eski yaşam izleri bulunabilir
+    <string name="mars_position_content_2">"Mawrth vallis açık renkli kilce zengin kayalara sahip eski bir su çıkış kanalıdır. Kil mineralleri dünya üzerindeki mikroskobik hayatı kolayca korur. Bu yüzden belki de Mawrth'de eski yaşam izleri bulunabilir
 
 NASA / JPL / Arizona Üniversitesi"</string>
+    <string name="mars_position_content_3">"Bu görüntüle mars gezgini merakı Gale kriterindeki Pahrump tepelerini keşfederken alınmıştır. Bu bölge bilim insanlarının suyun varlığında oluştuğuna inandıkları tortul kayaçlar içerir.Daha karanlık alanlar kumdur
+
+NASA/JPL/Arizona Üniversitesi"</string>
+    <string name="mars_position_content_4">"Bahram vallis bazı yerlerde taraklı duvarlara sahip tek bit gövde nehir vadisidir. Zemindeki aerodinamik erozyon özelliklerinin varlığı, sıvının formasyona karıştığını gösterir
+
+NASA/JPL/Arizona Üniversitesi"</string>
     <string name="mars_position_title_0">"Nilosyrtis
-Yemek bölgesi"</string>
+Mensae bölgesi"</string>
     <string name="mars_position_title_1">Gale krateri</string>
-    <string name="mars_position_title_2">"Krater
-Mart Vallis"</string>
+    <string name="mars_position_title_2">"Marwrth vallisindeki
+Krater"</string>
+    <string name="mars_position_title_3">Pahrump tepeleri</string>
+    <string name="mars_position_title_4">Bahram vallis</string>
     <string name="mars_summary">Marsın geniş çölleri insanlığı her zaman huşu içinde tuttu</string>
     <string name="mars_super_wallpaper_label">mars</string>
     <string name="mars_title">Kızıl gezegen</string>
     <string name="mars_view_height_0">287.3 km</string>
     <string name="mars_view_height_1">256.7 km</string>
     <string name="mars_view_height_2">286.2 km</string>
-    <string name="mi_wallpaper_loading">Mi duvar kağıdı yükleniyor</string>
-    <string name="mi_wallpaper_title">Mi duvar kağıdı</string>
+    <string name="mars_view_height_3">268.0 km</string>
+    <string name="mars_view_height_4">283.8 km</string>
     <string name="midnight">ÖÖ</string>
-    <string name="miui_clock_city_name_local">Yerel</string>
-    <string name="miui_clock_fancy_colon"></string>
-    <string name="miui_digital_clock_dot">:</string>
-    <string name="miui_lock_screen_date">dd MMMM EEEE</string>
-    <string name="miui_lock_screen_date_12">dd MMMM EEEE</string>
-    <string name="miui_lock_screen_date_two_lines">"dd MMMM
-EEEE"</string>
-    <string name="miui_lock_screen_date_two_lines_12">"dd MMMM
-EEEE"</string>
-    <string name="miui_lock_screen_large_date">"dd MMMM
-EEEE"</string>
-    <string name="miui_lock_screen_large_date_12">"dd MMMM
-EEEE"</string>
-    <string name="miui_vertical_time_format_12">"hh
-mm"</string>
-    <string name="miui_vertical_time_format_24">"HH
-mm"</string>
     <string name="miuix_appcompat_cloud_state_disabled">Bulut ile senkronizasyon kapalı</string>
     <string name="miuix_appcompat_cloud_state_finished">Bulut ile senkronize edildi</string>
     <string name="miuix_appcompat_cloud_state_syncing">Bulut ile senkronize et</string>
@@ -306,10 +292,8 @@ mm"</string>
     <string name="more">Daha fazla</string>
     <string name="morning">ÖÖ</string>
     <string name="mtrl_chip_close_icon_content_description">%1$s kaldır</string>
-    <string name="night">ÖS</string>
-    <string name="no_cta_agreed">GetApps CTA izinlerine sahip değil</string>
-    <string name="no_install_permission">Bu ögeyi yükleme izniniz yok</string>
-    <string name="noon">ÖS</string>
+    <string name="night">Akşam</string>
+    <string name="noon">Öğlen</string>
     <string name="not_set">Ayarlanmadı</string>
     <string name="password_toggle_content_description">Şifreyi göster</string>
     <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
@@ -321,10 +305,6 @@ mm"</string>
     <string name="saturday">Cumartesi</string>
     <string name="saturday_short">Cumartesi</string>
     <string name="saturday_shortest">C</string>
-    <string name="saturn_id">saturn</string>
-    <string name="saturn_summary">Satürnün halkaları güneş sistemindeki en inanılmaz gösteriyi yapar</string>
-    <string name="saturn_super_wallpaper_label">saturn</string>
-    <string name="saturn_title">Uzak halkalar</string>
     <string name="search_menu_title">Ara</string>
     <string name="solar_term_autumn_begins">Sonbahar başlıyor</string>
     <string name="solar_term_autumn_equinox">Sonbahar ekinoksu</string>
@@ -355,13 +335,6 @@ mm"</string>
     <string name="sunday">Pazar</string>
     <string name="sunday_short">Pazar</string>
     <string name="sunday_shortest">P</string>
-    <string name="super_wallpaper_list_label">Süper duvar kağıtları</string>
-    <string name="super_wallpaper_setting_apply_success_toast">Başarılı bir şekilde uygulandı</string>
-    <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">Uygula</string>
-    <string name="super_wallpaper_setting_choose_position_btn_text">Konum seç</string>
-    <string name="super_wallpaper_setting_coordinate_title">Koordinatlar</string>
-    <string name="super_wallpaper_setting_view_height_title">Rakım</string>
-    <string name="task_already_exist">Bu görev zaten var</string>
     <string name="the_anniversary_of_lifting_martial_law">Kalkınma sıkı yönetiminin yıldönümü</string>
     <string name="the_anti_aggression_day">Anti saldırganlık günü</string>
     <string name="the_arbor_day">Ağaç dikme günü</string>
@@ -413,19 +386,8 @@ mm"</string>
     <string name="tuesday">Salı</string>
     <string name="tuesday_short">Salı</string>
     <string name="tuesday_shortest">S</string>
-    <string name="update">Güncelle</string>
     <string name="v7_preference_off">Kapalı</string>
     <string name="v7_preference_on">Açık</string>
-    <string name="wallpaper_setting_aod_wallpaper_banner_button_text">Her zaman açık</string>
-    <string name="wallpaper_setting_find_more_text">Daha fazla çevrimiçi duvar kağıtları</string>
-    <string name="wallpaper_setting_home_wallpaper_banner_button_text">Ana ekran</string>
-    <string name="wallpaper_setting_lock_screen_wallpaper_banner_button_text">Kilit ekranı</string>
-    <string name="wallpaper_setting_online_wallpaper_actionbar_title">Çevrimiçi duvar kağıtları</string>
-    <string name="wallpaper_setting_online_wallpaper_none_title">Duvar kağıtları keşfet</string>
-    <string name="wallpaper_setting_online_wallpaper_title">Çevrimiçi duvar kağıtları</string>
-    <string name="wallpaper_setting_super_wallpaper_banner_title">Süper duvar kağıtları</string>
-    <string name="wallpaper_setting_super_wallpaper_more_button_text">Daha fazla</string>
-    <string name="wallpaper_setting_title">Duvar kağıdı</string>
     <string name="wednesday">Çarşamba</string>
     <string name="wednesday_short">Çarşamba</string>
     <string name="wednesday_shortest">Ç</string>
