@@ -185,7 +185,7 @@
     <string name="image_file_name_format">"'scanner'_yyyyMMdd_HHmmss"</string>
     <string name="importFailed">İçe aktarılamadı</string>
     <string name="import_contact">Kişiyi içe aktar</string>
-    <string name="impunity_declaration_content">"Barkod okuyucunuz kameranızı kullanması ve uygulamayı kullanırken çektiğiniz görüntüleri işlemesi gerekir. Kişisel bilgilerinizi içeren nesnelerin fotoğrafını çekmek için barkod okuyucuyu kullanmayın. &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Gizlilik politikamızı&lt;/a>&lt;/font> okuyun ve kabul edin"</string>
+    <string name="impunity_declaration_content">"Barkod okuyucunuz kameranızı kullanması ve uygulamayı kullanırken çektiğiniz görüntüleri işlemesi gerekir. Kişisel bilgilerinizi içeren nesnelerin fotoğrafını çekmek için barkod okuyucuyu kullanmayın. Gizlilik politikamızı okuyun ve kabul edin (%1$s)"</string>
     <string name="impunity_declaration_negative_text">Çık</string>
     <string name="impunity_declaration_title">Gizlilik politikası</string>
     <string name="jd_shopping_title">"JD'de ara"</string>
