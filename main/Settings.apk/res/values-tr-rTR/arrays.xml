@@ -450,9 +450,8 @@
         <item>Yüksek hız</item>
     </string-array>
     <string-array name="dark_ui_mode_entries">
-        <item>Otomatik (Günün saatine göre)</item>
-        <item>Her zaman açık</item>
-        <item>Her zaman kapalı</item>
+        <item>Koyu</item>
+        <item>Açık</item>
     </string-array>
     <string-array name="data_usage_data_range">
         <item>Son 30 gün</item>
