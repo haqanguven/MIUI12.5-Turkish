@@ -278,6 +278,13 @@
     <string name="burst_save_choice_title" formatted="false">%d arasında %d seçildi</string>
     <string name="burst_save_error_msg">Kaydedilemedi</string>
     <string name="burst_save_processing">İşleniyor</string>
+    <string name="burst_save_video">Video olarak kaydet</string>
+    <string name="burst_save_video_choice_1080">%dp</string>
+    <string name="burst_save_video_choice_4k">%dK</string>
+    <string name="burst_save_video_choice_720">%dp</string>
+    <string name="burst_save_video_fail">Kaydedilemedi</string>
+    <string name="burst_save_video_progerss">Oluşturuluyor</string>
+    <string name="burst_save_video_title">Video çözünürlüğü</string>
     <string name="burst_transition_image_view">photo_view_burst</string>
     <string name="buy_member_tip">Üye olun</string>
     <string name="by_email">E-posta</string>
@@ -1171,9 +1178,12 @@ Arkadaşlarınızın daha fazla fotoğraflarını çekin"</string>
     <string name="file_cannot_screen_throw">Bu öğeyi yayınlayamıyorum</string>
     <string name="file_sending">Dosya aktarılıyor</string>
     <item type="string" name="filter_bg_color_component">0.968</item>
+    <string name="filter_category_classic">Klasik</string>
     <string name="filter_category_general">Genel</string>
     <string name="filter_category_master">Usta</string>
     <string name="filter_category_movie">Film</string>
+    <string name="filter_category_popular">Popüler</string>
+    <string name="filter_category_portrait">Portre</string>
     <string name="filter_category_sky">Gökyüzü</string>
     <string name="filter_general_blackice">Kara buz</string>
     <string name="filter_general_blackwhite">S&amp;B</string>
@@ -1212,7 +1222,13 @@ Arkadaşlarınızın daha fazla fotoğraflarını çekin"</string>
     <string name="filter_movie_travel">Seyahat</string>
     <string name="filter_movie_wonderful">Mucize</string>
     <string name="filter_original">Hiçbiri</string>
+    <string name="filter_popular_humanity">Belgesel</string>
+    <string name="filter_popular_lnk">Mürekkep</string>
+    <string name="filter_popular_purple">Mor</string>
+    <string name="filter_portrait_greyish">Kül</string>
     <string name="filter_portrait_hint">Renk</string>
+    <string name="filter_portrait_mist">Sis</string>
+    <string name="filter_portrait_painting">Boyama</string>
     <string name="filter_single_sky">Gökyüzü</string>
     <string name="filter_sky_bikong">Masmavi</string>
     <string name="filter_sky_clear_sky">Açık hava</string>
@@ -1420,6 +1436,7 @@ erişimine ihtiyaç duyuyor. İzinler menüsüne gitmek için ayarla seçeneğin
     <string name="loading_image_thumbnail">Küçük resim indiriliyor</string>
     <string name="loading_members">Üyeler yükleniyor</string>
     <string name="loading_suspend">İndirme duraklatıldı. Wifi kullanılabilir olduğunda devam edilecektir</string>
+    <string name="loading_text_format" formatted="false">Fotoğraflardan gizli bilgiler kaldırılıyor (%d/%d)</string>
     <string name="loading_video">Video indiriliyor</string>
     <string name="loading_video_compress_lib">Video sıkıştırma eklentisi indiriliyor</string>
     <string name="loading_video_fail_sync_without_network">Meta verileri indirmek için ağa bağlanın</string>
@@ -1642,6 +1659,8 @@ yüzünüzle fotoğrafları seçin"</string>
     <string name="onekey_none">Orijinal</string>
     <string name="onekey_portrait">Portre</string>
     <string name="onekey_scene">Manzara</string>
+    <string name="online_video_error_unknown">Çevrimiçi oynatma hatası oluştu. Bunun yerine öğeyi indirdi</string>
+    <string name="online_video_error_unsupported_type">Çevrimiçi oynatıcı bu biçimi desteklemiyor. Bunun yerine öğeyi indirdi</string>
     <string name="online_video_normal_transcoding">Bu video şu anda dönüştürülüyor. Bir iki dakika bekleyin ve tekrar deneyin</string>
     <string name="online_video_vip_tip">Videoları tamamen yüklemeden akışta izlemek için VIP üye olun</string>
     <string name="online_video_vip_transcoding">"VIP akışı başlamak üzere
@@ -1652,7 +1671,7 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="operate_processing_file_error">Tüm fotoğraflar işlenene kadar bekleyin</string>
     <string name="operate_with_metered_network_msg">Cihazınız mobil ağa bağlı. Devam edilsin mi?</string>
     <string name="operation_add_album">Albüme ekle</string>
-    <string name="operation_add_picture">Öge ekle</string>
+    <string name="operation_add_picture">Öğe ekle</string>
     <string name="operation_add_secret">Gizle</string>
     <string name="operation_back">Geri</string>
     <string name="operation_cast_connected_format">Oyuncu - %s</string>
@@ -1992,12 +2011,19 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="screen_doodle_talkback_size">Doodle çizgi genişliği</string>
     <string name="screen_editor_btn_delete">Sil</string>
     <string name="screen_editor_btn_save">Kaydet</string>
+    <string name="screen_editor_btn_shell_off">Cihaz çerçevesini kaldır</string>
+    <string name="screen_editor_btn_shell_on">Cihaz çerçevesi ekle</string>
     <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
+    <string name="screen_editor_crop_disallowed_with_shell">Cihaz çerçevesiyle ekran görüntüleri kırpılamıyor</string>
     <string name="screen_editor_delete_dialog_msg">Bu ekran fotoğrafı silinsin mi?</string>
     <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
     <string name="screen_editor_finish">Bitti</string>
     <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
     <string name="screen_editor_send">@string/operation_send</string>
+    <string name="screen_editor_shell_disallowed_with_crop">Kırpılmış ekran görüntülerine cihaz çerçevesi eklenemiyor</string>
+    <string name="screen_editor_shell_net_error">Cihaz çerçevesini indirmek için ağa bağlanın</string>
+    <string name="screen_editor_shell_res_downloading">Cihaz çerçevesi indiriliyor</string>
+    <string name="screen_editor_shell_storage_insufficient">Yetersiz depolama alanı nedeniyle cihaz çerçevesi indirilemiyor</string>
     <string name="screen_editor_text">@string/photo_editor_text</string>
     <string name="screen_save_dialog_btn_cancel">İptal et</string>
     <string name="screen_save_dialog_btn_delete">Ekran görüntüsünü sil</string>
@@ -2186,6 +2212,7 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="special_type_night_mode">AI gece modu</string>
     <string name="special_type_portrait">AI ışık boyamalı portre</string>
     <string name="special_type_raw">Raw</string>
+    <string name="special_type_real_8k">8K</string>
     <string name="special_type_wide_angle">AI ultra geniş açı</string>
     <string name="start_debug">Galeri hata ayıklama</string>
     <string name="start_to_use_face_albumset">Kişilere göre sırala</string>
@@ -2323,6 +2350,8 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="thursday">Perşembe</string>
     <string name="thursday_short">Perşembe</string>
     <string name="thursday_shortest">P</string>
+    <string name="time_burst_photo_enter">Zamanlı seri çekim</string>
+    <string name="time_burst_preview_title">Zamanlı seri çekim</string>
     <string name="time_picker_dialog_title">Saati ayarla</string>
     <string name="time_picker_label_hour">S</string>
     <string name="time_picker_label_minute">D</string>
