@@ -94,7 +94,8 @@
         <item quantity="one">%d kez kilit açıldı</item>
     </plurals>
     <plurals name="usage_new_home_total_unlocks_new">
-        <item quantity="other">%1$s %2$d kez kilit açıldı</item>
+        <item quantity="other">%2$s üzerinde %1$d kez kilidi açıldı</item>
+        <item quantity="one">%2$s üzerinde %1$d kez kilidi açıldı</item>
     </plurals>
     <plurals name="usage_new_home_total_week_unlocks">
         <item quantity="other">%d kez kilit açıldı</item>
@@ -137,8 +138,8 @@
         <item quantity="one">%d saat</item>
     </plurals>
     <plurals name="usage_state_hour_text">
-        <item quantity="other">" saat"</item>
-        <item quantity="one">" saat"</item>
+        <item quantity="other">" saat "</item>
+        <item quantity="one">" saat "</item>
     </plurals>
     <plurals name="usage_state_minute">
         <item quantity="other">%d dakika</item>
@@ -181,8 +182,8 @@
         <item quantity="one">%s dakika</item>
     </plurals>
     <plurals name="usagestats_device_notification_des_hour">
-        <item quantity="other">" saat"</item>
-        <item quantity="one">" saat"</item>
+        <item quantity="other">" saat "</item>
+        <item quantity="one">" saat "</item>
     </plurals>
     <plurals name="usagestats_device_notification_des_min">
         <item quantity="other">" dakika"</item>

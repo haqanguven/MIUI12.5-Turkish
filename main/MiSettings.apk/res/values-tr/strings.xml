@@ -374,7 +374,7 @@
     <string name="start_easymode">Basit modunu aç</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="steady_on_screen_notification_title">Telefonunuzu bırakın ve bir mola verin</string>
-    <string name="steady_on_screen_notify">Kesintisiz kullanım hakkında bilgilendirme</string>
+    <string name="steady_on_screen_notify">Kesintisiz kullanım bildirimi</string>
     <string name="steady_on_screen_setting">Kesintisiz oturumlar için zaman sınırı</string>
     <string name="steady_on_screen_summary">Kesintisiz oturumlar için zaman sınırı</string>
     <string name="stop_app_timer">Ekran süresini kapat</string>
@@ -431,7 +431,7 @@
     <string name="thursday">Perşembe</string>
     <string name="thursday_short">Perşembe</string>
     <string name="thursday_shortest">P</string>
-    <string name="time_picker_dialog_title">Saati ayarla</string>
+    <string name="time_picker_dialog_title">Zamanı ayarla</string>
     <string name="time_picker_label_hour">S</string>
     <string name="time_picker_label_minute">D</string>
     <string name="title_activity_easy_mode">Basit mod</string>
