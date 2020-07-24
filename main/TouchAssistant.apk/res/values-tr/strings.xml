@@ -36,6 +36,11 @@
     <string name="close_panel">Hızlı erişimi kapat</string>
     <string name="copy">Kopyala</string>
     <string name="customize_entries">Kısayolları seçin</string>
+    <string name="edge_distance_pref_summary">Hızlı erişimi görünür yapmak için ekran kenarlarının yakınındaki uyandırma alanlarına dokunun</string>
+    <string name="edge_distance_pref_title">Uyandırma alanları</string>
+    <string name="edge_mode_custom_summary">Ekran kenarlarının yakınındaki uyandırma alanlarının boyutunu ayarlayın</string>
+    <string name="edge_mode_custom_title">Özel</string>
+    <string name="edge_mode_default_title">Varsayılan</string>
     <string name="enable_touch_assistant">Hızlı erişim</string>
     <string name="expand_button_title">Gelişmiş</string>
     <string name="function_settings">Kısayol ayarları</string>
@@ -76,6 +81,7 @@
     <string name="name_trans_cards">Toplu taşıma kartı</string>
     <string name="name_wechat_payment_code">WeChat ödeme</string>
     <string name="name_wechat_scan">WeChat tarayıcı</string>
+    <string name="name_xiao_ai">Mi AI</string>
     <string name="nfc_all_mipay_card_not_in_use">Mi ödeme etkinleştirilmedi</string>
     <string name="nfc_trans_card_not_in_use">Toplu taşıma kartı etkinleştirilmedi</string>
     <string name="not_set">Ayarlanmadı</string>

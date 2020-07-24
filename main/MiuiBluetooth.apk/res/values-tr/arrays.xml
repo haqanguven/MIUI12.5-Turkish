@@ -17,6 +17,16 @@
         <item>En çok 3 işlem</item>
         <item>En çok 4 işlem</item>
     </string-array>
+    <string-array name="ble_profile_mi_band">
+        <item>Çaldığında titret</item>
+        <item>Mesaj alırken titret</item>
+        <item>Alarm durumunda titret</item>
+    </string-array>
+    <string-array name="ble_profile_mi_key">
+        <item>Fotoğraf çek</item>
+        <item>Cihazı bul</item>
+        <item>Mi tuşu bul</item>
+    </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
         <item>Sistem seçimini kullan (Varsayılan)</item>
         <item>16 bit/örnek</item>

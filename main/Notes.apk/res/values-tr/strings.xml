@@ -412,7 +412,7 @@
     <string name="note_link_select">Metni seç</string>
     <string name="note_link_tel">Ara</string>
     <string name="note_link_web">Tarayıcıda görüntüle</string>
-    <string name="note_sort_way">Notlarınızı ne şekilde sıralamak istediğinizi seçin</string>
+    <string name="note_sort_way">Notları sırala</string>
     <string name="notealert_enter">Notu aç</string>
     <string name="notealert_ok">Yoksay</string>
     <string name="notelist_string_info">…</string>
@@ -437,7 +437,7 @@
     <string name="pref_remind_type_summary">Sessiz modda hatırlatıcı seslerini çal</string>
     <string name="pref_remind_type_summary_new">Sessiz modu yoksay ve alarm kapatılana kadar ses çalmaya devam et</string>
     <string name="pref_remind_type_title">Sessiz modu yoksay</string>
-    <string name="pref_remind_type_title_new">Yüksek öncelikli hatırlatıcılar</string>
+    <string name="pref_remind_type_title_new">Yüksek öncelik hatırlatmaları</string>
     <string name="pref_title_cloud_trash_bin">Buluttaki silinmiş notlar</string>
     <string name="pref_title_common">Ek ayarlar</string>
     <string name="pref_title_font_size">Yazı tipi boyutu</string>

@@ -1129,7 +1129,7 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin"</string>
     <string name="sunday_short">Pazar</string>
     <string name="sunday_shortest">P</string>
     <string name="swipe_up_guide_hint_text">Daha fazlasını keşfetmek için yukarı kaydırın</string>
-    <string name="swipe_up_guide_hint_text">Daha fazlasını bulmak için kaydırın</string>
+    <string name="switch_orientation_desc">Ekran yönü</string>
     <string name="tab_title_agenda">Etkinlikler</string>
     <string name="tab_title_day">Gün</string>
     <string name="tab_title_month">Ay</string>

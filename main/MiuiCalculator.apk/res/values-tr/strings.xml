@@ -149,6 +149,9 @@
     <string name="install">Yükle</string>
     <string name="install_scanner_to_continued_use">Tarayıcı kaldırıldı. Yeniden yüklensin mi?</string>
     <string name="interest_rate_hint">Faiz oranını girin</string>
+    <string name="investment_invalid_duration">Yatırım süresi sıfırdan büyük olmalıdır</string>
+    <string name="investment_type_once">Bir kez</string>
+    <string name="investment_type_recurring">Yinelenen</string>
     <string name="item_title_aa_payment">Faturayı böl</string>
     <string name="item_title_age">Yaş</string>
     <string name="item_title_area_conversion">Alan</string>
@@ -183,7 +186,8 @@
     <string name="label_first_repayment">İlk ödeme</string>
     <string name="label_from_date">Başlangıç</string>
     <string name="label_history">Geçmiş</string>
-    <string name="label_interest">Faiz</string>
+    <string name="label_interest">Faiz (Yüzde)</string>
+    <string name="label_investment_duration">Süre</string>
     <string name="label_loan_tenure">Kredi süresi</string>
     <string name="label_months">Ay</string>
     <string name="label_no_history">Burada henüz öğe yok</string>
@@ -193,8 +197,10 @@
     <string name="label_statistics">İstatistikler</string>
     <string name="label_to_date">Bitiş</string>
     <string name="label_total_interest">Toplam faiz</string>
+    <string name="label_total_investment">Toplam yatırım</string>
     <string name="label_total_payment">Toplam ödeme</string>
     <string name="label_total_principal">Toplam ana para</string>
+    <string name="label_total_value">Toplam değer</string>
     <string name="label_years">Yıl</string>
     <string name="leftParen">(</string>
     <string name="leftParenDesc">sol parantez</string>
@@ -410,6 +416,9 @@
     <string name="tax_unemployment">İşsizlik</string>
     <string name="tax_update_time_format">Veriler HeXun tarafından sağlanmaktadır (%s)</string>
     <string name="times" />
+    <string name="tv_recurrence_monthly">Aylık</string>
+    <string name="tv_recurrence_quaterly">Üç aylık</string>
+    <string name="tv_recurrence_yearly">Yıllık</string>
     <string name="unKnow_error">Bilinmeyen hata</string>
     <string name="unit_cm">Santimetre</string>
     <string name="unit_data_display_area_acre">Akre</string>
@@ -996,6 +1005,8 @@ Delta güncellemesi boyutu: %2$s"</string>
     <string name="heavenly_stems_xin">Xin</string>
     <string name="heavenly_stems_yi">Yi</string>
     <string name="husband">Erkek eş</string>
+    <string name="item_page_title_investment">Yatırım hesaplayıcısı</string>
+    <string name="item_title_investment">Yatırım</string>
     <string name="letter_a">A</string>
     <string name="letter_b">B</string>
     <string name="letter_c">C</string>

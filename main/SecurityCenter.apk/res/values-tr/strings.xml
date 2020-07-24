@@ -1323,7 +1323,7 @@ arama geçmişine geri yüklensin mi?"</string>
     <string name="function_gwsd_detail">"Bu özellik hakkında:
  1. Veri Sim üzerinden gelen aramalar mobil veri bağlantısını kesmez. Bağlantı yalnızca bir aramayı cevapladığınızda kesilecektir
  2. Bu özellik açıldığında arayan arama bekletme zil seslerini duymaz. 6 saniye içinde cevap vermezseniz gelen aramaya son verilir
- 3. Bu özellik sadece veri Sim kartlarında çalışır. Birincil Sim ile yapılan aramalar mobil veri bağlantısını keser
+ 3. Bu özellik sadece veri Sim kartlarında çalışır. Birincil Sim ile yapılan aramalar mobil veri bağlantısını keser"</string>
     <string name="function_gwsd_title">Gelen aramaları veri Sim bağlantısını kesmesine izin verme</string>
     <string name="function_shield_auto_bright">Otomatik parlaklığı kapat</string>
     <string name="function_shield_eye_shield">Okuma modunu kapat</string>
@@ -1436,7 +1436,6 @@ arama geçmişine geri yüklensin mi?"</string>
     <string name="gb_description_image_button_video_answer">Görüntülü arama</string>
     <string name="gb_dialog_game_uninstall_deleting">Siliniyor</string>
     <string name="gb_dialog_game_uninstall_loading">Yükleniyor</string>
-    <string name="gb_dialog_game_uninstall_multi_tips_title">%1$s gibi %2$d oyunun yüklemesini kaldırın</string>
     <string name="gb_dialog_game_uninstall_tips_message">Kaldırdıktan sonra tüm verileride silinecektir</string>
     <string name="gb_dialog_game_uninstall_tips_message_xspace">İlişkili çift oyunlar aynı anda kaldırılacak ve oyun içi verileri silinecektir</string>
     <string name="gb_dialog_game_uninstall_tips_title">%s yazılımını kaldır</string>
@@ -1462,7 +1461,6 @@ arama geçmişine geri yüklensin mi?"</string>
     <string name="gb_first_window_summary">Sistem düzeyinde hız ve performans artışı</string>
     <string name="gb_first_window_title">Oyun hız yükselticisi</string>
     <string name="gb_game_end_toast">Oyunlarınızın önemli anlarını tekrar ziyaret edin</string>
-    <string name="gb_game_video_ai_record_finish_tips">AI %d video kaydetti. Oyun hızlandırmasına kaydedildi</string>
     <string name="gb_game_video_bottom_tips">Oyunlarınızdaki oturumlarınızın kayıtlarını izleyin. Videolar varsayılan olarak 7 gün boyunca orada saklanır</string>
     <string name="gb_game_video_item_tag">Anahtar an</string>
     <string name="gb_game_video_page_delete_success">Başarıyla silindi</string>
@@ -1511,7 +1509,8 @@ arama geçmişine geri yüklensin mi?"</string>
     <string name="gb_voice_changer_permission_dlg_msg">Ses değiştiricinin normal çalışabilmesi için ses kaydı yapabilmesi gerekir</string>
     <string name="gb_voice_changer_permission_dlg_title">İzinler gerekli</string>
     <string name="gb_voice_changer_robot">Robot</string>
-    <string name="gb_wonderful_moment_toast_window_new_pop">El ile kaydı açın ve harika anları kaydedin</string>
+    <string name="gb_wonderful_moment_toast_window_new_pop">Oyun oturumlarınızın
+önemli anlarını kaydedin</string>
     <string name="gb_wonderful_video_cancel">İptal et</string>
     <string name="gb_wonderful_video_checkall">Tümünü seç</string>
     <string name="gb_wonderful_video_date_format">"dd'th',MMM."</string>
@@ -1561,8 +1560,7 @@ arama geçmişine geri yüklensin mi?"</string>
     <string name="gs_game_disturb_msg">Rahatsız etme</string>
     <string name="gs_game_duration">Süre</string>
     <string name="gs_game_manual_record">El ile kayıt</string>
-    <string name="gs_game_manual_record_subtitle">"Oynarken araç kutusuna kayıt yapmaya başlayabilirsiniz. Kaydet düğmesine dokunduktan sonra 30 saniyeye kadar video kaydedilebilir\u000d
-Videolar oyun hızlandırıcı bölümüne kaydedilir"</string>
+    <string name="gs_game_manual_record_subtitle">Tek seferde 30 saniyeye kadar video kaydetmek için kayan kısayolu kullanın. Videolar 7 gün sonra otomatik olarak silinecektir</string>
     <string name="gs_game_manual_record_subtitle_child">Bu özelliği kullanırken bazı sorunlarla karşılaşabilirsiniz:</string>
     <string name="gs_game_manual_record_subtitle_child_carton">Oyun videoları kaydetme gecikmeye neden olabilir. Güç tüketiminide arttırabilir</string>
     <string name="gs_game_manual_record_subtitle_child_conflict">Diğer ekran kayıt özellikleri düzgün çalışmayabilir</string>
@@ -1584,8 +1582,15 @@ Videolar oyun hızlandırıcı bölümüne kaydedilir"</string>
     <string name="gs_show_way_vertical">Dikey</string>
     <string name="gs_sign_notification">20:00 saatinde yer bildirimi yapmayı hatırlat</string>
     <string name="gs_slip_gamebox_detail">Kısayol panelinin görünmesini sağlamak için kaydırıcıyı kullanın veya ekranın üst kenarından kaydırın</string>
+    <string name="gtb_dialog_btn_close">Kapalı</string>
+    <string name="gtb_dialog_btn_open">Açık</string>
+    <string name="gtb_dialog_hint_smart_5g">Bu özelliği ayarlardan açıp kapatabilirsiniz</string>
+    <string name="gtb_dialog_summary_smart_5g">Oyun hızlandırıcı bir 5G ağı algıladığında ağ gecikmesini azaltmak için cihazınızı mevcut en iyi ağa bağlayabilir. Bu özellik şimdi açılsın mı?</string>
+    <string name="gtb_dialog_title_smart_5g">5G ağ optimizasyonu</string>
     <string name="gtb_exit_game_to_gtb">Oyun kutusunu aç</string>
     <string name="gtb_exit_game_to_home">Ana ekrana dön</string>
+    <string name="gtb_setting_item_summary_smart_5g">Oyun hızlandırıcı bir 5G ağı algıladığında ağ gecikmesini azaltmak için cihazınızı mevcut en iyi ağa bağlayabilir</string>
+    <string name="gtb_setting_item_title_smart_5g">5G ağ optimizasyonu</string>
     <string name="guide_get_operator_error"><font color="'#33b4ff'">"&lt;font color=\"'#33b4ff'\">&lt;&lt;font color=\"'#33b4ff'\">\"font color=\"'#"</font>"33b4ff'\">\"&lt;font color='\"&lt;/font>&lt;/font>\"#33b4ff'>&lt;U>>Operatörün\"&lt;/font>üz doğru değil mi?&lt;/U>&lt;/font>\""</string>
     <string name="guide_operator_text">"Operatörünüz: "</string>
     <string name="guide_quck_open">Aç</string>
@@ -1649,10 +1654,22 @@ Videolar oyun hızlandırıcı bölümüne kaydedilir"</string>
     <string name="installing">Yükleniyor</string>
     <string name="international_Ad">Reklam</string>
     <string name="international_roaming_setting">Veri dolaşımı</string>
+    <string name="intl_app_manager_card_permission_title">Gizlilik &amp; izinler</string>
     <string name="intl_perm_intro_message">Veri sızıntılarını önlemede izin ayarlarını değiştirmek için dokunun</string>
     <string name="intl_perm_notification_content">İzin ayarlarını yap</string>
     <string name="intl_perm_notification_title">Gizliliğini koru</string>
-    <string name="invalid_charger">USB ile şarj olmuyor. Cihazınızla birlikte verilen şarj cihazını kullanın</string>
+    <string name="intl_perm_privacy_control_calendar">Uygulama takvim öğelerini yalnızca siz kullanırken erişebilir veya düzenleyebilir</string>
+    <string name="intl_perm_privacy_control_calllog">Uygulama arama geçmişine yalnızca siz kullanırken erişebilir veya bunları düzenleyebilir</string>
+    <string name="intl_perm_privacy_control_camera">Uygulama yalnızca kullanırken fotoğraf çekebilir veya video kaydedebilir</string>
+    <string name="intl_perm_privacy_control_contact">Uygulama kişilere yalnızca siz kullanırken erişebilir veya onları düzenleyebilir</string>
+    <string name="intl_perm_privacy_control_data">Gizliliği kontrol et</string>
+    <string name="intl_perm_privacy_control_message">Uygulamaların hangi özel verileri kullanmasına izin verildiğini kontrol edin</string>
+    <string name="intl_perm_privacy_control_microphone">Uygulama yalnızca kullanırken ses kaydı yapabilir</string>
+    <string name="intl_perm_privacy_control_notification_message">Uygulamaların hangi özel verileri kullanmasına izin verildiğini kontrol edin</string>
+    <string name="intl_perm_privacy_control_notification_title">Gizliliğini Koru</string>
+    <string name="intl_perm_privacy_control_storage">Uygulama yalnızca siz kullanırken dahili depolama alanından öğelere erişebilir veya bunları düzenleyebilir</string>
+    <string name="intl_perm_privacy_control_title">Gizliliği kontrol et</string>
+    <string name="invalid_charger">USB üzerinden şarj edilemiyor. Cihazınızla birlikte verilen şarj cihazını kullanın</string>
     <string name="ip_address_exception_summary">IP adresi alınamadı. Bu sorunla tekrar karşılaşmanız halinde statik IP adresi kullanmayı deneyin</string>
     <string name="item_app_permission">Uygulama izinleri</string>
     <string name="item_dev_mode">Geliştirici seçenekleri</string>
@@ -1834,6 +1851,7 @@ bekleniyor"</string>
     <string name="memory_check_content">%s temizlendi</string>
     <string name="memory_clean_memory_size_tip">Önbellek</string>
     <string name="memory_clean_no_need_clean">Her şey yolunda gözüküyor</string>
+    <string name="memory_clean_no_need_clean_1" formatted="false">%s temizlendi. Cihazınız şimdi %%%d daha hızlı</string>
     <string name="memory_clear_unused">Önbelleği temizle (%s)</string>
     <string name="memory_title">Kullanılan: %1$s Toplam: %2$s</string>
     <string name="menu_add">Ekle</string>
@@ -1879,6 +1897,8 @@ bekleniyor"</string>
     <string name="menu_summary_networkassistants_2">Sınırın üzerinde gitti</string>
     <string name="menu_summary_networkassistants_3">Yeterli veri kaldı</string>
     <string name="menu_summary_networkassistants_4">Veri tükeniyor</string>
+    <string name="menu_summary_optimize_manage">Hafızayı temizle</string>
+    <string name="menu_summary_optimize_manage_1">Cihazınızı %%%d daha hızlandırın</string>
     <string name="menu_summary_power_manager">Pil tasarrufu size ücretler arasında daha fazla zaman verir</string>
     <string name="menu_summary_power_manager_1">Pil tamamen şarj oldu</string>
     <string name="menu_summary_power_manager_2">%s kaldı</string>
@@ -1898,6 +1918,7 @@ bekleniyor"</string>
     <string name="menu_text_networkassistants_unit_kb">KB</string>
     <string name="menu_text_networkassistants_unit_mb">MB</string>
     <string name="menu_text_optimize_manage">Hız arttırma</string>
+    <string name="menu_text_optimize_manage_1">Hız arttırma</string>
     <string name="menu_text_power_manager">Pil kullanımı</string>
     <string name="menu_text_power_percent">%s</string>
     <string name="menu_text_power_percent_title">Pil seviyesi: %s</string>
@@ -2075,6 +2096,8 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="om_locked_apps_summary">Kilitli uygulamalar hız artışı ile göz ardı edilecek</string>
     <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
     <string name="om_not_finish_speedboost">Hız artışı gerekli</string>
+    <string name="om_optimzing_big_button_text">Hız arttırma</string>
+    <string name="om_running_app_info_summary">%s temizle</string>
     <string name="om_running_locked_apps">Çalışan kilitli uygulamalar</string>
     <string name="om_running_system_apps">Çalışan sistem uygulamaları</string>
     <string name="om_running_third_apps">Çalışan üçüncü taraf uygulamalar</string>
@@ -2089,6 +2112,9 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="om_settings_notify_manage">Bildirimler</string>
     <string name="om_settings_speed_up_auto">Otomatik hız artırma</string>
     <string name="om_settings_title">Optimizasyon ayarları</string>
+    <string name="om_shortcut_added_toast_text">Başarıyla eklendi</string>
+    <string name="om_shortcut_dialog_summary">"Ram Jet tek bir dokunuşla belleği temizlemenizi ve cihazınızın hızını artırmanızı sağlar. Ana ekranınıza Ram temizleme eklensin mi?"</string>
+    <string name="om_shortcut_dialog_title">Ram temizle</string>
     <string name="one_address_choose_hint">%s1</string>
     <string name="open_activity_err">Uygulama bulunamadı</string>
     <string name="open_alarm_right_now">Şimdi aç</string>
@@ -2819,7 +2845,11 @@ Kalibrasyon işlemi sırasında Miui kalibrasyon şablonunu almak amacıyla bir 
     <string name="section_title_clear_acc">Önbelleği temizle</string>
     <string name="section_title_security_defend">Güvenlik</string>
     <string name="section_title_system">Sistem güvenliği</string>
+    <string name="security_bottom_guide_to_pm_text">Yardımcı program kiti açılıyor</string>
     <string name="security_center_slogan">Cihazınızı hızlı ve güvenli tutun</string>
+    <string name="security_guide_bubble_text">Aç</string>
+    <string name="security_guide_summary">Araçlar ve hizmetler için tek noktadan nokta</string>
+    <string name="security_guide_title">MIUI yardımcı kiti</string>
     <string name="security_scan_optimizing">Optimize ediliyor</string>
     <string name="securityadd_install_fail">Eklenti güncellenemedi. Tekrar deneyin</string>
     <string name="securityadd_update_tips_cancle">Şimdi değil</string>
@@ -3608,6 +3638,7 @@ Kalan veri miktarı geçen aydan kalan veri miktarınıda içerir"</string>
     <string name="warningcenter_alert_source">MIUI uyarı merkezi | Veri kaynağı: %s</string>
     <string name="warningcenter_alert_time">Zaman</string>
     <string name="warningcenter_alert_warning_time">Alınan zaman: %s</string>
+    <string name="warningcenter_disaster_search_keywords">Hava durumu uyarıları</string>
     <string name="warningcenter_earthquake_info">Deprem erken uyarıları</string>
     <string name="warningcenter_mijia_alert_close">Kapat</string>
     <string name="warningcenter_mijia_alert_settings">Güvenlik > Akıllı ev cihazlarından uyarılar bölümündeki ayarları değiştir</string>
@@ -3628,6 +3659,7 @@ Kalan veri miktarı geçen aydan kalan veri miktarınıda içerir"</string>
     <string name="warningcenter_mijia_open_desc">Mi ev uygulamasında eklediğiniz cihazlar tarafından her uyarı yayınlandığında bu telefonda ve diğer paylaşılan cihazlarda uyarı alırsınız</string>
     <string name="warningcenter_mijia_open_title">Akıllı cihazlardan uyarı al</string>
     <string name="warningcenter_mijia_page_title">Uyarılar</string>
+    <string name="warningcenter_mijia_search_keywords">Mi ev uyarıları</string>
     <string name="warningcenter_mijia_title">Akıllı ev cihazlarından gelen uyarılar</string>
     <string name="warningcenter_smarthome">Mi ev</string>
     <string name="warningcenter_title">MIUI uyarı merkezi</string>

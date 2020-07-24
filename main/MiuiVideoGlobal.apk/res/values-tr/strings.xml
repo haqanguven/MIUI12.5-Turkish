@@ -89,6 +89,7 @@
     <string name="ad_more">Daha fazla</string>
     <string name="add_to_trust_device">Bu güvenli bir cihazdır</string>
     <string name="agree">Kabul et</string>
+    <string name="agree_and_continue">Kabul et</string>
     <string name="ai_animation_music_text">AI film müziği</string>
     <string name="ai_music_save_cancel">İptal et</string>
     <string name="ai_music_save_dialog_title">Kaydet</string>
@@ -128,6 +129,7 @@
     <string name="cast_expanded_controller_ad_image_description">Yayın alıcıda bir reklam oynatılırken gösterilen resim</string>
     <string name="cast_expanded_controller_ad_in_progress">Reklam işleniyor</string>
     <string name="cast_expanded_controller_background_image">Albüm kapağı</string>
+    <string name="cast_expanded_controller_live_head_description">Geçerli konum canlı yayının başında</string>
     <string name="cast_expanded_controller_live_stream_indicator">Canlı yayın</string>
     <string name="cast_expanded_controller_loading">Yükleniyor</string>
     <string name="cast_expanded_controller_skip_ad_label">Atla</string>
@@ -138,6 +140,7 @@
     <string name="cast_intro_overlay_button_text">@android:string/ok</string>
     <string name="cast_invalid_stream_duration_text">--:--</string>
     <string name="cast_invalid_stream_position_text">--:--</string>
+    <string name="cast_live_label">Canlı</string>
     <string name="cast_mute">Sesi kapat</string>
     <string name="cast_notification_connected_message">%1$s bağlantısı yapıldı</string>
     <string name="cast_notification_connecting_message">%1$s bağlantısı yapılıyor</string>
@@ -175,6 +178,12 @@
     <string name="cloud_online_switch_close_time">%s içinde kişiselleştirilmiş içerik tavsiyelerini açabilirsiniz</string>
     <string name="cloud_online_switch_open_time">Kişiselleştirilmiş içerik tavsiyelerini göster</string>
     <string name="collect_diagnosis_log">Günlükleri topla</string>
+    <string name="columbus_player_close_desc">Ödülünü kaybedeceksin</string>
+    <string name="columbus_player_close_resume">Videoya devam et</string>
+    <string name="columbus_player_close_title">Videodan çıkılsın mı?</string>
+    <string name="columbus_player_close_video">Videodan çık</string>
+    <string name="columbus_player_install_now">Şimdi yükle</string>
+    <string name="columbus_player_learn_more">Daha fazla</string>
     <string name="com.crashlytics.android.build_id">ec71a063-3031-4779-b62b-ab7779274c23</string>
     <string name="com_facebook_device_auth_instructions">&lt;b>facebook.com/device&lt;/b> ziyaret edin ve yukarıda gösterilen kodu girin</string>
     <string name="com_facebook_image_download_unknown_error">Görüntü indirilirken beklenmedik bir hata oluştu</string>
@@ -251,6 +260,7 @@
     <string name="confirm_unbundled_phone_dialog_message">Bu telefon %1$s cihazinda Mi hesabı %2$s ile ilişkilendirilmiş durumda. Devam etmeniz durumunda Mi hesabı %3$s ile ilişkisi sonlandırılacaktır. Devam edilsin mi?</string>
     <string name="content">İçerik</string>
     <string name="content_can_not_null">Açıklama olmadan geri bildirim gönderilemez</string>
+    <string name="continue_play">Devam et</string>
     <string name="data_empty">Boş</string>
     <string name="day">gün</string>
     <string name="default_filedownloader_notification_content">Dosya indirici çalışıyor</string>
@@ -262,13 +272,15 @@
     <string name="diagnosis_log_sent_format">"Kayıtlar başarıyla gönderildi
 Kimlik:%s
 Bu kodu gönderin"</string>
-    <string name="dialog_privacy_info_new2">Bu hizmetleri kullanabilmek için kişisel bilgilerinizin %1$s tarafından toplanılacağını, işleneceğini ve kullanılacağını kabul etmelisiniz. Aşağıda kabul et seçeneğine dokunduğunuzda <a href="%2$s">Gizlilik Politikamızı</a> okumuş ve kabul etmiş sayılırsınız</string>
+    <string name="dialog_privacy_info_new2">"Hizmetleri kullanabilmek için, kişisel bilgilerinizin %1$s tarafından toplanılacağını, işleneceğini ve kullanılacağını kabul etmeniz gerekmektedir. Kabul et seçeneğine dokunduğunuzda &lt;a href=%2$s>Gizlilik politikasını&lt;/a> okuyup kabul etmiş sayılırsınız"</string>
+    <string name="dialog_privacy_info_new3">"Bu hizmeti kullanabilmek için %1$s uygulamasının, Gizlilik Politikasına göre kişisel bilgilerinizi toplamasına, işlemesine ve kullanmasına izin vermeniz gerekir. Aşağıdaki kabul et yazısına dokunarak Xiaomi'nin &lt;a href=%2$s>Gizlilik politikası&lt;/a> ve &lt;a href=%3$s>Kullanıcı sözleşmesini&lt;/a> onaylıyorsunuz"</string>
     <string name="dialog_privacy_title">Yetkilendirme</string>
     <string name="dialog_revoke_privacy_info_new2">Yetkilendirmeyi kaldırdıktan sonra uygulama veri toplamayı durdurur ve tüm ilgili veriler sunucularımızdan silinir. Bu işlem uygulamayı kullanılamaz hale getirebilir. Yetki yine de kaldırılsın mı?</string>
     <string name="dialog_revoke_privacy_title">Yetkilendirme geri alınıyor</string>
     <string name="diy_channels_tips">Artık kanal listenizi özelleştirebilirsiniz.</string>
     <string name="do_not_show_again">Tekrar gösterme</string>
     <string name="download">İndir</string>
+    <string name="download_checking_tip">İndirmeye hazırlanıyor</string>
     <string name="download_complete">İndirildi</string>
     <string name="download_delete_tip">Seçilen öğeler silinsin mi?</string>
     <string name="download_delete_title">Sil</string>
@@ -278,6 +290,7 @@ Bu kodu gönderin"</string>
     <string name="download_progress">%%%d</string>
     <string name="download_retry">Tekrar dene</string>
     <string name="download_space_info" formatted="false">%s, %s</string>
+    <string name="download_unable_tip">Bu öğe indirilemiyor</string>
     <string name="download_video">Video indiriliyor</string>
     <string name="downloading">İndiriliyor</string>
     <string name="empty_channels">Kanalları yönet</string>
@@ -351,6 +364,7 @@ Bu kodu gönderin"</string>
     <string name="feedback_success_toast">Başarıyla gönderildi. Geri bildiriminiz için teşekkürler</string>
     <string name="feedback_tag_title">Kategori</string>
     <string name="feedback_text_empty_toast">Önce geri bildiriminizi girin</string>
+    <string name="file_cant_rename">%1$s adında bir dosya zaten var. Lütfen yeniden adlandırın</string>
     <string name="find_psw">Şifremi unuttum</string>
     <string name="finish">Bitti</string>
     <string name="firebase_database_url">https://global-video-5cd70.firebaseio.com</string>
@@ -378,11 +392,14 @@ Bu kodu gönderin"</string>
     <string name="gallery_folder_alias_youku_video">Youku</string>
     <string name="gallery_tab_all">Tümü</string>
     <string name="gallery_tab_videos">Videolar</string>
+    <string name="galleryplus_already_cloud_member">Oynamak için VIP üyeliğini kullan</string>
+    <string name="galleryplus_check_network">Ayarlar</string>
     <string name="galleryplus_chose_play_speed">%1$.1fX hızında oynatılıyor</string>
     <string name="galleryplus_chose_play_speed_failure">Oynatma hızı ayarlanamadı</string>
     <string name="galleryplus_click_to_higher_definition">HD önizlemeyi açmak için çift dokunun</string>
     <string name="galleryplus_cta_tips">"Kullanıcı deneyimi programına kaydolarak ve videonun internete bağlanmasına izin vererek hizmetlerimizi geliştirmemize yardımcı olabilirsiniz. Onaylıyor musunuz?"</string>
     <string name="galleryplus_double_tap_to_higher_definition">HD önizlemeyi açmak için tekrar çift dokunun</string>
+    <string name="galleryplus_fr_unsupport_restore_speed">Desteklenmeyen kare hızı. Normal hıza geri dönün</string>
     <string name="galleryplus_gallery_fold_tags">İşaretleri gizle</string>
     <string name="galleryplus_gallery_video_adjust_hint">Yalnızca 960fps videolar destekleniyor</string>
     <string name="galleryplus_gallery_video_adjust_text">Ayarla</string>
@@ -402,6 +419,15 @@ Bu kodu gönderin"</string>
     <string name="galleryplus_gallery_video_slow_edit">Ağır çekim</string>
     <string name="galleryplus_gallery_view_tags">İşaretleri göster</string>
     <string name="galleryplus_is_higher_definition">HD önizleme açıldı</string>
+    <string name="galleryplus_network_connect_check">Ağa bağlanılamadı</string>
+    <string name="galleryplus_network_connect_confirm">Ağ ayarlarında wifi ağına bağlanın veya mobil veriyi açın</string>
+    <string name="galleryplus_network_error">Ağa bağlanılamadı</string>
+    <string name="galleryplus_network_not_wifi">Videoları akışı için mobil veri kullanmanız ek veri ücretlerine neden olabilir</string>
+    <string name="galleryplus_online_cta">Videonun düzgün çalışabilmesi için internet bağlantısına ihtiyaç duyar. Kabul ediyor musunuz?</string>
+    <string name="galleryplus_online_cta_agree">Kabul et</string>
+    <string name="galleryplus_online_cta_disagree">Reddet</string>
+    <string name="galleryplus_online_cta_title">Şartlar ve koşullar</string>
+    <string name="galleryplus_online_video_loading">Yükleniyor</string>
     <string name="galleryplus_permission_content">Bu özelliği kullanabilmek için videoya gerekli izinleri verin</string>
     <string name="galleryplus_permission_content2">"Bu özelliği kullanabilmek için Ayarlar > Uygulamalar > Videolar > Uygulama izinleri menüsüne gidin ve videonun aşağıdakileri yapmasına izin verin:
 
@@ -452,6 +478,7 @@ Bu kodu gönderin"</string>
     <string name="google_application_id" />
     <string name="google_crash_reporting_api_key">AIzaSyBmWA13ZtMoPDvgTFVtmG4anqKADZ_XnNg</string>
     <string name="google_storage_bucket">global-video-5cd70.appspot.com</string>
+    <string name="got_it">Anladım</string>
     <string name="goto_sign_up">Hesap oluştur</string>
     <string name="have_learned">Anladım</string>
     <string name="hidden_channels">Aşağıdaki kanallar Ana ekranda görüntülenmeyecek</string>
@@ -621,6 +648,7 @@ tercih ettiğiniz dili seçin"</string>
     <string name="lv_video_null">Video yok</string>
     <string name="lv_volume">Ses</string>
     <string name="manage">Yönet</string>
+    <string name="mediation_ad_can_not_share">Bu video paylaşılamıyor</string>
     <string name="mi_video">Videolar</string>
     <string name="mnc_live_tv">Canlı TV</string>
     <string name="moment_guide_desc">Yakınlaşmak ve uzaklaşmak için hareket kullan</string>
@@ -670,6 +698,7 @@ tercih ettiğiniz dili seçin"</string>
     <string name="neverthink_player_loading">Neverthink videosu yükleniyor</string>
     <string name="new_channel_tip">Yeni kanallara bir göz atın</string>
     <string name="next">Sonraki</string>
+    <string name="next_step">Sonraki</string>
     <string name="nick_name">İsim</string>
     <string name="no_account">Oturum açılmadı</string>
     <string name="no_longer_prompt">Tekrar gösterme</string>
@@ -688,6 +717,8 @@ tercih ettiğiniz dili seçin"</string>
     <string name="notice_message_title">Bildirimler</string>
     <string name="notice_title">İletiler</string>
     <string name="notification_bar">Bildirim çubuğu</string>
+    <string name="notification_bar_player_subtitle">Bildirim gölgesinde küçültülmüş oynatıcıyı göster</string>
+    <string name="notification_bar_player_title">Oynatıcıyı küçült</string>
     <string name="notification_open_tip">Bildirimleri almak için açın</string>
     <string name="notify_apk_installed">Başarıyla indirildi</string>
     <string name="ok">Tamam</string>
@@ -900,6 +931,7 @@ Hesap güvenliğinin arttırılması"</string>
     <string name="phone_num_use_for">Telefon numarası bu işlemler için kullanılır:</string>
     <string name="phone_number">Telefon numarası</string>
     <string name="photoPickerNotFoundText">Kullanılabilir fotoğraf yok</string>
+    <string name="pip">Resim içinde resim</string>
     <string name="playlist_detail_recomm_title">Önerilen çalma listeleri</string>
     <string name="playlist_hot">Popüler</string>
     <string name="playlist_new">Yeni</string>
@@ -1121,6 +1153,8 @@ Hesap güvenliğinin arttırılması"</string>
     <string name="sns_bind_limit">Çok fazla sayıda denemede bulundunuz. Diğer oturum açma yöntemlerini deneyin</string>
     <string name="sns_sign_in">Diğer oturum açma yolları</string>
     <string name="source">"Kaynak: "</string>
+    <string name="special_type_8k">AI 8K</string>
+    <string name="special_type_log">Kayıt</string>
     <string name="srl_component_falsify" formatted="false">"%s alanı tarif ediyor
 Çalışma zamanında sürüklemenin yüksekliğini [%.1fdp] gösterir
 Hiçbir şey göstermiyor"</string>
@@ -1194,6 +1228,8 @@ Hiçbir şey göstermiyor"</string>
     <string name="ticket_hint">Doğrulama kodu</string>
     <string name="ticket_invalid">Girmiş olduğunuz kod hatalı</string>
     <string name="ticket_sign_in">Mesaj ile oturum aç</string>
+    <string name="tip_author_click">Bu hesaptan daha fazla video görüntülemek için dokunun</string>
+    <string name="tip_topic_click">Bu konuda daha fazla video bulmak için dokunun</string>
     <string name="title_publisher">Yayıncılar</string>
     <string name="title_subscribe">Aboneliklerim</string>
     <string name="toast_no_data">Bu ürün şu anda mevcut değil. Daha sonra gel</string>
@@ -1255,6 +1291,7 @@ Hiçbir şey göstermiyor"</string>
     <string name="video_resolution_kb_size_suffix">%.2f KB</string>
     <string name="video_resolution_mb_size_suffix">%.2f MB</string>
     <string name="video_resolution_tag_suffix">%dP</string>
+    <string name="view">Görüntüle</string>
     <string name="vp_VideoView_error_button">Tamam</string>
     <string name="vp_VideoView_error_text_unknown">Bir hata oluştu</string>
     <string name="vp_VideoView_error_title">Bilinmeyen hata</string>

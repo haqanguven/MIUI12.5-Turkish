@@ -3884,7 +3884,7 @@ Ek ayarlara erişmeye devam edin"</string>
     <string name="not_battery_optimizing">Pil optimizasyonu kullanılmıyor</string>
     <string name="not_installed">Bu kullanıcı için yüklü değil</string>
     <string name="not_set">Ayarlanmadı</string>
-    <string name="notch_and_status_bar_settings">Çentik &amp; durum çubuğu</string>
+    <string name="notch_and_status_bar_settings">Kontrol merkezi &amp; bildirim gölgesi</string>
     <string name="notch_force_black_desc">Çentik etrafındaki alanı karartmak için etkinleştirin</string>
     <string name="notch_force_black_title">Çentiği gizle</string>
     <string name="notch_settings">Çentik</string>
@@ -3893,7 +3893,7 @@ Ek ayarlara erişmeye devam edin"</string>
     <string name="notch_style_show">Gizleme</string>
     <string name="notch_style_status_bar_inside">Durum çubuğunu taşımadan gizle</string>
     <string name="notch_style_status_bar_outside">Taşı ve durum çubuğunu gizle</string>
-    <string name="notes_privacy_password_role_instruction">Özel notlarınız burada depolanır.</string>
+    <string name="notes_privacy_password_role_instruction">Özel notlarınız burada depolanır</string>
     <string name="notifi_channels">Bildirim kategorileri</string>
     <string name="notifi_channels_other">Diğer</string>
     <string name="notifi_importance_default">Ses çıkart</string>
@@ -4811,7 +4811,7 @@ Bu ayar bu telefondaki tüm kullanıcıları etkiler"</string>
     <string name="screen_monochrome_mode_summary">Pil ömrünü uzatmak için tek tek moduna geçin</string>
     <string name="screen_monochrome_mode_title">Tek renk modu</string>
     <string name="screen_never_timeout_title">Hiçbir zaman</string>
-    <string name="screen_on_proximity_sensor_summary">Cihaz cebe koyulduğunda dokunma hareketlerini kitle</string>
+    <string name="screen_on_proximity_sensor_summary">Cihaz cebe koyulduğunda dokunma hareketlerini kilitler</string>
     <string name="screen_on_proximity_sensor_title">Cep modu</string>
     <string name="screen_optimize">Renkler</string>
     <string name="screen_optimize_disabled">Okuma modu açık olduğunda parlaklık ayarlanamıyor</string>

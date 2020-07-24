@@ -173,6 +173,7 @@
     <string name="account_sync_settings_settings">Kişi ve takvimi senkronize et</string>
     <string name="account_sync_settingstip_description">Eşitle</string>
     <string name="account_waiting_for_folders_msg">Klasörler yükleniyor</string>
+    <string name="actionbar_more_option">Daha fazla seçenek</string>
     <string name="activity_folder_selection">Klasör seçin</string>
     <string name="activity_mailbox_selection">Hesap seçin</string>
     <string name="ad_merge">Reklamlar &amp; bildirimler</string>
@@ -234,6 +235,7 @@
     <string name="attachment_unknown">%s dosya</string>
     <string name="attachment_video">Video</string>
     <string name="attachments_header">Eklentiler</string>
+    <string name="attendee_needed">En az bir davetli ekleyin</string>
     <string name="authority_email_provider">com.android.email.provider</string>
     <string name="auto_advance_help_title">Bir mesaj silindikten sonra şunu görüntüle</string>
     <string name="auto_advance_label">Mesaj akışını sil</string>
@@ -275,6 +277,7 @@
     <string name="bytes">%s B</string>
     <string name="calendar_remind_dialog_title">Daha sonra hatırlat</string>
     <string name="calendar_remind_gridview_pick_date">Tarih seçin</string>
+    <string name="calendar_skip_no_account_alert">Bu hesap bulunamadı</string>
     <string name="cancel">İptal et</string>
     <string name="cancel_action">İptal et</string>
     <string name="cancel_pop3_attchemt_downloading">POP3 hesaplarında devam eden eklenti indirme işlemleri iptal edilemiyor</string>
@@ -312,6 +315,7 @@
     <string name="colon">:</string>
     <string name="compose">Oluştur</string>
     <string name="compose_attachment_number_limit">10 adetten fazla eklenti eklenemiyor</string>
+    <string name="compose_event">Davetiye</string>
     <string name="compose_paste_address_oob">Çok fazla karakter</string>
     <string name="compose_picturesexceedlimits">Bir iletide 5 satır-içi resim miktarı aşılamıyor</string>
     <string name="compose_send">Gönder</string>
@@ -320,6 +324,7 @@
     <string name="config_cancel">İptal et</string>
     <string name="config_retry">Yeniden dene</string>
     <string name="confirm">Tamam</string>
+    <string name="confirm_add_to_calendar">Takvime ekleniyor</string>
     <string name="confirm_age">Yaşı onayla</string>
     <string name="confirm_before_delete">Silmeden önce onayla</string>
     <string name="confirm_before_delete_keywords">silmeden önce onayla;silme onayı</string>
@@ -414,6 +419,7 @@
     <string name="del_account_questionnair_hint">Hesabı silmek istemenizin nedenini bizimle paylaşır mısınız?</string>
     <string name="delete">Sil</string>
     <string name="delete_contact_content">Bu kişi şimdi silinsin mi?</string>
+    <string name="delete_message_event">Bu davetiye silinsin mi?</string>
     <string name="delete_message_flow">Mesaj akışını sil</string>
     <string name="delete_message_flow_keywords">mesaj akışını sil;yönlendirmeleri sil</string>
     <string name="deleted">Silindi</string>
@@ -461,12 +467,15 @@
     <string name="drawer_close">Navigasyon çekmecesini kapat</string>
     <string name="drawer_contacts">Kişiler</string>
     <string name="drawer_open">Navigasyon çekmecesini aç</string>
+    <string name="dtend">Uçlar</string>
+    <string name="dtstart">Başlar</string>
     <string name="due">Vade</string>
     <string name="due_date_text">Son geri ödeme</string>
     <string name="eas_hotmail_email">hotmail.com</string>
     <string name="eas_outlook_email">outlook.com</string>
     <string name="edit_quick_response_dialog">Hızlı yanıt</string>
     <string name="edit_signature">İmzayı düzenle</string>
+    <string name="editor_max_length_limit_hint">Girdiğiniz mesaj çok uzun</string>
     <string name="elided_padding_token"> </string>
     <string name="email_feedback_uri" />
     <string name="email_netease">NetEase posta</string>
@@ -594,6 +603,7 @@
     <string name="from_heading">"Başlangıç: "</string>
     <string name="general_preference_confirm_delete_label">Silmeden önce onayla</string>
     <string name="general_preference_confirm_send_label">Göndermeden önce onayla</string>
+    <string name="general_preference_load_picture">Çevrimiçi resimleri yükle</string>
     <string name="general_preference_str_auto_translation">Hızlı çeviri</string>
     <string name="general_preference_str_auto_translation_prompt">Çeviriyi görmek için metni kopyalayın</string>
     <string name="general_preference_text_zoom_dialog_title">İleti metin boyutu</string>
@@ -654,9 +664,24 @@
     <string name="loading_conversations">Yükleniyor</string>
     <string name="loading_from_remote">Yükleniyor</string>
     <string name="local_search">Yerel arama</string>
+    <string name="location_hint">Konum</string>
     <string name="log_save_path">Günlük yolu</string>
     <string name="login">Oturum açın</string>
-    <string name="login139">Çin mobil ile oturum aç</string>
+    <string name="login139">China Mobile ile oturum aç</string>
+    <string name="login_des_126">"126 Mail'de oturum açın"</string>
+    <string name="login_des_139">"139 Mail'de oturum açın"</string>
+    <string name="login_des_163">"163 Mail'de oturum açın"</string>
+    <string name="login_des_exchange">"Exchange'te oturum açın"</string>
+    <string name="login_des_gmail">"Gmail'de oturum açın"</string>
+    <string name="login_des_hotmail">"Hotmail'de oturum açın"</string>
+    <string name="login_des_mail_ru">"Mail.ru'da oturum açın"</string>
+    <string name="login_des_office365">"Office 365'te oturum açın"</string>
+    <string name="login_des_others">Diğer büyük e-posta hizmeti istemcilerinde oturum açın</string>
+    <string name="login_des_outlook">"Outlook'ta oturum açın"</string>
+    <string name="login_des_qq">"QQ Mail'de oturum açın"</string>
+    <string name="login_des_rediff">"Rediffmail'de oturum açın"</string>
+    <string name="login_des_yahoo">"Yahoo Mail'de oturum açın"</string>
+    <string name="login_des_yangdex">"Yandex Mail'de oturum açın"</string>
     <string name="login_err_message">%1$s oturum açmak için doğrulama koduna da ihtiyacınız olabilir. Şifrenizi sıfırlamanız gerekiyorsa kullanabileceğiniz seçenekleri görmek için https://email.163.com/ adresini ziyaret edin</string>
     <string name="login_err_sina_message">%1$s oturum açmak için doğrulama koduna da ihtiyacınız olabilir. Şifrenizi sıfırlamanız gerekiyorsa kullanabileceğiniz seçenekleri görmek için https://mail.sina.com.cn/ adresini ziyaret edin</string>
     <string name="login_failed_ticker">%s oturumu açılamadı</string>
@@ -691,6 +716,14 @@
     <string name="mailbox_name_display_starred">Favoriler</string>
     <string name="mailbox_name_display_trash">Çöp kutusu</string>
     <string name="mailbox_name_display_unread">Okunmamış</string>
+	
+	
+	
+	
+	
+	
+	
+	
     <string name="mailbox_settings_activity_title">Senkronizasyon ayarları</string>
     <string name="mailbox_settings_activity_title_with_mailbox">Senkronizasyon ayarları (%s)</string>
     <string name="mailbox_settings_mailbox_sync_window_label">E-postaları şuradan senkronize et</string>
@@ -785,6 +818,11 @@
     <string name="message_invite_accept">Evet</string>
     <string name="message_invite_calendar_view">Takvimde görüntüle</string>
     <string name="message_invite_decline">Hayır</string>
+    <string name="message_invite_end_time">Bitiş zamanı</string>
+    <string name="message_invite_start_time">Başlangıç zamanı</string>
+    <string name="message_invite_state_accpt">Kabul edildi</string>
+    <string name="message_invite_state_decline">Reddedildi</string>
+    <string name="message_invite_state_tentative">Bekleniyor</string>
     <string name="message_invite_tentative">Belki</string>
     <string name="message_invite_title">Takvim daveti</string>
     <string name="message_saved">İleti taslak olarak kaydedildi</string>
@@ -825,6 +863,8 @@ Farklı bir e-posta hesabı kullanmayı deneyin"</string>
     <string name="no_content_in_body">[Kimse]</string>
     <string name="no_conversations">Mesaj yok</string>
     <string name="no_filtrable_email_account">Filtre uygulanacak hesap yok</string>
+    <string name="no_img_application_found">Bu görüntüyü açmak için uygulamalar bulanamadı</string>
+    <string name="no_img_application_found_title">Bu görüntü açılamıyor</string>
     <string name="no_mails">E-posta yok</string>
     <string name="no_matched_attachment">Sonuç yok</string>
     <string name="no_more_mail">Başka mesaj yok</string>
@@ -1121,11 +1161,14 @@ e-postanızdaki fatura ve seyahat bilgilerini analiz edin"</string>
     <string name="refreshing_done">Tamamlandı</string>
     <string name="release_to_refresh">Yenilemek için bırakın</string>
     <string name="remind_attachment_size_limit">E-postalarınız %sMB boyutundan küçük olmalıdır</string>
+    <string name="reminder">Hatırlatıcı</string>
+    <string name="reminder_picker_title">Hatırlatıcı</string>
     <string name="remote_search_body_too_large_prompt">"Bu e-posta çok uzun
 Tamamen senkronize edilmesini bekleyin veya mesajı bilgisayarınızda görüntüleyin"</string>
     <string name="remove_account">Hesabı kaldır</string>
     <string name="remove_folder">%1$s klasöründen kaldır</string>
     <string name="remove_star">Favorilerden çıkar</string>
+    <string name="replay_max_length_limit_hint">E-posta çok uzun. Orijinal e-posta düzenlenemiyor</string>
     <string name="reply">Yanıtla</string>
     <string name="reply_add_bodycontent">İleti gövdesine yanıt eklensin mi?</string>
     <string name="reply_all">Tümünü yanıtla</string>
@@ -1214,6 +1257,7 @@ Tamamen senkronize edilmesini bekleyin veya mesajı bilgisayarınızda görünt�
     <string name="show_contact_address">İletişim e-posta adresini göster</string>
     <string name="show_elided">▶ Alıntı metni göster</string>
     <string name="show_images">Resimleri indir ve göster</string>
+    <string name="show_images_all">Tüm görüntüleri yükle ve göster</string>
     <string name="show_password">Şifreyi göster</string>
     <string name="signature">"
 
@@ -1258,6 +1302,8 @@ Tamamen senkronize edilmesini bekleyin veya mesajı bilgisayarınızda görünt�
     <string name="sync_error">Senkronize edilemedi</string>
     <string name="sync_error_message">Cihazınızda senkronizasyon işleminin yapılabilmesi için yeterli depolama alanı yok</string>
     <string name="sync_failed_mi_authority_view_detail">Detayları göster</string>
+    <string name="sync_question_feed">Senkronizasyon sorunlarını bildirin</string>
+    <string name="sync_upload_question">Geri bildirim</string>
     <string name="syncing_wait_restart">Yeniden deneyin</string>
     <string name="syncing_wait_restart_title">Sunucu bağlantısı zaman aşımına uğradı</string>
     <string name="system_account_create_failed">Hesap oluşturulamadı. Yeniden deneyin</string>
@@ -1310,6 +1356,10 @@ Tamamen senkronize edilmesini bekleyin veya mesajı bilgisayarınızda görünt�
     <string name="translation_query_failure">Sonuç bulunamadı</string>
     <string name="translation_technology_support">Teknik destek iciba.com tarafından sağlanmaktadır</string>
     <string name="trash_folder_selection_title">%s için sunucunun çöp kutusu klasörünü seçin</string>
+    <string name="trigger_before_day">%d gün önce</string>
+    <string name="trigger_before_hour">%d saat önce</string>
+    <string name="trigger_before_minute">%d dakika önce</string>
+    <string name="trigger_before_week">%d hafta önce</string>
     <string name="trigger_compose_char">c</string>
     <string name="trigger_refresh_char">u</string>
     <string name="trigger_y_char">y</string>

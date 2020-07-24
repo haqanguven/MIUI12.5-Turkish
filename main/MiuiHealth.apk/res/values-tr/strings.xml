@@ -60,7 +60,8 @@ sol üst köşedeki düğmeye dokunun"</string>
     <string name="altitude">Boy</string>
     <string name="altitude_range">Boy</string>
     <string name="am">ÖÖ</string>
-    <string name="app_name">wcdb-room</string>
+    <string name="app_name">plugin.health.analyze</string>
+    <string name="app_setting">Uygulamalar</string>
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="audio_permission_dialog_desc">Uyku döngünüzü analiz etmek ve konuşma ve horlamayı kaydetmek için Xiaomi sağlığın ses kaydı için izne ihtiyacı var</string>
     <string name="audio_permission_dialog_title">Ses kaydetmeye izin ver</string>
@@ -289,7 +290,7 @@ Sağlık verilerinizi saklamayı seçtikten sonra silmeye karar verirseniz Sağl
     <string name="data_source_manage">Veri kaynaklarını yönet</string>
     <string name="data_source_not_support_hm_description">%1$s ayrıntılı adım sayısı sunmuyor. Diğer > Veri kaynakları bölümünden diğer veri kaynaklarına geçmeyi deneyebilirsiniz</string>
     <string name="data_source_not_support_hm_description_consume">Seçilen veri kaynağı (%1$s) kalori hakkında ayrıntılı bilgi sağlamıyor. Daha fazla > Veri kaynakları bölümünden farklı bir veri kaynağı seçebilirsiniz</string>
-    <string name="data_source_not_support_hm_description_duration">Seçilen veri kaynağı (%1$s) ortalama yüksek yoğunluklu egzersizler hakkında ayrıntılı bilgi sağlamıyor. Daha fazla > Veri kaynakları bölümünden farklı bir veri kaynağı seçebilirsiniz</string>
+    <string name="data_source_not_support_hm_description_duration">Seçilen veri kaynağı (%1$s) orta ila yüksek yoğunluklu egzersizler hakkında ayrıntılı bilgi sağlamıyor. Daha fazla > Veri kaynakları bölümünden farklı bir veri kaynağı seçebilirsiniz</string>
     <string name="date">Tarih</string>
     <string name="date_format_h_m">H:mm</string>
     <string name="date_format_h_m_s">HH:mm:ss</string>
@@ -333,7 +334,7 @@ Sağlık verilerinizi saklamayı seçtikten sonra silmeye karar verirseniz Sağl
     <string name="delete_avatar">Mevcut fotoğrafı sil</string>
     <string name="delete_contact">Sil</string>
     <string name="delete_data_source">Veri kaynağını sil</string>
-    <string name="delete_dialog_close_sync_msg">%1$s öğesini silmek için önce ilgili cihazda eşitlemeyi kapatın</string>
+    <string name="delete_dialog_close_sync_msg">%1$s öğesini silmek için önce ilgili cihazda senkronizeyi kapatın</string>
     <string name="delete_dialog_confirm_msg_cloud">%1$s bu cihazda ve bulutta depolanan ilgili verilerle birlikte silinsin mi?</string>
     <string name="delete_dialog_confirm_msg_local">%1$s ilgili verilerle birlikte silinsin mi?</string>
     <string name="delete_menstruation_record_confirm">Bu kayıt silinsin mi?</string>
@@ -405,6 +406,7 @@ Mi sağlık yalnızca önemli ögeler hakkında bildirim gönderir"</string>
     <string name="dialog_user_agreement_purpose2">Mi sağlığa hoş geldiniz. Bu uygulama ile adımlarınızı sayma, uykunuzu analiz etme, kilonuzu kaydetme ve daha fazlasını yapmak için kullanabilirsiniz</string>
     <string name="diastolic_pressure">Diyastolik</string>
     <string name="disable">Kapalı</string>
+    <string name="divider">/</string>
     <string name="divider_format1">%1$s/%2$s</string>
     <string name="divider_format2">%1$s-%2$s</string>
     <string name="divider_format3">%1$s~%2$s</string>
@@ -453,7 +455,7 @@ Mi sağlık yalnızca önemli ögeler hakkında bildirim gönderir"</string>
     <string name="exercise">Etkinlik</string>
     <string name="exercise_consume">Yanmış %1$d kal</string>
     <string name="exercise_consume_description">"Çinliler için diyet rehberine göre günlük fiziksel aktivite toplam enerji harcamasının %15'inden fazlasını tüketmelidir. Günlük fiziksel aktivitenizde harcanan enerji burada özetlenir ancak temel metabolik harcamaları içermez. Kilo yönetimi endişeleriniz varsa enerji alımına da odaklanmanız gerekir"</string>
-    <string name="exercise_consume_exercise_description">Bu orta ve yüksek yoğunluklu aktivitelere harcadığınız zamandır. Çin sağlık yetkililerine göre haftalık egzersiz süresi en az 150 dakika olmalıdır. Hızlı yürüyüş, koşu ve merdiven çıkma gibi aktiviteler ortalama yüksek yoğunluklu antrenmanlar olarak görülecektir</string>
+    <string name="exercise_consume_exercise_description">Bu orta ve yüksek yoğunluklu aktivitelere harcadığınız zamandır. Çin sağlık yetkililerine göre haftalık egzersiz süresi en az 150 dakika olmalıdır. Hızlı yürüyüş, koşu ve merdiven çıkma gibi aktiviteler orta ila yüksek yoğunluklu antrenmanlar olarak görülecektir</string>
     <string name="exercise_correct">Düzelt</string>
     <string name="exercise_detail_duration">%1$s…%2$s…-…%3$s…%4$s</string>
     <string name="exercise_detail_no_consume_hint">"Seçilen veri kaynağı (%1$s) kalori sayısı bilgilerini sağlamıyor
@@ -462,7 +464,7 @@ Daha fazla > Veri kaynakları bölümünden farklı bir veri kaynağı seçebili
 Diğer > Veri kaynakları bölümünden başka bir kaynak seçebilirsiniz"</string>
     <string name="exercise_detail_no_steps_hint">"Seçilen veri kaynağı (%1$s) adım sayısı bilgisi sağlamıyor
 Daha fazla > Veri kaynakları bölümünden farklı bir veri kaynağı seçebilirsiniz"</string>
-    <string name="exercise_duration">Ortalama yüksek yoğunluk</string>
+    <string name="exercise_duration">Orta ila yüksek yoğunluk</string>
     <string name="exercise_duration_consume">Süre: %1$s | Yakılan: %2$s</string>
     <string name="exercise_fast_description">%1$s(%2$s)</string>
     <string name="exercise_goal">Etkinlik hedefi</string>
@@ -603,7 +605,7 @@ Yatakta 30 dakika geçirdikten sonra uykuya dalmakta hala zorlanıyorsanız bu d
     <string name="goal_sleep_time">Uyku süresi hedefi</string>
     <string name="goal_title">Sağlıklı kalın</string>
     <string name="goto_setting_auto_start">Ayarlar</string>
-    <string name="guide_data_cloud_sync_tip">Ayarlar > Bulut hizmetleri bölümünden eşitlemeyi kapatabilirsiniz</string>
+    <string name="guide_data_cloud_sync_tip">Ayarlar > Bulut hizmetleri bölümünden senkronizeyi kapatabilirsiniz</string>
     <string name="guide_exit">Xiaomi sağlıktan çık</string>
     <string name="guide_exit_description">Henüz 14 yaşını doldurmamış kişilere hizmet veremiyoruz. Bu cihazı yasal vasinizin izniyle kullandığınızdan emin olun. Uygulamadan çıkmak için aşağıdaki düğmeye dokunun</string>
     <string name="guide_exit_title">14 yaşından sonra Xiaomi sağlık kullanmaya başlayabilirsiniz</string>
@@ -619,6 +621,7 @@ Yatakta 30 dakika geçirdikten sonra uykuya dalmakta hala zorlanıyorsanız bu d
     <string name="health_cloud_service">Bulut hizmetleri</string>
     <string name="health_data_cloud_sync_subtitle">Sağlık verilerinizi bulutla senkronize edin ve herhangi bir cihazdan erişin</string>
     <string name="health_data_cloud_sync_title">Bulut ile senkronize et</string>
+    <string name="health_data_sync">Sağlık verilerini senkronize et</string>
     <string name="health_score">Sağlık puanı</string>
     <string name="health_score_tips">Sağlık puanınız vücut kitle endeksi ile uyku ve etkinlik adımlarınıza dayanarak hesaplanır. Hedefinize ne kadar yakınlaşırsanız sağlık puanınız o kadar artar</string>
     <string name="health_setting">Health settings</string>
@@ -636,8 +639,8 @@ Yatakta 30 dakika geçirdikten sonra uykuya dalmakta hala zorlanıyorsanız bu d
     <string name="high">Yüksek</string>
     <string name="high2">Yüksek</string>
     <string name="high_intensity">Yüksek</string>
-    <string name="high_intensity_description">Rapid respiratory rate that allows you to finish short phrases</string>
-    <string name="high_pressure">Systolic (upper)</string>
+    <string name="high_intensity_description">Kısa cümleleri bitirmenizi sağlayan hızlı solunum hızı</string>
+    <string name="high_pressure">Sistolik (Üst)</string>
     <string name="history_statistics">İstatistikler</string>
     <string name="home_page_card_setting">Sayfa kartlarını başlat</string>
     <string name="home_tip_open_data_sync">Bulut ile senkronizasyonu aç</string>
@@ -702,8 +705,8 @@ Yatakta 30 dakika geçirdikten sonra uykuya dalmakta hala zorlanıyorsanız bu d
     <string name="light_sleep_time_increase_description">Hafif uykun çok uzun</string>
     <string name="light_sleep_time_normal_description">Yeterli miktarda hafif uykun var</string>
     <string name="load_failed">Öğeler yüklenemedi. Bir iki dakika bekleyin ve tekrar deneyin.</string>
-    <string name="login_and_open_sync">Oturum aç ve eşitlemeyi aç</string>
-    <string name="login_and_open_sync2">Oturum aç ve eşitlemeyi aç</string>
+    <string name="login_and_open_sync">Oturum aç ve senkronizeyi aç</string>
+    <string name="login_and_open_sync2">Oturum aç ve senkronizeyi aç</string>
     <string name="low">Düşük</string>
     <string name="low_intensity">Düşük</string>
     <string name="low_intensity_description">Konuşmayı sürdürmenizi sağlayan düzenli solunum hızı</string>
@@ -738,7 +741,7 @@ Yatakta 30 dakika geçirdikten sonra uykuya dalmakta hala zorlanıyorsanız bu d
     <string name="member">Kullanıcı</string>
     <string name="member_name_select">Kullanıcı adınızı seçin</string>
     <string name="member_name_select_purpose">%1$s tarafından oluşturulan sağlık verilerinizi eşitleyin</string>
-    <string name="member_name_select_purpose2">Sağlık verilerini eşitlemek için kullanıcı adınızı seçin</string>
+    <string name="member_name_select_purpose2">Sağlık verilerini senkronize etmek için kullanıcı adınızı seçin</string>
     <string name="menses_auto_start_description">Hatırlatıcıları etkinleştirmek Mi sağlığa otomatik başlama izni verir</string>
     <string name="menses_features_description">Sürelerinizi kaydedin ve hatırlatıcılar alın</string>
     <string name="menstrual_assistant">Adet</string>
@@ -771,10 +774,11 @@ Yatakta 30 dakika geçirdikten sonra uykuya dalmakta hala zorlanıyorsanız bu d
     <string name="min_low_pressure">Minimum diyastolik (Alt)</string>
     <string name="min_pace">En düşük hız</string>
     <string name="minimum">Minimum</string>
-    <string name="minute">D</string>
+    <string name="minute">" dakila"</string>
     <string name="miuix_appcompat_cloud_state_disabled">Bulut ile senkronizasyon kapalı</string>
     <string name="miuix_appcompat_cloud_state_finished">Bulut ile senkronize edildi</string>
     <string name="miuix_appcompat_cloud_state_syncing">Bulut ile senkronize et</string>
+    <string name="miuix_appcompat_search_input_description">Ara</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için çek</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Yenileme tamamlandı</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor</string>
@@ -867,7 +871,7 @@ Yatakta 30 dakika geçirdikten sonra uykuya dalmakta hala zorlanıyorsanız bu d
     <string name="not_achieve_stand_goals">Hedefine ulaşmadın</string>
     <string name="not_added">Eklenmedi</string>
     <string name="not_edit">Ayarlanmadı</string>
-    <string name="not_open_auto_sync">Eşitleme kapalı</string>
+    <string name="not_open_auto_sync">Senkronize kapalı</string>
     <string name="not_save">Değişiklikleri yoksay</string>
     <string name="not_save_aid_file_desc">Kaydedilmemiş tüm değişiklikler kaybolacak.</string>
     <string name="not_set">Ayarlanmadı</string>
@@ -879,10 +883,10 @@ Yatakta 30 dakika geçirdikten sonra uykuya dalmakta hala zorlanıyorsanız bu d
     <string name="oauth_account_failed_desc">Veri kaynakları eklemek için Xiaomi sağlık Mi hesabınızı kullanmalıdır. Devam etmek için oturum açın</string>
     <string name="ok">Tamam</string>
     <string name="open">Aç</string>
-    <string name="open_data_sync_description">Diğer kaynaklardan gelen sağlık verilerini eşitlemek için bulutla eşitlemeyi açın</string>
+    <string name="open_data_sync_description">Diğer kaynaklardan gelen sağlık verilerini senkronize etmek için bulutla senkronizeyi açın</string>
     <string name="open_stand_assistant">Ayağa kalkmayı takip etmek için dokunun</string>
     <string name="open_swimming">Suda yüzme açık</string>
-    <string name="open_sync">Eşitlemeyi aç</string>
+    <string name="open_sync">Senkronizeyi aç</string>
     <string name="open_unrestricted_permissions">Uykunuzu daha doğru takip edebilmek için Mi sağlığa arka planda çalışma izni verin</string>
     <string name="organ_donation_volunteer">Gönüllü organ bağışı</string>
     <string name="origin">Kaynak</string>
@@ -1242,18 +1246,23 @@ bulunamadı"</string>
     <string name="sustain_title">"Şu kadar süredir hareket etmediniz "</string>
     <string name="swim">Yüzme</string>
     <string name="swim_type">Stil</string>
+    <string name="sync_health_data">Sağlık verilerini senkronize et</string>
     <string name="sync_immediately">Eşitle</string>
-    <string name="sync_is_not_closed">Eşitleme şimdi açık</string>
-    <string name="sync_is_off">Eşitleme kapalı</string>
+    <string name="sync_is_not_closed">Senkronize açık</string>
+    <string name="sync_is_off">Senkronize kapalı</string>
     <string name="sync_set_network">Ağ ayarları</string>
-    <string name="sync_status">Eşitleme durumu</string>
-    <string name="sync_status_failure_retry">Eşitlenemedi. Bir ya da iki dakika bekleyin ve tekrar deneyin</string>
-    <string name="sync_status_in_progress">Eşitleniyor</string>
-    <string name="sync_status_network_failure">Eşitlenemedi. Ağa bağlanın ve yeniden deneyin</string>
-    <string name="sync_status_never_done">Eşitlenmedi</string>
-    <string name="sync_status_oauth_error">Veriler eşitlenemedi. Önce gerekli izinleri verin</string>
+    <string name="sync_status">Senkronize durumu</string>
+    <string name="sync_status_failure_retry">Senkronize edilemedi. Bir ya da iki dakika bekleyin ve tekrar deneyin</string>
+    <string name="sync_status_in_progress">Senkronize ediliyor</string>
+    <string name="sync_status_network_failure">Senkronize edilemedi. Ağa bağlanın ve yeniden deneyin</string>
+    <string name="sync_status_never_done">Senkronize edilemedi</string>
+    <string name="sync_status_oauth_error">Veriler senkronize edilemedi. Önce gerekli izinleri verin</string>
+    <string name="system_app_setting">Sistem uygulama ayarları</string>
     <string name="systolic_pressure">Sistolik</string>
     <string name="tb_audio_progress_bar">Ses çalma çubuğu</string>
+    <string name="tb_blood_pressure_day_chart">%1$s. En yüksek sistolik basınç: %2$d milimetre cıva. En düşük diyastolik basınç: %3$d milimetre cıva</string>
+    <string name="tb_blood_pressure_item">%1$s. Sistolik basınç: %2$d milimetre cıva. Diyastolik basınç: %3$d milimetre cıva</string>
+    <string name="tb_blood_pressure_wm_card">Ortalama sistolik basınç: %1$d milimetre cıva. Ortalama diyastolik basınç: %2$d milimetre cıva. En yüksek sistolik basınç: %3$d milimetre cıva. En yüksek diyastolik basınç: %4$d milimetre cıva. En düşük sistolik basınç: %5$d milimetre cıva. En düşük diyastolik basınç: %6$d milimetre cıva</string>
     <string name="tb_card_on_using_list">Eklendi</string>
     <string name="tb_click_finish_stand">Görünüşe göre son bir saat içinde ayağa kalkmadınız. Varsa el ile bir kayıt ekleyin</string>
     <string name="tb_current_select">%1$s şuan seçili</string>
@@ -1270,9 +1279,9 @@ bulunamadı"</string>
     <string name="tb_exercise_detail_consume_no_data">Yanmış Kalori hakkında bilgi yok</string>
     <string name="tb_exercise_detail_consume_w_m_normal">Ortalama yanmış kalori: %1$d. Toplam Yanmış Kalori: %2$d</string>
     <string name="tb_exercise_detail_data">%1$s için istatistikler görüntüleniyor</string>
-    <string name="tb_exercise_detail_duration_daily_enough">Dakika cinsinden ortalama yüksek yoğunlukta egzersiz süresi: %1$d. Egzersiz yeterliydi</string>
+    <string name="tb_exercise_detail_duration_daily_enough">Dakika cinsinden orta ila yüksek yoğunlukta egzersiz süresi: %1$d. Egzersiz yeterliydi</string>
     <string name="tb_exercise_detail_duration_daily_not_enough">Dakika cinsinden true yüksek yoğunlukta egzersiz süresi: %1$d. Egzersiz yeterince üretken değildi</string>
-    <string name="tb_exercise_detail_duration_no_data">Ortalama yüksek yoğunluklu egzersiz süresi bilgisi yok</string>
+    <string name="tb_exercise_detail_duration_no_data">Orta ila yüksek yoğunluk egzersiz süre bilgisi yok</string>
     <string name="tb_exercise_detail_duration_w_m_normal">Dakika cinsinden günlük ortalama: %1$d. Toplam dakika: %2$d</string>
     <string name="tb_exercise_detail_pillar">%1$s ile %2$s arasındaki adımlar: %3$s</string>
     <string name="tb_exercise_detail_pillar_cancel">Seçimi iptal et</string>
@@ -1283,8 +1292,8 @@ bulunamadı"</string>
     <string name="tb_exercise_detail_step_w_m_no_data">Adım sayısı verisi yok. Hedefe ulaştığınız günler: %1$d</string>
     <string name="tb_exercise_detail_step_w_m_no_goal">Ortalama günlük adım sayısı: %1$d</string>
     <string name="tb_exercise_detail_step_w_m_normal">Ortalama günlük adım sayısı: %1$d. Hedefe ulaştığınız günler: %2$d</string>
-    <string name="tb_exercise_exercise_duration">Dakika cinsinden ortalama yüksek yoğunlukta egzersiz süresi: %1$d. %2$s. Ayrıntıları görüntülemek için dokunun</string>
-    <string name="tb_exercise_exercise_no_data">Ortalama yüksek yoğunluklu egzersiz yok</string>
+    <string name="tb_exercise_exercise_duration">Dakika cinsinden orta ila yüksek yoğunlukta egzersiz süresi: %1$d. %2$s. Ayrıntıları görüntülemek için dokunun</string>
+    <string name="tb_exercise_exercise_no_data">Orta ila yüksek yoğunluk egzersizi yok</string>
     <string name="tb_exercise_goal_info">Günlük etkinlik hedefi: %1$s. %2$s</string>
     <string name="tb_exercise_home_banner">Günlük giriş</string>
     <string name="tb_exercise_label_close">İstemi kapat</string>
@@ -1435,8 +1444,8 @@ bulunamadı"</string>
     <string name="time_duration_number">%1$s:%2$s</string>
     <string name="time_format_hh_mm">HH:mm</string>
     <string name="time_picker_dialog_title">Zamanı ayarla</string>
-    <string name="time_picker_label_hour">S</string>
-    <string name="time_picker_label_minute">D</string>
+    <string name="time_picker_label_hour">" saat"</string>
+    <string name="time_picker_label_minute">" dakika"</string>
     <string name="tips_default">Veri yok</string>
     <string name="title_auto_run">Otomatik başlatma</string>
     <string name="title_click_record_menstruation">Bir adet dönemini kaydedin</string>
@@ -1482,6 +1491,7 @@ bulunamadı"</string>
     <string name="unit_metre">" metre"</string>
     <string name="unit_min">" dakika"</string>
     <string name="unit_number_format">%1$d</string>
+    <string name="unit_percent">%</string>
     <string name="unit_second">" saniye"</string>
     <string name="unit_thousand_format">%1$sK</string>
     <string name="unknown">Bilinmiyor</string>
@@ -1536,5 +1546,5 @@ Delta güncelleme boyutu: %2$s"</string>
     <string name="xiaomi_update_sdk_kilobytes_unit">%1$sKB</string>
     <string name="xiaomi_update_sdk_megabytes_unit">%1$sMB</string>
     <string name="year">Yıl</string>
-    <string name="yesterday">Yesterday</string>
+    <string name="yesterday">Dün</string>
 </resources>

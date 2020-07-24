@@ -8,6 +8,10 @@
         <item quantity="other">%1$d saniye içinde ana sayfaya geri gidiliyor</item>
         <item quantity="one">%1$d saniye içinde ana sayfaya geri gidiliyor</item>
     </plurals>
+    <plurals name="follower">
+        <item quantity="other">%d takipçi</item>
+        <item quantity="one">%d takipçi</item>
+    </plurals>
     <plurals name="lv_subtitle_offset_advance_times">
         <item quantity="other">Altyazı %.1f saniye erken görüntülenecek</item>
         <item quantity="one">Altyazı %.1f saniye erken görüntülenecek</item>
@@ -24,9 +28,13 @@
         <item quantity="other">%d video</item>
         <item quantity="one">%d video</item>
     </plurals>
+    <plurals name="mediation_animate_close_after">
+        <item quantity="other">%s saniye kaldı</item>
+        <item quantity="one">%s saniye kaldı</item>
+    </plurals>
     <plurals name="notice_user_banned">
-        <item quantity="other">"İçeriğiniz, topluluk standartlarımızı ihlal eden ögeler (%1$s) içeriyor. Hesabınız %2$s'e kadar %3$d gün askıya alındı."</item>
-        <item quantity="one">"İçeriğiniz, topluluk standartlarımızı ihlal eden ögeler (%1$s) içeriyor. Hesabınız %2$s'e kadar %3$d gün askıya alındı."</item>
+        <item quantity="other">"İçeriğiniz topluluk standartlarımızı ihlal eden öğeler içeriyor (%1$s). Hesabınız %2$s'e kadar %3$d gün askıya alındı"</item>
+        <item quantity="one">"İçeriğiniz topluluk standartlarımızı ihlal eden öğeler içeriyor (%1$s). Hesabınız %2$s'e kadar %3$d gün askıya alındı"</item>
     </plurals>
     <plurals name="notification_close_tip">
         <item quantity="other">Bu özellik %s gün için kapatılacaktır</item>
