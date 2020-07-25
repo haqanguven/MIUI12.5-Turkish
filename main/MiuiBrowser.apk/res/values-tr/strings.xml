@@ -409,6 +409,8 @@ Kablosuz ağa tekrar bağlandığınızda bu içeriği indirmeye başlamak için
     <string name="comment_fail">Yorum eklenemedi. Tekrar deneyin</string>
     <string name="comment_flag_choice">Öne çıkan</string>
     <string name="comment_flag_top">Sabitlenen</string>
+    <string name="comment_forbid">Yorumları desteklemiyor</string>
+    <string name="comment_forbid_article">Makale yorumları desteklemiyor</string>
     <string name="comment_hint">Yorum</string>
     <string name="comment_just_now">Şu anda</string>
     <string name="comment_max_length">Yorumunuz çok uzun</string>
@@ -484,6 +486,7 @@ Kablosuz ağa tekrar bağlandığınızda bu içeriği indirmeye başlamak için
     <string name="debug_browser_sug_title">Sug için arama:</string>
     <string name="debug_browser_switch">Tek bir tıklamayla test ortamını değiştirin</string>
     <string name="debug_browser_title">Gerekli alan adını girin:</string>
+    <string name="debug_browser_user_task_title">Görev merkezi adresi:</string>
     <string name="debug_browser_warning">Özel ortam tek tıklamayla değiştirme işlemini kapatın</string>
     <string name="debug_code_hint">Lütfen gizli bir kod girin</string>
     <string name="debug_code_warning">Hayaletler var. İşlemi sonlandırın</string>
@@ -502,6 +505,7 @@ Kablosuz ağa tekrar bağlandığınızda bu içeriği indirmeye başlamak için
     <string name="delete_bookmark_warning">%s yer imi silinsin mi?</string>
     <string name="delete_download">Sil</string>
     <string name="delete_select_book_ask">Cihazdaki dosyaları sil</string>
+    <string name="dev_pref_debug_login">Hata ayıklama girişini simüle et</string>
     <string name="dev_pref_title_jump">Sayfa atla</string>
     <string name="dialog_ad_exit_exit_app">Daha sonra aç</string>
     <string name="dialog_ad_exit_open_app">Şimdi aç</string>
@@ -548,6 +552,7 @@ Biz daha iyisini yapmak için bize bir övgü verin"</string>
     <string name="download_btn_select_none">Seçimleri kaldır</string>
     <string name="download_complete">Başarıyla indirildi</string>
     <string name="download_completed">İndirildi</string>
+    <string name="download_confirm_dialog_title">Risk uyarısı</string>
     <string name="download_dialog_default_path_invalid">Seçmiş olduğunuz indirme konumu geçersiz. Varsayılan konuma kaydediliyor</string>
     <string name="download_dialog_file_length_default_txt">Yükleniyor</string>
     <string name="download_dialog_file_length_lessthan1kb">"1 KB'dan daha az"</string>
@@ -569,6 +574,9 @@ Biz daha iyisini yapmak için bize bir övgü verin"</string>
     <string name="download_no_sdcard_dlg_msg">%s indirme işlemi için bir SD kart gerekmektedir</string>
     <string name="download_no_sdcard_dlg_title">SD kart yok</string>
     <string name="download_pending">İndirmeye başlanıyor</string>
+    <string name="download_proceed">Normal indir</string>
+    <string name="download_risk_alert_content">Oyun Xiaomi market tarafından doğrulanmadı. Normal indirmeyi seçerek risklerin ve sonuçların farkında olduğunuzu belirtirsiniz</string>
+    <string name="download_safe">Güvenli indir</string>
     <string name="download_sdcard_busy_dlg_msg">SD kart meşgul. İndirme işlemlerine izin vermek için SD kartı bildirim çubuğunda kapatın</string>
     <string name="download_sdcard_busy_dlg_title">SD kart yok</string>
     <string name="download_status_failed">İndirilemedi</string>
@@ -1018,6 +1026,7 @@ Mi hesabınızda oturum açın"</string>
     <string name="load_more_footer_status_msg_full">Başka veri yok</string>
     <string name="load_more_footer_status_msg_idle">Daha fazla yüklemek için tıklayın</string>
     <string name="load_more_footer_status_msg_loading">Yükleniyor</string>
+    <string name="load_sever_data_error">Sunucu yanıtı alınamıyor. Llütfen daha sonra tekrar deneyin</string>
     <string name="loading">Yükleniyor</string>
     <string name="loading_dialog_title">Taşınıyor</string>
     <string name="login_failed_toast">Oturum açılamadı. Yenileyin ve ardından tekrar deneyin</string>
@@ -1521,6 +1530,7 @@ Bu sayfadan ayrılmak istediğinize emin misiniz?"</string>
     <string name="save_to_camera">Galeriye kaydet</string>
     <string name="save_to_camera_failed">Resim kaydedilemiyor</string>
     <string name="save_to_camera_success">Galeriye kaydedildi</string>
+    <string name="saved_sucess">Kaydedildi</string>
     <string name="scanner_uninstalled_text">Devam etmek için Barkod okuyucu yükleyin</string>
     <string name="scanner_uninstalled_title">Tarayıcı kaldırıldı</string>
     <string name="screenshot_loading_dialog_title">Yakalanıyor</string>
@@ -1611,6 +1621,7 @@ Yetkilendirmeyi durdurmak için bu sayfadan çıkmayı seçebilirsiniz"</string>
     <string name="sign_in_to" formatted="false">%s1 için oturum aç: %s2</string>
     <string name="skip_current_version">Bu sürümü atla</string>
     <string name="slide_guide">Geri dönmek için kaydırın</string>
+    <string name="slide_guide_back">Sayfayı geri yüklemek için sağa kaydırın</string>
     <string name="small_video_ad_app_text_click">İndir</string>
     <string name="small_video_ad_download_text">İndir</string>
     <string name="small_video_ad_web_text">Aç</string>
@@ -2379,7 +2390,8 @@ feedsContentId:
     <string name="vo_info_flow_load_more_loading">Yükle</string>
     <string name="vo_info_flow_load_more_title">El ile yüklemeyi deneyin. Buraya tıklayın</string>
     <string name="vo_info_flow_refresh_empty">Güncelleme yok</string>
-    <string name="vo_info_flow_refresh_error">Ağ güçlü değil. Lütfen ağ durumunu kontrol edin</string>
+    <string name="vo_info_flow_refresh_error">Ağ bağlantısı zayıf. Lütfen ağ durumunu kontrol edin</string>
+    <string name="vo_info_flow_refresh_sever_data_error">Sonucudan yanın alınamadı. Daha sonra tekrar deneyin</string>
     <string name="vo_info_flow_rs_hint">Ara</string>
     <string name="vo_like_text">Beğen</string>
     <string name="vo_location_change_cancel">Bir dahaki sefere söyle</string>
