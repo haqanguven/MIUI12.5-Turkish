@@ -215,7 +215,7 @@
     <string name="image_file_name_format">"'scanner'_yyyyMMdd_HHmmss"</string>
     <string name="importFailed">İçe aktarılamadı</string>
     <string name="import_contact">Kişiyi içe aktar</string>
-    <string name="impunity_declaration_content">"Barkod okuyucunuz kameranızı kullanması ve uygulamayı kullanırken çektiğiniz görüntüleri işlemesi gerekir. Kişisel bilgilerinizi içeren nesnelerin fotoğrafını çekmek için barkod okuyucuyu kullanmayın. &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Gizlilik politikamızı&lt;/a>&lt;/font> okuyun ve kabul edin"</string>
+    <string name="impunity_declaration_content">Barkod okuyucunuz kameranızı kullanması ve uygulamayı kullanırken çektiğiniz görüntüleri işlemesi gerekir. Kişisel bilgilerinizi içeren nesnelerin fotoğrafını çekmek için barkod okuyucuyu kullanmayın. Gizlilik politikamızı okuyun ve kabul edin: %1$s</string>
     <string name="impunity_declaration_negative_text">Çık</string>
     <string name="impunity_declaration_title">Gizlilik politikası</string>
     <string name="intelligent_recognition">Akıllı tanıma</string>
@@ -278,7 +278,7 @@
     <string name="monitor_result_switch_text">Kayıt sonucu</string>
     <string name="monitor_result_switch_video">Videoyu görüntüle</string>
     <string name="monitor_unsupport_device">Cihaz şu anda desteklenmiyor</string>
-    <string name="monitoringAlert_content">"　　Lütfen çevrimiçi ders ekranına bakın ve normal oturma pozisyonunuzu koruyun. Telefonu fotoğraf makinesi yüze bakacak şekilde doğrudan görüş hattının önünde 30°'den fazla olmayan bir açıyla yerleştirin. Ardından başlat düğmesine tıklayın
+    <string name="monitoringAlert_content">"Lütfen çevrimiçi ders ekranına bakın ve normal oturma pozisyonunuzu koruyun. Telefonu fotoğraf makinesi yüze bakacak şekilde doğrudan görüş hattının önünde 30°'den fazla olmayan bir açıyla yerleştirin. Ardından başlat düğmesine tıklayın
 * Bu yazılım bir çevrimiçi sınıf cihaz olarak değil yalnızca dikkatin algılanması içindir. Tanımlamaya ve düzeltmeye başlamadan önce birkaç saniye geçecektir"</string>
     <string name="monitoringCHeck_pause">Zaman aşımı</string>
     <string name="monitoringCheck_alert">Lütfen dik oturun ve çevrimiçi ders ekranına bakın</string>

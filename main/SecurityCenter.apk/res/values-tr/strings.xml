@@ -168,8 +168,10 @@
     <string name="antivirus_privacy_dialog_cloudscan">Uygulama adlarını ve detaylarını karşıya yükle</string>
     <string name="antivirus_privacy_dialog_cloudscan_description">Uygulama isimlerini ve ayrıntıları yükle ve çevrimiçi virüs veritabanını kullanarak tara</string>
     <string name="antivirus_privacy_dialog_ok">Tamam</string>
-    <string name="antivirus_privacy_dialog_summary">Bu özellik cihazınızın kimliğini şifreler. Avast, AVL ve Tencent sunucularına yükler (%s)</string>
-    <string name="antivirus_privacy_dialog_summary_link">Gizlilik politikasını görüntüle</string>
+    <string name="antivirus_privacy_dialog_summary_link">Gizlilik politikası</string>
+    <string name="antivirus_privacy_dialog_summary_new"><Data>Bu özellik Avast, AVL ve Tencent tarafından sağlanan antivirüs tanımlarını kullanır. Daha fazla bilgi edinmek için ilgili &lt;a href=\"%1$s\">lisans sözleşmelerini&lt;/a> okuyun</Data></string>
+    <string name="antivirus_privacy_dialog_summary_not_have_avast"><Data>Bu özellik AVL ve Tencent tarafından sağlanan antivirüs tanımlarını kullanır. Daha fazla bilgi edinmek için ilgili &lt;a href=\"%1$s\">lisans sözleşmelerini&lt;/a> okuyun</Data></string>
+    <string name="antivirus_privacy_dialog_summary_not_have_tencent"><Data>Bu özellik Avast ve AVL tarafından sağlanan antivirüs tanımlarını kullanır. Daha fazla bilgi edinmek için ilgili &lt;a href=\"%1$s\">lisans sözleşmelerini&lt;/a> okuyun</Data></string>
     <string name="antivirus_privacy_dialog_title">Gizlilik politikası</string>
     <string name="antivirus_sec_network_unavailable">Güvenlik uygulaması internet erişimini kısıtlamış olduğunuzdan dolayı güncellenemiyor. Güvenlik uygulamasının internete bağlanmasına izin verilsin mi?</string>
     <string name="antivirus_toast_already_update">Güncel</string>
@@ -232,6 +234,10 @@
     <string name="app_behavior_location_bg">%1s arka planda konum bilgisi almaya çalıştı</string>
     <string name="app_behavior_location_bg_single">Bu uygulama arka planda konumunuza erişti</string>
     <string name="app_behavior_location_single">Bu uygulama konumunuza erişti</string>
+    <string name="app_behavior_media_volume">%1s ayarlı ortam hacmi</string>
+    <string name="app_behavior_media_volume_bg">%1s arka planda ayarlanan medya hacmi</string>
+    <string name="app_behavior_media_volume_bg_single">Bu uygulamaya arka planda medya hacmini ayarladı</string>
+    <string name="app_behavior_media_volume_single">Bu uygulamaya medya hacmini ayarladı</string>
     <string name="app_behavior_menu_about">Uygulama davranış kayıtları hakkında</string>
     <string name="app_behavior_monitor_off">Hassas davranış bildirimlerini kapat</string>
     <string name="app_behavior_monitor_off_content">Hassas davranış bildirimlerini kapattıktan sonra uygulama arka planda hassas işlemler gerçekleştirirken sistem sizi uyarmaz. Uygulama için hassas davranış bildirimlerini kapatmak istediğinizden emin misiniz?</string>
@@ -798,6 +804,10 @@ Kişisel kırmızı zarfı destekleyin ve kırmızı zarfı gruplayın
     <string name="choose">Seç</string>
     <string name="choose_gs_show_way">Ana sayfa yönünü seç</string>
     <string name="clean_immediately">Temizle</string>
+    <string name="clean_master_icon_recall_button_text">Ekle</string>
+    <string name="clean_master_icon_recall_summary">İhtiyacınız olduğunda çöp kutusunu temizlemek için bir Ana ekran kısayolu ekleyin</string>
+    <string name="clean_master_icon_recall_title">Çöp kutusunu daha hızlı temizleme</string>
+    <string name="clean_master_icon_recall_toast_text">Temizleyici için başarıyla bir ana ekran kısayolu eklendi</string>
     <string name="cleaned">Temizlendi</string>
     <string name="clear_garbage">Depolama alanı açmak için çöpleri temizleyin</string>
     <string name="clear_immediately">Şimdi temizle</string>
