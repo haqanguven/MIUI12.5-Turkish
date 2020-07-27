@@ -28,6 +28,10 @@
         <item quantity="other">%d kayıt indirildi</item>
         <item quantity="one">%d kayıt indirildi</item>
     </plurals>
+    <plurals name="recovery_failed_dialog_message">
+        <item quantity="other">Bilinmeyen bir hatadan dolayı %d öğe geri yüklenemedi</item>
+        <item quantity="one">Bilinmeyen bir hatadan dolayı %d öğe geri yüklenemedi</item>
+    </plurals>
     <plurals name="search_alll_records_hint">
         <item quantity="other">%d kayıt arasında ara</item>
         <item quantity="one">%d kayıt arasında ara</item>
@@ -43,6 +47,18 @@
     <plurals name="search_result">
         <item quantity="other">%d kayıt bulundu</item>
         <item quantity="one">%d kayıt bulundu</item>
+    </plurals>
+    <plurals name="time_left_for_clear_file">
+        <item quantity="other">%d gün kaldı</item>
+        <item quantity="one">%d gün kaldı</item>
+    </plurals>
+    <plurals name="trash_box_delete_items">
+        <item quantity="other">%d seçili kayıt kalıcı olarak silinsin mi?</item>
+        <item quantity="one">%d seçili kayıt kalıcı olarak silinsin mi?</item>
+    </plurals>
+    <plurals name="trash_box_tip">
+        <item quantity="other">Silinen ögeler %d güne kadar çöp kutusunda saklanabilir</item>
+        <item quantity="one">Silinen ögeler %d güne kadar çöp kutusunda saklanabilir</item>
     </plurals>
     <plurals name="unsynced_records_count">
         <item quantity="other">%d öğe senkronize edilmedi</item>

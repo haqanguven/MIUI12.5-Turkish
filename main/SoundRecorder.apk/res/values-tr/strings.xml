@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="abc_action_bar_home_description">Eve gidiş yolunu göster</string>
+    <string name="abc_action_bar_home_description">Ana ekrana git</string>
     <string name="abc_action_bar_up_description">Yukarı git</string>
     <string name="abc_action_menu_overflow_description">Diğer seçenekler</string>
     <string name="abc_action_mode_done">Bitti</string>
     <string name="abc_activity_chooser_view_see_all">Tümünü göster</string>
     <string name="abc_activitychooserview_choose_application">Bir uygulama seçin</string>
-    <string name="abc_capital_off">KAPAT</string>
-    <string name="abc_capital_on">AÇ</string>
+    <string name="abc_capital_off">Kapat</string>
+    <string name="abc_capital_on">Aç</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
-    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-    <string name="abc_menu_delete_shortcut_label">sil</string>
-    <string name="abc_menu_enter_shortcut_label">enter</string>
-    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Kontrol+</string>
+    <string name="abc_menu_delete_shortcut_label">Sil</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">İşlev+</string>
     <string name="abc_menu_meta_shortcut_label">Meta+</string>
-    <string name="abc_menu_shift_shortcut_label">Üst Karakter+</string>
-    <string name="abc_menu_space_shortcut_label">boşluk</string>
-    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_menu_shift_shortcut_label">Üst karakter+</string>
+    <string name="abc_menu_space_shortcut_label">Boşluk</string>
+    <string name="abc_menu_sym_shortcut_label">Sembol+</string>
     <string name="abc_prepend_shortcut_label">Menü+</string>
-    <string name="abc_search_hint">Ara…</string>
+    <string name="abc_search_hint">Ara</string>
     <string name="abc_searchview_description_clear">Sorguyu temizle</string>
     <string name="abc_searchview_description_query">Arama sorgusu</string>
     <string name="abc_searchview_description_search">Ara</string>
@@ -58,7 +58,7 @@
     <string name="delete">Sil</string>
     <string name="delete_cloud_data_at_same_time">Buluttan da sil</string>
     <string name="delete_dialog_message">Kayıt silinsin mi?</string>
-    <string name="deleting_message">Siliniyor…</string>
+    <string name="deleting_message">Siliniyor</string>
     <string name="details">Ayrıntılar</string>
     <string name="dialog_content_storage_full">Cihazınızın dahili depolama alanında yeterli boş alan kalmadığından kayıt durduruldu</string>
     <string name="dialog_privacy_revoke_tips">Yetkilendirmeyi kaldırdıktan sonra uygulama veri toplamayı durduracak ve tüm ilgili veriler sunuculardan silinecektir. Bu durum uygulamayı fiilen kullanılamaz hale getirebilir. Yetki yine de kaldırılsın mı? Hesap güvenliğinizi garanti altına almak için Mi bulut hizmetleri için yetkilendirmeyi kaldırmadan önce i.mi.com adresinde oturum açın</string>
@@ -292,6 +292,11 @@ Metin ses servisinden daha iyi yararlanmak için aşağıdakileri de bilmeniz ge
     <string name="recording_quality_low">Düşük kalite</string>
     <string name="recording_quality_standard">Standart kalite</string>
     <string name="recording_stopped">Durdu</string>
+    <string name="recording_timer_format_four_sections" formatted="false">%02d:%02d:%02d.%02d</string>
+    <string name="recording_timer_format_three_sections" formatted="false">%02d:%02d.%02d</string>
+    <string name="recovery">Geri yükle</string>
+    <string name="recovery_failed_dialog_button">Anladım</string>
+    <string name="recovery_failed_dialog_title">Uyarı</string>
     <string name="reg_error_audio_exist">Bu dosya zaten mevcut</string>
     <string name="reg_error_audio_large">Ses dosyaları 500MB boyutundan büyük olamaz</string>
     <string name="reg_error_audio_short">Ses dosyası çok küçük</string>
@@ -308,9 +313,10 @@ Metin ses servisinden daha iyi yararlanmak için aşağıdakileri de bilmeniz ge
     <string name="rename_duplicate">Aynı isime sahip başka bir kayıt zaten mevcut</string>
     <string name="rename_fail_tip">Yeniden adlandırılamadı. Bu adı taşıyan başka bir öge zaten mevcut</string>
     <string name="rename_no_more_tip">Tekrar gösterme</string>
-    <string name="required_permissions">android.permission.READ_PHONE_STATE;android.permission.RECORD_AUDIO;android.permission.READ_EXTERNAL_STORAGE;android.permission.WRITE_EXTERNAL_STORAGE;</string>
+    <string name="required_permissions">android.permission.RECORD_AUDIO;android.permission.READ_EXTERNAL_STORAGE;android.permission.WRITE_EXTERNAL_STORAGE;</string>
     <string name="retry">Yeniden dene</string>
     <string name="runtime_permission_ungranted">Gerekli izinler sağlanmadığından ses kaydedici kullanılamıyor</string>
+    <string name="save_record_dialog_title">Kaydı kaydet</string>
     <string name="search_app">Ses kaydedici</string>
     <string name="search_empty">Sonuç bulunamadı</string>
     <string name="search_enable_earpiece_title">Sesi oynatmak için alıcı kullan</string>
@@ -358,7 +364,11 @@ Metin ses servisinden daha iyi yararlanmak için aşağıdakileri de bilmeniz ge
     <string name="title_activity_recinbox_sdk_browser">RecinboxSdkBrowser</string>
     <string name="toast_max_record_time">%1$s, %2$s dakika civarı kayıt yapabilir</string>
     <string name="toast_uninstall_fileexplorer">Dosya Yöneticisi yüklü değil</string>
+    <string name="trash_box">Son silinen öğeler</string>
+    <string name="trash_box_close_tip">İstemi kapat</string>
+    <string name="trash_box_delete_all">Tüm öğeler çöp kutusundan kalıcı olarak silinsin mi?</string>
     <string name="usage_description">Sesin kopyalanması ve öğelerin bulut ile senkronize edilmesi</string>
+    <string name="user_feedback">Geri bildirim</string>
     <string name="v7_preference_off">Kapalı</string>
     <string name="v7_preference_on">Açık</string>
     <string name="webview_check_network">Ağ ayarları</string>
