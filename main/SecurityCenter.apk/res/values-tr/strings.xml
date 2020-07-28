@@ -1293,7 +1293,7 @@ arama geçmişine geri yüklensin mi?"</string>
     <string name="first_aid_item5_content">Diğer sorunlar</string>
     <string name="first_aid_result_feedback_button">Gönder</string>
     <string name="first_aid_result_feedback_summary">İlk yardım taraması hiç sorun bulamadı. Ancak, ben bir kaç sorun tespit ettim</string>
-    <string name="first_aid_result_feedback_title">Geribildirim</string>
+    <string name="first_aid_result_feedback_title">Geri bildirim</string>
     <string name="first_aid_result_summary_normal">Her şey yolunda gözüküyor</string>
     <string name="first_aid_result_summary_not_finished">Tarama tamamlanmadı. Bazı riskler tespit edilmemiş olabilir</string>
     <string name="first_aid_scanning_item1">Performans sorunları kontrol ediliyor</string>

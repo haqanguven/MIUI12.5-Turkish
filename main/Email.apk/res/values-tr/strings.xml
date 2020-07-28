@@ -1221,8 +1221,8 @@ Tamamen senkronize edilmesini bekleyin veya mesajı bilgisayarınızda görünt�
     <string name="send_encrypt_dialog_fail_content">Alıcının güvenilir bir imza sertifikası olmadığı için bu e-posta şifrelenemez. Bu e-posta şifrelenmemiş bir biçimde mi gönderildi?</string>
     <string name="send_encrypt_dialog_fail_title">Şifreli posta gönderilemiyor</string>
     <string name="send_failed">Mesaj gönderilemedi</string>
-    <string name="send_feed_back">Geribildirim gönder</string>
-    <string name="send_feed_back_keywords">geribildirim gönder</string>
+    <string name="send_feed_back">Geri bildirim gönder</string>
+    <string name="send_feed_back_keywords">geri bildirim gönder</string>
     <string name="send_mail">Gönder</string>
     <string name="sender_whitelist_cleared">Resimler otomatik olarak görüntülenmeyecek</string>
     <string name="senders_elided">..</string>

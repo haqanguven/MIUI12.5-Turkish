@@ -304,7 +304,7 @@
     <string name="plusDesc">toplama</string>
     <string name="powerDesc">güç</string>
     <string name="preference_about_calculator">Hesaplayıcı hakkında</string>
-    <string name="preference_alert_follow_qq_group">Geribildirimde bulunmak için verileri kopyalayın ve QQ uygulamasına yapıştırın</string>
+    <string name="preference_alert_follow_qq_group">Geri bildirimde bulunmak için verileri kopyalayın ve QQ uygulamasına yapıştırın</string>
     <string name="preference_alert_follow_wechat">"Takip etmek için kopyalayın ve WeChat'e yapıştırın"</string>
     <string name="preference_alert_follow_wechat_button">Kopyala</string>
     <string name="preference_check_update_summary_current_version">Mevcut sürüm: %s</string>
