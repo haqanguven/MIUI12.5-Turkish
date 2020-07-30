@@ -175,7 +175,7 @@ Alternatif olarak basit modu kapatabilir ve tekrar deneyebilirsiniz"</string>
     <string name="miui_clean">Temizle</string>
     <string name="miui_clear_apk_desc">Kurulum paketi ve artık veriler silindi (%s)</string>
     <string name="miui_clear_apks_summary">Toplam %s</string>
-    <string name="miui_clear_apks_title">Kurulum paketini ve kalan verileri sil (%s)</string>
+    <string name="miui_clear_apks_title">Kurulum paketini otomatik temizle</string>
     <string name="miui_compatibility_desc">Bu uygulama cihazınız için optimize edilmemiştir. Uygulamayı yüklemeniz durumunda düzgün çalışmayabilir. Geliştiriciler mevcut uyumluluk sorunlarını çözene kadar bekleyin ve daha sonra uygulamanın yeni sürümünü yükleyin</string>
     <string name="miui_delete">Kaldır</string>
     <string name="miui_failed_already_exists">Uygulama zaten yüklenmiş durumda</string>
@@ -305,7 +305,7 @@ Alternatif olarak basit modu kapatabilir ve tekrar deneyebilirsiniz"</string>
     <string name="privacyPerms">Gizlilik</string>
     <string name="privacy_relative">Gizlilik</string>
     <string name="reboot_time">Yeniden başlatmaya hazırlanıyor (%1$s)</string>
-    <string name="replace_app_des_text">Uygulama bu sürümle değiştirilsin mi?</string>
+    <string name="replace_app_des_text">Uygulama bu sürüm ile değiştirilsin mi?</string>
     <string name="review_button_cancel">İptal et</string>
     <string name="review_button_continue">Devam et</string>
     <string name="risk_warning_bottom_button">GetApps uygulamasından yükle</string>
@@ -356,9 +356,9 @@ Alternatif olarak basit modu kapatabilir ve tekrar deneyebilirsiniz"</string>
     <string name="unknown_installer">Tanımlanamayan bilgisayar araçları</string>
     <string name="unlike">Hayır</string>
     <string name="untrusted_external_source_always_click">Her zaman izin ver</string>
-    <string name="untrusted_external_source_title">%1$s uygulamasının uygulama yüklemesine izin ver</string>
+    <string name="untrusted_external_source_title">%1$s uygulamasının uygulama yüklemesi</string>
     <string name="untrusted_external_source_warning">Güvenliğiniz için telefonunuzun bu kaynaktan gelen bilinmeyen uygulamaları yükleme izni yoktur</string>
-    <string name="untrusted_external_source_warning_summary">Telefonunuz ve kişisel verileriniz bilinmeyen kaynaklardan gelen saldırılara karşı savunmasızdır. Bu kaynaktan uygulamaların yüklenmesine izin vererek bu uygulamaların kullanılmasından kaynaklanabilecek telefon hasarı veya veri kaybı için sorumluluk kabul etmeyi kabul edersiniz</string>
+    <string name="untrusted_external_source_warning_summary">Telefonunuz ve kişisel verileriniz bilinmeyen kaynaklardan gelen saldırılara karşı savunmasızdır. Bu kaynaktan uygulama yükleyerek bu uygulamaları kullanmanız sonucunda telefonunuzun başına gelebilecek her tür hasardan ve veri kaybından kendinizin sorumlu olduğunu kabul etmiş olursunuz</string>
     <string name="user_is_not_allowed_dlg_text">Mevcut kullanıcının kaldırma işlemini gerçekleştirme izni yok</string>
     <string name="user_is_not_allowed_dlg_title">İzin verilmedi</string>
     <string name="v7_preference_off">OFF</string>

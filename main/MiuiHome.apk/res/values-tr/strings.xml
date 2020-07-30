@@ -365,6 +365,8 @@
     <string name="menu_launcher_setting">Başlatıcı ayarları</string>
     <string name="menu_lock">Ana ekran düzenini kilitle</string>
     <string name="menu_more">Daha fazla</string>
+    <string name="menu_new_display_open">Yeni pencerede aç</string>
+    <string name="menu_pc_open">Bilgisayar programı ile aç</string>
     <string name="menu_picktheme">Bir tema seçin</string>
     <string name="menu_reset_scene">Varsayılan düzene sıfırla</string>
     <string name="menu_search">Arama</string>
@@ -414,6 +416,10 @@
     <string name="navigation_guide_settings">Hareket önizlemeleri</string>
     <string name="navigation_type_full_screen">Hareketler</string>
     <string name="navigation_type_title">Sistem navigasyonu</string>
+    <string name="navigation_type_title_synonyms_1">Tam ekran</string>
+    <string name="navigation_type_title_synonyms_2">Küçük beyaz çubuk</string>
+    <string name="navigation_type_title_synonyms_3">Tam ekran hareketleri</string>
+    <string name="navigation_type_title_synonyms_4">Gezinme tuşu</string>
     <string name="navigation_type_virtual_key">Tuşlar</string>
     <string name="no_detail_page">Ayrıntı sayfası yok</string>
     <string name="no_space_toast">Yeterli boş alan yok</string>
@@ -431,6 +437,7 @@
     <string name="open_personal_assistant_dialog_desc_international">Uygulama kasası kartlarını kullanamayacaksınız. Güncellemeleri almaya devam edeceksiniz</string>
     <string name="open_personal_assistant_dialog_title">Uygulama kasasını kapat</string>
     <string name="open_personal_assistant_title">Uygulama kasası</string>
+    <string name="open_personal_assistant_title_synonyms">Negatif ekran</string>
     <string name="out_of_space">Ana ekranda yeterli boş alan yok</string>
     <string name="perfect_icons_switch_summary">Animasyonları üçüncü taraf uygulama simgelerinden oluşturur</string>
     <string name="perfect_icons_switch_title">Simge animasyonları</string>

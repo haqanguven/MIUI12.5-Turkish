@@ -40,8 +40,8 @@
     <string name="bmi_label_overweight">Aşırı kilolu</string>
     <string name="bmi_label_underweight">Zayıf</string>
     <string name="bmi_normal">Normal</string>
-    <string name="bmi_over_weight">Overweight</string>
-    <string name="bmi_underweight">Underweight</string>
+    <string name="bmi_over_weight">Aşırı kilolu</string>
+    <string name="bmi_underweight">Zayıf</string>
     <string name="btn_float_window_alpha">Saydamlığı ayarla</string>
     <string name="btn_float_window_back_to_app">Hesaplayıcıyı maksimize et</string>
     <string name="btn_float_window_close">Küçültülmüş hesaplayıcıyı taşı</string>
@@ -152,6 +152,7 @@
     <string name="investment_invalid_duration">Yatırım süresi sıfırdan büyük olmalıdır</string>
     <string name="investment_type_once">Bir kez</string>
     <string name="investment_type_recurring">Yinelenen</string>
+    <string name="item_page_title_investment">Yatırım hesaplayıcı</string>
     <string name="item_title_aa_payment">Faturayı böl</string>
     <string name="item_title_age">Yaş</string>
     <string name="item_title_area_conversion">Alan</string>
@@ -163,6 +164,7 @@
     <string name="item_title_dress_size">Kıyafet bedeni</string>
     <string name="item_title_emi">Bireysel kredi</string>
     <string name="item_title_gst">GST</string>
+    <string name="item_title_investment">Yatırım</string>
     <string name="item_title_length_conversion">Uzunluk</string>
     <string name="item_title_loan">Kredi</string>
     <string name="item_title_mortgage">Ev kredisi</string>
@@ -1005,8 +1007,6 @@ Delta güncellemesi boyutu: %2$s"</string>
     <string name="heavenly_stems_xin">Xin</string>
     <string name="heavenly_stems_yi">Yi</string>
     <string name="husband">Erkek eş</string>
-    <string name="item_page_title_investment">Yatırım hesaplayıcısı</string>
-    <string name="item_title_investment">Yatırım</string>
     <string name="letter_a">A</string>
     <string name="letter_b">B</string>
     <string name="letter_c">C</string>
@@ -1173,7 +1173,7 @@ Delta güncellemesi boyutu: %2$s"</string>
     <string name="tuesday">Salı</string>
     <string name="tuesday_short">Salı</string>
     <string name="tuesday_shortest">S</string>
-    <string name="unit_data_default_currency_0">CNY</string>
+    <string name="unit_data_default_currency_0">JPY</string>
     <string name="unit_data_default_currency_1">USD</string>
     <string name="unit_data_default_currency_2">EUR</string>
     <string name="unit_data_default_length_0">m</string>
