@@ -39,6 +39,7 @@
     <string name="ads_install_button_isInstalling">Yükleniyor</string>
     <string name="ads_install_button_waiting">Bekleniyor</string>
     <string name="ads_summary">%1$s yükleyen kişiler aynı zamanda bunlarıda beğendi</string>
+    <string name="ads_summary_default_value">Bu uygulamayı yükleyen kullanıcılar şunları da beğendi</string>
     <string name="allPerms">Tümü</string>
     <string name="all_permissions">Tüm izinler</string>
     <string name="anonymous_source_continue">Devam et</string>
