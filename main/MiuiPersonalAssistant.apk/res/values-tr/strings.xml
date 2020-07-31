@@ -76,6 +76,7 @@
     <string name="agenda_need_install_alipay">"Bu özellik Alipay'i kullandıktan sonra kurulmalıdır"</string>
     <string name="agenda_no_title">İsimsiz</string>
     <string name="agenda_open">Takvim hatırlatıcıları aç</string>
+    <string name="agenda_add_text">+Program Ekle</string>
     <string name="agenda_pay_is_not_available">Ödeme servisi mevcut değil</string>
     <string name="agenda_payment_not_available">Ödeme servisi mevcut değil</string>
     <string name="agenda_repay_date">Ödenmesi gereken ödeme: %1$s</string>
