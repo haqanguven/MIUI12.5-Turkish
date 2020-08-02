@@ -488,7 +488,7 @@
     <string name="app_pa_setting_service_timetable">Sınıf programı</string>
     <string name="app_pa_setting_service_timetable_summary">Tüm sınıflarınız tek bir yerde</string>
     <string name="app_pa_setting_title">Ayarlar</string>
-    <string name="app_pa_setting_version">Sürüm: %1$s</string>
+    <string name="app_pa_setting_version">@KaraMasque Sürüm: %1$s</string>
     <string name="app_paycode_parent">Alipay</string>
     <string name="app_screen_time_auth">Hizmet açma yetkisi</string>
     <string name="app_screen_time_no_time_title">&lt;1 dakika</string>
