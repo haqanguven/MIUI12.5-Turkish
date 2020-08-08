@@ -148,6 +148,7 @@
     <string name="doc_wps">WPS</string>
     <string name="doc_xls">XLS</string>
     <string name="downloading">İndiriliyor</string>
+    <string name="drag_not_support_with_dir">Klasör yeniden düzenlenemiyor veya gönderilemiyor</string>
     <string name="enable_sd_card">SD kart bozuk veya bağlantısı kesildi</string>
     <string name="enable_usb">USB cihazı bozuk veya bağlantısı kesildi</string>
     <string name="encrypt_error">Dosyalar gizlenemedi. Tekrar deneyin</string>
@@ -257,6 +258,8 @@
     <string name="menu_item_sort_name">İsim</string>
     <string name="menu_item_sort_type">Tür</string>
     <string name="menu_item_usb">USB</string>
+    <string name="menu_new_display_open">Yeni pencerede aç</string>
+    <string name="menu_pc_open">Bilgisayar programı ile aç</string>
     <string name="menu_set_wallpaper">Duvar kağıdı olarak ayarla</string>
     <string name="mi_router_label">Yönlendirici</string>
     <string name="mi_share">Mi paylaşım</string>
@@ -355,6 +358,7 @@
     <string name="phone_storage_zip_title">Arşivler: </string>
     <string name="pick_file">Dosyaları seçin</string>
     <string name="pick_folder">Klasör seçin</string>
+    <string name="pkgname_zsxq">Bilgi gezegeni</string>
     <string name="port_range">Bağlantı noktası 1024-65535 aralığında olmalıdır</string>
     <string name="preference_copied">%1$s panoya kopyalandı</string>
     <string name="privacy_policy">Gizlilik Politikası</string>
@@ -390,6 +394,7 @@
     <string name="rlv_pull_to_refresh">Yenilemek için çekin</string>
     <string name="rlv_refreshing">Yenileniyor</string>
     <string name="rlv_release_to_refresh">Yenilemek için bırakın</string>
+    <string name="save_file_to_mishare">Mi paylaşım klasörüne kaydedildi</string>
     <string name="search_app">Uygulamalar &amp; klasörler</string>
     <string name="search_app_more">Daha fazla</string>
     <string name="search_description">Cihazdaki tüm dosyaları ara</string>

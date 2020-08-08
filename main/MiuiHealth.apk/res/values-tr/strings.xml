@@ -496,7 +496,7 @@ Eğer cihazınız bu listede ise Xiaomi sağlık > Menü > Veri kaynakları > Ve
     <string name="exercise_reminder_unaccomplished">Henüz hedefinize ulaşmadınız. Devam edin</string>
     <string name="exercise_result_reminder_content">%1$d dakika egzersiz (%2$d kalori). Ayrıntıları görüntülemek için dokunun</string>
     <string name="exercise_result_reminder_title">Bugünkü adım sayısı: %1$d. hedefe ulaştınız</string>
-    <string name="exercise_result_reminder_title_unaccomplished">Bugünün adım sayısı: %1$d. hedefe hala ulaşabilirsiniz</string>
+    <string name="exercise_result_reminder_title_unaccomplished">Bugünün adımları: %1$d. Hedefe ulaşabilirsiniz</string>
     <string name="exercise_setting_label_reach_standard_remind">Etkinlik uyarısı</string>
     <string name="exercise_setting_page_title">Etkinlik ayarları</string>
     <string name="exercise_speed">Hız</string>

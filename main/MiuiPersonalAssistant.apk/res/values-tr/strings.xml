@@ -46,8 +46,6 @@
     <string name="agenda_add_event">Etkinlik ekle</string>
     <string name="agenda_all_day">Tüm gün</string>
     <string name="agenda_anniversary_day">· %1$d</string>
-    <string name="agenda_anniversary_subtitle">Yıl dönümü | %1$s</string>
-    <string name="agenda_anniversary_year"> · %1$d yıl dönümü</string>
     <string name="agenda_assistant">Takvim etkinlikleri</string>
     <string name="agenda_assistant_account_num">Hesap</string>
     <string name="agenda_assistant_add">Etkinlik ekle</string>
@@ -64,7 +62,6 @@
     <string name="agenda_assistant_tail_num">Numara</string>
     <string name="agenda_bill_account">Hesap: %1$s</string>
     <string name="agenda_birthday_title">%1$s doğum günü</string>
-    <string name="agenda_countdown_day">· %1$d</string>
     <string name="agenda_countdown_subtitle">| %1$s</string>
     <string name="agenda_credit_payment">%1$s kredi kartı geri ödemesi (%2$s)</string>
     <string name="agenda_default">Takvim etkinlikleri</string>
@@ -75,6 +72,7 @@
     <string name="agenda_i_known">Biliyorum</string>
     <string name="agenda_loan_payment">%1$s kredi geri ödemesi (%2$s)</string>
     <string name="agenda_minute">dakika</string>
+    <string name="agenda_minutes">dakika</string>
     <string name="agenda_need_install_alipay">"Bu özellik Alipay'i kullandıktan sonra kurulmalıdır"</string>
     <string name="agenda_no_title">İsimsiz</string>
     <string name="agenda_open">Takvim hatırlatıcıları aç</string>
@@ -91,7 +89,6 @@
     <string name="agenda_settings_credit">Kredi kartı faturalarını göster</string>
     <string name="agenda_settings_elecbill">Elektrik &amp; gaz faturalarını göster</string>
     <string name="agenda_settings_loan">Kredi geri ödeme bilgilerini göster</string>
-    <string name="agenda_tip_count_down">%1$d dakika içinde başlayın</string>
     <string name="agenda_tip_going">Devam eden</string>
     <string name="agenda_today">· Bugün</string>
     <string name="agenda_view_event">Tüm etkinlikler</string>
@@ -332,8 +329,6 @@
     <string name="app_commute_more_lines">Daha fazla seçenek</string>
     <string name="app_commute_no_data">Güzergah oluşturulamadı</string>
     <string name="app_commute_no_data_tip">Başlangıç noktanızı veya varış noktanızı dokunarak deneyin</string>
-    <string name="app_commute_pub_transit_close">Otobüs durağı kapalı. Taksiye gidelim</string>
-    <string name="app_commute_pub_transit_tip">Bugün arabanız kısıtlıdır ve toplu taşıma araçlarının kullanılması önerilir</string>
     <string name="app_commute_real_time_arriving">Gelen</string>
     <string name="app_commute_real_time_format_1">%1$s · %2$d min · %3$d stop(s)</string>
     <string name="app_commute_real_time_format_2">%1$s · %2$s</string>
@@ -379,7 +374,6 @@
     <string name="app_express_all">Tümü</string>
     <string name="app_express_auth_extra">Telefon numarası ekle</string>
     <string name="app_express_auth_title">Ekspres teslimatı takip edin</string>
-    <string name="app_express_content_title_1">%d imzasız ekspresiniz var</string>
     <string name="app_express_content_title_2">Paketleriniz</string>
     <string name="app_express_empty_extra">Kontrol et</string>
     <string name="app_express_empty_title">Burada teslimat bilgisi yok</string>
@@ -405,17 +399,13 @@
     <string name="app_miot_device_pos_right">"Sağ: "</string>
     <string name="app_miot_lean_about">Akıllı ev çözümlerini keşfedin</string>
     <string name="app_miot_menu_add_device">Ekle</string>
-    <string name="app_miot_menu_card_setting">Kart ayarları</string>
     <string name="app_miot_menu_edit_device">Düzenle</string>
     <string name="app_miot_my_miot">Akıllı ev cihazları</string>
     <string name="app_miot_smart_device">Akıllı ev cihazları</string>
     <string name="app_miot_start">Ekle</string>
-    <string name="app_miot_start_miot">Akıllı evi aç</string>
     <string name="app_miot_title">Akıllı cihazlar</string>
     <string name="app_miot_to_start">Ekle</string>
-    <string name="app_miot_total_device">Tüm %1$d cihaz</string>
-    <string name="app_miot_unit">1</string>
-    <string name="app_miot_waiting">Bizi izlemeye devam edin</string>
+    <string name="app_miot_unit" />
     <string name="app_name">com.xiaomi.smarthome.common.nativelib</string>
     <string name="app_news_default_title">Haberler</string>
     <string name="app_news_empty_text" />
@@ -524,7 +514,6 @@
     <string name="app_shopping_card_empty_find_coupon">Kuponlar</string>
     <string name="app_shopping_card_empty_title_no_goods">Alışveriş sepeti boş</string>
     <string name="app_shopping_card_sale_volume">%1$s üzerinde %2$s satıldı</string>
-    <string name="app_shopping_card_sale_volume_level1">%s milyon</string>
     <string name="app_shopping_card_sale_volume_level2">1M+</string>
     <string name="app_shopping_card_title">Alışveriş</string>
     <string name="app_shopping_coupon">%s indirim</string>
@@ -2388,8 +2377,8 @@ Rezervasyon yok, unuttunuz ya da telefon numarasını devre dışı bıraktıysa
     <string name="upgrade_now_bottom">Şimdi yükle</string>
     <string name="uploads_disabled">Dosya yüklenemiyor</string>
     <string name="user_id">Kullanıcı kimliği: %s</string>
-    <string name="v7_preference_off">KAPALI</string>
-    <string name="v7_preference_on">AÇIK</string>
+    <string name="v7_preference_off">Kapalı</string>
+    <string name="v7_preference_on">Açık</string>
     <string name="vertical_separator">|</string>
     <string name="vr_pay_not_support">Bu sipariş VR ödemeyi desteklememek için oluşturulmuştur. Daha sonra ödemek için sipariş listesini girmeniz önerilir</string>
     <string name="walk">Yürüme</string>

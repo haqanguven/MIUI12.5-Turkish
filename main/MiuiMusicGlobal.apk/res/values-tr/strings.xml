@@ -666,7 +666,9 @@
     <string name="individuation_card_title">Size özel</string>
     <string name="individuation_cart_login_title">Daha fazla tavsiye görmek ister misiniz?</string>
     <string name="individuation_recommend_switch_message">Bu özelliğini kapatmanız kişiselleştirilmiş Mi müzik servislerini etkileyecektir. Yine de kapatılsın mı?</string>
-    <string name="individuation_recommend_title">Tavsiyeler</string>
+    <string name="individuation_recommend_title">Öneriler</string>
+    <string name="individuation_setting_summary">İlgi alanlarınıza dayalı içerik önerileri alın</string>
+    <string name="individuation_setting_title">Kişiselleştirilmiş öneriler</string>
     <string name="input_hint_prefix">Lütfen %1$s girin</string>
     <string name="installing_apk">Yükleniyor</string>
     <string name="insufficient_space">Cihazınızın dahili depolama alanında yeterli alan yok</string>
@@ -1298,6 +1300,9 @@ mutlu ol"</string>
     <string name="upgrade_music">Müzik güncelle</string>
     <string name="upgrade_music_message">Paket hazır. Güncellemek için yeniden başlatın</string>
     <string name="upgrading_in_backstage">Arka planda güncelleniyor</string>
+    <string name="upload_favorite_dialog_title">Diğer senkronize cihazlarda erişebilmek için şarkılarınızı buluta yükleyin. Bu özelliği ayarlardan kapatabilirsiniz</string>
+    <string name="upload_favorite_setting_summary">Şarkılara diğer cihazlarda erişmek için şarkıları bulut alanına yükleyin</string>
+    <string name="upload_favorite_setting_title">Şarkıları senkronize et</string>
     <string name="upload_playlist_to_hungama_negative_text">Senkronize etme</string>
     <string name="upload_playlist_to_hungama_positive_text">Senkronize</string>
     <string name="upload_playlist_to_hungama_title">Mi hesabınızı kullandığınız diğer cihazlardan erişebilmek için çevrimiçi şarkıları Hungama ile senkronize edin</string>

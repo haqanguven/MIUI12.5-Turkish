@@ -28,6 +28,7 @@
     <string name="abc_shareactionprovider_share_with">Şununla paylaş:</string>
     <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
     <string name="abc_toolbar_collapse_description">Daralt</string>
+    <string name="action_bar_report_link_des">Uygulama raporu</string>
     <string name="adb_install_no_network">Ağa bağlanılamadı. Ağ ayarlarınızı kontrol edip tekrar deneyin</string>
     <string name="adb_install_open">Açılıyor</string>
     <string name="adb_install_open_error">Açılamadı. Ağ ayarlarınızı kontrol edip tekrar deneyin</string>
@@ -96,6 +97,7 @@ Tüm geçmiş kullanıcı verileriniz kaydedilecektir"</string>
 
 Tüm geçmiş kullanıcı verileriniz kaydedilecektir"</string>
     <string name="done">Tamam</string>
+    <string name="exit_install_button">Kurulumdan çık</string>
     <string name="expand_button_title">Gelişmiş</string>
     <string name="external_sources_settings">Ayarlar</string>
     <string name="external_sources_settings_negative">Kısıtla</string>
@@ -121,18 +123,26 @@ Tüm geçmiş kullanıcı verileriniz kaydedilecektir"</string>
     <string name="increment_preparing">Hazırlanıyor</string>
     <string name="install">Yükle</string>
     <string name="install_app_progress_clear_apk">"Apk'ı sil"</string>
+    <string name="install_confirm_dialog_message">Bu uygulama bir Google uygulamasıdır. Normal olarak kullanmak için Google hizmet çerçevesini yüklemeniz gerekir. Aksi takdirde çökmeler, yanıt vermeme ve diğer sorunlar olacaktır. Lütfen dikkatli kullanın. Kuruluma devam etmeyi seçerseniz bu deneyim kaybını kabul etmiş sayılırsınız</string>
+    <string name="install_confirm_dialog_negative_button">İptal et</string>
+    <string name="install_confirm_dialog_positive_button">Kabul et</string>
+    <string name="install_confirm_dialog_title">Uyarı</string>
     <string name="install_confirm_question">Bu uygulamayı yüklemek istiyor musunuz? Uygulama belirtilen erişimlere sahip olacaktır:</string>
+    <string name="install_confirm_question_des_10">İlgili riskleri almak ve uygulamayı yüklemeye devam etmek istiyorsanız yüklemeye devam etmeden önce uygulamayı yetkilendirmek için lütfen uygulama yönetimine gidin</string>
     <string name="install_confirm_question_no_perms">Bu uygulamayı yüklemek istiyor musunuz? Uygulama herhangi bir özel izin talep etmiyor</string>
     <string name="install_confirm_question_update">Mevcut uygulamaya bir güncelleme yüklemek istiyor musunuz? Mevcut uygulama verileri kaybolmayacaktır. Güncellenen uygulama şu erişimlere sahip olacaktır:</string>
     <string name="install_confirm_question_update_no_perms">Mevcut uygulamaya yeni bir güncelleme yüklemek istiyor musunuz? Mevcut uygulama verileri kaybolmayacaktır. Güncelleme herhangi bir özel izin talep etmiyor</string>
     <string name="install_confirm_question_update_system">Bu sistem uygulamasına bir güncelleme yüklemek istiyor musunuz? Mevcut uygulama verileri kaybolmayacaktır. Uygulama şu erişimlere sahip olacaktır:</string>
     <string name="install_confirm_question_update_system_no_perms">Bu sistem uygulamasına bir güncelleme yüklemek istiyor musunuz? Mevcut uygulama verileri kaybolmayacaktır. Güncelleme herhangi bir özel izin talep etmiyor</string>
+    <string name="install_confirm_text_gms">Bu uygulama bir Google uygulamasıdır. Normal olarak kullanmak için Google hizmet çerçevesini yüklemeniz gerekir. Aksi takdirde çökmeler, yanıt vermeme ve diğer sorunlar olacaktır. Lütfen dikkatli kullanın</string>
     <string name="install_control_cancel_install">Yükleme</string>
+    <string name="install_control_cancel_vip_account_install">Çık</string>
     <string name="install_control_continue_install">Yine de yükle</string>
     <string name="install_control_lite_mode_explain_des">Bu uygulama bilinmeyen bir kaynaktan geliyor ve basit modda çalışmayabilir</string>
     <string name="install_control_lite_mode_solution_des">"Bu uygulamayı her zaman yüklemeyi seçebilirsiniz
 Alternatif olarak basit modu kapatabilir ve tekrar deneyebilirsiniz"</string>
     <string name="install_control_normal_mode_explain_des">Yasal kısıtlamalar nedeniyle bu uygulama yüklenemiyor</string>
+    <string name="install_control_vip_account_install">Kapalı beta sürümüne başvurmak için Xiaomi topluluğuna gidin</string>
     <string name="install_done">Uygulama yüklendi</string>
     <string name="install_failed">Uygulama yüklenemedi</string>
     <string name="install_failed_blocked">Bu paketin yüklenmesi engellendi</string>
@@ -144,7 +154,12 @@ Alternatif olarak basit modu kapatabilir ve tekrar deneyebilirsiniz"</string>
     <string name="install_finished_notification_summary">Tap to free up storage space</string>
     <string name="install_finished_notification_title">Installed %1$s successfully. You can free up %2$s of storage space.</string>
     <string name="install_from_appstore_hint">Uygulamayı &lt;u>&lt;font color=#91c727>Uygulama mağazasından&lt;/font>&lt;/u> indirmenizi tavsiye ederiz</string>
+    <string name="install_vip_account_mode_explain_des">Bu uygulama kapalı bir beta sürümüdür. Şu anda izniniz yok</string>
+    <string name="install_vip_account_mode_solution_des">Kapalı beta izinlerine başvurmak için Xiaomi topluluğuna gidin</string>
     <string name="installing">Yükleniyor</string>
+    <string name="intercept_confirm_dialog_message">%1$s yüklemeyi çalıştırmak için %2$s kimliğinizi doğrulamanızı gerektiriyor</string>
+    <string name="intercept_confirm_dialog_positive">Kimliği doğrula</string>
+    <string name="intercept_confirm_dialog_title">Komut istemi</string>
     <string name="intercept_install">Yükle</string>
     <string name="launch">Aç</string>
     <string name="lift_ban">İzin ver</string>
@@ -327,6 +342,7 @@ Alternatif olarak basit modu kapatabilir ve tekrar deneyebilirsiniz"</string>
  <li>Kurulum paketi bilinmeyen bir kaynaktan yüklendiğinde</li>"</string>
     <string name="settings_warning_dialog_msg">Telefonunuz güvenlik risklerine eğilimlidir. Bu özelliği kapatırsanız güvenli uygulama sürümlerini yüklemeniz istenmez. Yine de kapatılsın mı?</string>
     <string name="settings_warning_dialog_title">Dikkat</string>
+    <string name="spannable_continue_text">Sorunun ciddiyetini zaten biliyorum</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="system_warning">Bu izin talebini reddederseniz cihazınızın basit özellikleri tasarlandıkları gibi çalışmayabilir</string>
