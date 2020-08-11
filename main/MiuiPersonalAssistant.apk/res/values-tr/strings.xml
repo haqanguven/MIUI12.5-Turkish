@@ -494,7 +494,7 @@
     <string name="app_screen_time_support_false">Bu hizmet şu anda desteklenmiyor</string>
     <string name="app_screen_time_time">%1$d saat %2$d dakika</string>
     <string name="app_screen_time_time_minute">%1$d dakika</string>
-    <string name="app_screen_time_title">Ekran kullanımı</string>
+    <string name="app_screen_time_title">Ekran süresi</string>
     <string name="app_setting">Uygulama kasası ayarları</string>
     <string name="app_setting_account">Hesaplar</string>
     <string name="app_setting_account_binding">Ekle</string>

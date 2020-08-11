@@ -151,6 +151,8 @@
     <string name="auto_add_app_shortcut">Ana ekranınıza yerleştirmek istediğiniz yeni uygulamaları seçin</string>
     <string name="auto_delete_category_dialog_content">Mevcut uygulamalar bu kategoriden kaldırılacak ve kategori silinecektir. Bu kategori silinsin mi?</string>
     <string name="auto_delete_category_dialog_title">Kategori siliniyor</string>
+    <string name="auto_disable_screenbuttons_summary">Tekrar etkinleştirmek için herhangi bir navigasyon tuşuna çift dokunun</string>
+    <string name="auto_disable_screenbuttons_title">Navigasyon tuşlarını otomatik olarak devre dışı bırak</string>
     <string name="back">Geri</string>
     <string name="backup_fail">Başlatıcı yedeklenemedi</string>
     <string name="bad_wallpaper_source_prompt">Duvar kağıdı yüklenemiyor</string>
@@ -301,7 +303,7 @@
     <string name="gadget_weather_loading">Veri yok</string>
     <string name="gadget_weather_low_temp">Düşük sıcaklık</string>
     <string name="gadget_weather_theme_type">Araç türü</string>
-    <string name="gadget_weather_time_format">dd MMMM EEEE</string>
+    <string name="gadget_weather_time_format">d MMMM EEEE</string>
     <string name="gadget_weather_title">Hava durumu</string>
     <string name="gadget_weather_title_14">Hava durumu</string>
     <string name="gadget_weather_title_24">Hava durumu</string>
@@ -328,6 +330,7 @@
     <string name="invalid_contact_shortcut">Geçersiz kişi</string>
     <string name="is_setting_wallpaper_message">Duvar kağıdı ayarlanıyor</string>
     <string name="is_system_wallpaper_message">Sistem kaynakları silinemez</string>
+    <string name="key_shortcut_settings_title">Tuş kısayolları</string>
     <string name="launcher_not_exist">Bir hata oluştu. Ana ekrana dönüp tekrar deneyin</string>
     <string name="launcher_pull_down_title">Ana ekranda aşağı kaydırın</string>
     <string name="launcher_search_bar_title">Ana ekran arama çubuğu</string>
