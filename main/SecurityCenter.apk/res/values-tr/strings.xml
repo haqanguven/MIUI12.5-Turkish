@@ -95,6 +95,7 @@
     <string name="activity_title_permission_manager">İzinler</string>
     <string name="activity_title_permissions_manager">İzinler</string>
     <string name="activity_title_power_manager">Pil kullanımı</string>
+    <string name="activity_title_risk_app_install_manager">Riskli uygulamalar</string>
     <string name="activity_title_root_acquired">Kök erişimi</string>
     <string name="activity_title_root_manager">Kök erişimi</string>
     <string name="activity_title_root_note">Kök erişimi hakkında</string>
@@ -168,10 +169,8 @@
     <string name="antivirus_privacy_dialog_cloudscan">Uygulama adlarını ve detaylarını karşıya yükle</string>
     <string name="antivirus_privacy_dialog_cloudscan_description">Uygulama isimlerini ve ayrıntıları yükle ve çevrimiçi virüs veritabanını kullanarak tara</string>
     <string name="antivirus_privacy_dialog_ok">Tamam</string>
-    <string name="antivirus_privacy_dialog_summary_link">Gizlilik politikası</string>
     <string name="antivirus_privacy_dialog_summary_new"><Data>Bu özellik Avast, AVL ve Tencent tarafından sağlanan antivirüs tanımlarını kullanır. Daha fazla bilgi edinmek için ilgili &lt;a href=\"%1$s\">lisans sözleşmelerini&lt;/a> okuyun</Data></string>
-    <string name="antivirus_privacy_dialog_summary_not_have_avast"><Data>Bu özellik AVL ve Tencent tarafından sağlanan antivirüs tanımlarını kullanır. Daha fazla bilgi edinmek için ilgili &lt;a href=\"%1$s\">lisans sözleşmelerini&lt;/a> okuyun</Data></string>
-    <string name="antivirus_privacy_dialog_summary_not_have_tencent"><Data>Bu özellik Avast ve AVL tarafından sağlanan antivirüs tanımlarını kullanır. Daha fazla bilgi edinmek için ilgili &lt;a href=\"%1$s\">lisans sözleşmelerini&lt;/a> okuyun</Data></string>
+    <string name="antivirus_privacy_dialog_summary_link">Gizlilik politikası</string>
     <string name="antivirus_privacy_dialog_title">Gizlilik politikası</string>
     <string name="antivirus_sec_network_unavailable">Güvenlik uygulaması internet erişimini kısıtlamış olduğunuzdan dolayı güncellenemiyor. Güvenlik uygulamasının internete bağlanmasına izin verilsin mi?</string>
     <string name="antivirus_toast_already_update">Güncel</string>
@@ -1574,8 +1573,6 @@ arama geçmişine geri yüklensin mi?"</string>
     <string name="gs_auto_clean_memory">Önbelleği temizle</string>
     <string name="gs_auto_clean_memory_detail">Oyun performansını optimize etmek için önbelleği otomatik olarak temizle</string>
     <string name="gs_autobooster">Otomatik hızlandır</string>
-    <string name="gs_autobooster_detail">Seçili oyunlar için otomatik olarak hızı arttır</string>
-    <string name="gs_autobooster_dialog_message">Xunyou hızlandırıcıyı kullanıyorsanız oyunları belirlenen sayfada açın</string>
     <string name="gs_call_handsfree">Eller serbest arama yanıtlama</string>
     <string name="gs_call_handsfree_mute">Sessiz mod</string>
     <string name="gs_dialog_confirm_close_msg">"Kısayol Ana ekranınızdan kaldırılacaktır. Geri yüklemek için Güvenlik> Ayarlar'a gidin."</string>
@@ -1599,7 +1596,6 @@ arama geçmişine geri yüklensin mi?"</string>
     <string name="gs_gamebox_detail">Oyun içi kısayol panelini göster</string>
     <string name="gs_gamebox_slip">Açmak için ekranı aşağı doğru çekin</string>
     <string name="gs_only_self_start_for_list">Oyun oynarken pil tasarrufu yapmak için arka plan işlemlerini kısıtla</string>
-    <string name="gs_open_game_booster">Hız artırma</string>
     <string name="gs_open_game_booster_summary">Oyunlar için ağ hızını artırın</string>
     <string name="gs_performance_mode">Performans modu</string>
     <string name="gs_performance_mode_detail">Oyun için sistem performansını optimize edin</string>
@@ -1921,6 +1917,7 @@ Cihazınız şimdi %%%d daha hızlı"</string>
     <string name="menu_summary_app_manager">Tüm uygulamalarını yönetin</string>
     <string name="menu_summary_garbage_cleanup">Çöp bulunamadı</string>
     <string name="menu_summary_garbage_cleanup_ex">%s çöp kutusunu temizle</string>
+    <string name="menu_summary_garbage_cleanup_new">%%%d depolama alanı</string>
     <string name="menu_summary_networkassistants">Veri planınızı yönetin</string>
     <string name="menu_summary_networkassistants_2">Sınırın üzerinde gitti</string>
     <string name="menu_summary_networkassistants_3">Yeterli veri kaldı</string>
@@ -2583,7 +2580,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="preference_category_videobox_app_group">category_videobox_app_group</string>
     <string name="preference_category_videobox_line_group">category_videobox_line_group</string>
     <string name="preference_category_videobox_switch_group">category_videobox_switch_group</string>
-    <string name="preference_copied">\"%1$s\" panoya kopyalandı.</string>
+    <string name="preference_copied">%1$s panoya kopyalandı</string>
     <string name="preference_key_about_privacy">key_about_privacy</string>
     <string name="preference_key_about_version">key_about_version</string>
     <string name="preference_key_antivirus_choose_engine">key_antivirus_choose_engine</string>
@@ -2824,6 +2821,15 @@ Kalibrasyon işlemi sırasında Miui kalibrasyon şablonunu almak amacıyla bir 
     <string name="result_sms_title_auth">Finansal mesaj sızma tehlikesi mevcut</string>
     <string name="result_wifi_header">Wifi riskleri tespit edildi</string>
     <string name="right_precent">%100</string>
+    <string name="risk_app_install_agree_button">Bu uygulamaya güven</string>
+    <string name="risk_app_install_agree_checkbox">Olası tüm riskleri almaya hazırım</string>
+    <string name="risk_app_install_agree_message">Bu uygulama bir üçüncü taraf tarafından geliştirilmiştir ve yerel yasa düzenlemeleri ihlal edebilir. Xiaomi bu uygulama tarafından sağlanan içerik ve hizmetlerin kullanılabilirliğini, sürekliliğini ve erişilebilirliğini garanti etmez. Bu uygulamanın kullanımından kaynaklanan herhangi bir kayıp veya hasar sizin tarafınızdan karşılanacaktır</string>
+    <string name="risk_app_install_agree_title">Uyarı</string>
+    <string name="risk_app_install_auth_result">%1$s kurulumuna izin verdiniz. Yükleme paketi algılandıktan sonra devam edebilirsiniz</string>
+    <string name="risk_app_install_empty_text">Henüz burada öğe yok</string>
+    <string name="risk_app_install_history">Yetki geçmişi</string>
+    <string name="risk_app_install_item_des">Sürüm: %1$s</string>
+    <string name="risk_app_install_manager">Riskli uygulamalar</string>
     <string name="risk_count_suffix" />
     <string name="roaming_allow_network_dialog_title">Dolaşımda mobil veri kullanımına izin verilsin mi?</string>
     <string name="roaming_limit_dialog_message">Günlük dolaşım mobil veri limitine ulaşıldı</string>
