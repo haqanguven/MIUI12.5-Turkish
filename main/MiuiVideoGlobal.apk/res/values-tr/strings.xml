@@ -397,6 +397,8 @@ Bu kodu gönderin"</string>
     <string name="galleryplus_chose_play_speed">%1$.1fX hızında oynatılıyor</string>
     <string name="galleryplus_chose_play_speed_failure">Oynatma hızı ayarlanamadı</string>
     <string name="galleryplus_click_to_higher_definition">HD önizlemeyi açmak için çift dokunun</string>
+    <string name="galleryplus_copyright_unsported_audio">Telif hakkı kısıtlamalarından dolayı ses parça videosu oynatılamıyor</string>
+    <string name="galleryplus_copyright_unsported_video">Telif hakkı kısıtlamalarından dolayı bu video oynatılamıyor</string>
     <string name="galleryplus_cta_tips">"Kullanıcı deneyimi programına kaydolarak ve videonun internete bağlanmasına izin vererek hizmetlerimizi geliştirmemize yardımcı olabilirsiniz. Onaylıyor musunuz?"</string>
     <string name="galleryplus_double_tap_to_higher_definition">HD önizlemeyi açmak için tekrar çift dokunun</string>
     <string name="galleryplus_fr_unsupport_restore_speed">Desteklenmeyen kare hızı. Normal hıza geri dönün</string>
@@ -1296,6 +1298,8 @@ Hiçbir şey göstermiyor"</string>
     <string name="vp_VideoView_error_text_unknown">Bir hata oluştu</string>
     <string name="vp_VideoView_error_title">Bilinmeyen hata</string>
     <string name="vp_app_name">Video oynatıcı</string>
+    <string name="vp_copyright_unsported_audio">Telif hakkı kısıtlamalarından dolayı ses parça videosu oynatılamıyor</string>
+    <string name="vp_copyright_unsported_video">Telif hakkı kısıtlamalarından dolayı bu video oynatılamıyor</string>
     <string name="vp_hardware_unsported">Bu video cihazınızda oynatılamıyor</string>
     <string name="vp_notify_apk_installed">Başarıyla indirildi</string>
     <string name="vp_replay">Yeniden oynat</string>

@@ -113,7 +113,7 @@
     <string name="chinese_symbol_animals_tiger">Kaplan</string>
     <string name="clearable_edittext_clear_description">Temizle</string>
     <string name="color_gamut">Renk aralığı</string>
-    <string name="contact_description">Ana ekranınıza kişi kısayollarını yerleştirin ve arama yapmak için dokunun</string>
+    <string name="contact_description">Arama yapmak için ana ekran kısayollarına dokunun</string>
     <string name="contact_title">Kişi kısayolları</string>
     <string name="contrast_ratio">Kontrast</string>
     <string name="control_center_title">Bugünlük ekran süresi</string>
@@ -133,8 +133,8 @@
     <string name="dc_light_hint_normal">DC karartma bazı öğelerin görüntülenme şeklini etkileyebilir</string>
     <string name="dc_light_hint_other">DC karartma yenileme hızını ve bazı ögelerin görüntülenme şeklini etkileyebilir</string>
     <string name="dc_lignt_enable_hint">"Titreşim önleme modu 60 Hz'ye kadar ekran yenileme hızını ayarlar. Titreşim önleme moduna değiştirilsin mi?"</string>
-    <string name="display_description">Daha büyük simgeler, geniş metin, daha az görsel karmaşa</string>
-    <string name="display_title">Daha büyük eşyalar</string>
+    <string name="display_description">Daha büyük simgeler, geniş metin ve daha az görsel karmaşa</string>
+    <string name="display_title">Daha büyük öğeler</string>
     <string name="early_morning">ÖÖ</string>
     <string name="earthly_branches_chen">15</string>
     <string name="earthly_branches_chou">12</string>
@@ -361,7 +361,7 @@
     <string name="solar_term_heavy_snow">Yoğun kar</string>
     <string name="solar_term_hoar_frost_falls">Kırağı</string>
     <string name="solar_term_insects_awaken">Böcekler uyandı</string>
-    <string name="solar_term_light_snow">Hafif Kar</string>
+    <string name="solar_term_light_snow">Hafif kar</string>
     <string name="solar_term_slight_cold">Hafif soğuk</string>
     <string name="solar_term_slight_heat">Hafif sıcaklar</string>
     <string name="solar_term_spring_begins">Bahar başlıyor</string>
@@ -375,7 +375,7 @@
     <string name="solar_term_winter_solstice">Kış gündönümü</string>
     <string name="srgb_color_region">sRGB</string>
     <string name="srgb_color_region_summary">Tüm ekran içeriğini sRGB renk kontrasında göster</string>
-    <string name="start_easymode">Basit modunu aç</string>
+    <string name="start_easymode">Basit modu aç</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="steady_on_screen_notification_title">Telefonunuzu bırakın ve bir mola verin</string>
     <string name="steady_on_screen_notify">Kesintisiz kullanım bildirimi</string>

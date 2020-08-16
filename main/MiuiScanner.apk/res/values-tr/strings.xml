@@ -49,8 +49,6 @@
     <string name="app_details">Uygulama:</string>
     <string name="app_name">Barkod okuyucu</string>
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
-    <string name="are_you_sure_you_want_delete_file">%1$d dosyayı silmek istediğinizden emin misiniz?</string>
-    <string name="are_you_sure_you_want_delete_this">%1$d fotoğrafı silmek istediğinizden emin misiniz?</string>
     <string name="back">Geri</string>
     <string name="barcode_into_rectangle">Kodu çerçevenin içerisine hizalayın</string>
     <string name="birthday">Doğum günü:</string>
@@ -128,8 +126,7 @@
     <string name="document_color_picture_tip">Renkliye dönüştürülüyor</string>
     <string name="document_crop_title">Belgeyi kes</string>
     <string name="document_default_location">Varsayılan depolama yeri:</string>
-    <string name="document_delete_local_file">Çekilen fotoğraf silinsin mi?</string>
-    <string name="document_effect">effect</string>
+    <string name="document_effect">Efekt</string>
     <string name="document_grayscale">Gri ton</string>
     <string name="document_grayscale_tip_msg">Gri tona dönüştürülüyor</string>
     <string name="document_list">Belge listesi</string>
@@ -199,6 +196,7 @@
     <string name="function">Özellikler</string>
     <string name="general_error">Tanıma hatası</string>
     <string name="general_feedback">Hataları belirleyin ve geri bildirin</string>
+    <string name="general_location">Mağaza tanımlama işlevinin yetkilendirmek için konum bilgilerini alması gerekiyor</string>
     <string name="general_location_dialog">Bu servis kullanılarak çekilen fotoğraflar ve çekim yerinin konum bilgileri mağaza bilgilerini kontrol etmek için Dianping ile paylaşılacaktır</string>
     <string name="general_location_prompt">Mağaza hizmeti konum izni gerektirir</string>
     <string name="general_recognized">Sizin için tanımlandı:</string>
@@ -245,6 +243,12 @@
     <string name="language_value_spanish">spanish</string>
     <string name="logistics">Hızlı teslimat</string>
     <string name="low_version_tip">"Barkod okuyucuyu kullanabilmek için Miui'yi en yeni sürümüne güncelleyin"</string>
+    <string name="mihome_goto_install">Şimdi kur</string>
+    <string name="mihome_goto_update">Güncelle</string>
+    <string name="mihome_install_message">Cihazı bağlamak için Mi ev uygulamasını yüklemeniz gerekir. Lütfen yükleyip giriş yapın ve tekrar deneyin</string>
+    <string name="mihome_install_title">Mi ev uygulamasını yükleyin</string>
+    <string name="mihome_update_message">Mevcut Mi ev uygulama sürümü çok düşük. Lütfen güncelleyin ve tekrar deneyin</string>
+    <string name="mihome_update_title">Mi ev uygulamasını güncelleyin</string>
     <string name="mipayin_dialog_more">Daha fazla</string>
     <string name="mipayin_dialog_title">Aç</string>
     <string name="miracast_connect">Yansıt</string>
@@ -333,8 +337,6 @@ Cihazı yerleştirmek için lütfen resimdeki açıya bakın ve tekrar deneyin"<
     <string name="pdf_is_being_saved">Pdf kaydediliyor</string>
     <string name="pdf_name">Pdf adı</string>
     <string name="pdf_save_sucess">Kaydedildi</string>
-    <string name="pdf_saved_failed">Pdf kaydedilemedi</string>
-    <string name="pdf_saved_successfully">Pdf kaydedildi</string>
     <string name="phone">Telefon:</string>
     <string name="phone_storage">Telefon hafızası</string>
     <string name="place_barcode_into_rectangle">Kodu çerçevenin içerisine hizalayın</string>
@@ -364,7 +366,6 @@ Cihazı yerleştirmek için lütfen resimdeki açıya bakın ve tekrar deneyin"<
     <string name="qureyGoods">Ürün ara</string>
     <string name="recognize">Tara</string>
     <string name="recognize_fail">Kod okunamadı</string>
-    <string name="rename_the_file">Dosyayı yeniden adlandır</string>
     <string name="request_server_failed">Sunucuya bağlanılamadı</string>
     <string name="required_permissions">android.permission.READ_EXTERNAL_STORAGE;android.permission.WRITE_EXTERNAL_STORAGE;android.permission.CAMERA;</string>
     <string name="result_of_identifying_text_is_empty">Metin tanımlamanın sonucu boş</string>
@@ -485,6 +486,7 @@ Cihazı yerleştirmek için lütfen resimdeki açıya bakın ve tekrar deneyin"<
     <string name="wx_not_installed_toast">"Bu özellik WeChat'i kullanmaya ihtiyaç duyar. Önce WeChat'i yükleyin"</string>
     <string name="xiaoai_dialog">"Mi AI'ye taramak
 istediğinizi söylemeyi deneyin"</string>
+    <string name="xiaoai_text">Küçük aşk düğmesi</string>
     <string name="you_have_permission_to_download">Beta sürümü indirmek için dokunun</string>
     <string name="you_id">"Kimliğiniz: "</string>
     <string name="your_application_is_under_review">" (Başvurunuz inceleniyor)"</string>

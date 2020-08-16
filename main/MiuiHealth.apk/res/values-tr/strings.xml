@@ -28,6 +28,8 @@
     <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
     <string name="abc_toolbar_collapse_description">Daralt</string>
     <string name="abnormal">Anormal</string>
+    <string name="above_speed_km_per_hour">≥%d km/h</string>
+    <string name="above_speed_km_per_hour_1">≥%.1f km/h</string>
     <string name="achieve_goals">Hedefe ulaşıldı</string>
     <string name="achieve_stand_goals">Hedefe ulaşıldı</string>
     <string name="actionbar_button_up_description">Geri</string>
@@ -105,6 +107,8 @@ sol üst köşedeki düğmeye dokunun"</string>
     <string name="bedTime_normal_description">Zamanında yatağa gittin. Böyle devam et</string>
     <string name="bedtime">Yatma zamanı</string>
     <string name="bedtime_description">Yatma zamanı yatağa gidip telefonunuzu bıraktığınız zamandır. Yatma vakti programınıza ve cihaz kullanımınıza göre tahmin edilir</string>
+    <string name="below_speed_km_per_hour">&lt;%d km/h</string>
+    <string name="below_speed_km_per_hour_1">&lt;%.1f km/h</string>
     <string name="bg_control_dialog_go_set">Ayarlar</string>
     <string name="bg_control_dialog_msg">Pil tasarrufu Mi sağlığın arka plan etkinliğini kısıtlar. Doğru istatistikler almak için Mi sağlığın her zaman arka planda çalışma izni verin</string>
     <string name="bg_control_dialog_title">Arka plan kısıtlamaları</string>
@@ -298,7 +302,7 @@ Sağlık verilerinizi saklamayı seçtikten sonra silmeye karar verirseniz Sağl
     <string name="date_format_m_d_3">dd/MM</string>
     <string name="date_format_m_d_h_m">dd-MM HH:mm</string>
     <string name="date_format_mm_dd">dd MMM</string>
-    <string name="date_format_mm_dd_2">MM/dd</string>
+    <string name="date_format_mm_dd_2">dd/MM</string>
     <string name="date_format_y">yyyy</string>
     <string name="date_format_y_2">yyyy</string>
     <string name="date_format_y_m">MMM yyyy</string>
@@ -624,6 +628,7 @@ Yatakta 30 dakika geçirdikten sonra uykuya dalmakta hala zorlanıyorsanız bu d
     <string name="health_score">Sağlık puanı</string>
     <string name="health_score_tips">Sağlık puanınız vücut kitle endeksi ile uyku ve etkinlik adımlarınıza dayanarak hesaplanır. Hedefinize ne kadar yakınlaşırsanız sağlık puanınız o kadar artar</string>
     <string name="health_setting">Health settings</string>
+    <string name="heart_rate">Kalp atış hızı</string>
     <string name="heavenly_stems_bing">3</string>
     <string name="heavenly_stems_ding">4</string>
     <string name="heavenly_stems_geng">7</string>
@@ -649,6 +654,15 @@ Yatakta 30 dakika geçirdikten sonra uykuya dalmakta hala zorlanıyorsanız bu d
     <string name="hour">" saat "</string>
     <string name="hour_in_day_format">%1$d</string>
     <string name="hour_in_day_format_short">%1$d</string>
+    <string name="hr_heart_rate_unit">Kalp atış hızı (BPM)</string>
+    <string name="hr_input_heart_rate">Kalp atış hızını kaydedin</string>
+    <string name="hr_state">Durum</string>
+    <string name="hr_state_active">Aktif</string>
+    <string name="hr_state_fast">Hızlı</string>
+    <string name="hr_state_normal">Normal</string>
+    <string name="hr_state_regular">Düzenli</string>
+    <string name="hr_state_resting">Dinleniyor</string>
+    <string name="hr_state_slow">Yavaş</string>
     <string name="icon_content_description">Diyalog simgesi</string>
     <string name="improve_step_target">Hedefinize çok sık ulaşıyorsunuz. Daha yüksek bir hedef seçmeyi deneyin</string>
     <string name="improve_your_health_default_tips">Sağlıklı kalmak için egzersiz yapın ve uykunuzu alın</string>
@@ -773,7 +787,7 @@ Yatakta 30 dakika geçirdikten sonra uykuya dalmakta hala zorlanıyorsanız bu d
     <string name="min_low_pressure">Minimum diyastolik (Alt)</string>
     <string name="min_pace">En düşük hız</string>
     <string name="minimum">Minimum</string>
-    <string name="minute">" dakila"</string>
+    <string name="minute">" dakika"</string>
     <string name="miuix_appcompat_cloud_state_disabled">Bulut ile senkronizasyon kapalı</string>
     <string name="miuix_appcompat_cloud_state_finished">Bulut ile senkronize edildi</string>
     <string name="miuix_appcompat_cloud_state_syncing">Bulut ile senkronize et</string>
@@ -905,6 +919,7 @@ Yatakta 30 dakika geçirdikten sonra uykuya dalmakta hala zorlanıyorsanız bu d
     <string name="pause">Duraklat</string>
     <string name="per_time_minutes">Dakikada %d</string>
     <string name="per_time_minutes1">" dakikada"</string>
+    <string name="per_time_minutes_heart_rate">" BPM"</string>
     <string name="permission_check_result">Başarıyla ayarlandı</string>
     <string name="permission_check_result_failed">Ayarlanamadı</string>
     <string name="permission_manage">İzinleri yönet</string>
@@ -983,6 +998,8 @@ Yatakta 30 dakika geçirdikten sonra uykuya dalmakta hala zorlanıyorsanız bu d
     <string name="remind_weight_title">Tartım</string>
     <string name="remove">Kaldır</string>
     <string name="repeat_mode">Tekrarla</string>
+    <string name="resting_heart_rate">Kalp atış hızı dinleniyor</string>
+    <string name="resting_heart_rate_desc">Dinlenme halindeki yetişkinler için normal kalp atış hızı dakikada 60 ila 100 atış arasındadır. Yaşa, cinsiyete ve diğer faktörlere bağlı olarak değişebilir</string>
     <string name="retry">Tekrar deneyin</string>
     <string name="revert_to_default">Varsayılan ayarlara sıfırla</string>
     <string name="run">Koşu</string>
@@ -1320,12 +1337,15 @@ bulunamadı"</string>
     <string name="tb_go_next_a_day">Önceki gün</string>
     <string name="tb_go_on_detection">Devam et</string>
     <string name="tb_has_snore_dream_talk">Konuşma ve horlama tespit edildi</string>
+    <string name="tb_heart_rate_max_min">Kalp atış hızı. En yüksek: %1$d. En düşük: %2$d</string>
     <string name="tb_home_blood_pressure_card">Tansiyon. Sistolik: %1$d. Diyastolik: %2$d. Kaydedilen: %3$s. Durum: %4$s</string>
     <string name="tb_home_blood_pressure_card_no_data">Tansiyon. Veri yok</string>
     <string name="tb_home_exercise_card_finish">Egzersiz. %1$s. Tamamlandı: %2$s. Hedef: %3$s. Tamamlandı: %4$s</string>
     <string name="tb_home_exercise_card_not_set_goal">Egzersiz. %1$s. Tamamlandı: %2$s. Açık hedef</string>
     <string name="tb_home_exercise_card_not_supported_step">Egzersiz. Bu cihaz adım saymıyor</string>
     <string name="tb_home_exercise_card_speed_of_progress">Egzersiz. %1$s. Tamamlandı: %2$s. Hedef: %3$s. İlerleme: %4$s</string>
+    <string name="tb_home_heart_rate_card">Kalp atış hızı. Dakikada %1$d vuruş. %2$s tarihinde kaydedildi</string>
+    <string name="tb_home_heart_rate_card_no_data">Kalp atış hızı. Veri yok</string>
     <string name="tb_home_sleep_card">Uyku. Bugün %1$s. Yatmaya gittin: %2$s. Uyandın: %3$s. %4$s</string>
     <string name="tb_home_sleep_card_no_data">Uyku. Bugün veri yok</string>
     <string name="tb_home_sleep_card_not_open_trace">Uyku. Uyku döngüsü analizi kapalı</string>
@@ -1362,6 +1382,9 @@ bulunamadı"</string>
     <string name="tb_picker_year">Seçilen yıl: %1$d. Yılı seçmek için dikey olarak kaydırın</string>
     <string name="tb_play_next">Sonraki kayda geç</string>
     <string name="tb_play_previous">Önceki kayda geç</string>
+    <string name="tb_range">%1$s ile %2$s arasında</string>
+    <string name="tb_resting_heart_rate_avg">Ortalama dinlenme kalp atış hızı: %1$d. Durum: %2$s</string>
+    <string name="tb_resting_heart_rate_avg2">Ortalama dinlenme kalp atış hızı. En yüksek: %1$d. En düşük: %2$d</string>
     <string name="tb_select_a_column">%1$s seçildi</string>
     <string name="tb_show_sleep_info">%1$s için uyku durumları gösteriliyor</string>
     <string name="tb_sleep_evaluation">Tahmini sonuç: %1$s</string>
