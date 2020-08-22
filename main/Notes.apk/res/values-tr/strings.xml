@@ -233,19 +233,19 @@
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
-    <string name="fmt_date_long_month_day">MMMM dd</string>
+    <string name="fmt_date_long_month_day">dd MMMM</string>
     <string name="fmt_date_long_year_month">MMMM yyyy</string>
-    <string name="fmt_date_long_year_month_day">MMMM dd, yyyy</string>
+    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
     <string name="fmt_date_numeric_day">dd</string>
     <string name="fmt_date_numeric_month">MM</string>
     <string name="fmt_date_numeric_month_day">MM/dd</string>
     <string name="fmt_date_numeric_year">yyyy</string>
     <string name="fmt_date_numeric_year_month">MM/yyyy</string>
-    <string name="fmt_date_numeric_year_month_day">MM/dd/yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
     <string name="fmt_date_short_month">MM</string>
-    <string name="fmt_date_short_month_day">MM/dd</string>
+    <string name="fmt_date_short_month_day">dd/MM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
-    <string name="fmt_date_short_year_month_day">MM/dd/yyyy</string>
+    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
     <string name="fmt_date_time">D T</string>
     <string name="fmt_date_time_timezone">zD T</string>
     <string name="fmt_date_timezone">zD</string>
@@ -729,5 +729,8 @@ Ses kaydetmek için notlar uygulamasına izin verin"</string>
     <string name="widget_content_loading">Yükleniyor</string>
     <string name="widget_havenot_content">Bir not oluşturmak için dokunun. Notu yeniden boyutlandırmak için araca basılı tutun</string>
     <string name="xiaomi_account_type">com.xiaomi</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">İptal et</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Tamam</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">%s güncelle</string>
     <string name="yesterday">Dün</string>
 </resources>

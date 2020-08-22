@@ -107,6 +107,7 @@ Hoparlör ürün yazılımının en son sürüme yükseltilmesi gerekiyor"</stri
     <string name="chinese_symbol_animals_snake">Yılan</string>
     <string name="chinese_symbol_animals_tiger">Kaplan</string>
     <string name="clearable_edittext_clear_description">Temizle</string>
+    <string name="connecting_a2dp">Bağlanılıyor</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -336,5 +337,7 @@ Hoparlör ürün yazılımının en son sürüme yükseltilmesi gerekiyor"</stri
     <string name="wednesday_short">Çarşamba</string>
     <string name="wednesday_shortest">Ç</string>
     <string name="wifi_connected">Bağlandı</string>
+    <string name="xiaomi_nfc_tag_device">Mi cihaz</string>
+    <string name="xiaomi_tv">Mi televizyon</string>
     <string name="yesterday">Dün</string>
 </resources>

@@ -118,7 +118,7 @@
     <string name="screen_overlay_button">Ayarları aç</string>
     <string name="grant_dialog_button_allow">İzin ver</string>
     <string name="grant_dialog_button_deny">Reddet</string>
-    <string name="current_permission_template">%1$s/%2$s</string>
+    <string name="current_permission_template">%1$s(%2$d/%3$d)</string>
     <string name="never_ask_again">Tekrar sorma</string>
     <string name="background_location_access_reminder_notification_title">%s konumunuzu kullanıyor</string>
     <string name="background_location_access_reminder_notification_content">Bu uygulama her zaman konumunuza erişebilir. Değiştirmek için dokunun</string>

@@ -27,6 +27,11 @@
     <string name="abc_shareactionprovider_share_with">Şununla paylaş</string>
     <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
     <string name="abc_toolbar_collapse_description">Daralt</string>
+    <string name="action_for_continue_timer">Devam et</string>
+    <string name="action_for_pause_timer">Duraklat</string>
+    <string name="action_for_restart">Tekrarla</string>
+    <string name="action_for_snooze">Ertele</string>
+    <string name="action_for_stop">Durdur</string>
     <string name="add_alarm">Alarm ekle</string>
     <string name="add_clock">Saat ekle</string>
     <string name="add_common_timer">Zamanlayıcı ekle</string>
