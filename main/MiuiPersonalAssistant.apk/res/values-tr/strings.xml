@@ -489,7 +489,7 @@
     <string name="app_pa_setting_title">Ayarlar</string>
     <string name="app_pa_setting_version">Sürüm: %1$s</string>
     <string name="app_paycode_parent">Alipay</string>
-    <string name="app_screen_time_auth">Hizmet açma yetkisi</string>
+    <string name="app_screen_time_auth">Etkinleştir</string>
     <string name="app_screen_time_no_time_title">&lt;1 dakika</string>
     <string name="app_screen_time_support_false">Bu hizmet şu anda desteklenmiyor</string>
     <string name="app_screen_time_time">%1$d saat %2$d dakika</string>
