@@ -1682,7 +1682,7 @@
         <item>Karlı</item>
     </string-array>
     <string-array name="taobao">
-        <item>淘宝</item>
+        <item>Taobao</item>
         <item>taobao.com</item>
         <item>http://r.m.taobao.com/favicon.ico</item>
         <item>http://r.m.taobao.com/s?p=mm_32549094_4130482_13394846&amp;q={searchTerms}</item>
@@ -1695,7 +1695,7 @@
         <item>taobao</item>
     </string-array>
     <string-array name="tupian">
-        <item>图片</item>
+        <item>Baidu</item>
         <item>baidu.com</item>
         <item>http://image.baidu.com/favicon.ico</item>
         <item>http://m.baidu.com/s?from=1000228f&amp;vit=union&amp;st=103041&amp;word={searchTerms}&amp;tn=bdwis</item>
@@ -1748,7 +1748,7 @@
         <item>yahoo</item>
     </string-array>
     <string-array name="yicha">
-        <item>易查</item>
+        <item>Yicha</item>
         <item>yicha.cn</item>
         <item>http://yicha.cn/favicon.ico</item>
         <item>http://yicha.cn/union/u.jsp?p=page&amp;site=2145958584&amp;key={searchTerms}</item>
