@@ -199,6 +199,9 @@
     <string name="general_location">Mağaza tanımlama işlevinin yetkilendirmek için konum bilgilerini alması gerekiyor</string>
     <string name="general_location_dialog">Bu servis kullanılarak çekilen fotoğraflar ve çekim yerinin konum bilgileri mağaza bilgilerini kontrol etmek için Dianping ile paylaşılacaktır</string>
     <string name="general_location_prompt">Mağaza hizmeti konum izni gerektirir</string>
+    <string name="general_no">Öğe bilgisi bulunamadı</string>
+    <string name="general_no_found">Sizin için benzer ürünleri önerin</string>
+    <string name="general_plant">Aradığınız şey olabilir:</string>
     <string name="general_recognized">Sizin için tanımlandı:</string>
     <string name="general_title">Lütfen tanınacak nesneyi fotoğraflayın</string>
     <string name="global_default_language">@string/language_value_english</string>

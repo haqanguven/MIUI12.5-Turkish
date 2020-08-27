@@ -29,6 +29,38 @@
         <item quantity="other">%d dakika önce</item>
         <item quantity="one">1 dakika önce</item>
     </plurals>
+    <plurals name="anonymous_resource_count_aod">
+        <item quantity="other">%1$d AOD tema</item>
+        <item quantity="one">%1$d AOD tema</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_font">
+        <item quantity="other">%1$d yazı tipi</item>
+        <item quantity="one">%1$d yazı tipi</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_icon">
+        <item quantity="other">%1$d simge</item>
+        <item quantity="one">%1$d simge</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_theme">
+        <item quantity="other">%1$d tema</item>
+        <item quantity="one">%1$d tema</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_title">
+        <item quantity="other">%1$d öğe ekle</item>
+        <item quantity="one">%1$d öğe ekle</item>
+    </plurals>
+    <plurals name="anonymous_resource_link_success_message">
+        <item quantity="other">Hesabınıza %1$d öğe eklendi. Siparişlerinize eklenen ürünleri görüntüleyin</item>
+        <item quantity="one">Hesabınıza %1$d öğe eklendi. Siparişlerinize eklenen ürünleri görüntüleyin</item>
+    </plurals>
+    <plurals name="anonymous_resource_login_message">
+        <item quantity="other">"Oturum açmadıysanız yalnızca %1$d ücretsiz öğeyi indirebilirsiniz (Duvar kağıtları ve zil sesleri hariç). Öğeleri kısıtlama olmaksızın indirmek için oturum açın"</item>
+        <item quantity="one">"Oturum açmadıysanız yalnızca %1$d ücretsiz öğeyi indirebilirsiniz (Duvar kağıtları ve zil sesleri hariç). Öğeleri kısıtlama olmaksızın indirmek için oturum açın"</item>
+    </plurals>
+    <plurals name="anonymous_resource_view">
+        <item quantity="other">Hesabınıza %1$d öğe eklenmedi</item>
+        <item quantity="one">Hesabınıza %1$d öğe eklenmedi</item>
+    </plurals>
     <plurals name="aod_batch_has_update_text">
         <item quantity="other">%1$d tema için güncelleme mevcut</item>
         <item quantity="one">%1$d tema için güncelleme mevcut</item>
@@ -52,6 +84,14 @@
     <plurals name="de_more_comment">
         <item quantity="other">%1$d daha fazla yorum</item>
         <item quantity="one">%1$d daha fazla yorum</item>
+    </plurals>
+    <plurals name="detail_reward_few_times">
+        <item quantity="other">%s ödül</item>
+        <item quantity="one">%s ödül</item>
+    </plurals>
+    <plurals name="detail_reward_times">
+        <item quantity="other">%s ödül</item>
+        <item quantity="one">%s ödül</item>
     </plurals>
     <plurals name="detail_update_time_hour">
         <item quantity="other">%d saat önce</item>

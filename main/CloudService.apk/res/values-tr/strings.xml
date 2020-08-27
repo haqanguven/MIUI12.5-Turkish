@@ -120,8 +120,9 @@
     <string name="ks_key_status">ks_key_status</string>
     <string name="ks_key_udpate_time">ks_key_udpate_time</string>
     <string name="ks_key_version">ks_key_version</string>
-    <string name="ks_name_alipay">Alipay</string>
+    <string name="ks_name_alipay">IFAA</string>
     <string name="ks_name_fido">Fido</string>
+    <string name="ks_name_passpoint">Wifi geçiş noktası</string>
     <string name="ks_name_soter">Soter</string>
     <string name="ks_name_widevine">Widevine (L1)</string>
     <string name="ks_status_available">Mevcut</string>

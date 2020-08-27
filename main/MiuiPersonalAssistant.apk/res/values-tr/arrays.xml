@@ -409,8 +409,18 @@
         <item>@string/chinese_symbol_animals_dog</item>
         <item>@string/chinese_symbol_animals_pig</item>
     </string-array>
+    <string-array name="commute_navigation_choice_item">
+        <item>@string/commute_navigation_choice_recommend</item>
+        <item>@string/commute_service_provider_gaode</item>
+        <item>@string/commute_service_provider_baidu</item>
+    </string-array>
+    <string-array name="commute_navigation_dialog_item">
+        <item>@string/commute_navigation_dialog_item_recommend</item>
+        <item>@string/commute_service_provider_gaode</item>
+        <item>@string/commute_service_provider_baidu</item>
+    </string-array>
     <string-array name="commute_transit_strategy">
-        <item>Akıllı tavsiye</item>
+        <item>Akıllı öneri</item>
         <item>Kısa zaman</item>
         <item>Daha az aktarım</item>
         <item>Daha az yürüyün</item>

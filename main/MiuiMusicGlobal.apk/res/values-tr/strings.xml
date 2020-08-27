@@ -317,9 +317,14 @@
     <string name="dialog_renew_positive_text">Bir Pro gibi rock istiyorum</string>
     <string name="dialog_renew_success">Doğrulama için teşekkürler</string>
     <string name="dialog_score_btn_good">Puanla</string>
+    <string name="dialog_score_msg_score_explorer">Müzikler uygulamasını beğendiniz mi?</string>
+    <string name="dialog_score_msg_score_not_good">Bize geri bildirimde bulunabilir misiniz?</string>
+    <string name="dialog_score_msg_score_perfect">"Harika! Uygulamamıza Play Store'da da puan verir misiniz?"</string>
     <string name="dialog_score_prompt_bad">Geri bildiriminiz için teşekkürler. Uygulama ve hizmetlerimizi iyileştirmek için elimizden geleni yapacağız</string>
     <string name="dialog_score_prompt_good">"Desteğiniz için teşekkürler. Uygulamamıza Google Play'de de puan vermek ister misiniz?"</string>
     <string name="dialog_score_title">Uygulamamıza puan verin</string>
+    <string name="dialog_score_toast_rate">Önce uygulamamızı puanlayın</string>
+    <string name="dialog_score_toast_scroll_down_score_midrop">Uygulamamızı puanlamak için aşağı doğru kaydırın</string>
     <string name="dialog_song_sort_type">Şarkıya göre</string>
     <string name="dialog_song_sort_type_name">Adına göre</string>
     <string name="dialog_song_sort_type_playing_times">Çalma sayısına göre</string>
@@ -461,6 +466,7 @@
     <string name="evening">ÖS</string>
     <string name="exo_controls_fastforward_description">İleri sar</string>
     <string name="exo_controls_fullscreen_description">Tam ekran modu</string>
+    <string name="exo_controls_hide">Oynatıcı kontrollerini gizle</string>
     <string name="exo_controls_next_description">Sonraki parça</string>
     <string name="exo_controls_pause_description">Duraklat</string>
     <string name="exo_controls_play_description">Çal</string>
@@ -469,8 +475,11 @@
     <string name="exo_controls_repeat_off_description">Hiçbirini tekrarlama</string>
     <string name="exo_controls_repeat_one_description">Birini tekrarla</string>
     <string name="exo_controls_rewind_description">Geri sar</string>
-    <string name="exo_controls_shuffle_description">Karıştır</string>
+    <string name="exo_controls_show">Oynatıcı kontrollerini göster</string>
+    <string name="exo_controls_shuffle_off_description">Karıştırma kapalı</string>
+    <string name="exo_controls_shuffle_on_description">Karıştırma açık</string>
     <string name="exo_controls_stop_description">Durdur</string>
+    <string name="exo_controls_vr_description">VR mode</string>
     <string name="exo_download_completed">İndirme işlemi tamamlandı</string>
     <string name="exo_download_description">İndir</string>
     <string name="exo_download_downloading">İndiriliyor</string>
@@ -481,6 +490,10 @@
     <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
     <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exo_track_role_alternate">Alternatif</string>
+    <string name="exo_track_role_closed_captions">Altyazı</string>
+    <string name="exo_track_role_commentary">Anlatım</string>
+    <string name="exo_track_role_supplementary">Ek kanal</string>
     <string name="exo_track_selection_auto">Otomatik</string>
     <string name="exo_track_selection_none">Yok</string>
     <string name="exo_track_selection_title_audio">Ses</string>
@@ -1117,6 +1130,7 @@ mutlu ol"</string>
     <string name="shuffle_music">Karışık oynat</string>
     <string name="shuffle_off_notif">Karışık kapalı</string>
     <string name="shuffle_on_notif">Karışık açık</string>
+    <string name="shuffle_play_toast_text">Şarkılar karıştırılıyor</string>
     <string name="similar_albums">Benzer albümler</string>
     <string name="similar_playlists">Benzer çalma listeleri</string>
     <string name="similar_songs">Benzer şarkılar</string>
@@ -1284,6 +1298,8 @@ mutlu ol"</string>
     <string name="toast_not_pro">Bu özellik yalnızca Pro üyeleri tarafından kullanılabilir</string>
     <string name="toast_uhd_songs_for_download">Yüksek kalite ayarı indiriliyor</string>
     <string name="toast_uhd_songs_for_stream">Yüksek kalite ayarı indiriliyor</string>
+    <string name="toast_will_play_list_when_ad_pause">Oynatma listesi reklamlardan sonra oynatılmaya başlanacak</string>
+    <string name="toast_will_play_song_when_ad_pause">Bu şarkı reklamlardan sonra oynatılmaya başlanacak</string>
     <string name="today">Bugün</string>
     <string name="tomorrow">Yarın</string>
     <string name="top_chart_title">Grafikler</string>
