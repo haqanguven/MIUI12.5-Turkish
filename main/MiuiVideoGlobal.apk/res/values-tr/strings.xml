@@ -113,6 +113,7 @@
     <string name="auth_fail_warning">Oturumun süresi doldu. Tekrar oturum açın</string>
     <string name="auto_play_next_off">Otomatik oynatma kapalı</string>
     <string name="auto_play_next_on">Otomatik oynatma açık</string>
+    <string name="back_to_mainpage">Keşfet</string>
     <string name="before_yestoday">2 gün önce</string>
     <string name="bind_sign_in_title">Hesap ekle</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
@@ -137,7 +138,7 @@
     <string name="cast_forward">İleri sar</string>
     <string name="cast_forward_10">10 saniye ileri sar</string>
     <string name="cast_forward_30">30 saniye ileri sar</string>
-    <string name="cast_intro_overlay_button_text">@android:string/ok</string>
+    <string name="cast_intro_overlay_button_text">\@android:string/ok</string>
     <string name="cast_invalid_stream_duration_text">--:--</string>
     <string name="cast_invalid_stream_position_text">--:--</string>
     <string name="cast_live_label">Canlı</string>
@@ -184,8 +185,7 @@
     <string name="columbus_player_close_video">Videodan çık</string>
     <string name="columbus_player_install_now">Şimdi yükle</string>
     <string name="columbus_player_learn_more">Daha fazla</string>
-    <string name="com.crashlytics.android.build_id">ec71a063-3031-4779-b62b-ab7779274c23</string>
-    <string name="com_facebook_device_auth_instructions">&lt;b>facebook.com/device&lt;/b> ziyaret edin ve yukarıda gösterilen kodu girin</string>
+    <string name="com_facebook_device_auth_instructions"><b>facebook.com/device</b> ziyaret edin ve yukarıda gösterilen kodu girin</string>
     <string name="com_facebook_image_download_unknown_error">Görüntü indirilirken beklenmedik bir hata oluştu</string>
     <string name="com_facebook_internet_permission_error_message">İnternet görünümü girişi için internet izni gerekiyor</string>
     <string name="com_facebook_internet_permission_error_title">AndroidManifest hatası</string>
@@ -208,9 +208,6 @@
     <string name="com_facebook_smart_login_confirmation_continue_as">%1$s olarak devam et</string>
     <string name="com_facebook_smart_login_confirmation_title">Girişi onayla</string>
     <string name="com_facebook_tooltip_default">Kontrol sende - uygulamalarla paylaşmak istediğin bilgileri seç</string>
-    <string name="com_mixpanel_android_close">Kapat</string>
-    <string name="com_mixpanel_android_done">Bitti</string>
-    <string name="com_mixpanel_android_notification_image">Resim gösterilmiyor</string>
     <string name="com_permission_desc">Videolar cihazınızdaki videolara erişemiyor. Ayarlar menüsünde erişime izin verin</string>
     <string name="com_permission_title">İzin gerekli</string>
     <string name="comment_model_add_comment">Yorum ekle</string>
@@ -236,6 +233,8 @@
     <string name="comment_model_send_forbid_tips">Hesap askıya alındı</string>
     <string name="comment_model_send_success">Başarıyla gönderildi</string>
     <string name="common_cancel">İptal et</string>
+    <string name="common_copyright_unsupported_audio">Telif hakkı kısıtlamaları nedeniyle ses parçası çalınamıyor</string>
+    <string name="common_copyright_unsupported_video">Telif hakkı kısıtlamaları nedeniyle bu video oynatılamıyor</string>
     <string name="common_google_play_services_enable_button">Etkinleştir</string>
     <string name="common_google_play_services_enable_text">Google Play hizmetlerini etkinleştirmezseniz %1$s çalışmaz</string>
     <string name="common_google_play_services_enable_title">Google Play hizmetlerini etkinleştirin</string>
@@ -272,8 +271,8 @@
     <string name="diagnosis_log_sent_format">"Kayıtlar başarıyla gönderildi
 Kimlik:%s
 Bu kodu gönderin"</string>
-    <string name="dialog_privacy_info_new2">"Hizmetleri kullanabilmek için, kişisel bilgilerinizin %1$s tarafından toplanılacağını, işleneceğini ve kullanılacağını kabul etmeniz gerekmektedir. Kabul et seçeneğine dokunduğunuzda &lt;a href=%2$s>Gizlilik politikasını&lt;/a> okuyup kabul etmiş sayılırsınız"</string>
-    <string name="dialog_privacy_info_new3">"Bu hizmeti kullanabilmek için %1$s uygulamasının, Gizlilik Politikasına göre kişisel bilgilerinizi toplamasına, işlemesine ve kullanmasına izin vermeniz gerekir. Aşağıdaki kabul et yazısına dokunarak Xiaomi'nin &lt;a href=%2$s>Gizlilik politikası&lt;/a> ve &lt;a href=%3$s>Kullanıcı sözleşmesini&lt;/a> onaylıyorsunuz"</string>
+    <string name="dialog_privacy_info_new2">Hizmetleri kullanabilmek için, kişisel bilgilerinizin %1$s tarafından toplanılacağını, işleneceğini ve kullanılacağını kabul etmeniz gerekmektedir. Kabul et seçeneğine dokunduğunuzda <a href="%2$s">Gizlilik politikasını</a> okuyup kabul etmiş sayılırsınız</string>
+    <string name="dialog_privacy_info_new3">"Bu hizmeti kullanabilmek için %1$s uygulamasının, Gizlilik Politikasına göre kişisel bilgilerinizi toplamasına, işlemesine ve kullanmasına izin vermeniz gerekir. Aşağıdaki kabul et yazısına dokunarak Xiaomi'nin "<a href="%2$s">Gizlilik politikası</a> ve <a href="%3$s">Kullanıcı sözleşmesini</a> onaylıyorsunuz</string>
     <string name="dialog_privacy_title">Yetkilendirme</string>
     <string name="dialog_revoke_privacy_info_new2">Yetkilendirmeyi kaldırdıktan sonra uygulama veri toplamayı durdurur ve tüm ilgili veriler sunucularımızdan silinir. Bu işlem uygulamayı kullanılamaz hale getirebilir. Yetki yine de kaldırılsın mı?</string>
     <string name="dialog_revoke_privacy_title">Yetkilendirme geri alınıyor</string>
@@ -349,6 +348,7 @@ Bu kodu gönderin"</string>
     <string name="favorite_fail">Favorilere eklenemedi. Tekrar deneyin</string>
     <string name="favorite_success">Favorilere başarıyla eklendi</string>
     <string name="fcm_fallback_notification_channel_label">Çeşitli</string>
+    <string name="fcm_push_title">Popüler videolar</string>
     <string name="feedback">Geri bildirim</string>
     <string name="feedback_activity_title">Geri bildirim</string>
     <string name="feedback_contact_empty">İletişim bilgilerinizi girin</string>
@@ -399,7 +399,7 @@ Bu kodu gönderin"</string>
     <string name="galleryplus_click_to_higher_definition">HD önizlemeyi açmak için çift dokunun</string>
     <string name="galleryplus_copyright_unsported_audio">Telif hakkı kısıtlamalarından dolayı ses parça videosu oynatılamıyor</string>
     <string name="galleryplus_copyright_unsported_video">Telif hakkı kısıtlamalarından dolayı bu video oynatılamıyor</string>
-    <string name="galleryplus_cta_tips">"Kullanıcı deneyimi programına kaydolarak ve videonun internete bağlanmasına izin vererek hizmetlerimizi geliştirmemize yardımcı olabilirsiniz. Onaylıyor musunuz?"</string>
+    <string name="galleryplus_cta_tips">Kullanıcı deneyimi programına kaydolarak ve videonun internete bağlanmasına izin vererek hizmetlerimizi geliştirmemize yardımcı olabilirsiniz. Onaylıyor musunuz?</string>
     <string name="galleryplus_double_tap_to_higher_definition">HD önizlemeyi açmak için tekrar çift dokunun</string>
     <string name="galleryplus_fr_unsupport_restore_speed">Desteklenmeyen kare hızı. Normal hıza geri dönün</string>
     <string name="galleryplus_gallery_fold_tags">İşaretleri gizle</string>
@@ -431,9 +431,9 @@ Bu kodu gönderin"</string>
     <string name="galleryplus_online_cta_title">Şartlar ve koşullar</string>
     <string name="galleryplus_online_video_loading">Yükleniyor</string>
     <string name="galleryplus_permission_content">Bu özelliği kullanabilmek için videoya gerekli izinleri verin</string>
-    <string name="galleryplus_permission_content2">"Bu özelliği kullanabilmek için Ayarlar > Uygulamalar > Videolar > Uygulama izinleri menüsüne gidin ve videonun aşağıdakileri yapmasına izin verin:
-
-1. Depolamaya erişim
+    <string name="galleryplus_permission_content2">"Bu özelliği kullanabilmek için Ayarlar > Uygulamalar > Videolar > Uygulama izinleri menüsüne gidin ve videonun aşağıdakileri yapmasına izin verin:\u000d
+\u000d
+1. Depolamaya erişim\u000d
 2. Cihaz kimliğine erişim"</string>
     <string name="galleryplus_permission_open_settings">Ayarlar</string>
     <string name="galleryplus_permission_refuse">Hayır</string>
@@ -722,6 +722,9 @@ tercih ettiğiniz dili seçin"</string>
     <string name="notification_bar_player_subtitle">Bildirim gölgesinde küçültülmüş oynatıcıyı göster</string>
     <string name="notification_bar_player_title">Oynatıcıyı küçült</string>
     <string name="notification_open_tip">Bildirimleri almak için açın</string>
+    <string name="notification_recall_action">Aç</string>
+    <string name="notification_recall_desc">Mi Video, popüler videolar ve abonelikleriniz hakkında size bildirim gönderebilir.</string>
+    <string name="notification_recall_title">Bildirimleri aç</string>
     <string name="notify_apk_installed">Başarıyla indirildi</string>
     <string name="ok">Tamam</string>
     <string name="order_alphabet">A-Z</string>
@@ -920,7 +923,7 @@ tercih ettiğiniz dili seçin"</string>
 
 Hizmetlerin cihazınız için daha iyi özelleştirilmesi;
 Hesap güvenliğinin arttırılması"</string>
-    <string name="permission_info1">"Videonun aşağıdaki işlemleri yapmak için cihazınızın IMEI numarasına erişmesi gerekmektedir:"</string>
+    <string name="permission_info1">Videonun aşağıdaki işlemleri yapmak için cihazınızın IMEI numarasına erişmesi gerekmektedir:</string>
     <string name="permission_info2">Uygulamanın cihazınız için daha iyi özelleştirilmesi;</string>
     <string name="permission_info3">Hesap güvenliğinin arttırılması</string>
     <string name="permission_phone">Telefon</string>
@@ -928,6 +931,7 @@ Hesap güvenliğinin arttırılması"</string>
     <string name="permission_storage">Depolama</string>
     <string name="permission_storage_desc">Öğelere erişmek, dosyaları kaydetmek, yerel videoları görüntülemek ve oynatmak için</string>
     <string name="permission_title">İzin gerekli</string>
+    <string name="pgc_push_title">Abonelikler</string>
     <string name="phone_bind_too_many">Bu telefon kısa bir süre içerisinde bir kaç Mi Hesabı ile ilişkilendirildi. Farklı bir telefon numarası kullanmayı deneyin</string>
     <string name="phone_hint">Telefon numarası</string>
     <string name="phone_num_use_for">Telefon numarası bu işlemler için kullanılır:</string>
@@ -1088,6 +1092,7 @@ Hesap güvenliğinin arttırılması"</string>
     <string name="remaining_space">Kullanılabilir: %s</string>
     <string name="remaining_space_not_enough">Yetersiz depolama alanı nedeniyle indirilemiyor</string>
     <string name="reminder">Uyarı</string>
+    <string name="rename">Yeniden adlandır</string>
     <string name="report">Bildir</string>
     <string name="report_content_dislike">Şiddet veya uygunsuz davranış</string>
     <string name="report_content_fakement">Spam ya da dolandırıcılık</string>

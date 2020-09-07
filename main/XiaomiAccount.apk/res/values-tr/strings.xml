@@ -162,6 +162,7 @@ Profiliniz %s hesabınızdaki bilgiler doğrultusunda güncellendi"</string>
     <string name="confirm_unbundled_phone_dialog_message">%1$s numaralı telefon Mi hesabı %2$s ile ilişkilendirilmiş durumda. Devam etmeniz durumunda Mi hesabı %3$s ile ilişkisi sonlandırılacaktır. Devam edilsin mi?</string>
     <string name="continue_action">Devam et</string>
     <string name="copy">Kopyala</string>
+    <string name="copy_to_clipboard_successful">Kopyalandı</string>
     <string name="delete_action">Sil</string>
     <string name="delete_bank_card_message">Oturumu kapatmanızdan sonra banka kartınız güvenlik nedeniyle silinecektir</string>
     <string name="delete_bank_card_title">Banka kartınız siliniyor</string>
@@ -221,6 +222,7 @@ Bu kodu amirinize gönderin"</string>
     <string name="for_diagnosis_usage_only">Yalnızca sorunları bulmak için kullanılır</string>
     <string name="get_back_pwd">Şifre sıfırlama</string>
     <string name="get_device_list_failed">Cihaz listesi alınamıyor</string>
+    <string name="get_identity_auth_url_failed">Kimlik doğrulanamadı</string>
     <string name="get_phone_bind_exceed_limit">Bir telefon numarasıyla 3 Mi Hesabına kadar ilişkilendirebilirsiniz. Yeni hesap eklenemiyor</string>
     <string name="get_phone_verifycode_exceed_limit">Bu numaraya çok fazla sayıda doğrulama kodu gönderildi. 24 saat bekleyin ve ardından yeniden deneyin</string>
     <string name="google">Google</string>
@@ -232,6 +234,7 @@ Bu kodu amirinize gönderin"</string>
     <string name="health_state_not_activated">Etkin değil</string>
     <string name="health_state_not_installed">Yüklü değil</string>
     <string name="health_state_not_support">Bu sürümde desteklenmiyor</string>
+    <string name="help_center">Yardım</string>
     <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="i_agree">Tamam</string>
     <string name="i_agree_continue">Kabul et</string>
@@ -293,7 +296,7 @@ Bu kodu amirinize gönderin"</string>
     <string name="notify_network_restricted_title">Mi hesabı ağa bağlanamadı</string>
     <string name="oauth_get_scopes_failed">Hesap bilgileri alınamadı</string>
     <string name="oauth_getting_scopes">Hesap doğrulanıyor</string>
-    <string name="oauth_scopes_intro"><font color="#%1$s">&lt;fon</font>t color=#%1$s>%2$s&lt;/font> belirtilen izinleri alacaktır:&lt;br> &lt;br> %3$s</string>
+    <string name="oauth_scopes_intro">&lt;font color=#%1$s>%2$s&lt;/font> aşağıdaki izinleri alacak:&lt;br> &lt;br> %3$s</string>
     <string name="oauth_title">Mi hesabı ile oturum açın</string>
     <string name="ok">Tamam</string>
     <string name="optional_permissions">İsteğe bağlı izinler</string>
@@ -327,7 +330,7 @@ Bu kodu amirinize gönderin"</string>
     <string name="passport_completed">Tamamlandı</string>
     <string name="passport_confirm_login">Devam et</string>
     <string name="passport_confirm_recycle_account">Evet</string>
-    <string name="passport_confirm_recycle_account_msg">%s <font color="Red">Şüpheli</font>Operatör satın alma numarasından sonra tekrar satın alıyor mu?. Numara Mi hesabının altında mıydı?. Bu hesap sizin mi?</string>
+    <string name="passport_confirm_recycle_account_msg">"&lt;font color=Red>Görünüşe göre&lt;/font> %s numarası operatörünüz tarafından geri dönüştürülmüş ve onunla ilişkili bir Mi hesabı var. Bu hesap senin mi?"</string>
     <string name="passport_continue">Devam et</string>
     <string name="passport_copy_message_text_success">Başarıyla kopyalandı</string>
     <string name="passport_copy_message_vcode">Kodu kopyala</string>
@@ -374,7 +377,7 @@ Bu kodu amirinize gönderin"</string>
     <string name="passport_get_back_pwd">Hesap şifresini kurtar</string>
     <string name="passport_get_innetdate_agree">Kontrol et</string>
     <string name="passport_get_innetdate_disagree">Hayır</string>
-    <string name="passport_get_innetdate_msg"><font color="Red">%s</font> numarası operatörünüz tarafından geri dönüştürülmüş gibi görünüyor. Numaranın ne zaman çevrimiçi olduğunu kontrol etmek ister misiniz?</string>
+    <string name="passport_get_innetdate_msg">&lt;font color=Red>Görünüşe göre&lt;/font> %s numarası operatörünüz tarafından geri dönüştürülmüş gibi görünüyor. Numaranın ne zaman çevrimiçi olduğu kontrol edilsin mi?</string>
     <string name="passport_get_innetdate_title">Numaranın ne zaman çevrimiçi olduğuna bak</string>
     <string name="passport_get_verify_code">Kodu al</string>
     <string name="passport_getting_activator_phone">Sim bilgileri alınıyor</string>
@@ -507,7 +510,7 @@ Bu kodu amirinize gönderin"</string>
     <string name="passport_use_generated_pwd_message">Şifrenizi hatırladığınızdan emin olun. Şifrenizi diğer Mi hizmetlerinde oturum açmak için kullanabilirsiniz</string>
     <string name="passport_use_generated_pwd_title">Şifrenizi hatırlayın</string>
     <string name="passport_user_agreement">Kullanıcı sözleşmesi</string>
-    <string name="passport_user_agreement_link">"Xiaomi'nin <a href="%1$s">Kullanıcı sözleşmesi</a> ve <a href="%2$s">Gizlilik politikasını</a> okudum ve kabul ediyorum"</string>
+    <string name="passport_user_agreement_link"><Data>"Xiaomi'nin &lt;a href=%1$s>Kullanıcı sözleşmesini&lt;/a> ve &lt;a href=%2$s> Gizlilik politikasını okudum ve kabul ediyorum&lt;/a>"</Data></string>
     <string name="passport_user_agreement_required">Kullanıcı sözleşmesi (Zorunlu)</string>
     <string name="passport_user_id_notice">Mi hesap kimliğiniz: %s</string>
     <string name="passport_user_reg_region">Ülke veya bölge</string>

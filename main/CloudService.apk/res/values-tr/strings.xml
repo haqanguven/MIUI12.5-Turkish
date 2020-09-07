@@ -103,6 +103,9 @@
     <string name="find_device_operation_failure_rpc">İşlem RPC hatası nedeniyle tamamlanamadı</string>
     <string name="find_device_send_sms_alert">Sim kartları değiştirirseniz bu servisin yeniden etkinleştirilmesi için yeni bir mesaj otomatik olarak gönderilebilir</string>
     <string name="find_device_service_title">Cihazı bul</string>
+    <string name="find_device_status_summary">Cihazınızı bulun, kilitleyin ve verilerinizi uzaktan silin</string>
+    <string name="find_device_status_title_pad">Cihazı bul</string>
+    <string name="find_device_status_title_phone">Cihazı bul</string>
     <string name="finddevice_miservice_notification_content">Cihazınız kaybolursa uzaktan kilitle</string>
     <string name="finddevice_miservice_notification_title">Cihazı bul özelliğini aç</string>
     <string name="forget_password"><u>Şifremi unuttum</u></string>
@@ -122,6 +125,7 @@
     <string name="ks_key_version">ks_key_version</string>
     <string name="ks_name_alipay">IFAA</string>
     <string name="ks_name_fido">Fido</string>
+    <string name="ks_name_keybox">Anahtar kutusu</string>
     <string name="ks_name_passpoint">Wifi geçiş noktası</string>
     <string name="ks_name_soter">Soter</string>
     <string name="ks_name_widevine">Widevine (L1)</string>
@@ -138,6 +142,8 @@
     <string name="last_sync_time_yesterday">Dün</string>
     <string name="license_host_unreachable">Ağa bağlanılamıyor. Bu bilgiyi görüntülemek için %s adresine gidin</string>
     <string name="loading">Yükleniyor</string>
+    <string name="low_battery_locate_summary">Pil azaldığında konum bilgilerini otomatik olarak bildirin</string>
+    <string name="low_battery_locate_title">Pil azaldığında konumu bildir</string>
     <string name="master_alert_notif_content">Önemli bir şeyi kaybetmemek için öğeleri düzenli olarak yedekleyin</string>
     <string name="master_alert_notif_title">Xiaomi bulutu aç</string>
     <string name="member_entrance_title_free_high_case_a">Daha fazla depolama alanı edinin</string>
@@ -242,6 +248,7 @@ Kayıp olması durumunda cihazınızı bulun ve kilitleyin"</string>
     <string name="micloud_find_device_guide_noti_title_by_app_change_wx">WeChat cihazı bul özelliğini açmanızı öneriyor</string>
     <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Alipay cihazı bul özelliğini açmanızı öneriyor</string>
     <string name="micloud_find_device_guide_progress">Cihazı bul açılıyor</string>
+    <string name="micloud_find_device_guide_title">"Cihazınızı bulmak, kilitlemek, kayıp olarak işaretlemek veya verileri uzaktan silmek için Mi hesabınızla &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> i.mi.com'da oturum açın. Detaylar: &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>here&lt;/a>"</string>
     <string name="micloud_find_device_open_fail">Cihazı bul kapatılamadı</string>
     <string name="micloud_find_device_opened">Cihazı bul açık</string>
     <string name="micloud_find_device_opened_content">Cihaz konumunu bulun %s</string>
@@ -399,6 +406,15 @@ Kayıp olması durumunda cihazınızı bulun ve kilitleyin"</string>
     <string name="micloud_wipe_data_confirm_title">Aşağıdaki uygulamalardan bazı öğeler Xiaomi bulut ile senkronize edilir. Bunları bulutta tutarak bu cihazdan silebilirsiniz</string>
     <string name="micloud_wipe_data_remove">Kaldır</string>
     <string name="micloud_wipe_data_retain">Tut</string>
+    <string name="midrive_guide1_desc">Cihazınızda depolama alanını boşaltmak için öğeleri buluta yedekleyin</string>
+    <string name="midrive_guide1_title">Güvenli yedeklemeler</string>
+    <string name="midrive_guide2_desc">Öğeleri aşırı hızda indirin</string>
+    <string name="midrive_guide2_title">Hızlı indirme</string>
+    <string name="midrive_guide3_desc">Mi sürücüyü mobil cihazlarda, bilgisayarlarda ve tarayıcılarda kullanın</string>
+    <string name="midrive_guide3_title">Her yerde çalışır</string>
+    <string name="midrive_guide_btn_install">Mi sürücüyü yükle</string>
+    <string name="midrive_guide_btn_installed">Mi sürücüyü aç</string>
+    <string name="midrive_guide_btn_installing">Yükleniyor</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için çek</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Yenileme tamamlandı</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor</string>
@@ -434,6 +450,9 @@ Bu özellik cihazınızın kimliğini şifreler ve Mi sunucularına gönderir"</
     <string name="picker_list_empty">Burada kişi yok</string>
     <string name="picker_search_empty">Kişi bulunamadı</string>
     <string name="picker_search_hint">Ara</string>
+    <string name="power_off_locate_summary">"Güç düğmesine uzun basarak konum bilgilerini bildirin
+Ağ bağlantısı zayıf olduğunda konum bilgisi bildirilmeyebilir"</string>
+    <string name="power_off_locate_title">Gücü kapatmadan önce konumu bildirin</string>
     <string name="pre_privacy_policy">Gizlilik politikası</string>
     <string name="pre_user_agreement">Kullanıcı sözleşmesi</string>
     <string name="pref_summary_sync_display_photo_on_wifi_only">Kişi profil fotoğraflarını yalnızca wifi ağına bağlanıldığında senkronize et</string>
@@ -479,9 +498,12 @@ Bu özellik cihazınızın kimliğini şifreler ve Mi sunucularına gönderir"</
     <string name="special_func_title">Özel özellikler</string>
     <string name="starred_contact">Favoriler</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="storage_manage_cloud_data_title">Buluttaki öğeleri görüntüleyin</string>
     <string name="storage_manage_expansion">Daha fazla al</string>
+    <string name="storage_manage_full_summary">Bulut depolama dolu. Planınızı yükseltin</string>
     <string name="storage_manage_list_title">Bulut verisi</string>
     <string name="storage_manage_list_title_action">Daha fazla göster</string>
+    <string name="storage_manage_normal_summary">Bulut depolama planını değiştir</string>
     <string name="storage_manage_renewal">Yenile</string>
     <string name="storage_manage_title">Bulut depolama planını değiştirin</string>
     <string name="storage_manage_upgrade">Yükselt</string>

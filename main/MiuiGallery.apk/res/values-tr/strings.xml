@@ -276,6 +276,7 @@
     <string name="burst_preview_title">Çoklu çekim</string>
     <string name="burst_save_all">Tümünü kaydet</string>
     <string name="burst_save_choice_title" formatted="false">%d arasında %d seçildi</string>
+    <string name="burst_save_dialog_title">Saklanacak fotoğrafları seçin</string>
     <string name="burst_save_error_msg">Kaydedilemedi</string>
     <string name="burst_save_processing">İşleniyor</string>
     <string name="burst_save_video">Video olarak kaydet</string>
@@ -1221,18 +1222,25 @@ Arkadaşlarınızın daha fazla fotoğraflarını çekin"</string>
     <string name="filter_movie_lost">Kayıp</string>
     <string name="filter_movie_nordic">İskandinav</string>
     <string name="filter_movie_portrait">Odak</string>
+    <string name="filter_movie_quiet">Sakin</string>
     <string name="filter_movie_rome">Roma</string>
     <string name="filter_movie_summer">Yaz</string>
     <string name="filter_movie_travel">Seyahat</string>
     <string name="filter_movie_wonderful">Mucize</string>
     <string name="filter_original">Hiçbiri</string>
+    <string name="filter_popular_bluedream">Uyuklama</string>
     <string name="filter_popular_humanity">Belgesel</string>
     <string name="filter_popular_lnk">Mürekkep</string>
     <string name="filter_popular_purple">Mor</string>
+    <string name="filter_popular_shallow_summer">Haziran</string>
+    <string name="filter_popular_smokegreen">Adaçayı</string>
+    <string name="filter_popular_watergreen">Zümrüt</string>
     <string name="filter_portrait_greyish">Kül</string>
     <string name="filter_portrait_hint">Renk</string>
     <string name="filter_portrait_mist">Sis</string>
+    <string name="filter_portrait_mojito">Mojito</string>
     <string name="filter_portrait_painting">Boyama</string>
+    <string name="filter_portrait_waterblue">Akuamarin</string>
     <string name="filter_single_sky">Gökyüzü</string>
     <string name="filter_sky_bikong">Masmavi</string>
     <string name="filter_sky_chenguang">Şafak</string>
@@ -1256,7 +1264,7 @@ Arkadaşlarınızın daha fazla fotoğraflarını çekin"</string>
     <string name="filter_sky_dynamic_note">Bu filtreye sahip öğeler video olarak kaydedilir</string>
     <string name="filter_sky_dynamic_qingtian">Açık</string>
     <string name="filter_sky_dynamic_rain">Yağmur</string>
-    <string name="filter_sky_dynamic_saving">Video oluştur</string>
+    <string name="filter_sky_dynamic_saving">Video oluşturuluyor</string>
     <string name="filter_sky_dynamic_shuyu">Yağmur</string>
     <string name="filter_sky_dynamic_snow">Kar</string>
     <string name="filter_sky_dynamic_stop_saving">Kaydetmeyi iptal etmek için tekrar dokun</string>
@@ -1880,6 +1888,7 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="photo_movie_module_finish">Klipler başarıyla yüklendi</string>
     <string name="photo_movie_module_loading">Klipler yükleniyor</string>
     <string name="photo_movie_select_image_range">Klipler 3-20 fotoğraf içerebilir</string>
+    <string name="photo_page_rotate_screen">Ekranı döndür</string>
     <string name="photo_page_save_uri_image_fail">Galeriye kaydedilemedi</string>
     <string name="photo_page_save_uri_image_ok">Fotoğraf galeriye kaydedildi</string>
     <string name="photo_portrait_color_download_fail">Eklenti indirilemedi. Ağa bağlanın ve tekrar deneyin</string>
@@ -2406,6 +2415,7 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="time_burst_photo_enter">Zamanlı seri çekim</string>
     <string name="time_burst_preview_title">Zamanlı seri çekim</string>
     <string name="time_burst_save_all">Tüm fotoğrafları kaydedin</string>
+    <string name="time_burst_save_dialog_title">Öğeleri dışa aktar</string>
     <string name="time_burst_save_select">Seçili fotoğrafları kaydedin</string>
     <string name="time_burst_save_video">Video olarak kaydet</string>
     <string name="time_picker_dialog_title">Saati ayarla</string>

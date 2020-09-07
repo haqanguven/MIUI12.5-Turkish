@@ -72,6 +72,18 @@
         <item quantity="other">%d video</item>
         <item quantity="one">%d video</item>
     </plurals>
+    <plurals name="s_double_tap_backward">
+        <item quantity="other">%d saniye geri sarmak için çift dokunun</item>
+        <item quantity="one">%d saniye geri sarmak için çift dokunun</item>
+    </plurals>
+    <plurals name="s_double_tap_forward">
+        <item quantity="other">%d saniye ileri sarmak için çift dokunun</item>
+        <item quantity="one">%d saniye ileri sarmak için çift dokunun</item>
+    </plurals>
+    <plurals name="s_forward_tip">
+        <item quantity="other">%1$s saniye</item>
+        <item quantity="one">%1$s saniye</item>
+    </plurals>
     <plurals name="subscriber">
         <item quantity="other">%s abone</item>
         <item quantity="one">%s abone</item>

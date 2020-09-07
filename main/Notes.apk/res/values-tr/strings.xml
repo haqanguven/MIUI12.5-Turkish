@@ -729,8 +729,5 @@ Ses kaydetmek için notlar uygulamasına izin verin"</string>
     <string name="widget_content_loading">Yükleniyor</string>
     <string name="widget_havenot_content">Bir not oluşturmak için dokunun. Notu yeniden boyutlandırmak için araca basılı tutun</string>
     <string name="xiaomi_account_type">com.xiaomi</string>
-    <string name="xiaomi_market_sdk_update_dialog_cancel">İptal et</string>
-    <string name="xiaomi_market_sdk_update_dialog_ok">Tamam</string>
-    <string name="xiaomi_market_sdk_update_dialog_title">%s güncelle</string>
     <string name="yesterday">Dün</string>
 </resources>

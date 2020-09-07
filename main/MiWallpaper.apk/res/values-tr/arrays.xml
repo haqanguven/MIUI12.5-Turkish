@@ -1,14 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="settings_search_earth">
-        <item>Dünya ana sayfası</item>
-        <item>Duvar kağıdı/Süper duvar kağıdı/Dünya ana sayfası</item>
-        <item>Toprak;süper toprak;süper duvar kağıdı;duvar kağıdı</item>
+        <item>Ev</item>
+        <item>Duvar kağıdı/Süper duvar kağıtları/Ev</item>
+        <item>Dünya;Süper duvar kağıtları;Dünya sürümü;Duvar Kağıdı</item>
     </string-array>
     <string-array name="settings_search_mars">
         <item>Kırmızı mars</item>
         <item>Duvar kağıdı/Süper duvar kağıdı/Kırmızı mars</item>
         <item>Mars;Süper mars;Süper duvar kağıdı;Duvar kağıdı</item>
+    </string-array>
+    <string-array name="settings_search_saturn">
+        <item>Satürnün halkaları</item>
+        <item>Duvar kağıdı/Süper duvar kağıtları/Satürnün halkaları</item>
+        <item>Gezegen;Satürn;Süper duvar kağıdı;Duvar kağıdı</item>
     </string-array>
     <string-array name="settings_search_superwp">
         <item>Süper duvar kağıdı</item>

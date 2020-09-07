@@ -483,6 +483,7 @@
     <string name="usage_device_limit_app_prolong_time2">40 dakika ekle</string>
     <string name="usage_device_limit_app_prolong_time3">60 dakika ekle</string>
     <string name="usage_device_limit_app_prolong_time4">Bugün sınırlandırma</string>
+    <string name="usage_device_limit_app_prolong_time5">Bir kez zaman ekleyin</string>
     <string name="usage_device_limit_notifation_summary_start">%1$s içinde limitinize ulaşacaksınız</string>
     <string name="usage_device_limit_notifation_title">Bugün kalan süre</string>
     <string name="usage_device_limit_time_over">Bugünün limitine ulaştınız (%1$s)</string>
