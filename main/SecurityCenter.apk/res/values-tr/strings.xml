@@ -547,6 +547,8 @@ Kişisel kırmızı zarfı destekleyin ve kırmızı zarfı gruplayın
     <string name="auto_data_booster_suc">Oyun hızı yükseltici açık. Sürükleyici moda geçti</string>
     <string name="auto_handle_title">Genel</string>
     <string name="auto_import_games">Tüm oyunlarınızı bir araya getirin</string>
+    <string name="auto_send_correcting_msg">Eğer doldurulmazsa sistem otomatik olarak mesaj doğrulaması gönderecektir</string>
+    <string name="auto_set_by_brand">Markanıza göre otomatik olarak akış ve serbest akış bilgilerini ayarlayın</string>
     <string name="auto_task_condition_choose_battery_level_down">Pil seviyesi belirli bir seviyeye ulaştığında</string>
     <string name="auto_task_condition_choose_end_time">Bitiş zamanı</string>
     <string name="auto_task_condition_choose_ontime">Zamanlayıcı</string>
@@ -797,6 +799,11 @@ Kişisel kırmızı zarfı destekleyin ve kırmızı zarfı gruplayın
     <string name="card_tc_failed">Kalibre edilemedi</string>
     <string name="cd_back">Geri</string>
     <string name="celcius_symbol">℃</string>
+    <string name="charger_detect_button_ok">Anladım</string>
+    <string name="charger_detect_info1">Güç adaptörünün ve kablonun doğru şekilde bağlanıp bağlanmadığını kontrol edin</string>
+    <string name="charger_detect_info2">Standart olmayan veya eski güç adaptörleri ve kabloları kullanıyorsanız şarj işlemi de yavaşlayabilir</string>
+    <string name="charger_detect_no_remind">Bir daha gösterme</string>
+    <string name="charger_detect_title">Şarj işlemi yavaş</string>
     <string name="charging_text_battery_full_time">"En son şarj "</string>
     <string name="charging_text_battery_nearly_full">Neredeyse tamamen şarj edildi</string>
     <string name="charging_text_battery_perfect">Şarj oldu</string>
@@ -835,6 +842,7 @@ Kişisel kırmızı zarfı destekleyin ve kırmızı zarfı gruplayın
     <string name="connect_internet_by_wifi">Wifi</string>
     <string name="connecting">Bağlanılıyor</string>
     <string name="continue_install">Yükle</string>
+    <string name="continue_set">Ayarlamaya devam et</string>
     <string name="convenient_mode">Tüm uygulamaların kilitlerini tek seferde aç</string>
     <string name="convenient_summary">Uygulamaların tamamının kilidini açmak için şifreyi bir kez girin</string>
     <string name="copy">Kopyala</string>
@@ -903,6 +911,7 @@ Mobil veriyi tekrar açtığınızda operatörünüz size ek ücretler talep ede
     <string name="data_usage_warning_title_notify">Tarife sınırını aştınız</string>
     <string name="databooster_tips_message">Mobil veri harici tüm Sim kartları kısıtlama özelliğini açın. Seçtiğiniz oyunlarda hatalar oluşursa bu özelliği kapatın</string>
     <string name="databooster_tips_title">Uyarı</string>
+    <string name="day_overflow_tips">Günlük trafik uyarı eşiğini aşıyor</string>
     <string name="debug_open_final_tip">USB hata ayıklama açılsın mı?</string>
     <string name="debug_open_title">Bu özellik geliştiriciler içindir ve genel kullanıcılar için uygun olmayabilir. USB hata ayıklamayı açmak aşağıdaki değişiklikleri getirebilir:</string>
     <string name="declaration_dialog_msg">Bu özellik mobil veri kullanımını izlemenize yardımcı olur fakat ek ücretlerden kaçınmanızı garanti etmez. En iyi sonucu elde edebilmek için makul bir limit belirleyin</string>
@@ -1072,7 +1081,13 @@ arama geçmişine geri yüklensin mi?"</string>
     <string name="ew_button_confirm">Kabul et</string>
     <string name="ew_button_exit">Kabul etme</string>
     <string name="ew_china_version_first_start_network_msg">&lt;Data>\"Bu özellik size deprem uyarı işlevi sağlar. Yaklaşan depremler hakkında sizi bilgilendirecek ve uyarı sesini çalacak. En yakın barınağı bulabilecek, acil durum temsilcinizi arayabilecek ve gerekirse tıbbi kartınızı sunabileceksiniz.. &lt;br>Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız. &lt;br>Normal çalışabilmesi için için aşağıdaki izinleri gerektirir.: &lt;br>• Konum bilgisi: &lt;br>Konumunuza erişmek ve doğru deprem uyarıları sağlamak için. &lt;br>Bu tür izinleri vermeyi kabul etmiyor veya kişisel bilgilerinizi paylaşıp yüklüyorsanız bu özelliği kullanamazsınız. Bu özelliği kapatmayı veya açmamayı seçebilirsiniz. &lt;br>Bu özelliği kullanmadan önce &lt;a href=\"http://api.sec.miui.com/res/docs/disclaimer/privacy/earthquake_alert?region=%1$s&amp;lang=%2$s\">Gizlilik politikamızı&lt;/a> okumanız ve kabul etmeniz gerekir\"&lt;/Data></string>
+    <string name="ew_city_support_tip">* Yalnızca yargı yetkisi altındaki %s uyarısını destekler</string>
     <string name="ew_close">Uyarıyı kapat</string>
+    <string name="ew_close_warning">Kapat</string>
+    <string name="ew_concern_city">Eklenen şehirler</string>
+    <string name="ew_concern_date_empty">Yok</string>
+    <string name="ew_concern_manage">Yönet</string>
+    <string name="ew_current_location">Mevcut konum</string>
     <string name="ew_emergency_allergy">Alerjiler</string>
     <string name="ew_emergency_basic_info">Temel bilgi</string>
     <string name="ew_emergency_birthday">Doğum tarihi</string>
@@ -1097,6 +1112,7 @@ arama geçmişine geri yüklensin mi?"</string>
     <string name="ew_emergency_recent_medicine">Son aktif ilaçlar</string>
     <string name="ew_emergency_title">Sağlık kartı</string>
     <string name="ew_first_start_network_title">Şartlar ve koşullar</string>
+    <string name="ew_get_location">Bul</string>
     <string name="ew_guide_law_agree">Kabul et</string>
     <string name="ew_guide_law_done">Anladım</string>
     <string name="ew_guide_law_exit">Kabul etme</string>
@@ -1104,12 +1120,22 @@ arama geçmişine geri yüklensin mi?"</string>
     <string name="ew_guide_law_title">Sorumluluk</string>
     <string name="ew_guide_next_text">Sonraki</string>
     <string name="ew_guide_play_audio">Uyarı sesini çal</string>
-    <string name="ew_guide_play_audio_last">Uyarı sesini çal (%ds)</string>
+    <string name="ew_guide_play_audio_last">Uyarı sesini çal (%d saniye)</string>
+    <string name="ew_guide_start">Aç</string>
+    <string name="ew_guide_start_agree">Aç</string>
+    <string name="ew_guide_start_find_area">Alanları ara</string>
+    <string name="ew_guide_start_warning_range">Şu anda deprem erken uyarısı Chengdu Yüksek Teknoloji Afet Azaltma Enstitüsünün anakara deprem erken uyarı ağının kapsadığı alan için hizmet vermektedir. Spesifik alan [Şehir Yönetiminde] bulunabilir</string>
     <string name="ew_guide_statement_text">&lt;&lt;a href=\"https://sec-cdn.static.xiaomi.net/secStatic/groups/miui-sec/common/quake-warn/dist/index.html?region=%1$s&amp;lang=%2$s\">Data>&lt;/a>\"&lt;a href=\"https://sec-cdn.static.xiaomi.net/secStatic/groups/miui-sec/common/quake-warn/dist/index.html?region=%1$s&amp;lang=%2$s\">Uyarı&lt;/a> Bir kullanıcı deprem uyarı işlevini etkinleştirdiğinde Xiaomi ve bağlı kuruluşları ile yasal olarak bağlayıcı bir sözleşmeye girer. Bu özelliği kullanarak bu uyarıyı okuduğunuzu ve bu uyarıyı içeriğini tamamen anladığınızı ve kabul ettiğinizi onaylıyorsunuz. Bu uyarıyı kabul etmiyorsanız derhal deprem uyarı özelliğini kapatmalısınız.&lt;br> &lt;b>Özel ifade&lt;/b>&lt;br> İlgili yasa ve yönetmeliklere uygun olarak deprem erken uyarı hizmeti yalnızca ilgili hükümet birimleri tarafından yetkilendirilmiş alanlara verilmektedir. Bu deprem uyarısı işlevini açtığınızda ve cihazınızın yetkili bir alanda olması durumunda deprem uyarısı servisi alabileceğiniz anlamına gelir. Şu anda deprem uyarı hizmetlerinin verildiği alanların listesini kontrol edebilirsiniz. Gelecekte daha fazla alan desteklenecek. Bizi izlemeye devam edin!&lt;br> &lt;b>Uyarı&lt;/b>&lt;br> Güvenlik uygulaması size deprem uyarısı işlevi sunar. Deprem uyarı bilgilerinin hükümetin erken uyarı kurumları tarafından sağlandığını anlamalısınız. Xiaomi bu tür ajansları denetlemiyor ve onlar üzerinde herhangi bir kontrolü yok. &lt;br> Xiaomi deprem uyarı bilgilerinin doğruluğunu, geçerliliğini ve zamanlamasını garanti etmiyor veya garanti etmiyor ve deprem uyarı servisinin tüm ihtiyaçlarınızı karşılayacağını da garanti etmiyor.&lt;br> Deprem uyarı bilgisi almak için cihazınızı mobil ağa bağlı tutmanız gerekir. Üçüncü taraf iletişim hattı arızaları, teknik sorunlar, ağ veya terminal ekipman arızaları, sistem kararsızlığı ve diğer çeşitli mücbir sebepler deprem uyarı bilgilerini almanızı engelleyebilir. Xiaomi bu tür olaylardan kaynaklanan kayıplardan sorumlu tutulamaz.&lt;br> Bu özelliğin yalnızca referans amacıyla sağlanmış olduğunu anlamalısınız. Bu özellik tarafından sağlanan bilgilere dayanarak gerçekleştirdiğiniz tüm işlemlerin risklerinden ve sonuçlarından yalnızca siz sorumlusunuz&lt;br>\"&lt;/Data></string>
     <string name="ew_guide_tips_1">Yaklaşan depremler hakkında bilgilendirilecek ve uyarı sesini duyacaksınız</string>
     <string name="ew_guide_tips_2">Depremde bilgi ve uyarı sesi güncellenecek</string>
     <string name="ew_guide_tips_3">En yakın barınağı bulabilecek, acil durum temsilcinizi arayabilecek ve gerekirse tıbbi kartınızı sunabileceksiniz</string>
     <string name="ew_guide_title">Demoyu görüntüle</string>
+    <string name="ew_info_agreement">Sorumluluk reddi beyanları</string>
+    <string name="ew_info_other">Diğer</string>
+    <string name="ew_info_range">Hizmet kapsamı</string>
+    <string name="ew_info_rule">Kurallar</string>
+    <string name="ew_info_rule_warning">Uyarı sistemi hakkında</string>
+    <string name="ew_info_service_range">Hizmet kapsamı</string>
     <string name="ew_list_all">Tümü</string>
     <string name="ew_list_empty_text">Burada henüz uyarı yok</string>
     <string name="ew_list_not_receive_tips">* Merkez üssü sizden uzak. Depremi hissedemeyebilirsiniz</string>
@@ -1118,6 +1144,7 @@ arama geçmişine geri yüklensin mi?"</string>
     <string name="ew_list_receive_time">Başlangıç zamanı: %s</string>
     <string name="ew_list_receive_time_title">Başlangıç zamanı</string>
     <string name="ew_list_title">Uyarılar</string>
+    <string name="ew_location_failed">Pozisyon alınmadı</string>
     <string name="ew_main_close_text">Uyarıyı kapatırsanız deprem hakkında güncel bilgileri alamazsınız. Yine de kapatılsın mı?</string>
     <string name="ew_main_close_title">Dikkat</string>
     <string name="ew_main_contact_change">Değiştir</string>
@@ -1137,9 +1164,11 @@ arama geçmişine geri yüklensin mi?"</string>
     <string name="ew_main_setting_show_desc">Deneme</string>
     <string name="ew_main_setting_warning_desc">Daha fazla</string>
     <string name="ew_main_settings">Ayarlar</string>
+    <string name="ew_main_warning_all_title">Daha önce verilen uyarıları görüntüleyin</string>
     <string name="ew_main_warning_list">Uyarıları görüntüle</string>
     <string name="ew_main_warning_list_tips">Görüntüle</string>
     <string name="ew_main_warning_list_title">Uyarı geçmişi</string>
+    <string name="ew_not_support_area">Bu alanda uyarılar desteklenmiyor</string>
     <string name="ew_push_message">Tahmini yoğunluk: %s. Yakınınızda hafif titremeyi bekleyin</string>
     <string name="ew_push_title">%s için deprem uyarısı</string>
     <string name="ew_safe_place_no_maps_tips">"Şimdi arama yapamıyorum. Önce Baidu Maps veya Amap'i kurun"</string>
@@ -1150,6 +1179,19 @@ arama geçmişine geri yüklensin mi?"</string>
     <string name="ew_setting_normal_push_title">Sistem bildirimlerini al</string>
     <string name="ew_setting_strong_push_message">2.0 ve daha yüksek yoğunluklu depremler için</string>
     <string name="ew_setting_strong_push_title">Güçlü depremler hakkında uyar (Varsayılan: Açık)</string>
+    <string name="ew_settings_choose_level">Uyarı eşiğini ayarlayın</string>
+    <string name="ew_settings_choose_level_title">Tahmini yoğunluk: %s</string>
+    <string name="ew_settings_choose_level_value_1">" (Yüksek binalarda titreşim)"</string>
+    <string name="ew_settings_choose_level_value_2">" (Titreşim)"</string>
+    <string name="ew_settings_choose_level_value_3">" (Güçlü titreşim)"</string>
+    <string name="ew_settings_choose_level_value_4">" (Şiddetli titreşim)"</string>
+    <string name="ew_settings_push_tips">Bulunduğunuz yerin dışındaki alanlarla ilgili uyarılar yalnızca bildirim şeklinde gelir</string>
+    <string name="ew_signature_default">Chengdu Yüksek Teknoloji Afet Azaltma Araştırma Enstitüsü kıtasal deprem uyarı merkezi</string>
+    <string name="ew_subscribe_area_title">Eklenen alanları yönetin</string>
+    <string name="ew_subscribe_city">Eklenen alanlar</string>
+    <string name="ew_subscribe_city_count">En fazla %s şehrine abone olabilirsiniz</string>
+    <string name="ew_subscribe_search_hint">Alanları ara</string>
+    <string name="ew_subscribe_title">Deprem uyarısı | %1$s yaklaşık %2$s depremine sahip %3$s depremi hissedebilir</string>
     <string name="examination_score_100">Her şey yolunda gözüküyor</string>
     <string name="examination_score_60_0">Şimdi tara</string>
     <string name="examination_score_80_100">Birkaç öğe optimize edilebilir</string>
@@ -1314,6 +1356,10 @@ arama geçmişine geri yüklensin mi?"</string>
     <string name="first_settings_subtitle">Kullanabileceğiniz güvenli paylaşım seçenekleri şunlardır:</string>
     <string name="first_settings_title">Gizliliğinizi koruyun</string>
     <string name="five_percent_total_pkg">%s (Aylık verinin %%5 oranı)</string>
+    <string name="fixed_package_tips">Sabit bir aylık akışın keyfini çıkarın. Eğer bunu aşarsanız ek kesintiler yaparsınız</string>
+    <string name="fixed_traffic_by_month">Sabit aylık akış</string>
+    <string name="fixed_traffic_quota">Sabit akış kotası (İsteğe bağlı)</string>
+    <string name="fixed_traffic_value_by_month">Aylık sabit akış kotası</string>
     <string name="float_window">Masaüstü yüzer pencere</string>
     <string name="float_window_summary">Sayfaları sallamak için hızlı atlamayı destekler</string>
     <string name="float_window_tips">Xiaomi cep telefonu hızlı</string>
@@ -1340,6 +1386,11 @@ arama geçmişine geri yüklensin mi?"</string>
     <string name="free_time_traffic_settings">İndirimli veri limiti</string>
     <string name="free_time_traffic_title">İndirimli veri limitini girin</string>
     <string name="free_traffic_settings">İndirimli veri kullanım ayarları</string>
+    <string name="function_auto_reject_detail">"Bu özellik hakkında:
+1. Oyun oynarken mobil veri hizmeti olmadan Sim karta gelen tüm aramalar otomatik olarak reddedilecektir
+2. Cevapsız aramalarla ilgili bildirimler göreceksiniz ve diğer kişi o anda meşgul olduğunuzu söyleyen bir sesli mesaj duyacaktır
+3. Bu özellik yalnızca Çin'deki mobil operatörler tarafından desteklenmektedir"</string>
+    <string name="function_auto_reject_title">Veri hizmeti olmadan Sim kartlarına yapılan VoLTE aramalarını reddet</string>
     <string name="function_close">Kapat</string>
     <string name="function_gwsd_detail">"Bu özellik hakkında:
  1. Veri Sim üzerinden gelen aramalar mobil veri bağlantısını kesmez. Bağlantı yalnızca bir aramayı cevapladığınızda kesilecektir
@@ -1548,6 +1599,7 @@ arama geçmişine geri yüklensin mi?"</string>
     <string name="gb_xunyou_gift_type_two">Xunyou 2 günlük destek</string>
     <string name="gdpr_msg">"Güvenlik uygulamasının temel özelliklerini kullanabilmek için Xiaomi'nin kişisel verilerinizi toplayacağını kabul etmelisiniz. Güvenlik özellikleri cihazınızda belirtilen temel bilgiler ve diğer bilgileri içerir. "<a href="http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s">Gizlilik politikamıza</a> göz atın</string>
     <string name="ge">Daha</string>
+    <string name="get_detail_by_click">Detaylar için tıklayın</string>
     <string name="get_sys_info">Bilgi alınıyor</string>
     <string name="gigabyteShort">GB</string>
     <string name="give_lucky_money">Kırmızı zarf büyük teslimat</string>
@@ -1556,11 +1608,12 @@ arama geçmişine geri yüklensin mi?"</string>
     <string name="gmscore_support_remind">Gmail, Google haritalar ve diğer Google uygulamalarında sorun yaşıyorsanız bu özelliği etkinleştirin. Bu özellik pil ömrünü bir miktar azaltacaktır</string>
     <string name="gmscore_support_service">Google hizmetleri</string>
     <string name="go_to">Devam et</string>
+    <string name="go_to_send">Gönder</string>
     <string name="go_to_setting_fingerprint">Ayarlar</string>
     <string name="google_base_app_fail">İndirilemedi. Güvenliğin internete bağlanmasına izin verilip verilmediğini kontrol edin</string>
     <string name="google_base_app_install_choice">%s uygulaması normal olarak çalışabilmesi için Google hizmet çerçevesi uygulamasına ihtiyaç duyuyor. Uygulama indirilsin ve yüklensin mi?</string>
     <string name="google_base_app_installed">Yüklendi</string>
-    <string name="google_base_app_installing">Yükleniyor…</string>
+    <string name="google_base_app_installing">Yükleniyor</string>
     <string name="google_base_app_network_anomaly">Ağa bağlanılamadı. Ağ ayarlarınızı kontrol edip tekrar deneyin</string>
     <string name="google_base_app_timeout">Oturum zaman aşımına uğradı. Bir iki dakika bekleyin ve tekrar deneyin</string>
     <string name="google_base_app_title">Google hizmetlerini yükle</string>
@@ -1572,7 +1625,7 @@ arama geçmişine geri yüklensin mi?"</string>
     <string name="gs_app_back_self_start">Pil koruyucu</string>
     <string name="gs_auto_clean_memory">Önbelleği temizle</string>
     <string name="gs_auto_clean_memory_detail">Oyun performansını optimize etmek için önbelleği otomatik olarak temizle</string>
-    <string name="gs_autobooster">Otomatik hızlandır</string>
+    <string name="gs_autobooster_dialog_message">Xunyou hız artırma kullanıyorsanız belirlenen sayfada oyunları açın</string>
     <string name="gs_call_handsfree">Eller serbest arama yanıtlama</string>
     <string name="gs_call_handsfree_mute">Sessiz mod</string>
     <string name="gs_dialog_confirm_close_msg">"Kısayol Ana ekranınızdan kaldırılacaktır. Geri yüklemek için Güvenlik> Ayarlar'a gidin."</string>
@@ -1612,8 +1665,11 @@ arama geçmişine geri yüklensin mi?"</string>
     <string name="gtb_exit_game_to_gtb">Oyun kutusunu aç</string>
     <string name="gtb_exit_game_to_home">Ana ekrana dön</string>
     <string name="gtb_setting_item_summary_smart_5g">Oyun hızlandırıcı bir 5G ağı algıladığında ağ gecikmesini azaltmak için cihazınızı mevcut en iyi ağa bağlayabilir</string>
+    <string name="gtb_setting_item_summary_smart_wlan_speed" formatted="false">Mi veya Redmi yönlendiricilerine bağlandığında bağlantı hızını %10-%20 artırın</string>
     <string name="gtb_setting_item_title_smart_5g">5G ağ optimizasyonu</string>
-    <string name="guide_get_operator_error"><font color="'#33b4ff'">"&lt;font color=\"'#33b4ff'\">&lt;&lt;font color=\"'#33b4ff'\">\"font color=\"'#"</font>"33b4ff'\">\"&lt;font color='\"&lt;/font>&lt;/font>\"#33b4ff'>&lt;U>>Operatörün\"&lt;/font>üz doğru değil mi?&lt;/U>&lt;/font>\""</string>
+    <string name="gtb_setting_item_title_smart_wlan_speed">Mi wifi hız artışı</string>
+    <string name="gtb_wlan_speed_tips">Mi wifi kullanılıyor</string>
+    <string name="guide_get_operator_error">"&lt;font color='#33b4ff'>&lt;U>Yanlış taşıyıcı mı?&lt;/U>&lt;/font>"</string>
     <string name="guide_operator_text">"Operatörünüz: "</string>
     <string name="guide_quck_open">Aç</string>
     <string name="guide_second_text">Operatörünüzü ayarlamanızdan sonra Miui operatörünüze günlük bazda ücretsiz mesaj göndererek mobil veri kullanımınızı izleyecektir. Miui tarife sınırınızı aştığınızı tespit ettiğinde ağ bağlantısını sonlandıracak ve sizi bilgilendirecektir</string>
@@ -1654,6 +1710,10 @@ arama geçmişine geri yüklensin mi?"</string>
     <string name="hot">Popüler</string>
     <string name="hot_today">Bugün popüler</string>
     <string name="i_know">Anladım</string>
+    <string name="icon_text_size_giga_byte">%.1fG</string>
+    <string name="icon_text_size_max">9.9G</string>
+    <string name="icon_text_size_mega_byte">%dM</string>
+    <string name="ignore_special_app">Seçilen uygulama tarafından tüketilen veriler paket verilerine dahil değildir</string>
     <string name="im">Anlık mesajlaşma</string>
     <string name="info_and_call">Aramalar ve mesajlar</string>
     <string name="info_antispam_close">Engelleme listesi kapalı</string>
@@ -1716,6 +1776,7 @@ arama geçmişine geri yüklensin mi?"</string>
 
 Mobil veri bağlantısını tekrar kullanmanız durumunda operatörünüz ek ücretler uygulayabilir"</string>
     <string name="leisure_usage_dialog_title">İndirimli veri kullanım sınırını aştınız. Veri bağlantısı kapatıldı</string>
+    <string name="limit_speed_by_quota">Sınırsız trafik kullanımında eşik aşılırsa hız düşürülecek</string>
     <string name="list_empty_text">Boş</string>
     <string name="load_only_under_wlan">Yalnızca wifi kullanarak yükle</string>
     <string name="loading">Yükleniyor</string>
@@ -1833,6 +1894,7 @@ bekleniyor"</string>
     <string name="main_toolbar_purchase">Bakiye yükle</string>
     <string name="main_toolbar_statistic">Veri kullanım istatistikleri</string>
     <string name="main_traffic_detail">Veri kullanımı</string>
+    <string name="make_sure_package_type">Trafik türünüzü onaylayın</string>
     <string name="man_add_application">Otomatik başlatma uygulamalarını manuel olarak ekle</string>
     <string name="manage_hybrid_permissions">Uygulamaların izinlerini yönet</string>
     <string name="managed_user_title">Tüm iş uygulamaları</string>
@@ -2060,6 +2122,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="news_change">Değiştir</string>
     <string name="nickname">Kullanıcı adı</string>
     <string name="no_game">Oyunlar bulunamadı</string>
+    <string name="no_limit_by_month">Aylık sınırsız veri</string>
     <string name="no_lucky_money">Kırmızı zarf alınmadı</string>
     <string name="not_available">Hayır</string>
     <string name="not_limited_brand">Sınırsız</string>
@@ -2108,6 +2171,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="notify_weekly_traffic_body">Veri kullanımını otomatik olarak sınırlamak için aylık veri planınızı ayarlayın</string>
     <string name="notify_weekly_traffic_title">Bu hafta %s kullanıldı</string>
     <string name="notify_weekly_traffic_title_for_slotnum">%1$s bu hafta %2$s veri kullandı</string>
+    <string name="number_address">Numara ilişkilendirme</string>
     <string name="number_of_lucky_money">Toplam kırmızı zarf sayısını hatırlattı</string>
     <string name="numeric_need_to_confirm">Onaylamak için yeniden girin</string>
     <string name="numeric_password_confirmed_header_confirm">Başarıyla ayarlandı. Onaylamak için dokunun</string>
@@ -2168,6 +2232,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="operator_name_mi_mobile">Mi Mobil</string>
     <string name="operator_name_telcom">Çin Telekom</string>
     <string name="operator_name_unicom">Çin Unicom</string>
+    <string name="operator_name_virtual_operator">Sanal operatör</string>
     <string name="operator_number_cmcc">10086</string>
     <string name="operator_number_telcom">10000</string>
     <string name="operator_number_unicom">10010</string>
@@ -2542,7 +2607,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="pref_key_tethering_setting">Tek seferlik veri sınırı</string>
     <string name="pref_key_tethering_title">Tek seferlik veri sınırı</string>
     <string name="pref_manual_adjust">Kullanım istatistiklerini elle ayarla</string>
-    <string name="pref_mi_sim_settings">Mi Sim ayarları</string>
+    <string name="pref_mi_sim_settings">%s paket ayarları</string>
     <string name="pref_more_settings">Ek ayarlar</string>
     <string name="pref_new_installed_preconfig_title">Yeni uygulamaların varsayılan ayarları</string>
     <string name="pref_normal_traffic_limit">Günlük tarife limitinizi kullandığınızda</string>
@@ -2629,6 +2694,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="preferred_app_entries_messaging">Mesajlaşma</string>
     <string name="preferred_app_entries_music">Müzik</string>
     <string name="pricacy_permission_use_total">İzin istatistikleri</string>
+    <string name="priority_statistics_fixed_traffic">Paket sabit aylık veriler içeriyorsa veriler önce sayılacaktır</string>
     <string name="priority_storage_app_settings">Veriler %1$s klasörüne kaydedilecek</string>
     <string name="priority_storage_settings_summary">SD kart algılanmazsa verileriniz otomatik olarak cihazınızın dahili belleğine kaydedilir</string>
     <string name="priority_storage_summary">Verilerinizi kaydedeceğiniz konumu seçin</string>
@@ -2823,7 +2889,7 @@ Kalibrasyon işlemi sırasında Miui kalibrasyon şablonunu almak amacıyla bir 
     <string name="right_precent">%100</string>
     <string name="risk_app_install_agree_button">Bu uygulamaya güven</string>
     <string name="risk_app_install_agree_checkbox">Olası tüm riskleri almaya hazırım</string>
-    <string name="risk_app_install_agree_message">Bu uygulama bir üçüncü taraf tarafından geliştirilmiştir ve yerel yasa düzenlemeleri ihlal edebilir. Xiaomi bu uygulama tarafından sağlanan içerik ve hizmetlerin kullanılabilirliğini, sürekliliğini ve erişilebilirliğini garanti etmez. Bu uygulamanın kullanımından kaynaklanan herhangi bir kayıp veya hasar sizin tarafınızdan karşılanacaktır</string>
+    <string name="risk_app_install_agree_message">Bu uygulama bir üçüncü taraf tarafından geliştirilmiştir ve yerel yasa ve düzenlemeleri ihlal edebilir. Xiaomi bu uygulama tarafından sağlanan içerik ve hizmetlerin kullanılabilirliğini, sürekliliğini ve erişilebilirliğini garanti etmez. Bu uygulamanın kullanımından kaynaklanan herhangi bir kayıp veya hasar sizin tarafınızdan karşılanacaktır</string>
     <string name="risk_app_install_agree_title">Uyarı</string>
     <string name="risk_app_install_auth_result">%1$s kurulumuna izin verdiniz. Yükleme paketi algılandıktan sonra devam edebilirsiniz</string>
     <string name="risk_app_install_empty_text">Henüz burada öğe yok</string>
@@ -2902,10 +2968,17 @@ Kalibrasyon işlemi sırasında Miui kalibrasyon şablonunu almak amacıyla bir 
     <string name="securitycenter_tab_title">Güvenlik</string>
     <string name="see_detail">Ayrıntılar</string>
     <string name="see_more_content">Daha fazla öne çıkanları görmek için oyunlar uygulamasını güncelleyin</string>
+    <string name="select_province_and_city">Lütfen bir il seçin</string>
+    <string name="send_msg_to_query">Kontrol etmek için ücretsiz olarak mesaj göndermenize yardımcı olun</string>
     <string name="set_applock_password">Şifre oluşturun</string>
-    <string name="set_mixed_password_name">Şifre oluştur</string>
+    <string name="set_complete">Kur</string>
+    <string name="set_location">İlişkilendirmeyi ayarla</string>
+    <string name="set_mixed_password_name">Şifre ayarla</string>
     <string name="set_numeric_password_name">Pin ayarla</string>
+    <string name="set_package_tips">Sistem trafik bilgilerini sizin için düzeltmek için operatöre ücretsiz mesaj gönderecek ve aynı zamanda doldurduğunuz bilgiler şifrelenerek düzeltme mesaj şablonunu almak için yüklenecektir</string>
+    <string name="set_package_tips_detail">Operatör bilgileri, cep telefonu numarası, IMEI numarası ve doldurduğunuz Xiaomi hesabı şifrelenecek ve Xiaomi sunucusuna yüklenecektir</string>
     <string name="set_pattern_password_name">Desen ayarla</string>
+    <string name="set_traffic_tips">Bir paket oluşturmak veri kullanımını daha etkili bir şekilde görüntülemenize ve yönetmenize yardımcı olabilir ve ekstra ücretlerin paketi aşmasını önleyebilir</string>
     <string name="setting">Ayarlar</string>
     <string name="setting_alarm_summary">Büyük platformlarda kırmızı zarf olayları için alarmları içerir</string>
     <string name="setting_privacy_password">Desen ekle</string>
@@ -3511,6 +3584,7 @@ kırmızı zarf alarmını açın"</string>
     <string name="traffic_alert_auto_modify_notification_sumarry">Aylık plan %s olarak değiştirildi</string>
     <string name="traffic_alert_auto_modify_notification_titile">Veri planı güncellendi</string>
     <string name="traffic_alert_auto_modify_package_summary">Veri paketini operatör verilerini kullanarak otomatik olarak güncelle</string>
+    <string name="traffic_calculation">Trafik 1 yuan/1GB/gün gibi günlük olarak hesaplanır</string>
     <string name="traffic_config_alert_auto_modify">Veri planını otomatik olarak güncelle</string>
     <string name="traffic_config_alert_body">"Operatörünüzün hesaplamaları bu sonucu veriyor: %s
 
@@ -3539,6 +3613,7 @@ Kalan ekstra veri"</string>
 
 Kalan veri miktarı geçen aydan kalan veri miktarınıda içerir"</string>
     <string name="traffic_limit_error_alert_title">Veri kullanım limit hatırlatıcısı: %s</string>
+    <string name="traffic_limit_input">Akış uyarı sınırı (İsteğe bağlı)</string>
     <string name="traffic_none">Yok</string>
     <string name="traffic_over_purchase_link">"Tarifenizin veri kullanım sınırına ulaştınız.&lt;br/>Eğer tarifenizin veri kullanım sınırını aşarsanız operatörünüz tarafından ek ücretlendirmelere maruz kalabilirsiniz.&lt;br/>&lt;br/>&lt;font color='#ccffffff'>&lt;U>Bakiye satın almak veya yüklemek için dokunun&lt;/U>&lt;/font>"</string>
     <string name="traffic_provider_no_sim">Sim kart takılı değil</string>
@@ -3588,6 +3663,7 @@ Kalan veri miktarı geçen aydan kalan veri miktarınıda içerir"</string>
     <string name="uninstall_danagerous_desc">%s cihazınıza zarar verebilir</string>
     <string name="uninstall_danagerous_msg">%s cihazınıza zarar verebilir, cihaz performansını düşürebilir veya cihazı yeniden başlatabilir</string>
     <string name="uninstall_danagerous_title">Zararlı yazılımı kaldır</string>
+    <string name="unknown_package">Paketinizin ne olduğundan emin değil misiniz?</string>
     <string name="unlike">Hayır</string>
     <string name="unlock_failed">İç hata</string>
     <string name="unlock_pattern"><u>Desen</u></string>
@@ -3636,6 +3712,9 @@ Kalan veri miktarı geçen aydan kalan veri miktarınıda içerir"</string>
     <string name="vb_advanced_settings_after_open">Sonra</string>
     <string name="vb_advanced_settings_before_open">Önce</string>
     <string name="vb_advanced_settings_pic_stronger_desc">Animasyonları geliştirerek hareketli nesneleri daha canlı hale getirin. Bu özellik daha yüksek güç tüketimi gerektirir</string>
+    <string name="vb_fps_display_unit">Hz</string>
+    <string name="vb_fps_settings">Otomatik yenileme hızı</string>
+    <string name="vb_fps_settings_tips">Bu özellik ekran yenileme hızını video kare hızına ayarlar. Bu da pilden tasarruf sağlar ve oynatmayı sorunsuz hale getirir. Kayan yorumları açmak otomatik yenileme oranını kapatır</string>
     <string name="vb_quick_func_auto_bgm">Arka plan müziğini tanıma</string>
     <string name="vb_quick_func_hangup_listening">Ekran kapalıyken video sesi çal</string>
     <string name="vb_quick_func_screen_capture">Ekran resmi</string>
@@ -3693,47 +3772,47 @@ Kalan veri miktarı geçen aydan kalan veri miktarınıda içerir"</string>
     <string name="warningcenter_alert_source">MIUI uyarı merkezi | Veri kaynağı: %s</string>
     <string name="warningcenter_alert_time">Zaman</string>
     <string name="warningcenter_alert_warning_time">Alınan zaman: %s</string>
-    <string name="warningcenter_disaster_all">Tüm uyarılar</string>
+    <string name="warningcenter_disaster_all">All warnings</string>
     <string name="warningcenter_disaster_area_search_hint">Bölge girin</string>
-    <string name="warningcenter_disaster_area_select">Seçilen bölgeler</string>
+    <string name="warningcenter_disaster_area_select">Seçili bölgeler</string>
     <string name="warningcenter_disaster_area_suggest">Önerilen bölgeler</string>
-    <string name="warningcenter_disaster_area_tips">* Şu anda sadece belirli bölgelerde doğal afet erken uyarı hizmetleri vermektedir. İleride diğer bölgelere kademeli olarak açılacaktır</string>
+    <string name="warningcenter_disaster_area_tips">* Şu anda sadece Tianjin Şehri, Taishan Şehri ve Linan Şehri bölgelerinde doğal afet erken uyarı hizmetleri vermektedir ve gelecekte kademeli olarak diğer alanlara açılacaktır</string>
     <string name="warningcenter_disaster_area_title">Etkilenmiş bölge</string>
     <string name="warningcenter_disaster_baoxue">Kar fırtınası</string>
     <string name="warningcenter_disaster_baoyu">Yağmur fırtınası</string>
-    <string name="warningcenter_disaster_bingbao">Folu yağışı</string>
+    <string name="warningcenter_disaster_bingbao">Selamlamak</string>
     <string name="warningcenter_disaster_blue">Mavi uyarı</string>
-    <string name="warningcenter_disaster_dafeng">Karla fırtına</string>
-    <string name="warningcenter_disaster_daolujiebing">Buzlu yol</string>
+    <string name="warningcenter_disaster_dafeng">Kara fırtınası</string>
+    <string name="warningcenter_disaster_daolujiebing">Yol buzlu</string>
     <string name="warningcenter_disaster_dawu">Yoğun sis</string>
-    <string name="warningcenter_disaster_detail_suggest">Yüksek öncelikli uyarıları açmanızı öneririz</string>
+    <string name="warningcenter_disaster_detail_suggest">Yüksek öncelikli uyarıları açmanızı tavsiye ederiz</string>
     <string name="warningcenter_disaster_detail_title">Detaylar</string>
-    <string name="warningcenter_disaster_dizhen">Doğal deprem</string>
+    <string name="warningcenter_disaster_dizhen">Doğal deprem olayı</string>
     <string name="warningcenter_disaster_dizhizaihaiqixiangfengxian">Jeolojik tehlike ve meteorolojik risk</string>
-    <string name="warningcenter_disaster_fengbaochao">Fırtına dalgalanması</string>
+    <string name="warningcenter_disaster_fengbaochao">Fırtına dalgası</string>
     <string name="warningcenter_disaster_gaowen">Yüksek sıcaklık</string>
-    <string name="warningcenter_disaster_guide_title">Güvenlik kuralları</string>
+    <string name="warningcenter_disaster_guide_title">Güvenlik yönergeleri</string>
     <string name="warningcenter_disaster_hailang">Dalgalar</string>
     <string name="warningcenter_disaster_hanchao">Soğuk dalga</string>
     <string name="warningcenter_disaster_icon_title">Demo uyarısı</string>
     <string name="warningcenter_disaster_info">CMA uyarı merkezi tarafından yayınlandı</string>
-    <string name="warningcenter_disaster_info_from">MIUI erken uyarı merkezi | Ulusal erken uyarı merkezinden bilgi</string>
+    <string name="warningcenter_disaster_info_from">MIUI uyarı merkezi | Bilgiler ulusal erken uyarı merkezinden geliyor</string>
     <string name="warningcenter_disaster_info_title">Uyarılar hakkında</string>
-    <string name="warningcenter_disaster_leiyudafeng">Fırtına</string>
-    <string name="warningcenter_disaster_level_1">Seviye I (Çok şiddetli)</string>
+    <string name="warningcenter_disaster_leiyudafeng">Fırtına ve fırtınalı</string>
+    <string name="warningcenter_disaster_level_1">Seviye I (Son derece şiddetli)</string>
     <string name="warningcenter_disaster_level_2">Seviye II (Şiddetli)</string>
-    <string name="warningcenter_disaster_level_3">Seviye III (Ilımlı)</string>
+    <string name="warningcenter_disaster_level_3">Seviye III (Orta)</string>
     <string name="warningcenter_disaster_level_4">Seviye Ⅳ (Küçük)</string>
     <string name="warningcenter_disaster_level_all">Tüm seviyeler</string>
     <string name="warningcenter_disaster_level_info">Uyarı seviyeleri</string>
     <string name="warningcenter_disaster_level_title">Uyarı seviyeleri</string>
     <string name="warningcenter_disaster_list_title">Afet uyarıları</string>
-    <string name="warningcenter_disaster_local">Konum</string>
+    <string name="warningcenter_disaster_local">Bul</string>
     <string name="warningcenter_disaster_mai">Pus</string>
     <string name="warningcenter_disaster_orange">Turuncu uyarı</string>
     <string name="warningcenter_disaster_place_settings">Bölge</string>
     <string name="warningcenter_disaster_place_subscribe">Bölge seç</string>
-    <string name="warningcenter_disaster_qita">Diğer jeolojik felaketler</string>
+    <string name="warningcenter_disaster_qita">Diğer jeolojik afetler</string>
     <string name="warningcenter_disaster_receive_info">Uyarı biçimi</string>
     <string name="warningcenter_disaster_receive_level">Uyarı seviyesini seçin</string>
     <string name="warningcenter_disaster_receive_level_blue">Mavi</string>
@@ -3741,25 +3820,25 @@ Kalan veri miktarı geçen aydan kalan veri miktarınıda içerir"</string>
     <string name="warningcenter_disaster_receive_level_red">Kırmızı</string>
     <string name="warningcenter_disaster_receive_level_yellow">Sarı</string>
     <string name="warningcenter_disaster_receive_settings">Uyarı biçimi</string>
-    <string name="warningcenter_disaster_receive_strong">Yüksek öncelikli uyarılar (önerilen)</string>
-    <string name="warningcenter_disaster_receive_strong_summary">Seçilen bölge için verilen yüksek öncelikli uyarılar hakkında anında bildirim alın</string>
+    <string name="warningcenter_disaster_receive_strong">Yüksek öncelikli uyarılar (Önerilir)</string>
+    <string name="warningcenter_disaster_receive_strong_summary">Seçili bölge için verilen yüksek öncelikli uyarılarla ilgili anlık bildirimler alın</string>
     <string name="warningcenter_disaster_receive_strong_title">Yüksek öncelikli uyarılar</string>
     <string name="warningcenter_disaster_receive_system">Sistem bildirimleri</string>
-    <string name="warningcenter_disaster_receive_system_summary">Seçilen bölge için verilen felaket uyarılarını alın</string>
+    <string name="warningcenter_disaster_receive_system_summary">Seçili bölge için verilen afet uyarılarını alın</string>
     <string name="warningcenter_disaster_receive_type">Uyarı türleri</string>
     <string name="warningcenter_disaster_receive_type_biological">Biyolojik</string>
-    <string name="warningcenter_disaster_receive_type_forest">Forestial</string>
+    <string name="warningcenter_disaster_receive_type_forest">Orman</string>
     <string name="warningcenter_disaster_receive_type_geology">Jeolojik</string>
     <string name="warningcenter_disaster_receive_type_meteorological">Meteorolojik</string>
     <string name="warningcenter_disaster_receive_type_sea">Hidrolojik</string>
     <string name="warningcenter_disaster_recent">Son uyarılar</string>
     <string name="warningcenter_disaster_red">Kırmızı alarm</string>
-    <string name="warningcenter_disaster_search_hint">Uyarı türü/bölgesi/veren kuruluş</string>
+    <string name="warningcenter_disaster_search_hint">Uyarı türü/bölgesi/veren kurum</string>
     <string name="warningcenter_disaster_search_keywords">Hava durumu uyarıları</string>
     <string name="warningcenter_disaster_senlinhuoxian">Orman yangın sigortası</string>
-    <string name="warningcenter_disaster_taifeng">Tayfun</string>
+    <string name="warningcenter_disaster_taifeng">Kasırga</string>
     <string name="warningcenter_disaster_title">Afet uyarısı</string>
-    <string name="warningcenter_disaster_type_all">Her türlü</string>
+    <string name="warningcenter_disaster_type_all">Tüm türler</string>
     <string name="warningcenter_disaster_type_cancel">İptal edildi</string>
     <string name="warningcenter_disaster_type_first">Yeni</string>
     <string name="warningcenter_disaster_type_update">Güncellendi</string>

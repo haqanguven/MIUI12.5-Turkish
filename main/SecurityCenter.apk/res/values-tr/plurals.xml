@@ -116,6 +116,10 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
         <item quantity="other">%d saniye içinde</item>
         <item quantity="one">%d saniye içinde</item>
     </plurals>
+    <plurals name="ew_concern_date">
+        <item quantity="other">%d gün önce</item>
+        <item quantity="one">%d gün önce</item>
+    </plurals>
     <plurals name="find_applications">
         <item quantity="other">%d uygulama arasında ara</item>
         <item quantity="one">%d uygulama arasında ara</item>

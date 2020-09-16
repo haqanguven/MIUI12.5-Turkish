@@ -1595,15 +1595,15 @@ Ağ etkinliğinizi izleyebilecek bir VPN'ye de bağlısınız"</string>
     <string name="status_bar_airplane">Uçak modu</string>
     <string name="status_bar_alarm">Alarm</string>
     <string name="status_bar_clear_all_button">Temizle</string>
-    <string name="status_bar_clock_date_format">dd MMMM yyyy EEEE</string>
-    <string name="status_bar_clock_date_format_12">dd MMMM yyyy EEEE</string>
-    <string name="status_bar_clock_date_time_format">H:mm | dd MMMM EEEE</string>
-    <string name="status_bar_clock_date_time_format_12">h:mmaa | dd MMMM EEEE</string>
+    <string name="status_bar_clock_date_format">dd MMMM EEEE</string>
+    <string name="status_bar_clock_date_format_12">dd MMMM EEEE</string>
+    <string name="status_bar_clock_date_time_format">H:mm EEEE, dd MMM</string>
+    <string name="status_bar_clock_date_time_format_12">h:mm aa, dd MMM EEEE</string>
     <string name="status_bar_clock_date_weekday_format">dd MMMM EEEE</string>
     <string name="status_bar_clock_date_weekday_format_12">dd MMMM EEEE</string>
-    <string name="status_bar_date_format">"dd MMMM yyyy
+    <string name="status_bar_date_format">"dd MMMM
 EEEE"</string>
-    <string name="status_bar_date_format_12">"dd MMMM yyyy
+    <string name="status_bar_date_format_12">"dd MMMM
 EEEE"</string>
     <string name="status_bar_ethernet">Ethernet</string>
     <string name="status_bar_input_method_settings_configure_input_methods">Giriş yöntemlerini ayarla</string>

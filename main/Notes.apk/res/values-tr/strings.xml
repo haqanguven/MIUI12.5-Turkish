@@ -202,6 +202,7 @@
     <string name="earthly_branches_zi">11</string>
     <string name="edit_header_done_description">Tamamlandı</string>
     <string name="edit_header_lock_description">Gizli not</string>
+    <string name="edit_note_hint_title">Başlık</string>
     <string name="empty" />
     <string name="empty_folder_import_notes">Notları içe aktar</string>
     <string name="empty_folder_no_notes">Burada not yok</string>

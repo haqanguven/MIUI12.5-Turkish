@@ -153,6 +153,7 @@
     <string name="enable_usb">USB cihazı bozuk veya bağlantısı kesildi</string>
     <string name="encrypt_error">Dosyalar gizlenemedi. Tekrar deneyin</string>
     <string name="encrypt_prefix">Gizli</string>
+    <string name="encrypt_setting">Şifreleme</string>
     <string name="encrypt_success">Başarıyla gizlendi</string>
     <string name="encrypt_success_first_five">Dosya şifrelendi ve gizlendi. Gizli dosyaları, dosyalar uygulamasının başlangıç sayfasında ekranı aşağı doğru çekerek görüntüleyebilirsiniz</string>
     <string name="encrypting">Şifreleniyor</string>
@@ -295,6 +296,7 @@
     <string name="no_wifi">Wifi ağı bulunamadı</string>
     <string name="not_set">Ayarlanmadı</string>
     <string name="not_support_documentui">Belge kullanıcı arayüzü bu cihazda desteklenmiyor</string>
+    <string name="not_use">Şimdi değil</string>
     <string name="notif_server_starting">FTP sunucusu başlatılıyor</string>
     <string name="notif_title">FTP sunucusu çalışıyor</string>
     <string name="online_not_support">Bu dosya şu anda görüntülenemiyor</string>
@@ -312,6 +314,8 @@
     <string name="operation_delete_confirm_message">Silinsin mi?</string>
     <string name="operation_delete_confirm_message_folder">"Tüm klasör içeriği silinecektir. "</string>
     <string name="operation_deleting">Siliniyor</string>
+    <string name="operation_encrypt_summary">Özel klasördeki dosyaları şifreleyin. Büyük dosyaların şifresinin çözülmesi beklenenden daha uzun sürebilir</string>
+    <string name="operation_encrypt_title">Özel dosyaları şifreleyin</string>
     <string name="operation_favorite">Favorilere ekle</string>
     <string name="operation_hide_sys">Gizli dosyaları gösterme</string>
     <string name="operation_info">Ayrıntılar</string>
@@ -366,6 +370,9 @@
     <string name="private_folder">Gizli klasörler</string>
     <string name="private_folder_no_file_hints">Gizli dosya yok</string>
     <string name="private_folder_update">Gizli dosyalar güncelleniyor</string>
+    <string name="private_folder_update_msg">Dosyalar uygulaması ek bir güvenlik önlemi getiriyor: Özel dosyaları şimdi şifreleyebilirsiniz</string>
+    <string name="private_folder_update_msg_summary">Şifre çözme dosyaların özel klasörden kaldırılmasını yavaşlatır. Ayarlardan şifrelemeyi açıp kapatabilirsiniz</string>
+    <string name="private_folder_update_tips">Yeni özellik</string>
     <string name="private_toast_hint2">Bir dosyayı gizlemek için dosyaya basın ve basılı tutun. Ardından gizli klasöre ekleyin</string>
     <string name="promot_enctypt_password">Cihaz kilidini açmak için kullandığınız şifreyi girin</string>
     <string name="pull_to_enter_private">Özel klasörü açmak için aşağı çekin</string>
@@ -480,6 +487,7 @@
     <string name="unlock_pattern_title">Yeni şifre</string>
     <string name="upload_user_photo">Karşıya yükle</string>
     <string name="usb_label">USB</string>
+    <string name="use">Kullan</string>
     <string name="use_to_all">Tümüne uygula</string>
     <string name="used">Kullanılan</string>
     <string name="user_guide_continue_use">Tamam</string>

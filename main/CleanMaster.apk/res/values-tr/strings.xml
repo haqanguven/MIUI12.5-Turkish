@@ -462,6 +462,8 @@
     <string name="hot_today">Bugün popüler</string>
     <string name="information_setting">Öneriler</string>
     <string name="install_sucess">%s başarıyla yüklendi</string>
+    <string name="install_time_format">dd/MM/yyyy</string>
+    <string name="install_time_invalid">--</string>
     <string name="installed">Yüklendi</string>
     <string name="installing">Yükleniyor</string>
     <string name="item_title_process_mode">Bir eylem seçin</string>
@@ -611,6 +613,8 @@
     <string name="notification_memory_clean_button_text">Hızlandır</string>
     <string name="notification_memory_clean_hint">Hızı artırmak için dokunun</string>
     <string name="notification_memory_clean_used_size">%s bellek dolu</string>
+    <string name="notification_size_1.5_GB">%.1f</string>
+    <string name="notification_size_1_GB">%d</string>
     <string name="notification_summary_after_auto_cleanup">%s temizlendi</string>
     <string name="notification_uninstalled_clean_button_text">Görüntüle</string>
     <string name="notification_uninstalled_clean_with_name">%s kalıntı öğeler</string>
@@ -634,6 +638,10 @@
     <string name="optimizecenter_data_support_cm">" "</string>
     <string name="optimizecenter_data_support_tc">" "</string>
     <string name="output_videos">Videoları dışa aktar</string>
+    <string name="permission_dialog_storage_btn1">Ayarlar</string>
+    <string name="permission_dialog_storage_btn2">İptal et</string>
+    <string name="permission_dialog_storage_content">Temizleyicinin normal çalışabilmesi için dahili depolamaya erişmek için izne ihtiyacı var. Depolama izinlerini yönetmek için ayarlara dokunun</string>
+    <string name="permission_dialog_storage_title">İzinler gerekli</string>
     <string name="petabyteShort">PB</string>
     <string name="positive_confirm">Tamam</string>
     <string name="pref_about_privacy_title">Gizlilik politikası</string>

@@ -114,6 +114,14 @@
         <item quantity="other">%1$d saat</item>
         <item quantity="one">%1$d saat</item>
     </plurals>
+    <plurals name="install_find_application">
+        <item quantity="other">%d uygulama arasında ara</item>
+        <item quantity="one">%d uygulama arasında ara</item>
+    </plurals>
+    <plurals name="install_find_application_num">
+        <item quantity="other">%d uygulama bulundu</item>
+        <item quantity="one">%d uygulama bulundu</item>
+    </plurals>
     <plurals name="minute">
         <item quantity="other">%1$d dakika</item>
         <item quantity="one">%1$d dakika</item>

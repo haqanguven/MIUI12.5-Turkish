@@ -88,6 +88,9 @@
     <string name="auto_identify_btn_title">Bu mesaj bilinmeyen bir numaradan gönderildi</string>
     <string name="auto_identify_confirmation">Bu özelliği etkinleştirmek birkaç dakika sürebilir</string>
     <string name="back_to_message_list">Mesaj listesine dön</string>
+    <string name="banner_btn_install">Yükle</string>
+    <string name="banner_btn_not_now">Şimdi değil</string>
+    <string name="banner_btn_open">Aç</string>
     <string name="batch_adding_progress_message">Ekleniyor</string>
     <string name="batch_deleting_message_progress_message">Siliniyor</string>
     <string name="batch_deleting_progress_message">Siliniyor</string>
@@ -112,7 +115,7 @@
     <string name="button_resend_message">Tekrar gönder</string>
     <string name="button_unfold">Katma</string>
     <string name="call_sender">Arama gönderen</string>
-    <string name="can_not_send_by_rcs">Çin mobil mesajlaşma kullanamazsınız</string>
+    <string name="can_not_send_by_rcs">5G mesajlaşma kullanamazsınız</string>
     <string name="can_not_view_group_chat_stranger">Yabancıların ayrıntılarını göremiyorum</string>
     <string name="cannot_add_picture_and_video">Bir slayta video ve resim eklenemiyor</string>
     <string name="cannot_add_slide_anymore">Daha fazla slayt eklenemiyor</string>
@@ -123,8 +126,8 @@
     <string name="cannot_send_message_reason">Mesajınızın geçerli alıcısı yok</string>
     <string name="card_insert_to_contact">Kişiyi içe aktar</string>
     <string name="change_duration_activity">Süreyi değiştir</string>
-    <string name="chatbox_list_title">Mini uygulamalarım</string>
-    <string name="chatbox_main_title">Mini uygulamalar</string>
+    <string name="chatbot_list_title">5G mesajlaşma</string>
+    <string name="chatbot_main_title">Mini uygulamalar</string>
     <string name="check_all">Tümünü seç</string>
     <string name="chinese_day_1">1. gün</string>
     <string name="chinese_day_10">10. gün</string>
@@ -211,7 +214,7 @@
     <string name="cm_privacy_dialog_spannable_tips">Gizlilik politikası</string>
     <string name="cm_privacy_dialog_tips">"Akıllı mesajlaşma servisleri operatörünüz tarafından sağlanır. Mesajlaşma bu hizmetleri sağlamak için internete bağlanmalı ve konumunuza erişmelidir. Bu hizmetleri kullanmaya başlamadan önce taşıyıcınızın %1s'ini kabul etmelisiniz. Kabul ediyor musunuz?"</string>
     <string name="cm_privacy_dialog_title">Dikkat</string>
-    <string name="cmcc_privacy">Çin mobil taşıyıcı gizlilik sözleşmesi</string>
+    <string name="cmcc_privacy">5G taşıyıcı gizlilik sözleşmesi</string>
     <string name="complain_message_title">Rapor</string>
     <string name="compressing">Resim boyutu çok büyük. Sıkıştırılıyor</string>
     <string name="confirm">Tamam</string>
@@ -277,6 +280,7 @@
     <string name="debug_enable_success">Hata ayıklama etkin</string>
     <string name="debug_export_db">Veri tabanını dışa aktar</string>
     <string name="debug_title">Hata ayıklama</string>
+    <string name="default_google_message_promo_content">Google mesajları varsayılan mesajlaşma uygulamanız olarak ayarladınız. Mesaj göndermeye başlamak için aç düğmesine dokunun</string>
     <string name="delete">Sil</string>
     <string name="delete_block_conversation">Bu sohbeti sil</string>
     <string name="delete_bookmark">Favorilerden kaldır</string>
@@ -297,7 +301,7 @@
     <string name="dialog_message_fake_cell_detect_error">Bu mesajla ilgili bilgileri düzeltin mi? Bunu yapmak için Miui telefon numarasını yüklemelidir (%1$s), iletinin içeriği ve yakın konumlarına kendi sunucularına ilişkin bilgiler</string>
     <string name="dialog_message_mx">Mi mesaj ücret ödemeden diğer Miui kullanıcılarına mesaj göndermenizi sağlar. Mi mesajını etkinleştirmek için giden bir mesaj gereklidir. Bu mesaj için operatörünüz sizi ücretlendirebilir Mi mesajını kullanmadan önce %1$s ve %2$s kabul etmelisiniz</string>
     <string name="dialog_message_networking">Mesajlaşma, gönderen kimliğini tanıması için sarı sayfaları kullanmalıdır. Mesajlaşma ve sarı sayfaların normal olarak çalışması için internete bağlanması ve konumunuza erişmesi gerekir. İzin verilsin mi?</string>
-    <string name="dialog_message_rcs">"Çin mobil mesajlaşma, Anakara Çin'deki diğer Çin mobil kullanıcılarına ücret ödemeden mesaj göndermenizi sağlar. Çin Mobil mesajlaşma kullanmadan önce %1$s kabul etmeniz gerekir"</string>
+    <string name="dialog_message_rcs">"5G mesajlaşma, Anakara Çin'deki diğer 5G kullanıcılarına ücret ödemeden mesaj göndermenizi sağlar. Çin Mobil mesajlaşma kullanmadan önce %1$s kabul etmeniz gerekir"</string>
     <string name="dialog_sim_locked_confirm">Tamam</string>
     <string name="dialog_sim_locked_message">"Sim kartınız bu telefonla tam olarak çalışmıyor çünkü aboneliğinizin şartlarına ve koşullarına uymuyor. Herhangi bir sorunuz varsa veya bu konuda daha fazla bilgiye ihtiyacınız varsa lütfen Xiaomi servis merkezlerine veya size ürünleri satan mağazaya başvurun"</string>
     <string name="dialog_smart_message_privacy_tips">Akıllı mesajlaşma hizmetleri kısmen Dianhuabang tarafından verilmektedir. Akıllı Mesajlaşma özelliğini kullanmadan önce %1$s harfini kabul etmeniz gerekir. Akıllı mesajlaşmanın internete bağlanması ve normal çalışması için konumunuza erişmesi gerekir. Kabul ediyor musunuz?</string>
@@ -343,6 +347,7 @@
     <string name="edit_slide_activity">Slaytı düzenle</string>
     <string name="edit_slideshow_activity">Slayt gösterisini düzenle</string>
     <string name="empty" />
+    <string name="enable_classify_tip_dialog_content">Bu mesajlaşma uygulamasını yeniden başlatacaktır. Devam etmek istiyor musun?</string>
     <string name="enabled">Açık</string>
     <string name="english_subject_limit">40 karakter sınırı</string>
     <string name="enter_edit_mode">Mesajları düzenle</string>
@@ -402,10 +407,10 @@
     <string name="fmt_date_numeric_year">yyyy</string>
     <string name="fmt_date_numeric_year_month">MM-yyyy</string>
     <string name="fmt_date_numeric_year_month_day">dd-MM-yyyy</string>
-    <string name="fmt_date_short_month">MMM</string>
-    <string name="fmt_date_short_month_day">dd MMM</string>
+    <string name="fmt_date_short_month">MM</string>
+    <string name="fmt_date_short_month_day">dd MM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
-    <string name="fmt_date_short_year_month_day">dd MMM yyyy</string>
+    <string name="fmt_date_short_year_month_day">dd MM yyyy</string>
     <string name="fmt_date_time">D T</string>
     <string name="fmt_date_time_timezone">zD T</string>
     <string name="fmt_date_timezone">zD</string>
@@ -458,6 +463,8 @@
     <string name="from_pkg_name">Uygulamadan:</string>
     <string name="ft_cfs_dialog_content">Dosyalar Rcs kullanılarak teslim edilemedi. Bunun yerine kısa mesajla bağlantı gönderilsin mi?</string>
     <string name="ft_cfs_dialog_title">Alternatif dosya aktarımı</string>
+    <string name="google_message_promo_content">"Xiaomi Google'dan mesajlar'a geçmenizi önerir. Wifi üzerinden metin yazmanıza, yüksek kaliteli medya paylaşmanıza ve daha fazlasını yapmanıza izin verir. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Detayları göster</a></font></string>
+    <string name="google_message_promo_title">Mesajlaşma uygulamanızı yükseltin</string>
     <string name="group_already_kicked_hint">Bu grupta değilsiniz. Mesaj gönderemezsiniz</string>
     <string name="group_member_is_composing">Yazıyor</string>
     <string name="group_message">Grup mesajı</string>
@@ -505,6 +512,8 @@
     <string name="imageview_ad">Reklam</string>
     <string name="importing_progress_private_message">İçe aktarılıyor</string>
     <string name="in_sms">Mesaj</string>
+    <string name="installed_google_message_promo_content">"Xiaomi Google'dan mesajlar kullanılmasını önerir. Wifi üzerinden metin yazmanıza, yüksek kaliteli medyayı paylaşmanıza ve daha fazlasını yapmanıza olanak tanır"</string>
+    <string name="installed_google_message_promo_title">Mesajları kullanmaya başlayın</string>
     <string name="insufficient_drm_rights">Eksik DRM izinleri tespit edildi</string>
     <string name="invalid_conversation">Geçersiz konuşma</string>
     <string name="invalid_destination">Geçersiz hedef adresi</string>
@@ -762,6 +771,9 @@ Mi mesajı etkinleştirmek için giden bir mesaj gerekir. Bu mesaj için operat�
     <string name="perm_purpose_rcs_account">Yeni başlayanlar için başlangıç kılavuzu görüntülemek için</string>
     <string name="perm_purpose_rcs_phone_state">Cihazınızı IMEI ile tanımlamaya erişmek için</string>
     <string name="perm_purpose_rcs_storage">Görüntüleri, videoları, dosyaları ve diğer Rcs eklerini kaydetmek için</string>
+    <string name="permission_retry_deny">İptal et</string>
+    <string name="permission_retry_dialog_msg">Mesajlaşmanın normal çalışabilmesi için izinlere ihtiyacı var. Gerekli izinleri vermek için ayarlara dokunun, uygulama izinlerini seçin ve uygulamanın telefona mesajlar ve kişilere erişmesine izin verin</string>
+    <string name="permission_retry_setting">Ayarlar</string>
     <string name="phrase_confirm_delete_message">Bu yanıt silinecektir</string>
     <string name="phrase_empty">Yanıt yok</string>
     <string name="phrase_from">%1s</string>
@@ -804,6 +816,7 @@ Mi mesajı etkinleştirmek için giden bir mesaj gerekir. Bu mesaj için operat�
     <string name="pref_summary_delete_limit">Konuşma başına %1$s mesaj</string>
     <string name="pref_summary_delivery_reports">Gönderilen mesajlar için iletildi raporu gösterir</string>
     <string name="pref_summary_delivery_ringtone">Teslim edilen mesajlar için sesli bildirim alın</string>
+    <string name="pref_summary_enable_classify">Promosyon ve finans mesajlarını ayrı sekmelere taşıyın</string>
     <string name="pref_summary_manage_sim_messages">Sim kartınızda depolanan mesajları yönetin</string>
     <string name="pref_summary_mms_auto_retrieval">Mesajlardaki fotoğraf ve videoları otomatik olarak indir</string>
     <string name="pref_summary_mms_read_reports">Alıcı multimedya içeriğini indirdiğinde konuşma penceresinde bildirim görüntüle</string>
@@ -822,6 +835,7 @@ Mi mesajı etkinleştirmek için giden bir mesaj gerekir. Bu mesaj için operat�
     <string name="pref_title_card_format">Kart paylaşım formatı</string>
     <string name="pref_title_collapse_ad_notification">Reklam iletisi bildirimini daralt</string>
     <string name="pref_title_delivery_reports">İletim raporu</string>
+    <string name="pref_title_enable_classify">Mesajları otomatik olarak gruplandırın</string>
     <string name="pref_title_fwd_sender_info">Gönderen bilgilerini ilet</string>
     <string name="pref_title_manage_sim_messages">Sim kart mesajları</string>
     <string name="pref_title_miui_card">Kart</string>
@@ -956,8 +970,8 @@ Mobil veriyi açın ve bu sayfayı tekrar açın"</string>
     <string name="rcs_chatlist_scan_error">Bu QR kodu okunamıyor</string>
     <string name="rcs_conversation_rcs_tip">Mini uygulama: %s</string>
     <string name="rcs_create_new_group">Yeni grup sohbeti</string>
-    <string name="rcs_dspt">Çin mobil kullanıcıları açıkken wifi veya mobil ağ üzerinden varsayılan olarak mesaj gönderin</string>
-    <string name="rcs_dspt_unavailable">Bu özelliği şimdi kullanamazsınız. Çin mobil Sim kart varsayılan veri kartınız değil</string>
+    <string name="rcs_dspt">5G kullanıcıları açıkken wifi veya mobil ağ üzerinden varsayılan olarak mesaj gönderin</string>
+    <string name="rcs_dspt_unavailable">Bu özelliği şimdi kullanamazsınız. 5G Sim kart varsayılan veri kartınız değil</string>
     <string name="rcs_file_link_as_sms">Size gönderilen Rcs dosyasını görüntülemek için %s adresini ziyaret edin</string>
     <string name="rcs_forward_faild">İletilemedi</string>
     <string name="rcs_forward_successful">Başarılı bir şekilde iletildi</string>
@@ -967,15 +981,15 @@ Mobil veriyi açın ve bu sayfayı tekrar açın"</string>
     <string name="rcs_list_bottom_loading">Yükleniyor</string>
     <string name="rcs_list_bottom_search">Aranıyor</string>
     <string name="rcs_main_purpose">Bu özellik Rcs mesajları göndermenizi ve almanızı sağlar</string>
-    <string name="rcs_message">Çin mobil mesajlaşma</string>
+    <string name="rcs_message">5G mesajları</string>
     <string name="rcs_message_disable">Bu mesaj ikinci alanda görüntülenemiyor</string>
     <string name="rcs_message_title">Rcs mesajlaşma</string>
     <string name="rcs_more_bar_title">Daha fazla bilgi</string>
-    <string name="rcs_msg">Çin mobil mesajlaşma</string>
+    <string name="rcs_msg">5G mesajları</string>
     <string name="rcs_my_black_chatbot_title">Engelleme listesi</string>
-    <string name="rcs_not_online">Çin mobil mesajlaşmayı kullanamazsınız. Ağ ayarlarınızı kontrol edip tekrar deneyin</string>
-    <string name="rcs_offline">"UC’de oturum açılmamış. Bir iki dakika bekleyin ve tekrar deneyin"</string>
-    <string name="rcs_offline_hint">Çin mobil mesajlaşma çevrimdışı. Bu mesajı iletemiyorum</string>
+    <string name="rcs_not_online">5G mesajlaşma kullanılamaz. Ağ ayarlarınızı kontrol edip tekrar deneyin</string>
+    <string name="rcs_offline">5G mesajlaşmada oturum açılmamış. Bir veya iki dakika bekleyin ve tekrar deneyin</string>
+    <string name="rcs_offline_hint">5G mesajlaşma çevrimdışı. Bu mesajı iletemezsiniz</string>
     <string name="rcs_pref_button_login">Oturumu aç</string>
     <string name="rcs_pref_button_logout">Oturumu Kapat</string>
     <string name="rcs_pref_category_rcs">Rcs mesajlaşma</string>
@@ -998,7 +1012,7 @@ Mobil veriyi açın ve bu sayfayı tekrar açın"</string>
     <string name="rcs_recipient_type_group">Gruba ilet</string>
     <string name="rcs_recipient_type_pc">Bilgisayara ilet</string>
     <string name="rcs_remember_my_choice">Seçimimi hatırla</string>
-    <string name="rcs_resend_not_online">Çin mobil mesajlaşma kullanamazsınız</string>
+    <string name="rcs_resend_not_online">5G mesajlaşma kullanılamaz</string>
     <string name="rcs_resend_sim_card_not_insert">Sim kartınızın yüklü olmadığı anlaşılıyor</string>
     <string name="rcs_search_group_local">Mini uygulamalarım</string>
     <string name="rcs_search_group_recommend">Önerilen mini uygulamalar</string>
@@ -1007,17 +1021,17 @@ Mobil veriyi açın ve bu sayfayı tekrar açın"</string>
     <string name="rcs_search_result_server_data_empty">Çevrimiçi mini uygulamalar bulunamadı</string>
     <string name="rcs_send_hello">Merhaba</string>
     <string name="rcs_send_rms_remind_change">Ayarlar</string>
-    <string name="rcs_send_rms_remind_desp">Çin mobil mesajlaşma Çin mobil tarafından sağlanan bir anlık mesajlaşma servisidir. Bu özelliği ayarlardan kapatabilirsiniz</string>
-    <string name="rcs_send_rms_remind_title">Çin mobil mesajlaşma kullanarak mesaj gönderin</string>
+    <string name="rcs_send_rms_remind_desp">5G mesajlaşma 5G tarafından sağlanan bir anlık mesajlaşma servisidir. Bu özelliği ayarlardan kapatabilirsiniz</string>
+    <string name="rcs_send_rms_remind_title">5G mesajlaşma kullanarak mesaj gönderin</string>
     <string name="rcs_service_agreement">Hizmet sözleşmesi</string>
-    <string name="rcs_setting">Çin mobil mesajlaşma ayarları</string>
+    <string name="rcs_setting">5G mesajlaşma ayarları</string>
     <string name="rcs_setting_tips">Mesajlaşma ayarlarında alternatif dağıtım yöntemlerini değiştirebilirsiniz</string>
     <string name="rcs_silence_message">Mesaj bildirimleri sessiz</string>
-    <string name="rcs_summary_auto_resend_mms">Orijinal mesaj gönderilemezse Çin mobil multimedya mesajlarını mesaja dönüştürün. Bu mesaj için operatörünüz sizi ücretlendirecektir</string>
-    <string name="rcs_summary_auto_resend_sms">Orijinal mesaj gönderilemezse Çin mobil metin mesajlarını mesaja dönüştürün. Bu mesaj için operatörünüz sizi ücretlendirecektir</string>
+    <string name="rcs_summary_auto_resend_mms">Orijinal mesaj gönderilemezse 5G multimedya mesajlarını mesaja dönüştürün. Bu mesaj için operatörünüz sizi ücretlendirecektir</string>
+    <string name="rcs_summary_auto_resend_sms">Orijinal mesaj gönderilemezse 5G metin mesajlarını mesaja dönüştürün. Bu mesaj için operatörünüz sizi ücretlendirecektir</string>
     <string name="rcs_summary_silence_message">Masaüstü istemcisi çalışırken bildirimler sessiz</string>
-    <string name="rcs_unavailable">Şimdi Çin mobil mesajlaşmayı kullanamıyorum. Çin mobil Sim kart varsayılan veri kartınız değil</string>
-    <string name="rcs_up_not_online">Rcs çevrimdışı. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
+    <string name="rcs_unavailable">Şimdi 5G mesajlaşmayı kullanamıyorum. 5G Sim kart varsayılan veri kartınız değil</string>
+    <string name="rcs_up_not_online">5G mesajlaşma çevrimdışı. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
     <string name="rcs_wait_for_retry_text">Bekliyor</string>
     <string name="received_at_time">Alınma zamanı: %1s</string>
     <string name="received_label">"Alındı: "</string>
@@ -1028,8 +1042,8 @@ Mobil veriyi açın ve bu sayfayı tekrar açın"</string>
     <string name="recipients_over_size">Çok fazla alıcı</string>
     <string name="recommend_bar_cancel">Yoksay</string>
     <string name="recommend_bar_message_mx">Mi mesaj ücret ödemeden diğer Miui cihazlarına mesaj göndermenizi sağlar</string>
-    <string name="recommend_bar_message_mx_rcs">Mi mesaj diğer Miui cihazlarına ve Çin mobil kullanıcılarına ücret ödemeden mesaj göndermenizi sağlar</string>
-    <string name="recommend_bar_message_rcs">Çin mobil mesajlaşma ücret ödemeden diğer kullanıcılara mesaj göndermenizi sağlar</string>
+    <string name="recommend_bar_message_mx_rcs">Mi mesaj diğer Miui cihazlarına ve 5G kullanıcılarına ücret ödemeden mesaj göndermenizi sağlar</string>
+    <string name="recommend_bar_message_rcs">5G mesajlaşma ücret ödemeden diğer kullanıcılara mesaj göndermenizi sağlar</string>
     <string name="recommend_bar_message_smart_message">Tek seferlik şifreleri kopyalayın, paketleri takip edin, akıllı menüler kullanın ve daha fazlasını yapın</string>
     <string name="recommend_bar_ok">Aç</string>
     <string name="recommend_bar_title_mx_rcs">Mi mesaj</string>
@@ -1137,7 +1151,7 @@ Mobil veriyi açın ve bu sayfayı tekrar açın"</string>
     <string name="send_message_notification_msg">İstek ayrıntılarını görüntülemek için dokunun</string>
     <string name="send_message_notification_tickerText">Cihaz izin istiyor</string>
     <string name="send_message_notification_title">İzin isteği</string>
-    <string name="send_rms_editor_hints">Çin mobil mesajlaşma</string>
+    <string name="send_rms_editor_hints">5G mesajlaşma</string>
     <string name="send_rms_editor_hints_omit">Mi mesaj</string>
     <string name="send_signature_confirm_dialog_message">İçerik bulunamadı. Yalnızca imzanız gönderilsin mi?</string>
     <string name="send_signature_confirm_dialog_title">Mesaj gönder</string>
@@ -1222,7 +1236,8 @@ Mobil veriyi açın ve bu sayfayı tekrar açın"</string>
     <string name="sp_category_title_prefix">%s</string>
     <string name="sp_conversation_title">Bildirimler</string>
     <string name="sp_mark_as_read_menu_title">Okundu olarak işaretle</string>
-    <string name="sqlite_disk_full">Veritabanı veya disk dolu</string>
+    <string name="sp_msg_entry">Hizmetler</string>
+    <string name="sqlite_disk_full">Veri tabanı veya disk dolu</string>
     <string name="sqlite_low_memory">Düşük hafıza</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_failed">Başarısız</string>
@@ -1334,7 +1349,7 @@ Bu tür izinleri kabul etmeyi veya kişisel bilgilerinizi paylaşmayı veya yük
     <string name="title_allow_network_access">Bilgileri otomatik olarak güncelle</string>
     <string name="title_collapse_sp_messages">Bildirimler grubu</string>
     <string name="title_hide_verification_code">"Kilit ekranında OTP'leri otomatik olarak gizle"</string>
-    <string name="title_pref_cm_smart_sms">Çin mobil akıllı mesajlaşma</string>
+    <string name="title_pref_cm_smart_sms">5G akıllı mesajlaşma</string>
     <string name="title_show_blocked_messages">Engellenen mesajlar</string>
     <string name="title_show_list_avatar">Profil fotoğrafları</string>
     <string name="title_show_photo_word">Kişilere fotoğraf ekle</string>
@@ -1346,6 +1361,9 @@ Bu tür izinleri kabul etmeyi veya kişisel bilgilerinizi paylaşmayı veya yük
     <string name="to_label">"Kime "</string>
     <string name="to_send_wrapper">%s tarihinde gönderilecek</string>
     <string name="toast_failed_to_close_priv_auth">Yetkilendirme iptal edilemedi. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
+    <string name="toast_not_show_camera_perm_req">Bu özelliği kullanabilmek için mesajlaşmanın kamerayı kullanmasına izin verin</string>
+    <string name="toast_not_show_microphone_perm_req">Bu özelliği kullanabilmek için mesajlaşmanın mikrofonu kullanmasına izin verin</string>
+    <string name="toast_not_show_storage_perm_req">Bu özelliği kullanabilmek için mesajlaşmanın depolamaya erişmesine izin verin</string>
     <string name="toast_pending_hangup_msg">Arama sona erdikten sonra mesaj gönderilecektir</string>
     <string name="today">Bugün</string>
     <string name="tomorrow">Yarın</string>

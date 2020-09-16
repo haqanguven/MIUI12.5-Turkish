@@ -135,6 +135,7 @@ Tüm geçmiş kullanıcı verileriniz kaydedilecektir"</string>
     <string name="install_confirm_question_update_system">Bu sistem uygulamasına bir güncelleme yüklemek istiyor musunuz? Mevcut uygulama verileri kaybolmayacaktır. Uygulama şu erişimlere sahip olacaktır:</string>
     <string name="install_confirm_question_update_system_no_perms">Bu sistem uygulamasına bir güncelleme yüklemek istiyor musunuz? Mevcut uygulama verileri kaybolmayacaktır. Güncelleme herhangi bir özel izin talep etmiyor</string>
     <string name="install_confirm_text_gms">Bu uygulama bir Google uygulamasıdır. Normal olarak kullanmak için Google hizmet çerçevesini yüklemeniz gerekir. Aksi takdirde çökmeler, yanıt vermeme ve diğer sorunlar olacaktır. Lütfen dikkatli kullanın</string>
+    <string name="install_continue">Kuruluma devam et</string>
     <string name="install_control_cancel_install">Yükleme</string>
     <string name="install_control_cancel_vip_account_install">Çık</string>
     <string name="install_control_continue_install">Yine de yükle</string>

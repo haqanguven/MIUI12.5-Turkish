@@ -134,6 +134,7 @@
     <string name="agree">Kabul et</string>
     <string name="agree_permissions_request">İzin ver</string>
     <string name="allow">İzin ver</string>
+    <string name="allow_current">Bu sefer izin ver</string>
     <string name="am">ÖÖ</string>
     <string name="app__shared__build_name">DK okuyucu</string>
     <string name="app_continue_downloading_text">Devam et</string>
@@ -498,6 +499,8 @@ Kablosuz ağa tekrar bağlandığınızda bu içeriği indirmeye başlamak için
     <string name="debug_mediation_title">Sdk testi</string>
     <string name="debug_mode_toast">Hata ayıklama modu etkin</string>
     <string name="debug_sug_switch">Sug test ortamını değiştirin</string>
+    <string name="deeplink_intrercept_hint">Bu açılır pencere uygulamayı açmanız için size rehberlik edecek</string>
+    <string name="deeplink_intrercept_second_hint">İnternet sitesi uygulamayı açacak ve sizin için askıya alacak</string>
     <string name="delete">Sil</string>
     <string name="delete_bookmark">Sil</string>
     <string name="delete_bookmark_action_warning">Yer işaretleri silinsin mi?</string>
@@ -567,6 +570,8 @@ Biz daha iyisini yapmak için bize bir övgü verin"</string>
     <string name="download_filter_video">Videolar</string>
     <string name="download_filter_zip">Zip</string>
     <string name="download_in_process">İndiriliyor</string>
+    <string name="download_intrercept_hint">Bu açılır pencere uygulamayı indirmeniz için size rehberlik edecek</string>
+    <string name="download_intrercept_second_hint">İnternet sitesi uygulamayı indirecek ve sizin için askıya alacak</string>
     <string name="download_list_open_xl_ok">Tamam</string>
     <string name="download_memory_info_avai">" Kullanılabilir: %s | "</string>
     <string name="download_memory_info_total">" Toplam: ​%s"</string>
@@ -802,10 +807,13 @@ Mi hesabınızda oturum açın"</string>
     <string name="hot_word_item_mark_new_text">Yeniler</string>
     <string name="hot_word_item_mark_recommend_text">Önerilenler</string>
     <string name="hot_words_item_ads_mark">Reklamlar</string>
+    <string name="i_know">Evet benim için yakın</string>
     <string name="ignore_add_pwa_dialog_today">Bugün gösterme</string>
     <string name="incognito">Gizli tarama</string>
     <string name="info_flow_description">Bilgi kanalı</string>
+    <string name="intrercept_dialog_hint">İnternet sitesinin kapatılıp kapatılmayacağına dair bir açılır pencere açacaktır</string>
     <string name="isReplacePage">Dosya zaten mevcut. Değiştirilsin mi?</string>
+    <string name="keep_intrercept">Benim için kapat</string>
     <string name="keep_queued_download">Sürdür</string>
     <string name="leto_abort_underline"><u>放 弃</u></string>
     <string name="leto_ad_no_data">暂无广告</string>
@@ -1110,6 +1118,7 @@ Mi hesabınızda oturum açın"</string>
     <string name="month_september_shortest">E</string>
     <string name="more">Daha fazla</string>
     <string name="more_description">Menü</string>
+    <string name="more_info">Hayır</string>
     <string name="morning">Sabah</string>
     <string name="movie_player_3g_tip_retry">Devam et</string>
     <string name="mtrl_chip_close_icon_content_description">%1$s kaldır</string>
@@ -1289,8 +1298,7 @@ Bu sayfadan ayrılmak istediğinize emin misiniz?"</string>
     <string name="nav_launch_title">Tarayıcı aşağıdaki uygulamalarla açtığınız için sizi tanır</string>
     <string name="nav_lunch_duokan">Tarayıcı daha fazlasını görmeniz için açılıyor</string>
     <string name="nav_screen_container_tab_incognito">Gizli sekme</string>
-    <string name="nav_screen_incognito_message">"Göz atma ve arama geçmişi gizli sekmede saklanmaz
-İndirdiğiniz dosyaların ve eklediğiniz yer imlerinin yine de kaydedileceğini unutmayın"</string>
+    <string name="nav_screen_incognito_message">Göz atma ve arama geçmişi gizli sekmede saklanmaz. İndirdiğiniz dosyaların ve eklediğiniz yer imlerinin yine de kaydedileceğini unutmayın</string>
     <string name="nav_screen_incognito_title">Gizli sekme</string>
     <string name="navigate_feedback_dislike">İlgilenmiyorum</string>
     <string name="navigate_feedback_dislike_tips">Bu tür video önerilerini azaltacaktır</string>
@@ -1466,6 +1474,7 @@ Bu sayfadan ayrılmak istediğinize emin misiniz?"</string>
     <string name="pref_tab_restore">Başlangıçta son açık olan sayfayı kurtar</string>
     <string name="pref_ua_string">Kullanıcı arayüzü</string>
     <string name="pref_version_info">Sürüm bilgisi</string>
+    <string name="pref_web_translation">Çeviri açılır penceresi</string>
     <string name="preference_copied">%1$s panoya kopyalandı</string>
     <string name="progress_dialog_setting_wallpaper">Duvar kağıdı ayarlanıyor</string>
     <string name="pull_refresh_begin">Yenilemek için aşağıya çekin</string>
@@ -1705,10 +1714,10 @@ Hiçbir şey göstermiyor"</string>
     <string name="storage_permission_request_toast">İndirmeler cihazınızın depolama alanına erişime ihtiyaç duyar</string>
     <string name="storage_sd_card">SD kart</string>
     <string name="storage_usb">USB depolama</string>
-    <string name="store__audio__album_count">%d张专辑</string>
-    <string name="store__audio__play_count">人在听</string>
-    <string name="store__audio__view_more">查看更多</string>
-    <string name="store__author_intro_view__title">相关作品</string>
+    <string name="store__audio__album_count">%d albüm</string>
+    <string name="store__audio__play_count">İnsanlar dinliyor</string>
+    <string name="store__audio__view_more">Faha fazla gör</string>
+    <string name="store__author_intro_view__title">İlgili işler</string>
     <string name="store__book_detail_score_view__comment_count">全部 %d 条评论...</string>
     <string name="store__book_detail_score_view__comment_title">共 %d 条评论</string>
     <string name="store__book_detail_score_view__goto_comment">查看书评...</string>
@@ -2207,6 +2216,7 @@ Hiçbir şey göstermiyor"</string>
     <string name="title_bar_loading">Yükleniyor</string>
     <string name="title_notice_push">Uyarı hatırmatmaları</string>
     <string name="toast_feedback">Bu tür içeriği sizin için azaltacaktır</string>
+    <string name="toast_not_support">"This feature isn't supported yet"</string>
     <string name="today">Bugün</string>
     <string name="today_hot_search">Bugün en iyi arama</string>
     <string name="tomorrow">Yarın</string>
@@ -2404,8 +2414,8 @@ feedsContentId:
     <string name="vo_share_text">Paylaş</string>
     <string name="vo_small_video_load_more_text">Daha fazla slayt yükleniyor</string>
     <string name="vo_small_video_title">Harika küçük video</string>
-    <string name="vo_vote_left" formatted="false">%%d$ kare</string>
-    <string name="vo_vote_right" formatted="false">%%d$</string>
+    <string name="vo_vote_left">%%d$ kare</string>
+    <string name="vo_vote_right">%%d$</string>
     <string name="vo_wei_bo_all_text">Tüm metin</string>
     <string name="vo_wei_bo_gif_image">Hareketli fotoğraf</string>
     <string name="vo_wei_bo_long_image">Uzun fotoğraf</string>
@@ -2439,6 +2449,7 @@ feedsContentId:
     <string name="web_translation_failed_toast">Çeviri hatası. Lütfen tekrar deneyin</string>
     <string name="web_translation_non_en_toast">Lütfen ingilizce sayfasında bu işlevi kullanın</string>
     <string name="web_translation_pop_text">İnternet sayfası çeviri araç kutusunda kullanılabilir</string>
+    <string name="web_translation_tip">Çeviri açılır pencere gelişmiş ayarlardan kapatılabilir</string>
     <string name="webpage_title">Yer imleri &amp; geçmiş</string>
     <string name="wechat_not_installed">Wechat yüklü değil</string>
     <string name="wednesday">Çarşamba</string>
