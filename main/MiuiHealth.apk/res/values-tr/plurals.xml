@@ -49,6 +49,14 @@
         <item quantity="other">%1$d gün</item>
         <item quantity="one">%1$d gün</item>
     </plurals>
+    <plurals name="days_in_menstrual_period">
+        <item quantity="other">Periyot süresi: %1$d gün</item>
+        <item quantity="one">Periyot süresi: %1$d gün</item>
+    </plurals>
+    <plurals name="days_in_period">
+        <item quantity="other">Döngü süresi: %1$d gün</item>
+        <item quantity="one">Döngü süresi: %1$d gün</item>
+    </plurals>
     <plurals name="dialog_choose_items">
         <item quantity="other">%1$d öğe seçildi</item>
         <item quantity="one">%1$d öğe seçildi</item>
@@ -93,6 +101,10 @@
         <item quantity="other">%1$d adım</item>
         <item quantity="one">%1$d adım</item>
     </plurals>
+    <plurals name="group_unit">
+        <item quantity="other">%1$d döngü</item>
+        <item quantity="one">%1$d döngü</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Yarım saat önce</item>
     </plurals>
@@ -127,6 +139,10 @@
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Şimdi</item>
+    </plurals>
+    <plurals name="mens_offset_predict_menstrual_period">
+        <item quantity="other">Dönem muhtemelen %1$d gün içinde başlayacak</item>
+        <item quantity="one">Dönem muhtemelen %1$d gün içinde başlayacak</item>
     </plurals>
     <plurals name="menstruation_sum_days">
         <item quantity="other">%1$d günlük adet dönemi</item>
@@ -243,6 +259,10 @@
     <plurals name="unit_days">
         <item quantity="other">" gün"</item>
         <item quantity="one">" gün"</item>
+    </plurals>
+    <plurals name="unit_group">
+        <item quantity="other">" döngü"</item>
+        <item quantity="one">" döngü"</item>
     </plurals>
     <plurals name="unit_times">
         <item quantity="other">" kez"</item>
