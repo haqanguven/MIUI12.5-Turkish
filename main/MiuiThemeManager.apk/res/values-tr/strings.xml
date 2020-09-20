@@ -386,19 +386,19 @@
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
     <string name="fmt_date_long_month">MMMM</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month">MMMM yyyy</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
+    <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
     <string name="fmt_date_numeric_day">d</string>
     <string name="fmt_date_numeric_month">M</string>
     <string name="fmt_date_numeric_month_day">d-M</string>
     <string name="fmt_date_numeric_year">yyyy</string>
     <string name="fmt_date_numeric_year_month">M-yyyy</string>
-    <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">d-Myyyy</string>
     <string name="fmt_date_short_month">MMM</string>
-    <string name="fmt_date_short_month_day">dd MMM</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
-    <string name="fmt_date_short_year_month_day">dd MMM yyyy</string>
+    <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
     <string name="fmt_date_time">D T</string>
     <string name="fmt_date_time_timezone">D T z</string>
     <string name="fmt_date_timezone">D z</string>
@@ -481,6 +481,7 @@
     <string name="hide_pull_down_positive">Gizle</string>
     <string name="home_apply_failured">Ana ekran duvar kağıdı uygulanamıyor</string>
     <string name="home_apply_success">Ana ekran duvar kağıdı uygulandı</string>
+    <string name="home_daily">Günlük önemli noktalar</string>
     <string name="i_know">Anladım</string>
     <string name="icon_content_description">İletişim kutusu simgesi</string>
     <string name="in_the_end">Görüntülenecek öğe yok</string>
@@ -505,12 +506,14 @@ Bu özelliği kapatmak için Ayarlar > ses &amp; titreşim > Profil videosu ayar
     <string name="item_resource_audio_optional_color_ring">Zil sesi tonu</string>
     <string name="item_resource_audio_optional_notification_ring">Bildirimler</string>
     <string name="item_resource_audio_optional_phone_ring">Zil sesi</string>
+    <string name="item_view_role_description">Sekme</string>
     <string name="kuyin_user_agreement_content">Özel zil sesi abonelikleri iFlytek tarafından sağlanır. Özel zil sesi abonelikleri kullanmadan önce %s şartını kabul etmelisiniz. Kabul edilsin mi?</string>
     <string name="kuyin_user_agreement_content_href">iFlytek gizlilik politikası</string>
     <string name="lab">Diğer</string>
     <string name="like_list">Beğendiklerim</string>
     <string name="live_wallpaper">Canlı duvar kağıtları</string>
     <string name="loading">Yükleniyor</string>
+    <string name="loading_picture">Resim yükleniyor</string>
     <string name="loading_resource_detail_fail">Kaynak yüklenemiyor</string>
     <string name="loading_resource_detail_info">Yükleniyor</string>
     <string name="local_photos">Yerel fotoğraflar</string>
@@ -529,6 +532,9 @@ Bu özelliği kapatmak için Ayarlar > ses &amp; titreşim > Profil videosu ayar
     <string name="lockscreen_wallpaper">Kilit ekranı</string>
     <string name="lockstyle_personal_settings">Kişiselleştir</string>
     <string name="long_click_can_hide_resource">Öğeleri gizlemek için basılı tutun</string>
+    <string name="marketSdkVersion">3.2.4</string>
+    <string name="material_slider_range_end">Aralık sonu,</string>
+    <string name="material_slider_range_start">Aralık başlangıcı,</string>
     <string name="mi_wallpaper">Miui duvar kağıtları</string>
     <string name="midnight">ÖÖ</string>
     <string name="mine_tab_not_login">"Öğeleri görüntülemek için oturum açın
@@ -648,6 +654,7 @@ mm"</string>
     <string name="morning">ÖÖ</string>
     <string name="mtrl_badge_numberless_content_description">Yeni bildirim</string>
     <string name="mtrl_chip_close_icon_content_description">%1$s kaldır</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">"%1$d'den fazla yeni bildirim"</string>
     <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
     <string name="mtrl_picker_a11y_next_month">Gelecek aya geç</string>
     <string name="mtrl_picker_a11y_prev_month">Önceki aya geç</string>
@@ -933,8 +940,9 @@ mm"</string>
     <string name="resource_share_subject">Temayı paylaş: %1$s</string>
     <string name="resource_share_text">İşte seveceğini düşündüğüm bir tema: %1$s! Bağlantı: %2$s</string>
     <string name="resource_share_title">Paylaş</string>
+    <string name="resource_status_error">Bir hata oluştu. Bu duvar kağıdını şimdi görüntüleyemiyorum</string>
     <string name="resource_system_title">Sistem kaynakları</string>
-    <string name="resource_tab_to_view">Görüntülemek için dokunun.</string>
+    <string name="resource_tab_to_view">Görüntülemek için dokunun</string>
     <string name="resource_tip_select_none">Hiçbiri seçilmedi</string>
     <string name="resource_title">Ayrıntılar</string>
     <string name="resource_title_category">Kategoriler</string>
@@ -1001,6 +1009,19 @@ mm"</string>
     <string name="settings_search_keyword_font_online">Çevrimiçi yazı tipleri</string>
     <string name="settings_search_keyword_font_style">Yazı tipi biçimi</string>
     <string name="settings_search_keyword_font_wechat">WeChat yazı tipleri</string>
+    <string name="share_copy_theme_url">Tema bağlantısını kopyala</string>
+    <string name="share_copy_url_success">Kopyalandı</string>
+    <string name="share_copy_wallpaper_url">Duvar kağıdı bağlantısını kopyala</string>
+    <string name="share_picture_loading">Duvar kağıdı yükleniyor</string>
+    <string name="share_save_success">Kaydedildi</string>
+    <string name="share_save_to_photo">Galeri</string>
+    <string name="share_send_to_friend">WeChat</string>
+    <string name="share_share_suffix">"\@Xiaomi teması"</string>
+    <string name="share_theme_content_text">Harika bir temayı %1$s buradan indirebilirsiniz: %2$s</string>
+    <string name="share_to_qq">QQ</string>
+    <string name="share_to_weibo">Weibo</string>
+    <string name="share_vipaccount">Mi topluluk</string>
+    <string name="share_wallpaper_content_text">"Harika bir %1$s duvar kağıdını buradan indirebilirsiniz: %2$s</string>
     <string name="shortcut_add">Ekle</string>
     <string name="shortcut_cancel">Hayır</string>
     <string name="shortcut_message">Ana ekran kısayolu eklensin mi</string>
@@ -1332,6 +1353,7 @@ Daha fazla özellik için Temalar > Profil > Tema laboratuvarı menüsüne gidin
     <string name="wallpaper_set_as_incall_show">Profil videosu olarak ayarla</string>
     <string name="wallpaper_set_as_lockscreen">Kilit ekranı olarak ayarla</string>
     <string name="wallpaper_setting_all">Tüm duvar kağıtları</string>
+    <string name="wallpaper_setting_library">Kütüphane</string>
     <string name="wallpaper_setting_live">Canlı</string>
     <string name="wallpaper_settings">Duvar kağıdı ayarları</string>
     <string name="wallpaper_settings_loading_text">Yükleniyor</string>
@@ -1353,15 +1375,8 @@ Daha fazla özellik için Temalar > Profil > Tema laboratuvarı menüsüne gidin
     <string name="xiaoai_speech_not_installed_download">İndir</string>
     <string name="xiaoai_speech_not_installed_message">Devam etmek için Mi AI yardımcısını indirin ve yükleyin</string>
     <string name="xiaoai_speech_not_installed_title">Mi AI yardımcısı yüklü değil</string>
-    <string name="xiaomi_update_sdk_bytes_unit">%1$sB</string>
-    <string name="xiaomi_update_sdk_connect_download_manager_fail">İndirme yöneticine bağlanma başarısız oldu. Lütfen uygulama yönetimindeki indirme yöneticisi durumunu kontrol edin</string>
-    <string name="xiaomi_update_sdk_dialog_message">"Tanıtımı sürümü: %1$s
-Boyut: %2$s"</string>
-    <string name="xiaomi_update_sdk_dialog_message_diff">"Tanıtımı sürümü: %1$s
-Delta güncelleme boyutu: %2$s"</string>
-    <string name="xiaomi_update_sdk_dialog_title">%1$s güncelle</string>
-    <string name="xiaomi_update_sdk_external_storage_unavailable">Depolama kullanılamıyor. Lütfen SD kartı kontrol edin</string>
-    <string name="xiaomi_update_sdk_kilobytes_unit">%1$sKB</string>
-    <string name="xiaomi_update_sdk_megabytes_unit">%1$sMB</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">İptal et</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Güncelle</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">%s yeni sürüm</string>
     <string name="yesterday">Dün</string>
 </resources>

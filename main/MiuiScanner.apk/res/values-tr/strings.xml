@@ -67,6 +67,7 @@
     <string name="calories_logo_text">Sağlık tarafından sağlanan AI desteği</string>
     <string name="calories_request_interface_text">AI desteği</string>
     <string name="camera_error_title">Kamera hatası</string>
+    <string name="can_only_be_English_Chinese">Çevrimiçi çevirinin dili yalnızca İngilizce ve Basitleştirilmiş Çince olabilir</string>
     <string name="cancel">İptal et</string>
     <string name="cancel_pdf_save">Pdf kaydetmeyi iptal et</string>
     <string name="carsHome_title">Araba</string>
@@ -120,6 +121,7 @@
     <string name="crop_title_study">Fotoğrafı kes</string>
     <string name="crop_title_translation">Tercüme edilecek metni seçin</string>
     <string name="cropping">Kırpılıyor</string>
+    <string name="current_word_is_locked">Mevcut kelime kilitlendi</string>
     <string name="default_language">@string/language_value_chinese_cn</string>
     <string name="delete">Sil</string>
     <string name="document_color_picture">Renk</string>
@@ -211,6 +213,7 @@
     <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="history">Geçmiş</string>
     <string name="history_empty">Burada henüz öğe yok</string>
+    <string name="hold_down">Kelimeyi almak için basılı tutun</string>
     <string name="if_open_result">Uygulamaya döndüğünüzde tarama sonucunu göster</string>
     <string name="if_to_open_milogo_scanning">Xiaomi logosunu tanıma</string>
     <string name="image_file_name_format">"'scanner'_yyyyMMdd_HHmmss"</string>
@@ -244,6 +247,8 @@
     <string name="language_value_japanese">japanese</string>
     <string name="language_value_korean">korean</string>
     <string name="language_value_spanish">spanish</string>
+    <string name="local_ocr_recognition">Yerel ocr tanıma</string>
+    <string name="local_ocr_recognition_str">Çevrimdışı çeviriye geçildi</string>
     <string name="logistics">Hızlı teslimat</string>
     <string name="low_version_tip">"Barkod okuyucuyu kullanabilmek için Miui'yi en yeni sürümüne güncelleyin"</string>
     <string name="mihome_goto_install">Şimdi kur</string>
@@ -326,9 +331,14 @@ Cihazı yerleştirmek için lütfen resimdeki açıya bakın ve tekrar deneyin"<
     <string name="not_set">Ayarlanmadı</string>
     <string name="note">Açıklama:</string>
     <string name="now_state">"Mevcut durum: "</string>
+    <string name="offline_translation">Çevrimdışı çeviri</string>
     <string name="once">Sadece bir kez</string>
+    <string name="online_ocr_recognition">Çevrimiçi OCR tanıma</string>
+    <string name="online_ocr_recognition_str">Zaten çevrimiçi çeviriye geçildi</string>
+    <string name="online_translation">Çevrimiçi çeviri</string>
     <string name="open_url">Bağlantı adresini aç</string>
-    <string name="original_image">Orijinal görüntü</string>
+    <string name="original_image">Orijinal</string>
+    <string name="page_does_not_exist">Sayfa mevcut değil. Atlanamaz</string>
     <string name="password_toggle_content_description">Şifreyi göster</string>
     <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
     <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
@@ -369,6 +379,8 @@ Cihazı yerleştirmek için lütfen resimdeki açıya bakın ve tekrar deneyin"<
     <string name="qureyGoods">Ürün ara</string>
     <string name="recognize">Tara</string>
     <string name="recognize_fail">Kod okunamadı</string>
+    <string name="release_lock">Kilidi serbest bırak</string>
+    <string name="release_locked_word">Kilitli kelimeyi serbest bırakın</string>
     <string name="request_server_failed">Sunucuya bağlanılamadı</string>
     <string name="required_permissions">android.permission.READ_EXTERNAL_STORAGE;android.permission.WRITE_EXTERNAL_STORAGE;android.permission.CAMERA;</string>
     <string name="result_of_identifying_text_is_empty">Metin tanımlamanın sonucu boş</string>
@@ -426,6 +438,7 @@ Cihazı yerleştirmek için lütfen resimdeki açıya bakın ve tekrar deneyin"<
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="switch_open">Aç</string>
     <string name="take_a_picture">Bir fotoğraf çek</string>
+    <string name="take_the_word">Kelimeyi almak için aşağıdaki düğmeye uzun basın</string>
     <string name="taobao">Taobao</string>
     <string name="tel">Telefon</string>
     <string name="text_to_be_translated_cannot_be_empty">Çevrilecek metin boş bırakılamaz</string>
@@ -480,12 +493,15 @@ Cihazı yerleştirmek için lütfen resimdeki açıya bakın ve tekrar deneyin"<
     <string name="welcome_to_thesweepversion">Tarayıcı betaya hoş geldiniz</string>
     <string name="wifi_details">Wifi:</string>
     <string name="wifi_exist_fail">Wifi bağlantı noktası %1$s zaten mevcut. Bunu silin ve tekrar deneyin</string>
+    <string name="wifi_low_version_prompt">wifi istemi</string>
     <string name="wifi_open_fail">Wifi açılamıyor</string>
     <string name="wifi_psd_toolong">Bu şifre çok uzun. Şifreyi elle girin</string>
     <string name="wifi_pwd">Şifre:</string>
     <string name="wifi_security">Güvenlik:</string>
     <string name="wifi_ssid">SSID:</string>
     <string name="will_be_sent_tothe_background_review">" (Başvurunuz yakında incelenmek üzere gönderilecek)"</string>
+    <string name="word_to_be_recognized_is_aligned_with_cross">Tanınacak kelime çarpı işareti ile hizalı</string>
+    <string name="word_translation">Kelime çevirisi</string>
     <string name="wx_not_installed_toast">"Bu özellik WeChat'i kullanmaya ihtiyaç duyar. Önce WeChat'i yükleyin"</string>
     <string name="xiaoai_dialog">"Mi AI'ye taramak
 istediğinizi söylemeyi deneyin"</string>

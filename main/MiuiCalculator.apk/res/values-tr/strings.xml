@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Ana ekrana git</string>
-    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
-    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
     <string name="abc_action_bar_up_description">Yukarı git</string>
     <string name="abc_action_menu_overflow_description">Diğer seçenekler</string>
     <string name="abc_action_mode_done">Bitti</string>
@@ -10,6 +8,16 @@
     <string name="abc_activitychooserview_choose_application">Bir uygulama seçin</string>
     <string name="abc_capital_off">Kapat</string>
     <string name="abc_capital_on">Aç</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">sil</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Üst Karakter+</string>
+    <string name="abc_menu_space_shortcut_label">boşluk</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menü+</string>
     <string name="abc_search_hint">Ara</string>
     <string name="abc_searchview_description_clear">Sorguyu temizle</string>
     <string name="abc_searchview_description_query">Arama sorgusu</string>
@@ -19,6 +27,24 @@
     <string name="abc_shareactionprovider_share_with">Şununla paylaş</string>
     <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
     <string name="abc_toolbar_collapse_description">Daralt</string>
+    <string name="common_google_play_services_enable_button">Etkinleştir</string>
+    <string name="common_google_play_services_enable_text">Google Play hizmetlerini etkinleştirmezseniz %1$s çalışmaz.</string>
+    <string name="common_google_play_services_enable_title">Google Play hizmetlerini etkinleştirin</string>
+    <string name="common_google_play_services_install_button">Yükle</string>
+    <string name="common_google_play_services_install_text">%1$s, şu anda cihazınızda bulunmayan Google Play hizmetleri olmadan çalışmaz.</string>
+    <string name="common_google_play_services_install_title">Google Play hizmetlerini edinin</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play hizmetlerinin kullanılabilirliği</string>
+    <string name="common_google_play_services_notification_ticker">Google Play Hizmetleri hatası</string>
+    <string name="common_google_play_services_unknown_issue">%1$s, Google Play hizmetleriyle ilgili sorun yaşıyor. Lütfen tekrar deneyin.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s, Google Play hizmetleri olmadan çalışmaz ve bu hizmetler cihazınız tarafından desteklenmiyor.</string>
+    <string name="common_google_play_services_update_button">Güncelle</string>
+    <string name="common_google_play_services_update_text">Google Play hizmetlerini güncellemezseniz %1$s çalışmayacak.</string>
+    <string name="common_google_play_services_update_title">Google Play hizmetlerini güncelleyin</string>
+    <string name="common_google_play_services_updating_text">%1$s, şu anda güncellenmekte olan Google Play hizmetleri olmadan çalışmaz.</string>
+    <string name="common_google_play_services_wear_update_text">Google Play hizmetlerinin yeni sürümü gerekiyor. Kendisini kısa süre içinde güncelleyecektir.</string>
+    <string name="common_open_on_phone">Telefonda aç</string>
+    <string name="common_signin_button_text">Oturum aç</string>
+    <string name="common_signin_button_text_long">"Google'da oturum aç"</string>
     <string name="search_menu_title">Ara</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="age_label_add_to_calendar">Takvime ekle</string>
@@ -65,6 +91,7 @@
     <string name="convert_currency">Para birimi dönüştürücü</string>
     <string name="convertion_unit">Birim dönüştürücü</string>
     <string name="convertion_unit_area">Alan dönüştürücü</string>
+    <string name="convertion_unit_data">Veri dönüştürücü</string>
     <string name="convertion_unit_length">Uzunluk dönüştürücü</string>
     <string name="convertion_unit_radix">Numeral sistem</string>
     <string name="convertion_unit_temperature">Sıcaklık dönüştürücü</string>
@@ -74,6 +101,7 @@
     <string name="convertion_unit_weight">Kütle dönüştürücü</string>
     <string name="cos">cos</string>
     <string name="cosDesc">kosinüs</string>
+    <string name="currency_dialog_privacy_content">&lt;Data>Döviz dönüştürücünün döviz değişim oranlarını almak için internete bağlanması gerekir. Bu özelliği kullanmadan önce &lt;a href=\"%1$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik Politikamızı&lt;/a> okuyun ve kabul edin.&lt;/Data></string>
     <string name="currency_update_connect_to_get_data">Döviz kurları Webull tarafından sağlanmaktadır. En son kur bilgilerini almak için ağa bağlanın</string>
     <string name="currency_update_support">Kur verileri Webull tarafından sağlanmaktadır</string>
     <string name="currency_update_time_format">Kur verileri WeBull (%s) tarafından sağlanmaktadır</string>
@@ -105,6 +133,7 @@
     <string name="digit9">9</string>
     <string name="divDesc">bölme</string>
     <string name="dob_selection_error">Doğum tarihi bugünün tarihinden daha önce olmalıdır</string>
+    <string name="dont_allow">Reddet</string>
     <string name="dotDesc">nokta</string>
     <string name="e">e</string>
     <string name="eDesc">Euler sayısı</string>
@@ -159,6 +188,7 @@
     <string name="item_title_bmi">VKE</string>
     <string name="item_title_calculator">Hesaplayıcı</string>
     <string name="item_title_currency">Para birimi</string>
+    <string name="item_title_data_conversion">Veri</string>
     <string name="item_title_date_calculator">Tarih</string>
     <string name="item_title_discount">İndirim</string>
     <string name="item_title_dress_size">Kıyafet bedeni</string>
@@ -193,6 +223,7 @@
     <string name="label_loan_tenure">Kredi süresi</string>
     <string name="label_months">Ay</string>
     <string name="label_no_history">Burada henüz öğe yok</string>
+    <string name="label_powered_by">Mi Hesaplayıcı tarafından desteklenmektedir</string>
     <string name="label_principal">Ana para</string>
     <string name="label_share">Paylaş</string>
     <string name="label_start_date">Başlangıç tarihi</string>
@@ -551,6 +582,12 @@
     <string name="unit_data_display_currency_yer">Yemen riyali</string>
     <string name="unit_data_display_currency_zar">Güney Afrika randı</string>
     <string name="unit_data_display_currency_zmw">Zambiya kwachası</string>
+    <string name="unit_data_display_data_b">Bit</string>
+    <string name="unit_data_display_data_gb">Gigabayt</string>
+    <string name="unit_data_display_data_kb">Kilobayt</string>
+    <string name="unit_data_display_data_mb">Megabayt</string>
+    <string name="unit_data_display_data_pb">Petabayt</string>
+    <string name="unit_data_display_data_tb">Terabayt</string>
     <string name="unit_data_display_length_au">Astoronomik birim</string>
     <string name="unit_data_display_length_chi">Chi</string>
     <string name="unit_data_display_length_cm">Santimetre</string>
@@ -659,6 +696,12 @@
     <string name="unit_data_short_area_sq.rd">rd²</string>
     <string name="unit_data_short_area_sq.um">μm²</string>
     <string name="unit_data_short_area_sq.yd">yd²</string>
+    <string name="unit_data_short_data_b">B</string>
+    <string name="unit_data_short_data_gb">GB</string>
+    <string name="unit_data_short_data_kb">KB</string>
+    <string name="unit_data_short_data_mb">MB</string>
+    <string name="unit_data_short_data_pb">PB</string>
+    <string name="unit_data_short_data_tb">TB</string>
     <string name="unit_data_short_length_au">⊙</string>
     <string name="unit_data_short_length_chi">chi</string>
     <string name="unit_data_short_length_cm">cm</string>
@@ -848,18 +891,6 @@ Delta güncellemesi boyutu: %2$s"</string>
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
-    <string name="abc_font_family_body_1_material">sans-serif</string>
-    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
-    <string name="abc_font_family_button_material">sans-serif-medium</string>
-    <string name="abc_font_family_caption_material">sans-serif</string>
-    <string name="abc_font_family_display_1_material">sans-serif</string>
-    <string name="abc_font_family_display_2_material">sans-serif</string>
-    <string name="abc_font_family_display_3_material">sans-serif</string>
-    <string name="abc_font_family_display_4_material">sans-serif-light</string>
-    <string name="abc_font_family_headline_material">sans-serif</string>
-    <string name="abc_font_family_menu_material">sans-serif</string>
-    <string name="abc_font_family_subhead_material">sans-serif</string>
-    <string name="abc_font_family_title_material">sans-serif-medium</string>
     <string name="action_mode_select_all">Tümünü seç</string>
     <string name="afternoon">ÖS</string>
     <string name="am">ÖÖ</string>
@@ -957,6 +988,7 @@ Delta güncellemesi boyutu: %2$s"</string>
     <string name="daughter">Kız</string>
     <string name="default_separator_text">-</string>
     <string name="default_text">Ben</string>
+    <string name="default_web_client_id">724101103579-a7hcqq8g7rq6co2t4jne62mnu3v59j4r.apps.googleusercontent.com</string>
     <string name="del">Sil</string>
     <string name="deselect_all">Seçimi kaldır</string>
     <string name="div">÷</string>
@@ -986,6 +1018,7 @@ Delta güncellemesi boyutu: %2$s"</string>
     <string name="factorial">!</string>
     <string name="far_relationship_result">İlişki biraz uzak</string>
     <string name="father">Baba</string>
+    <string name="firebase_database_url">https://mi-calculator-edb61.firebaseio.com</string>
     <string name="fmt_chinese_date">N/e</string>
     <string name="friday">Cuma</string>
     <string name="friday_short">Cuma</string>
@@ -996,6 +1029,11 @@ Delta güncellemesi boyutu: %2$s"</string>
     <string name="from_unit_short">km/h</string>
     <string name="gay_other_search_result">Aynı cinsiyetten evlilik desteklenmiyor</string>
     <string name="gay_search_result">Bir erkek ya da kadın olmak önemli değil. Tıpkı senin gibi</string>
+    <string name="gcm_defaultSenderId">724101103579</string>
+    <string name="google_api_key">AIzaSyDy8GsOko9KA_ySg13UiTu-xzQhicViNyo</string>
+    <string name="google_app_id">1:724101103579:android:9f07408a363c2e9d0d31fe</string>
+    <string name="google_crash_reporting_api_key">AIzaSyDy8GsOko9KA_ySg13UiTu-xzQhicViNyo</string>
+    <string name="google_storage_bucket">mi-calculator-edb61.appspot.com</string>
     <string name="heavenly_stems_bing">Bing</string>
     <string name="heavenly_stems_ding">Ding</string>
     <string name="heavenly_stems_geng">Geng</string>
@@ -1016,7 +1054,7 @@ Delta güncellemesi boyutu: %2$s"</string>
     <string name="lg_mathematical_value">lg</string>
     <string name="ln_mathematical_value">ln</string>
     <string name="loan_type_summary_base">@string/base_rate</string>
-    <string name="lpr_format">%%%1$s %2$s %3$s‱ = %%%4$s</string>
+    <string name="lpr_format">s%%%1$ %2$s %3$s‱ = %%%4$s</string>
     <string name="midnight">ÖÖ</string>
     <string name="minus">−</string>
     <string name="minusOne">-1</string>
@@ -1076,6 +1114,10 @@ Delta güncellemesi boyutu: %2$s"</string>
     <string name="preference_follow_web_summary">www.miui.com</string>
     <string name="preference_follow_wechat_summary">MIUI</string>
     <string name="preference_follow_weibo_summary">\\MIUI</string>
+    <string name="privacy_disagree">Gizlilik politikası şartlarımıza ve koşullarımıza katılmadığınız takdirde hesaplayıcı veri toplamayı durduracak ve ilgili tüm veriler sunuculardan silinecektir. Uygulamadaki bazı özellikleri kullanamayabilirsiniz. Yine de katılmıyor musunuz?</string>
+    <string name="privacy_switch">Gizlilik politikasını kabul et</string>
+    <string name="privacy_switch_disagree">Katılmıyorum</string>
+    <string name="project_id">mi-calculator-edb61</string>
     <string name="radian">rad</string>
     <string name="reciprocal">1/X</string>
     <string name="relationship_cross_check_suggestion">HG beni çağırıyor</string>
@@ -1176,6 +1218,8 @@ Delta güncellemesi boyutu: %2$s"</string>
     <string name="unit_data_default_currency_0">JPY</string>
     <string name="unit_data_default_currency_1">USD</string>
     <string name="unit_data_default_currency_2">EUR</string>
+    <string name="unit_data_default_data_0">mb</string>
+    <string name="unit_data_default_data_1">kb</string>
     <string name="unit_data_default_length_0">m</string>
     <string name="unit_data_default_length_1">cm</string>
     <string name="unit_data_default_radix_0">10</string>
