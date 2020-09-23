@@ -1228,8 +1228,15 @@ Arkadaşlarınızın daha fazla fotoğraflarını çekin"</string>
     <string name="filter_movie_travel">Seyahat</string>
     <string name="filter_movie_wonderful">Mucize</string>
     <string name="filter_original">Hiçbiri</string>
+    <string name="filter_popular_autumn">Sonbahar</string>
     <string name="filter_popular_bluedream">Uyuklama</string>
+    <string name="filter_popular_coffee">Kahve</string>
+    <string name="filter_popular_coldsmoke">Soğuk sis</string>
+    <string name="filter_popular_comic">Anime</string>
+    <string name="filter_popular_dream">Hayal</string>
+    <string name="filter_popular_hill">Tepeler</string>
     <string name="filter_popular_humanity">Belgesel</string>
+    <string name="filter_popular_kamakura">Kamakura</string>
     <string name="filter_popular_lnk">Mürekkep</string>
     <string name="filter_popular_purple">Mor</string>
     <string name="filter_popular_shallow_summer">Haziran</string>
@@ -1430,6 +1437,7 @@ erişimine ihtiyaç duyuyor. İzinler menüsüne gitmek için ayarla seçeneğin
     <string name="input_or_select_a_name">İsim girin veya bir isim seçin</string>
     <string name="input_relation_name">Grup adı girin</string>
     <string name="install_fail">Eklenti bir hata nedeniyle yüklenemedi</string>
+    <string name="internal_storage_device">Dahili depolama</string>
     <string name="invalid_invition_url">Hatalı davet bağlantı adresi</string>
     <string name="invalid_recipient_message">Girmiş olduğunuz alıcı isimleri geçersiz</string>
     <string name="invite_sharer_confirm_button_text">Davet et</string>
@@ -1743,6 +1751,8 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="operation_move_to_other_albums">Diğer albümlere taşı</string>
     <string name="operation_move_to_rubbish_albums">Çöp kutusuna taşı</string>
     <string name="operation_not_show_in_photos_tab">Fotoğraflarda gösterme</string>
+    <string name="operation_photo_rename">Yeniden adlandır</string>
+    <string name="operation_pic_to_pdf">PDF oluştur</string>
     <string name="operation_produce">Yaratıcılık</string>
     <string name="operation_projection">Projeksiyon</string>
     <string name="operation_remove_face">Kaldır</string>
@@ -1906,6 +1916,18 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="photo_vlog_module_failed">@string/error_install_connect_fail</string>
     <string name="photo_vlog_module_finish">Video düzenleyici başarıyla indirildi</string>
     <string name="photo_vlog_module_loading">Video düzenleyici indiriliyor</string>
+    <string name="photodetail_failed_already_exist">Bu dosya zaten var</string>
+    <string name="photodetail_rename_failed">Yeniden adlandırılamadı</string>
+    <string name="photodetail_rename_invalid">"Dosya adları bu karakterleri içeremez: /\\:*?&lt;>|"</string>
+    <string name="photodetail_rename_success">Başarıyla yeniden adlandırıldı</string>
+    <string name="photodetail_rename_title">Yeniden adlandır</string>
+    <string name="photodetail_rename_too_long">Girdiğiniz dosya adı çok uzun</string>
+    <string name="pic_to_pdf_a4_format">A4 kağıt</string>
+    <string name="pic_to_pdf_all_not_support">Seçilen fotoğraflar PDF olarak kaydedilemez</string>
+    <string name="pic_to_pdf_exit_notice">Şimdi çıkarsanız bu PDF kaydedilmeyecek. Yine de çıkmak istiyor musunuz?</string>
+    <string name="pic_to_pdf_not_support_video">Videolar PDF olarak kaydedilemez</string>
+    <string name="pic_to_pdf_preview_loading">Önizleme yükleniyor</string>
+    <string name="pic_to_pdf_save_in">PDF %s konumuna kaydedildi</string>
     <string name="pick_from_contact">Kişilerden seç</string>
     <string name="pick_people_cover_fail">Bir hata oluştu. Tekrar deneyin</string>
     <string name="pick_people_cover_page_title">Kapak fotoğrafı seçin</string>
@@ -2055,6 +2077,7 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="saturday">Cumartesi</string>
     <string name="saturday_short">Cumartesi</string>
     <string name="saturday_shortest">C</string>
+    <string name="save_error_try_a_different_template_msg">Kaydedilemedi. Görüntü çok büyük</string>
     <string name="scan_barcode_guide">Albümün QR kodunu almak için paylaş simgesine dokunun</string>
     <string name="scan_barcode_to_join">Albüm eklemek için QR kodunu taratın</string>
     <string name="scan_qr_code_buttom_text">Bu albümü görüntülemek için QR kodunu taratın</string>
@@ -2132,6 +2155,7 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="search_title_more">Daha fazla</string>
     <string name="search_title_others">Tüm sonuçlar</string>
     <string name="search_title_people">Kişiler</string>
+    <string name="search_title_photo_name">Dosya adı</string>
     <string name="search_title_recommend">Önerilen</string>
     <string name="search_title_suggestion">Öneriler</string>
     <string name="search_title_tag">Nesneler</string>
@@ -2437,6 +2461,9 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="to_enable_sync_dialog_message">Öncelikle senkronizasyonu açın</string>
     <string name="to_enable_sync_dialog_positive_button_text">Ayarlara git</string>
     <string name="to_enable_sync_dialog_title">Senkronize et</string>
+    <string name="toast_invalid_char">Dosya adları %s içeremez</string>
+    <string name="toast_invalid_prefix">"Dosya adları . veya _ ile başlayamaz"</string>
+    <string name="toast_rename_exit">Bu dosya zaten var</string>
     <string name="today">Bugün</string>
     <string name="tomorrow">Yarın</string>
     <string name="too_many_recipients">%2$s kişiden fazla alıcı eklenemiyor (Şu anda %1$s alıcı eklediniz)</string>
