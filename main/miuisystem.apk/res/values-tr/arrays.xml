@@ -1,5 +1,153 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="mobile_operator_display_names">
+        <item>China Mobile</item>
+        <item>China Unicom</item>
+        <item>China Mobile</item>
+        <item>China Telecom</item>
+        <item>China Telecom</item>
+        <item>China Unicom</item>
+        <item>China Mobile</item>
+        <item>China Mobile</item>
+        <item>China Unicom</item>
+        <item>China Telecom</item>
+        <item>FarEasTone</item>
+        <item>Asia Pacific</item>
+        <item>T Star</item>
+        <item>Chunghwa</item>
+        <item>TW Mobile</item>
+        <item>MobiFone</item>
+        <item>CMHK</item>
+        <item>CMHK</item>
+        <item>csl</item>
+        <item>csl</item>
+        <item>SmarTone HK</item>
+        <item>SmarTone HK</item>
+        <item>SmarTone HK</item>
+        <item>3</item>
+        <item>3 (2G)</item>
+        <item>SmarTone MAC</item>
+        <item>China Telecom</item>
+        <item>Singtel</item>
+        <item>Singtel</item>
+        <item>M1</item>
+        <item>M1</item>
+        <item>Circles</item>
+        <item>MY CELCOM</item>
+        <item>MY CELCOM</item>
+        <item>MY CELCOM</item>
+        <item>MY CELCOM</item>
+        <item>Maxis</item>
+        <item>Maxis</item>
+        <item>Maxis</item>
+        <item>Maxis</item>
+        <item>XL</item>
+        <item>INDOSAT</item>
+        <item>Alibaba</item>
+        <item>China Mcom</item>
+        <item>SOSHARE MOBILE</item>
+        <item>Mi Mobile</item>
+    </string-array>
+    <string-array name="mobile_operator_numeric_equivalencies">
+        <item>46000</item>
+        <item>46001</item>
+        <item>46000</item>
+        <item>46003</item>
+        <item>46003</item>
+        <item>46001</item>
+        <item>46000</item>
+        <item>46000</item>
+        <item>46001</item>
+        <item>46003</item>
+        <item>46601</item>
+        <item>46605</item>
+        <item>46689</item>
+        <item>46692</item>
+        <item>46697</item>
+        <item>45201</item>
+        <item>45412</item>
+        <item>45413</item>
+        <item>45416</item>
+        <item>45419</item>
+        <item>45406</item>
+        <item>45415</item>
+        <item>45417</item>
+        <item>45403</item>
+        <item>45404</item>
+        <item>45500</item>
+        <item>45507</item>
+        <item>52501</item>
+        <item>52502</item>
+        <item>52503</item>
+        <item>52504</item>
+        <item>Circles</item>
+        <item>50213</item>
+        <item>502145</item>
+        <item>502148</item>
+        <item>50219</item>
+        <item>50212</item>
+        <item>502142</item>
+        <item>502147</item>
+        <item>50217</item>
+        <item>51011</item>
+        <item>51021</item>
+        <item>46001</item>
+        <item>46001</item>
+        <item>46002</item>
+        <item>46001</item>
+    </string-array>
+    <string-array name="mobile_operator_numeric_values">
+        <item>46000</item>
+        <item>46001</item>
+        <item>46002</item>
+        <item>46003</item>
+        <item>46005</item>
+        <item>46006</item>
+        <item>46007</item>
+        <item>46008</item>
+        <item>46009</item>
+        <item>46011</item>
+        <item>46601</item>
+        <item>46605</item>
+        <item>46689</item>
+        <item>46692</item>
+        <item>46697</item>
+        <item>45201</item>
+        <item>45412</item>
+        <item>45413</item>
+        <item>45416</item>
+        <item>45419</item>
+        <item>45406</item>
+        <item>45415</item>
+        <item>45417</item>
+        <item>45403</item>
+        <item>45404</item>
+        <item>45500</item>
+        <item>45507</item>
+        <item>52501</item>
+        <item>52502</item>
+        <item>52503</item>
+        <item>52504</item>
+        <item>Circles</item>
+        <item>50213</item>
+        <item>502145</item>
+        <item>502148</item>
+        <item>50219</item>
+        <item>50212</item>
+        <item>502142</item>
+        <item>502147</item>
+        <item>50217</item>
+        <item>51011</item>
+        <item>51021</item>
+        <item>Hakan iletişim</item>
+        <item>Gökhan iletişim</item>
+        <item>Barış iletişim</item>
+        <item>Hüseyin iletişim</item>
+    </string-array>
+    <string-array name="miui_nature_sound_array">
+        <item>/system/media/audio/ui/WaterDrop_preview.ogg</item>
+        <item>/system/media/audio/ui/BirdCicada_preview.ogg</item>
+    </string-array>
     <string-array name="tian_gan">
         <item>甲</item>
         <item>乙</item>
@@ -88,6 +236,22 @@
         <item>壬戌</item>
         <item>癸亥</item>
     </string-array>
+    <array name="religious_regions" />
+    <array name="religious_languages" />
+    <string-array name="cta_permissions">
+        <item>PERMISSION_ACCESS_NETWORK</item>
+        <item>PERMISSION_READ_SMS</item>
+        <item>PERMISSION_WRITE_SMS</item>
+        <item>PERMISSION_RECEIVE_SMS</item>
+        <item>PERMISSION_SEND_SMS</item>
+        <item>PERMISSION_CALL_PHONE</item>
+        <item>PERMISSION_READ_CONTACTS</item>
+        <item>PERMISSION_WRITE_CONTACTS</item>
+        <item>PERMISSION_READ_CALL_LOG</item>
+        <item>PERMISSION_WRITE_CALL_LOG</item>
+        <item>PERMISSION_CAMERA</item>
+        <item>PERMISSION_ACCESS_LOCATION</item>
+    </string-array>
     <string-array name="cta_permission_names">
         <item>Ağ erişimi</item>
         <item>Mesajı okuma</item>
@@ -101,5 +265,35 @@
         <item>Arama geçmişini düzenleme</item>
         <item>Kamera erişimi</item>
         <item>Konum erişimi</item>
+    </string-array>
+    <string-array name="eu_regions">
+        <item>AT</item>
+        <item>BE</item>
+        <item>BG</item>
+        <item>CY</item>
+        <item>CZ</item>
+        <item>DE</item>
+        <item>DK</item>
+        <item>EE</item>
+        <item>ES</item>
+        <item>FI</item>
+        <item>FR</item>
+        <item>GB</item>
+        <item>GR</item>
+        <item>HR</item>
+        <item>HU</item>
+        <item>IE</item>
+        <item>IT</item>
+        <item>LT</item>
+        <item>LU</item>
+        <item>LV</item>
+        <item>MT</item>
+        <item>NL</item>
+        <item>PL</item>
+        <item>PT</item>
+        <item>RO</item>
+        <item>SE</item>
+        <item>SI</item>
+        <item>SK</item>
     </string-array>
 </resources>

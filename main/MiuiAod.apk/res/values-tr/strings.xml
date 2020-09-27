@@ -81,7 +81,7 @@ EE"</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="btn_know">Anladım</string>
     <string name="cancel">İptal et</string>
-    <string name="character_counter_content_description">"Karakter sınırı %1$d / %2$d'yi aştı"</string>
+    <string name="character_counter_content_description">"Karakter sınırı %1$d/%2$d'yi aştı"</string>
     <string name="character_counter_overflowed_content_description">"Karakter sınırı %1$d / %2$d'yi aştı"</string>
     <string name="character_counter_pattern">%1$d / %2$d</string>
     <string name="chinese_day_1">1. gün</string>

@@ -2,6 +2,17 @@
 <resources>
     <string name="android_ringtone_silent">Hiçbiri</string>
     <string name="android_ringtone_unknown">Bilinmeyen zil sesi</string>
+    <string name="def_alarm_alert">/system/media/audio/alarms/Dewdrops.ogg</string>
+    <string name="def_notification_sound">/system/media/audio/ui/WaterDrop_preview.ogg</string>
+    <string name="def_ringtone">/system/media/audio/ringtones/MiRemix.ogg</string>
+    <string name="def_ringtone_slot_1">/system/media/audio/ringtones/MiRemix.ogg</string>
+    <string name="def_ringtone_slot_2">/system/media/audio/ringtones/MiRemix.ogg</string>
+    <string name="def_sms_delivered_sound">/system/media/audio/notifications/MessageSent.ogg</string>
+    <string name="def_sms_delivered_sound_slot_1">/system/media/audio/notifications/MessageSent.ogg</string>
+    <string name="def_sms_delivered_sound_slot_2">/system/media/audio/notifications/MessageSent.ogg</string>
+    <string name="def_sms_received_sound">/system/media/audio/ui/WaterDrop_preview.ogg</string>
+    <string name="def_sms_received_sound_slot_1">/system/media/audio/ui/WaterDrop_preview.ogg</string>
+    <string name="def_sms_received_sound_slot_2">/system/media/audio/ui/WaterDrop_preview.ogg</string>
     <string name="presentation_payphone">Ankesörlü telefon</string>
     <string name="presentation_private">Özel numara</string>
     <string name="presentation_unknown">Bilinmeyen numara</string>
@@ -35,6 +46,7 @@ EEEE"</string>
 mm"</string>
     <string name="miui_vertical_time_format_12">"hh
 mm"</string>
+    <string name="miui_digital_clock_dot">:</string>
     <string name="miui_clock_city_name_local">Yerel</string>
     <string name="lunar_zheng">Pozitif</string>
     <string name="lunar_leap">Takvime eklenen</string>
@@ -225,6 +237,7 @@ mm"</string>
     <string name="wallpaper_group_black_white_title">Siyah ve beyaz</string>
     <string name="wallpaper_group_red_mars_title">Mars</string>
     <string name="wallpaper_group_red_mars_subtitle">NASA, JPL, Arizona üniversitesi</string>
+    <string name="wallpaper_group_more_system_wallpaper_title">Daha fazla sistem duvar kağıdı</string>
     <string name="cta_permission_delimiter">, </string>
     <string name="cta_permission_and"> ve </string>
     <string name="cta_title">Kullanım şartları</string>

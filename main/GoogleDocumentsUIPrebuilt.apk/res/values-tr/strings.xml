@@ -45,8 +45,8 @@
     <string name="button_select">Seç</string>
     <string name="button_show_provider">Sağlayıcıda göster</string>
     <string name="cant_display_content">İçerikler görüntülenemiyor</string>
-    <string name="character_counter_content_description">Characters entered %1$d of %2$d</string>
-    <string name="character_counter_overflowed_content_description">Character limit exceeded %1$d of %2$d</string>
+    <string name="character_counter_content_description">"Karakter sınırı %1$d/%2$d'yi aştı"</string>
+    <string name="character_counter_overflowed_content_description">"Karakter sınırı %1$d/%2$d'yi aştı"</string>
     <string name="character_counter_pattern">%1$d / %2$d</string>
     <string name="chip_text">Chip text</string>
     <string name="chip_title_audio">Ses</string>

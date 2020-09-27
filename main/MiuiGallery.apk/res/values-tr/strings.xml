@@ -1832,13 +1832,13 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="photo_editor_miui_beauty">Güzelleştirme</string>
     <string name="photo_editor_miui_beauty_menu_eraser_blemish">Lekeler</string>
     <string name="photo_editor_miui_beauty_menu_eraser_blemish_title">Lekeleri kaldır</string>
-    <string name="photo_editor_miui_beauty_menu_eraser_pouch">Koyu halkalar</string>
+    <string name="photo_editor_miui_beauty_menu_eraser_pouch">Gözaltı</string>
     <string name="photo_editor_miui_beauty_menu_eye_bright">Parıltı</string>
-    <string name="photo_editor_miui_beauty_menu_eye_large">Büyük gözler</string>
+    <string name="photo_editor_miui_beauty_menu_eye_large">Gözler</string>
     <string name="photo_editor_miui_beauty_menu_face_thin">İnce</string>
     <string name="photo_editor_miui_beauty_menu_lip_beauty">Dudaklar</string>
-    <string name="photo_editor_miui_beauty_menu_nose_thin">Burun şekillendirici</string>
-    <string name="photo_editor_miui_beauty_menu_relighting">Işık doldurma</string>
+    <string name="photo_editor_miui_beauty_menu_nose_thin">Burun</string>
+    <string name="photo_editor_miui_beauty_menu_relighting">Aydınlık</string>
     <string name="photo_editor_miui_beauty_menu_skin_ruddy">Alyanak</string>
     <string name="photo_editor_miui_beauty_menu_skin_white">Ton</string>
     <string name="photo_editor_miui_beauty_menu_smart_beauty">Akıllı</string>
