@@ -1,20 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="incoming_call_failed_low_battery">Gelen arama zayıf pil nedeniyle başarısız oldu</string>
-    <string name="device_is_hd_capable">Sim %1$d HD özellikli</string>
-    <string name="hd_icon_header_app_name">" "</string>
-    <string name="device_is_volte_capable">Sim %1$d VOLTE özellikli</string>
     <string name="call_hold_label">Bekletme :</string>
     <string name="call_resume_label">Devam etme :</string>
-    <string name="error_msg_failed">Başarısız oldu</string>
+    <string name="device_is_hd_capable">Sim %1$d HD özellikli</string>
+    <string name="device_is_volte_capable">Sim %1$d VOLTE özellikli</string>
     <string name="error_msg_cancelled">İptal edildi</string>
+    <string name="error_msg_failed">Başarısız oldu</string>
     <string name="error_msg_reinvite_collision">Çarpışmayı yeniden gönder</string>
     <string name="handover_from_wifi_to_lte">Daha iyi kalite için LTE ağına geçiş</string>
-    <string name="wifi_calling_on">Wifi arama açılıyor</string>
-    <string name="wifi_calling_off">Wifi arama kapatılıyor</string>
-    <string name="wifi_calling_enable_dialog_title">Wifi arama etkinleştirilsin mi?</string>
-    <string name="wifi_calling_enable_dialog_msg">Jiron hesabınızla wifi üzerinden arama yapın ve arama alın. Wifi üzerinden acil arama limitlerini anlamak için operatörünüzün acil arama bilgilerini gözden geçirin. Bir şebekeye katıldığınızda şebeke bağlantısının yapıldığı ülke hakkındaki bilgiler, fatura gibi ayrıntılar için operatörünüze gönderilebilir</string>
-    <string name="wifi_calling_enable_dialog_cancel">İptal et</string>
-    <string name="wifi_calling_enable_dialog_enable">Etkinleştir</string>
+    <string name="hd_icon_header_app_name">" "</string>
     <string name="ims_channel_name">İms</string>
+    <string name="incoming_call_failed_low_battery">Gelen arama zayıf pil nedeniyle başarısız oldu</string>
 </resources>

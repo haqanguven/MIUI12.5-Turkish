@@ -83,7 +83,10 @@
         <item>Qualcomm® aptX™ HD ses</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ uyarlanabilir ses</item>
-        <item>LHDC</item>
+        <item>Qualcomm® aptX™ TWS+ ses</item>
+        <item>LHDC V3</item>
+        <item>LHDC V2</item>
+        <item>LHDC V1</item>
         <item>İsteğe bağlı kodekleri etkinleştir</item>
         <item>İsteğe bağlı kodekleri devre dışı bırak</item>
     </string-array>
@@ -95,7 +98,10 @@
         <item>Qualcomm® aptX™ HD ses</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ uyarlanabilir ses</item>
-        <item>LHDC</item>
+        <item>Qualcomm® aptX™ TWS+ ses</item>
+        <item>LHDC V3</item>
+        <item>LHDC V2</item>
+        <item>LHDC V1</item>
         <item>İsteğe bağlı kodekleri etkinleştir</item>
         <item>İsteğe bağlı kodekleri devre dışı bırak</item>
     </string-array>
@@ -110,6 +116,13 @@
         <item>AVRCP 1.3</item>
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_entries">
+        <item>Devre dışı</item>
+        <item>Etkin filtrelenmiş</item>
+        <item>Etkin</item>
+        <item>Filtrelenen başlıklar etkin</item>
+        <item>Filtrelenen ortam paketleri etkin</item>
     </string-array>
     <string-array name="color_mode_descriptions">
         <item>Geliştirilmiş renkler</item>

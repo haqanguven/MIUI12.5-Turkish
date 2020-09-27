@@ -1,36 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="common_ids_permission_label">Avast ortak kimlikleri izni</string>
-    <string name="default_sdcard_volume_path" />
-    <string name="app_name">Miui güvenlik bileşenleri</string>
-    <string name="hello_world">Merhaba dünya</string>
-    <string name="menu_settings">Ayarlar</string>
-    <string name="title_activity_main">Ana aktivite</string>
-    <string name="Tencent">Tencent</string>
     <string name="AVL">AVL</string>
-    <string name="Mi">Mi</string>
     <string name="Avast">Avast</string>
-    <string name="DesTencent">Tencent</string>
     <string name="DesAVL">AVL</string>
-    <string name="DesMi">Mi</string>
     <string name="DesAvast">Avast</string>
-    <string name="tencent_dialog_title">"Tencent'in gizlilik politikası"</string>
-    <string name="tencent_dialog_header">Bu özellik cihazınızın kimliğini şifreler ve Tencent sunucularına yükler (%s)</string>
-    <string name="tencent_dialog_policy">Gizlilik politikasını görüntüle</string>
-    <string name="tencent_dialog_cloudscan">Uygulama isimlerini ve ayrıntıları yükle ve çevrimiçi virüs veritabanını kullanarak tara</string>
-    <string name="tencent_dialog_dbupdate">Virüs veritabanını otomatik olarak güncelle</string>
-    <string name="tencent_dialog_url">http://api.sec.miui.com/policy/proxy?p=tencent&amp;l=en_US</string>
-    <string name="avl_dialog_title">"AVL'nin gizlilik politikası"</string>
-    <string name="avl_dialog_header">Bu özellik cihazınızın kimliğini şifreler ve AVL sunucularına yükler (%s)</string>
-    <string name="avl_dialog_policy">Gizlilik politikasını görüntüle</string>
-    <string name="avl_dialog_cloudscan" />
-    <string name="avl_dialog_dbupdate" />
-    <string name="avl_dialog_url">http://api.sec.miui.com/policy/proxy?p=antiy&amp;l=en_US</string>
-    <string name="avast_dialog_title">Avast gizlilik politikası</string>
-    <string name="avast_dialog_header">Bu özellik cihazınızın kimliğini şifreler ve Avast sunucularına yükler (%s)</string>
-    <string name="avast_dialog_policy">Gizlilik politikasını görüntüle</string>
+    <string name="DesMi">Mi</string>
+    <string name="DesTencent">Tencent</string>
+    <string name="Mi">Mi</string>
+    <string name="Tencent">Tencent</string>
+    <string name="app_name">Miui güvenlik bileşenleri</string>
     <string name="avast_dialog_cloudscan" />
     <string name="avast_dialog_dbupdate" />
+    <string name="avast_dialog_header">Bu özellik cihazınızın kimliğini şifreler ve Avast sunucularına yükler (%s)</string>
+    <string name="avast_dialog_policy">Gizlilik politikasını görüntüle</string>
+    <string name="avast_dialog_title">Avast gizlilik politikası</string>
     <string name="avast_dialog_url">http://api.sec.miui.com/policy/proxy?p=avast&amp;l=en_US</string>
     <string name="avast_virus_type_adware_description">Bu bir reklam yazılım virüsüdür. Otomatik olarak reklam görüntüler</string>
     <string name="avast_virus_type_cryportor_description">Bu bir şifreleyici virüstür. Depolama alanında kendini kopyalama yoluyla bulaşan zararlı bir yazılımdır</string>
@@ -46,4 +29,21 @@
     <string name="avast_virus_type_trjan_description">Bu virüs bir truva atıdır. Kullanıcının cihazına yetkisiz uzaktan erişim sağlamak amacıyla tasarlanmış kötü amaçlı bir yazılımdır. Truva atları normalde virüsler gibi kendilerini çoğaltma özelliğine sahip değillerdir ancak diğer kötü amaçlı yazılımların bir cihaza yüklenmesine, çeşitli verilerin çalınmasına veya diğer zararlı aktivitelerin gerçekleştirilmesine neden olabilirler</string>
     <string name="avast_virus_type_unknown_description">Bilinmeyen enfeksiyon türü</string>
     <string name="avast_virus_type_worm_description">Bu bir solucan virüsüdür. Diğer cihazlara yayılmak amacıyla kendini çoğaltan bağımsız bir kötü amaçlı yazılımdır. Sistemin dosya veya bilgi transferi özelliklerini kullanarak herhangi bir kullanıcı eylemi olmadan kendi kendine yayılabilir. Solucanlar ağda bazı zararlara neden olurlar</string>
+    <string name="avl_dialog_cloudscan" />
+    <string name="avl_dialog_dbupdate" />
+    <string name="avl_dialog_header">Bu özellik cihazınızın kimliğini şifreler ve AVL sunucularına yükler (%s)</string>
+    <string name="avl_dialog_policy">Gizlilik politikasını görüntüle</string>
+    <string name="avl_dialog_title">"AVL'nin gizlilik politikası"</string>
+    <string name="avl_dialog_url">http://api.sec.miui.com/policy/proxy?p=antiy&amp;l=en_US</string>
+    <string name="common_ids_permission_label">Avast ortak kimlikleri izni</string>
+    <string name="default_sdcard_volume_path" />
+    <string name="hello_world">Merhaba dünya</string>
+    <string name="menu_settings">Ayarlar</string>
+    <string name="tencent_dialog_cloudscan">Uygulama isimlerini ve ayrıntıları yükle ve çevrimiçi virüs veritabanını kullanarak tara</string>
+    <string name="tencent_dialog_dbupdate">Virüs veritabanını otomatik olarak güncelle</string>
+    <string name="tencent_dialog_header">Bu özellik cihazınızın kimliğini şifreler ve Tencent sunucularına yükler (%s)</string>
+    <string name="tencent_dialog_policy">Gizlilik politikasını görüntüle</string>
+    <string name="tencent_dialog_title">"Tencent'in gizlilik politikası"</string>
+    <string name="tencent_dialog_url">http://api.sec.miui.com/policy/proxy?p=tencent&amp;l=en_US</string>
+    <string name="title_activity_main">Ana aktivite</string>
 </resources>

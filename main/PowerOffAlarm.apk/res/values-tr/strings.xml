@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Kapalı alarm</string>
-    <string name="poweron_yes">Açık</string>
-    <string name="poweron_no">Kapalı</string>
-    <string name="power_on_off_text">Güç açılsın veya kapalıtılsın mı?</string>
-    <string name="firing_message">Alarm çalışıyor</string>
-    <string name="snooze">Ertele</string>
     <string name="dismiss">Reddet</string>
-    <string name="permlab_power_off_alarm">Kapalı alarm</string>
+    <string name="firing_message">Alarm çalışıyor</string>
     <string name="permdesc_power_off_alarm">Cihazın kapalı durumdayken uyandıracak alarmı kurun veya silin</string>
+    <string name="permlab_power_off_alarm">Kapalı alarm</string>
+    <string name="power_on_off_text">Güç açılsın veya kapalıtılsın mı?</string>
+    <string name="poweron_no">Kapalı</string>
+    <string name="poweron_yes">Açık</string>
+    <string name="snooze">Ertele</string>
 </resources>

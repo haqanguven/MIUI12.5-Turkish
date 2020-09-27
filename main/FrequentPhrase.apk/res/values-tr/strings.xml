@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="edit_frequent_phrases">Sık kullanılan ifadeleri düzenle</string>
-    <string name="menu_add_frequent_phrases">Ekle</string>
-    <string name="menu_edit">Düzenle</string>
-    <string name="menu_delete">Sil</string>
-    <string name="frequent_phrases_des">Metin düzenlerken yalnızca birkaç dokunuşla sık kullanılan kelimeleri girin</string>
     <string name="add_frequent_phrases">Sık kullanılan ifadeleri ekle</string>
     <string name="delete_frequent_phrases">Sık kullanılan ifadeleri sil</string>
     <string name="delete_frequent_phrases_confirm">Seçilen sık kullanılan ifadeler silinsin mi?</string>
+    <string name="edit_frequent_phrases">Sık kullanılan ifadeleri düzenle</string>
+    <string name="frequent_phrases_des">Metin düzenlerken yalnızca birkaç dokunuşla sık kullanılan kelimeleri girin</string>
     <string name="frequent_phrases_size_exceeded">%1$d sık kullanılan ifade ekleyebilirsiniz. Daha fazlasını eklemek için gereksiz olanları silin</string>
+    <string name="menu_add_frequent_phrases">Ekle</string>
+    <string name="menu_delete">Sil</string>
+    <string name="menu_edit">Düzenle</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sync_phrase_label">Sık kullanılan ifadeler</string>
     <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

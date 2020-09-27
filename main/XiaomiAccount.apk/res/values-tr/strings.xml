@@ -222,8 +222,7 @@ Bu kodu amirinize gönderin"</string>
     <string name="for_diagnosis_usage_only">Yalnızca sorunları bulmak için kullanılır</string>
     <string name="get_back_pwd">Şifre sıfırlama</string>
     <string name="get_device_list_failed">Cihaz listesi alınamıyor</string>
-    <string name="get_identity_auth_url_failed">Kimlik doğrulanamadı</string>
-    <string name="get_phone_bind_exceed_limit">Bir telefon numarasıyla 3 Mi Hesabına kadar ilişkilendirebilirsiniz. Yeni hesap eklenemiyor</string>
+    <string name="get_phone_bind_exceed_limit">Bir telefon numarasıyla 3 Mi hesabına kadar ilişkilendirebilirsiniz. Yeni hesap eklenemiyor</string>
     <string name="get_phone_verifycode_exceed_limit">Bu numaraya çok fazla sayıda doğrulama kodu gönderildi. 24 saat bekleyin ve ardından yeniden deneyin</string>
     <string name="google">Google</string>
     <string name="guest_account_label">Mi ziyaretçi hesabı</string>

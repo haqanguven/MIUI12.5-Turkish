@@ -247,9 +247,7 @@
     <string name="chinese_digit_seven">Yedi</string>
     <string name="chinese_digit_six">Altı</string>
     <string name="chinese_digit_ten">On</string>
-    <string name="chinese_digit_thirty">Otuz</string>
     <string name="chinese_digit_three">Üç</string>
-    <string name="chinese_digit_twenty">Yirmi</string>
     <string name="chinese_digit_two">İki</string>
     <string name="chinese_digit_zero">Sıfır</string>
     <string name="chinese_leap">Takvime eklenen</string>
@@ -517,8 +515,8 @@ Kişi kartları kapatıldı"</string>
 2. Android cihazlarında ayrıca bulunabilirlik modu açık olmalıdır
 
 3. İleri seçeneğine dokunduktan sonra kişilere gerekli izinleri verin"</string>
-    <string name="device_transfer_by_sim_message" formatted="false">"%d. Kişileri Sim karttaki diğer cihazdan kaydedin;\u000d
-\u000d
+    <string name="device_transfer_by_sim_message" formatted="false">"%d. Kişileri Sim karttaki diğer cihazdan kaydedin;
+
 %d. Kişiler uygulamasında ayarları açın ve ardından Kişileri içe veya dışa aktar - Sim karttan içe aktar seçeneğine gidin. Seçmek için herhangi bir Sim kişisini basılı tutun gerekli tüm kişileri seçin ve içe aktarın"</string>
     <string name="device_version_header_bluetooth">Bluetooth ile içe aktar</string>
     <string name="device_version_header_no_bluetooth">Sim kart ile içe aktar</string>
@@ -538,6 +536,10 @@ Kişi kartları kapatıldı"</string>
     <string name="dialer_returnToInCallScreen">Mevcut aramaya geri dön</string>
     <string name="dialer_title_divider">" ｜ "</string>
     <string name="dialer_useDtmfDialpad">Dokunma tonlu tuş takımı kullan</string>
+    <string name="dialog_delete_contact_button_delete">Sil</string>
+    <string name="dialog_delete_contact_button_keep">Tut</string>
+    <string name="dialog_delete_contact_content">Xiaomi bulut kişilerinizden bazılarını silmek istiyor. Şimdi sililsin mi?</string>
+    <string name="dialog_delete_contact_title">Kişiler siliniyor</string>
     <string name="dialog_import">Kişileri içe aktar</string>
     <string name="dialog_import_export">Kişileri içe/dışa aktar</string>
     <string name="dialog_new_contact_account">Hesap altında kişi oluştur</string>
@@ -642,23 +644,23 @@ Neden: %s"</string>
     <string name="favorites_list_empty">Favori yok</string>
     <string name="firewall_setting">Engelli listesi</string>
     <string name="five_letter">JKL</string>
-    <string name="fmt_chinese_date">N月e</string>
+    <string name="fmt_chinese_date">N/e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
-    <string name="fmt_date_long_month_day">MMMM dd</string>
+    <string name="fmt_date_long_month_day">dd MMMM</string>
     <string name="fmt_date_long_year_month">MMMM yyyy</string>
-    <string name="fmt_date_long_year_month_day">MMMM dd, yyyy</string>
+    <string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
     <string name="fmt_date_numeric_day">dd</string>
     <string name="fmt_date_numeric_month">MM</string>
-    <string name="fmt_date_numeric_month_day">MM/dd</string>
+    <string name="fmt_date_numeric_month_day">dd/MM</string>
     <string name="fmt_date_numeric_year">yyyy</string>
     <string name="fmt_date_numeric_year_month">MM/yyyy</string>
-    <string name="fmt_date_numeric_year_month_day">MM/dd/yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
     <string name="fmt_date_short_month">MM</string>
-    <string name="fmt_date_short_month_day">MM/dd</string>
+    <string name="fmt_date_short_month_day">dd/MM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
-    <string name="fmt_date_short_year_month_day">MM/dd/yyyy</string>
+    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
     <string name="fmt_date_time">D T</string>
     <string name="fmt_date_time_timezone">zD T</string>
     <string name="fmt_date_timezone">zD</string>
@@ -952,9 +954,20 @@ Neden: %s"</string>
     <string name="miprofile_switch_on_alertdialog_title">Profil fotoğrafını güncelle</string>
     <string name="missing_name">(İsim yok)</string>
     <string name="missing_required_permission">Bir gerekli izni devre dışı bıraktınız</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Seçimi kaldır</string>
+    <string name="miuix_appcompat_action_mode_select_all">Tümünü seç</string>
+    <string name="miuix_appcompat_action_mode_title_empty">Öğeleri seç</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Daha fazla</string>
+    <string name="miuix_appcompat_cancel_description">İptal et</string>
     <string name="miuix_appcompat_cloud_state_disabled">Bulut ile senkronizasyon kapalı</string>
     <string name="miuix_appcompat_cloud_state_finished">Bulut ile senkronize edildi</string>
     <string name="miuix_appcompat_cloud_state_syncing">Bulut ile senkronize ediliyor</string>
+    <string name="miuix_appcompat_confirm_description">Onayla</string>
+    <string name="miuix_appcompat_delete_description">Sil</string>
+    <string name="miuix_appcompat_deselect_all_description">Tüm seçimi kaldır</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">İptal et</string>
+    <string name="miuix_appcompat_search_input_description">Ara</string>
+    <string name="miuix_appcompat_select_all_description">Tümünü seç</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için çek</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Yenileme tamamlandı</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor</string>
@@ -1074,6 +1087,8 @@ Favoriler listenize kişi eklemek için:
     <string name="not_applied">Uygulanamadı</string>
     <string name="not_set">Ayarlanmadı</string>
     <string name="notification_action_voicemail_play">Oynat</string>
+    <string name="notification_click_detail">Ayrıntıları görüntülemek için dokunun</string>
+    <string name="notification_micloudsync_delete_contact">Xiaomi bulut kişilerinizden bazılarını silmek istiyor</string>
     <string name="notification_new_voicemail_ticker">%1$s adlı kişiden yeni sesli mesaj</string>
     <string name="notification_voicemail_callers_list">%1$s, %2$s</string>
     <string name="openDialKeyboard">Tuş takımı</string>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android hizmetleri kitaplığı</string>
+    <string name="autofill_field_classification_default_algorithm">EDIT_DISTANCE</string>
+    <string name="code_copied_to_clipboard">Kopyalandı</string>
+    <string name="copy_code_desc">%1$s kopyala</string>
+    <string name="notification_assistant">Android uyarlamalı bildirimler</string>
+</resources>
