@@ -87,7 +87,10 @@
         <item>Qualcomm® aptX™ HD ses</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ uyarlanabilir ses</item>
-        <item>LHDC</item>
+        <item>Qualcomm® aptX™ TWS+ ses</item>
+        <item>LHDC V3</item>
+        <item>LHDC V2</item>
+        <item>LHDC V1</item>
         <item>İsteğe bağlı kodekleri etkinleştir</item>
         <item>İsteğe bağlı kodekleri devre dışı bırak</item>
     </string-array>
@@ -99,7 +102,10 @@
         <item>Qualcomm® aptX™ HD ses</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ uyarlanabilir ses</item>
-        <item>LHDC</item>
+        <item>Qualcomm® aptX™ TWS+ ses</item>
+        <item>LHDC V3</item>
+        <item>LHDC V2</item>
+        <item>LHDC V1</item>
         <item>İsteğe bağlı kodekleri etkinleştir</item>
         <item>İsteğe bağlı kodekleri devre dışı bırak</item>
     </string-array>
@@ -114,6 +120,13 @@
         <item>AVRCP 1.3</item>
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_entries">
+        <item>Devre dışı</item>
+        <item>Etkin filtre uygulandı</item>
+        <item>Etkin</item>
+        <item>Etkin başlıklar filtrelendi</item>
+        <item>Etkin medya puanları filtrelendi</item>
     </string-array>
     <string-array name="carrier_name">
         <item>Çin Mobil</item>
