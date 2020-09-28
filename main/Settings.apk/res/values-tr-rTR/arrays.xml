@@ -19,6 +19,10 @@
         <item>Ilık</item>
         <item>Soğuk</item>
     </string-array>
+    <string-array name="ai_item_action_array">
+        <item>Hiçbiri</item>
+        <item>Google asistanı etkinleştir</item>
+    </string-array>
     <string-array name="ai_key_item_name">
         <item>Google asistan ile konuş</item>
         <item>Google aramayı aç</item>
@@ -214,6 +218,11 @@
         <item>En çok 3 işlem</item>
         <item>En çok 4 işlem</item>
     </string-array>
+    <string-array name="autofill_logging_level_entries">
+        <item>Kapalı</item>
+        <item>Hata ayıklama</item>
+        <item>Ayrıntılı</item>
+    </string-array>
     <string-array name="automatic_storage_management_days">
         <item>30 günden eski</item>
         <item>60 günden eski</item>
@@ -329,7 +338,10 @@
         <item>Qualcomm® aptX™ HD ses</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ uyarlanabilir ses</item>
-        <item>LHDC</item>
+        <item>Qualcomm® aptX™ TWS+ ses</item>
+        <item>LHDC_V3</item>
+        <item>LHDC_V2</item>
+        <item>LHDC_V1</item>
         <item>İsteğe bağlı kodekleri etkinleştir</item>
         <item>İsteğe bağlı kodekleri devre dışı bırak</item>
     </string-array>
@@ -341,7 +353,10 @@
         <item>Qualcomm® aptX™ HD ses</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ uyarlanabilir ses</item>
-        <item>LHDC</item>
+        <item>Qualcomm® aptX™ TWS+ ses</item>
+        <item>LHDC_V3</item>
+        <item>LHDC_V2</item>
+        <item>LHDC_V1</item>
         <item>İsteğe bağlı kodekleri etkinleştir</item>
         <item>İsteğe bağlı kodekleri devre dışı bırak</item>
     </string-array>
@@ -370,6 +385,13 @@
         <item>5 dakika</item>
         <item>1 saat</item>
         <item>Asla zaman aşımına uğratma</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_entries">
+        <item>Devre dışı</item>
+        <item>Etkin filtre uygulandı</item>
+        <item>Etkin</item>
+        <item>Etkin başlıklar filtrelendi</item>
+        <item>Etkin medya puanları filtrelendi</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 saniye</item>
@@ -412,6 +434,10 @@
         <item>Gayriresmî</item>
         <item>El yazısı</item>
         <item>Küçük boyutlu büyük harfler</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Sadece ev</item>
+        <item>Otomatik</item>
     </string-array>
     <string-array name="change_security_lock_picker">
         <item>Yüz tanıma</item>
@@ -603,10 +629,19 @@
         <item>Hızlı çekim modu (Video)</item>
         <item>Toplu taşıma kısayolları</item>
     </string-array>
+    <string-array name="max_number_titles">
+        <item>6</item>
+        <item>5</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>Sınırsız</item>
+    </string-array>
     <string-array name="media_feedback_level_entries">
         <item>Güçlü</item>
         <item>Orta</item>
-        <item>Az</item>
+        <item>Hafif</item>
     </string-array>
     <string-array name="mi1_led_color_entries">
         <item>Mavi</item>
@@ -682,6 +717,11 @@ Not: Yalnızca Ubuntu 8.04 için geçerlidir"</item>
         <item>4K (Yukarı ölçeklenmiş)</item>
         <item>4K (Yukarı ölçeklenmiş - güvenli)</item>
         <item>720p, 1080p (Çift ekran)</item>
+    </string-array>
+    <string-array name="paper_color_values">
+        <item>Tam renkler</item>
+        <item>Açık renkler</item>
+        <item>Siyah ve beyaz</item>
     </string-array>
     <string-array name="perm_hips_action">
         <item>İzin ver</item>
@@ -779,6 +819,10 @@ Not: Yalnızca Ubuntu 8.04 için geçerlidir"</item>
         <item>Yükseltilmiş kontrast</item>
         <item>Standart</item>
     </string-array>
+    <string-array name="screen_reader_mode_input_type_selector_titles">
+        <item>Dokun</item>
+        <item>Çift dokun</item>
+    </string-array>
     <string-array name="screen_saturation_title">
         <item>Parlak</item>
         <item>Standard</item>
@@ -862,11 +906,6 @@ Not: Yalnızca Ubuntu 8.04 için geçerlidir"</item>
         <item>Geleneksel çince (Hong kong)</item>
         <item>İspanyolca (Latince)</item>
         <item>Portekizce (Brezilya)</item>
-    </string-array>
-    <string-array name="standard_configuration_version">
-        <item>3.00GB</item>
-        <item>16GB</item>
-        <item>Dört çekirdek maksimum 2.5GHz</item>
     </string-array>
     <string-array name="startup_hips_action">
         <item>İzin ver</item>
@@ -1084,6 +1123,10 @@ Not: Yalnızca Ubuntu 8.04 için geçerlidir"</item>
         <item>MSCHAPV2</item>
         <item>GTC</item>
     </string-array>
+    <string-array name="wifi_privacy_entries">
+        <item>Rastgele MAC kullan</item>
+        <item>Cihaz MAC kullan</item>
+    </string-array>
     <string-array name="wifi_proxy_settings">
         <item>Yok</item>
         <item>El ile</item>
@@ -1152,13 +1195,19 @@ Not: Yalnızca Ubuntu 8.04 için geçerlidir"</item>
 		<item>Sol</item>
 	</string-array>
 	<string-array name="charging_animations_entries">
-		<item>Varsayılan (Uygulamak için cihazı yeniden başlatın)</item>
-		<item>Dalga (Uygulamak için cihazı yeniden başlatın)</item>
+		<item>Varsayılan</item>
+		<item>Dalga</item>
 	</string-array>
 	<string-array name="text_lines_entries">
 		<item>Varsayılan</item>
 		<item>Tek satır</item>
 		<item>Çift satır</item>
 		<item>Slayt</item>
+	</string-array>
+	<string-array name="notification_icon_position_entries">
+		<item>Sağ üst</item>
+		<item>Sol üst</item>
+		<item>Sol alt</item>
+		<item>Sağ alt</item>
 	</string-array>
 </resources>
