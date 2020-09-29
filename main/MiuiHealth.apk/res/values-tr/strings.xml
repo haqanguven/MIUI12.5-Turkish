@@ -683,12 +683,14 @@ Yatakta 30 dakika geçirdikten sonra uykuya dalmakta hala zorlanıyorsanız bu d
     <string name="hour">" saat "</string>
     <string name="hour_in_day_format">%1$d</string>
     <string name="hour_in_day_format_short">%1$d</string>
+    <string name="hr_camera_permission_desc">Kalp atış hızı değerini belirlemek için parmak çevresindeki ışık değişimlerinin frekansını kamera aracılığıyla elde edilir</string>
     <string name="hr_choose_detect_state">Algılama sırasında durumu seçin</string>
     <string name="hr_cover_to_red">"Kamerayı tamamen parmağınızla kapatın
 Daire kırmızı olana kadar bekleyin"</string>
     <string name="hr_detect">Kalp atış hızı algılama</string>
     <string name="hr_detect_desc">Sürekli bir ışık kaynağı olarak flaş lambası sayesinde kan akışı değişikliklerini toplamak için cep telefonu kamerası görüntü analizi yoluyla kararlı nabız dalgası sinyali toplayabilir</string>
     <string name="hr_detect_finished">Algılama tamamlandı</string>
+    <string name="hr_detect_fps_jitter">Kalp atış hızı ölçülemedi. Tekrar deneyin</string>
     <string name="hr_detect_paused">Duraklatıldı</string>
     <string name="hr_detect_principle_desc_1">Sürekli ışık kaynağı olarak kameranın yanında bulunan flaş lambası sayesinde parmağınızı kameraya nazikçe yapıştır</string>
     <string name="hr_detect_principle_desc_3">Kamera ve flaş profesyonel olmayan bir ekipman olduğundan birden çok kez ölçmeniz ve gözlemlemeniz önerilir</string>

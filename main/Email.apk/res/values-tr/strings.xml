@@ -30,6 +30,9 @@
     <string name="abc_shareactionprovider_share_with">Şununla paylaş:</string>
     <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
     <string name="abc_toolbar_collapse_description">Daralt</string>
+    <string name="about_checking_update">Güncelleme kontrol ediliyor</string>
+    <string name="about_go_to_update">Güncellemeye git</string>
+    <string name="about_lasted_version">En son sürüm</string>
     <string name="account_add_title">Bir e-posta servisi seçin</string>
     <string name="account_cache_provider">Hesap ön bellek sağlayıcısı</string>
     <string name="account_duplicate_dlg_message_fmt">Bu kullanıcı adını %s hesabı için zaten kullanıyorsunuz</string>
@@ -53,6 +56,8 @@
     <string name="account_security_verification">Hesap doğrulama</string>
     <string name="account_set_up_change_type_note">POP3 ve IMAP ayarları arasında geçiş yapmanız gerekiyorsa hesabınızı silin ve istediğiniz ayarlarla yeni bir hesap oluşturun</string>
     <string name="account_setting">Hesaplar</string>
+    <string name="account_setting_general_summry">E-posta ortak işlevlerini ayarlama</string>
+    <string name="account_setting_general_title">Fonksiyon ayarları</string>
     <string name="account_setting_keywords">Hesaplar;e-posta hesapları</string>
     <string name="account_setting_message_body_load_complete">Tam ileti</string>
     <string name="account_setting_message_body_load_head_abstract">E-posta özeti</string>
@@ -62,8 +67,10 @@
     <string name="account_settings_background_attachments_label">Eklentileri indir</string>
     <string name="account_settings_background_attachments_summary">Eklentileri wifi kullanarak indir</string>
     <string name="account_settings_background_attachments_summary_inter">Eklentileri wifi kullanarak indir</string>
+    <string name="account_settings_background_attachments_title">Ekleri otomatik olarak indir</string>
     <string name="account_settings_data_usage">Senkronizasyon ayarları</string>
     <string name="account_settings_description_label">Hesap adı</string>
+    <string name="account_settings_does_not_support_pop">POP3 protokolü bu öğenin ayarlanmasını desteklemiyor</string>
     <string name="account_settings_edit_quick_responses_label">Hızlı yanıt</string>
     <string name="account_settings_edit_quick_responses_summary">E-postalara yapıştırılacak kısa mesajları düzenle</string>
     <string name="account_settings_enforced_label">Politikalar</string>
@@ -201,6 +208,7 @@
     <string name="account_sync_settings_settings">Kişi ve takvimi senkronize et</string>
     <string name="account_sync_settingstip_description">Eşitle</string>
     <string name="account_waiting_for_folders_msg">Klasörler yükleniyor</string>
+    <string name="action_filter">Filtrele</string>
     <string name="actionbar_more_option">Daha fazla seçenek</string>
     <string name="activity_folder_selection">Klasör seçin</string>
     <string name="activity_mailbox_selection">Hesap seçin</string>
@@ -682,8 +690,10 @@
     <string name="info_item_hide">Sil</string>
     <string name="info_switch_summary">Gelen kutusunun en üstünde promosyonları göster</string>
     <string name="info_switch_title">Promosyon</string>
-    <string name="inline_picture_deleted">Eksik resimler indiriliyor…</string>
+    <string name="inline_picture_deleted">Eksik resimler indiriliyor</string>
     <string name="input_password_prompt">Şifrenizi girin</string>
+    <string name="install_mime_encrypt_cert">S/MIME şifreleme sertifikasını yükleyin</string>
+    <string name="install_mime_sign_cert">S/MIME İmza sertifikası yükleyin</string>
     <string name="intent_account_manager_entry">com.android.email.activity.setup.ACCOUNT_MANAGER_ENTRY</string>
     <string name="intent_exchange_package">com.android.exchange</string>
     <string name="interact_with_server_error">Sunucuya bağlanılamadı</string>
@@ -721,7 +731,8 @@
     <string name="login_failed_ticker">%s oturumu açılamadı</string>
     <string name="login_failed_tip">Giriş yardımı geri bildirimi ekleyin:</string>
     <string name="login_failed_title">Oturum açılamıyor</string>
-    <string name="login_mail">Mail ile oturum aç</string>
+    <string name="login_mail">Oturum aç</string>
+    <string name="login_manual">El ile ayar</string>
     <string name="login_qq_psw">QQ şifre veya doğrulama kodunu kullanarak giriş yapın</string>
     <string name="login_support_tip_text">Tüm önemli e-posta hesaplarını destekler</string>
     <string name="long_press_to_select_tip">Bir konuşmayı seçmek için konuşmanın üzerine basın &amp; basılı tutun. Ardından daha fazla seçim için diğerlerine dokunun</string>
@@ -750,6 +761,8 @@
     <string name="mailbox_name_display_starred">Favoriler</string>
     <string name="mailbox_name_display_trash">Çöp kutusu</string>
     <string name="mailbox_name_display_unread">Okunmamış</string>
+    <string name="mailbox_setting_preference_sync_summary_close">Senkronizasyon: Kapalı</string>
+    <string name="mailbox_setting_preference_sync_summary_open">Senkronizasyon: Açık</string>
     <string name="mailbox_settings_activity_title">Senkronizasyon ayarları</string>
     <string name="mailbox_settings_activity_title_with_mailbox">Senkronizasyon ayarları (%s)</string>
     <string name="mailbox_settings_mailbox_sync_window_label">E-postaları şuradan senkronize et</string>
@@ -768,6 +781,7 @@
     <string name="mark_not_spam">Gereksiz işaretini kaldır</string>
     <string name="mark_read">Okundu olarak işaretle</string>
     <string name="mark_unread">Okunmadı olarak işaretle</string>
+    <string name="marketSdkVersion">3.2.5</string>
     <string name="me_object_pronun">ben</string>
     <string name="me_subject_pronun">ben</string>
     <string name="meeting_accepted">"
@@ -1309,6 +1323,7 @@ Tamamen senkronize edilmesini bekleyin veya mesajı bilgisayarınızda görünt�
     <string name="server_cet_issuer_no_trust">Sertifikayı veren, güvenilir bir kuruluş değil</string>
     <string name="server_cet_subject_cn">"Desteklenen alan: "</string>
     <string name="server_cet_title">Sertifika detayları</string>
+    <string name="server_log">Hizmet sözleşmesi</string>
     <string name="service_protocol_discribe"><u>WPS mail hizmet sözleşmesini okudum ve kabul ediyorum</u></string>
     <string name="service_protocol_title">Hizmet sözleşmesi</string>
     <string name="set_network">Ağı ayarla</string>
@@ -1457,6 +1472,12 @@ Hesap kaldırılsın mı?"</string>
     <string name="upload_logs">Kayıtları karşıya yükle</string>
     <string name="upload_logs_keywords">kayıtları karşıya yükle</string>
     <string name="uploading_logs">Yükleniyor</string>
+    <string name="user_experience_content">Lütfen kullanıcı deneyimi planını okuduğunuzu ve kabul ettiğinizi onaylayın</string>
+    <string name="user_experience_log">Kullanıcı deneyimi planı</string>
+    <string name="user_experience_login">Oturum aç</string>
+    <string name="user_experience_logout">Oturumu kapat</string>
+    <string name="user_experience_positive">Katıl ve devam et</string>
+    <string name="user_experience_title">Koşullar ve şartlar</string>
     <string name="user_new_auth_code">Yeni doğrulama koduyla oturum açın</string>
     <string name="user_privacy_settings">Gizlilik ayarları</string>
     <string name="user_privacy_settings_agreement_authorization">(Kabul et seçeneğine dokunarak WPS mail uygulamasına gerekli tüm izinleri verimiş olursunuz)</string>
@@ -1493,7 +1514,10 @@ Postayı bir kez senkronize etmek için <b>şimdi senkronize et</b> veya bu hesa
     <string name="wps_title">WPS mail</string>
     <string name="wrong_password">Girmiş olduğunuz şifre hatalı</string>
     <string name="xiaomi_auth_toastbar">Telefonunuz henüz yetkilendirilmedi. Giriş izni için lütfen buraya tıklayın</string>
-    <string name="xiaomi_email">Xiaomi mail</string>
+    <string name="xiaomi_email">Mail</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">İptal et</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Tamam</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">%s yeni sürüm</string>
     <string name="xiaomi_under_certification">Yetkilendirme devam ediyor</string>
     <string name="yes">Evet</string>
     <string name="you_are_in_mobile_network">Günlük yüklemek için mobil veri kullanıyor musunuz?</string>

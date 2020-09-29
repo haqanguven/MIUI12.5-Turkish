@@ -35,6 +35,7 @@
     <string name="activity_not_found">Bu işlemi yapabilecek uygulama bulunamadı</string>
     <string name="activity_not_found_uri">Bu işlemi yapabilecek uygulama bulunamadı</string>
     <string name="ad_close_button_text">Promosyon</string>
+    <string name="ad_notification_title">Önemsiz mesajlar</string>
     <string name="addBlackList">Engelle</string>
     <string name="add_attachment">Eklenti ekle</string>
     <string name="add_contact">vKart</string>
@@ -792,6 +793,7 @@ Mi mesajı etkinleştirmek için giden bir mesaj gerekir. Bu mesaj için operat�
     <string name="pref_delivery_ringtone">Teslim bildirim sesi</string>
     <string name="pref_edit_smsc_address">Kısa mesaj servis merkezi numarası</string>
     <string name="pref_forward_title">İlet</string>
+    <string name="pref_group_ad_mms_recognition">Grup tanıtım mesajları</string>
     <string name="pref_hide_verification_code_summary">Güvenli kilit ekranında mesaj bildirimlerinde gelen tek seferlik şifreleri otomatik olarak gizle</string>
     <string name="pref_messages_to_save">Kaydedilecek mesaj sayısını belirleyin</string>
     <string name="pref_mms_settings_title">Multimedya mesajları</string>
@@ -809,9 +811,11 @@ Mi mesajı etkinleştirmek için giden bir mesaj gerekir. Bu mesaj için operat�
     <string name="pref_smart_messages_settings">Akıllı mesajlar</string>
     <string name="pref_sms_storage_title">Depolama</string>
     <string name="pref_sms_theme_title">Görünüm</string>
+    <string name="pref_summary_ad_mms_recognition">Promosyon mesajlarını ayrı bir sekmeye yerleştirin</string>
     <string name="pref_summary_allow_si_sl_push">Mesajların internet sitelerinden içerik yüklemelerine izin verir</string>
     <string name="pref_summary_auto_delete">Ayarlanan sınıra ulaşıldığında eski mesajları siler</string>
     <string name="pref_summary_collapse_ad_notification">Tanıtım metni mesajlarının bildirim merkezi pazarlama tanıtım ekranına toplanmasına izin ver</string>
+    <string name="pref_summary_collapse_ad_notification_mms_new">Tanıtım mesajlarını gruplayın ve bildirim gölgesinde önemsiz olarak işaretleyin</string>
     <string name="pref_summary_collapse_ad_notification_mms">Tüm tanıtım mesajlarını ayrı bir sekmede görüntüle</string>
     <string name="pref_summary_delete_limit">Konuşma başına %1$s mesaj</string>
     <string name="pref_summary_delivery_reports">Gönderilen mesajlar için iletildi raporu gösterir</string>
@@ -830,6 +834,7 @@ Mi mesajı etkinleştirmek için giden bir mesaj gerekir. Bu mesaj için operat�
     <string name="pref_summary_wake_up_screen">Yeni mesaj alındığında ekranı uyandır</string>
     <string name="pref_switch_sdk_setting">Akıllı mesaj hizmeti sağlayıcısını değiştir</string>
     <string name="pref_system_title">Sistem</string>
+    <string name="pref_title_ad_mms_recognition">Promosyon mesajlarını tanıyın</string>
     <string name="pref_title_allow_si_sl_push">İtme mesajları (SI/SL)</string>
     <string name="pref_title_auto_delete">Eski mesajları sil</string>
     <string name="pref_title_card_format">Kart paylaşım formatı</string>
