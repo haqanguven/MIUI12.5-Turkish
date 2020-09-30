@@ -814,10 +814,10 @@ Kişisel kırmızı zarfı destekleyin ve kırmızı zarfı gruplayın
     <string name="clean_master_icon_recall_dialog_button_negative">Hayır</string>
     <string name="clean_master_icon_recall_dialog_button_positive">Ekle</string>
     <string name="clean_master_icon_recall_dialog_summary">İhtiyacınız olduğunda çöp kutusunu temizlemek için ana ekran kısayolu ekleyin</string>
-    <string name="clean_master_icon_recall_dialog_title">Çöp kutusunu daha hızlı temizle</string>
+    <string name="clean_master_icon_recall_dialog_title">Çöp kutusunu daha hızlı temiz</string>
     <string name="clean_master_icon_recall_hint">Ana ekran kısayolu ekle</string>
     <string name="clean_master_icon_recall_summary">İhtiyacınız olduğunda çöp kutusunu temizlemek için bir Ana ekran kısayolu ekleyin</string>
-    <string name="clean_master_icon_recall_title">Çöp kutusunu daha hızlı temizleme</string>
+    <string name="clean_master_icon_recall_title">Çöp kutusunu daha hızlı temizle</string>
     <string name="clean_master_icon_recall_toast_text">Temizleyici için başarıyla bir ana ekran kısayolu eklendi</string>
     <string name="cleaned">Temizlendi</string>
     <string name="clear_garbage">Depolama alanı açmak için çöpleri temizleyin</string>
