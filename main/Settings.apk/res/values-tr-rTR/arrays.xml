@@ -47,7 +47,7 @@
     </string-array>
     <string-array name="animator_duration_scale_entries">
         <item>Kapalı</item>
-        <item>5x</item>
+        <item>0.5x</item>
         <item>1x</item>
         <item>1.5x</item>
         <item>2x</item>
@@ -1177,7 +1177,7 @@ Not: Yalnızca Ubuntu 8.04 için geçerlidir"</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Kapalı</item>
-        <item>5x</item>
+        <item>0.5x</item>
         <item>1x</item>
         <item>1.5x</item>
         <item>2x</item>

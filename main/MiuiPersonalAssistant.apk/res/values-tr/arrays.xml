@@ -289,6 +289,10 @@
         <item>Toplu taşıma</item>
         <item>Taksi</item>
     </string-array>
+    <string-array name="app_express_sending_providers">
+        <item>@string/app_express_send_provider_xiaomi</item>
+        <item>@string/app_express_send_provider_cainiao</item>
+    </string-array>
     <string-array name="aqi_title">
         <item>Mükemmel</item>
         <item>İyi</item>
