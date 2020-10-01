@@ -112,6 +112,10 @@
         <item quantity="other">%1$d saat</item>
         <item quantity="one">%1$d saat</item>
     </plurals>
+    <plurals name="hr_fp_detect_time_remainder">
+        <item quantity="other">%1$d saniye kaldı</item>
+        <item quantity="one">%1$d saniye kaldı</item>
+    </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">1 saat içinde</item>
     </plurals>
@@ -183,6 +187,36 @@
     <plurals name="sleep_management_exp_hours">
         <item quantity="other">Mevcut ayarlar günlük %1$d saatlik uyku garantisi vermez. Bundan daha fazlasına ihtiyacın var</item>
         <item quantity="one">"Mevcut ayarlar günlük %1$d saatlik uyku garantisi vermez. Bundan daha fazlasına ihtiyacın var</item>
+    </plurals>
+    <plurals name="sport_tts_goal_time">
+        <item quantity="other">Hedefinize %s dakika kaldı</item>
+    </plurals>
+    <plurals name="sporting_content_calories">
+        <item quantity="other">Toplam %1$d kalori tükettiniz</item>
+    </plurals>
+    <plurals name="sporting_content_riding_km">
+        <item quantity="other">%1$s kilometre sürdünüz</item>
+    </plurals>
+    <plurals name="sporting_content_running_km">
+        <item quantity="other">%1$s kilometre koştunuz</item>
+    </plurals>
+    <plurals name="sporting_content_speed">
+        <item quantity="other">Mevcut hız kilometre başına %1$d dakika %2$d saniyedir</item>
+    </plurals>
+    <plurals name="sporting_content_time">
+        <item quantity="other">Paylaşırken %1$d dakika %2$d saniye</item>
+    </plurals>
+    <plurals name="sporting_content_walking_km">
+        <item quantity="other">Toplam %1$s kilometre uzakta</item>
+    </plurals>
+    <plurals name="sporting_content_walking_stpe">
+        <item quantity="other">%1$d adım yürüdünüz</item>
+    </plurals>
+    <plurals name="sporting_unit_calories">
+        <item quantity="other">%1$d kalori</item>
+    </plurals>
+    <plurals name="sporting_unit_km">
+        <item quantity="other">%1$s kilometre</item>
     </plurals>
     <plurals name="step_num_format">
         <item quantity="other">%1$d adım</item>
@@ -263,6 +297,26 @@
     <plurals name="unit_group">
         <item quantity="other">" döngü"</item>
         <item quantity="one">" döngü"</item>
+    </plurals>
+    <plurals name="unit_hours">
+        <item quantity="other">" saat "</item>
+        <item quantity="one">" saat "</item>
+    </plurals>
+    <plurals name="unit_hours2">
+        <item quantity="other">" saat "</item>
+        <item quantity="one">" saat "</item>
+    </plurals>
+    <plurals name="unit_mins">
+        <item quantity="other">" dakika "</item>
+        <item quantity="one">" dakika "</item>
+    </plurals>
+    <plurals name="unit_mins2">
+        <item quantity="other">" dakika "</item>
+        <item quantity="one">" dakika "</item>
+    </plurals>
+    <plurals name="unit_seconds">
+        <item quantity="other">" saniye "</item>
+        <item quantity="one">" saniye "</item>
     </plurals>
     <plurals name="unit_times">
         <item quantity="other">" kez"</item>
