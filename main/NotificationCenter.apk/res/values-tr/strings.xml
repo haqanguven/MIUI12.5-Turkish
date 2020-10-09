@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="abc_action_bar_home_description">Eve gidiş yolunu göster</string>
+    <string name="abc_action_bar_home_description">Ana ekrana git</string>
     <string name="abc_action_bar_up_description">Yukarı git</string>
     <string name="abc_action_menu_overflow_description">Diğer seçenekler</string>
     <string name="abc_action_mode_done">Bitti</string>
@@ -12,7 +12,7 @@
     <string name="abc_menu_ctrl_shortcut_label">Kontrol+</string>
     <string name="abc_menu_delete_shortcut_label">Sil</string>
     <string name="abc_menu_enter_shortcut_label">Enter</string>
-    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_function_shortcut_label">İşlev+</string>
     <string name="abc_menu_meta_shortcut_label">Meta+</string>
     <string name="abc_menu_shift_shortcut_label">Üst karakter+</string>
     <string name="abc_menu_space_shortcut_label">Boşluk</string>
@@ -317,7 +317,7 @@
     <string name="mtrl_picker_range_header_only_start_selected">Bitiş tarihi - %1$s</string>
     <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
     <string name="mtrl_picker_range_header_title">Bir tarih aralığı seçin</string>
-    <string name="mtrl_picker_range_header_unselected">Baslangic tarihi -  Bitiş tarihi</string>
+    <string name="mtrl_picker_range_header_unselected">Baslangıç tarihi -  Bitiş tarihi</string>
     <string name="mtrl_picker_save">Kaydet</string>
     <string name="mtrl_picker_text_input_date_hint">Tarih</string>
     <string name="mtrl_picker_text_input_date_range_end_hint">Bitiş tarihi</string>
@@ -337,13 +337,13 @@
     <string name="notch_and_status_bar_setting">Çentik &amp; durum çubuğu</string>
     <string name="notification_aggregate_description1">Bildirim çubuğunu kullanma verimliliğini artırmak için içerik bilgileri ve reklam türleri ile ilgili bildirimlerini otomatik olarak toplamanıza yardımcı olur</string>
     <string name="notification_aggregate_description2">Bildirim metninin içeriğini bir algoritmaya göre tanır ve otomatik toplama gerçekleştiririz. Aynı zamanda sosyal bildirimleri, e-postaları ve zamanlama hatırlatıcılarını toplamaz. Bildirimlerin yanlış toplandığını fark ederseniz kullanıcı geri bildirimleri aracılığıyla zamanında bizimle iletişime geçmenizi umuyoruz</string>
-    <string name="notification_aggregate_summary">Sistem bildirimleri otomatik olarak kategorilere ayırır</string>
-    <string name="notification_aggregate_summary_inner">İtme ve promosyon bildirimlerini otomatik olarak gruplandırmak için açın</string>
+    <string name="notification_aggregate_summary">Sistem bildirimleri otomatik olarak gruplar</string>
+    <string name="notification_aggregate_summary_inner">İtme ve promosyon bildirimlerini otomatik olarak gruplar</string>
     <string name="notification_aggregate_title">Bildirim toplayıcı</string>
     <string name="notification_display_setting">Bildirim çubuğu</string>
     <string name="notification_display_style">Bildirim türü</string>
-    <string name="notification_fold_summary">Önemsiz bildirimleri otomatik olarak gruplama</string>
-    <string name="notification_fold_title">Grup bildirimleri</string>
+    <string name="notification_fold_summary">Önemsiz bildirimleri otomatik olarak gruplar</string>
+    <string name="notification_fold_title">Bildirimler klasörü</string>
     <string name="notification_manager">Uygulama bildirimleri</string>
     <string name="notification_style_android">Android</string>
     <string name="notification_style_miui">Miui</string>
