@@ -1291,7 +1291,7 @@ Yukarıdakilerin herhangi birini yaptıysanız Mi hesabınızı tekrar ekleyin. 
     <string name="breathing_light_color_summary">Yeni bildirimler ışık rengi</string>
     <string name="breathing_light_freq_summary">Yeni bildirim alındığında yak söndür</string>
     <string name="breathing_light_freq_title">Bildirim ışığı yanma sıklığı</string>
-    <string name="brightness">Parlaklık düzeyi</string>
+    <string name="brightness">Parlaklık</string>
     <string name="brightness_auto_adjust_off">Ekran parlaklığı sabit değerde kalacaktır</string>
     <string name="brightness_auto_adjust_on">Ekran parlaklığı ortam aydınlatmasına göre otomatik olarak ayarlanacaktır</string>
     <string name="brightness_summary">Ekranın parlaklığını ayarla</string>
