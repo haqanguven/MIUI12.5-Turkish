@@ -54,6 +54,15 @@
         <item>Pin</item>
         <item>Şifre</item>
     </string-array>
+    <string-array name="cellular_data_unit">
+        <item>GB</item>
+        <item>MB</item>
+    </string-array>
+    <string-array name="cellular_package_type">
+        <item>Aylık plan</item>
+        <item>Sınırsız</item>
+        <item>Günlük plan</item>
+    </string-array>
     <string-array name="clean_cached_process_white_list">
         <item>com.miui.securitycenter</item>
         <item>com.miui.virtualsim</item>
@@ -66,6 +75,7 @@
         <item>com.android.updater</item>
         <item>com.miui.analytics</item>
         <item>com.miui.cleanmaster</item>
+        <item>com.miui.cleaner</item>
     </string-array>
     <string-array name="contact_infotype_entries">
         <item>@string/name</item>
@@ -85,6 +95,13 @@
         <item>Mi fan kartı</item>
         <item>Xiao Tiansheng kartı</item>
         <item>Tencent kral kart</item>
+    </string-array>
+    <string-array name="daily_rent_card_brands">
+        <item>Özel</item>
+        <item>Mi mobil</item>
+        <item>Mi fan kart</item>
+        <item>TI kart</item>
+        <item>Tencent kart</item>
     </string-array>
     <string-array name="date_of_app_all">
         <item>Dün (Veri)</item>
@@ -401,7 +418,7 @@
         <item>Sınırsız veri planı</item>
     </string-array>
     <string-array name="traffic_type">
-        <item>"Mobil kullanım "</item>
+        <item>"Mobil veri kullanımı "</item>
         <item>"Wifi kullanımı "</item>
     </string-array>
 </resources>

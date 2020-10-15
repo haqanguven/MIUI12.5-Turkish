@@ -33,7 +33,12 @@
         <item>Y</item>
         <item>Z</item>
     </string-array>
-    <string-array name="settings_search_account_and_authority">
+    <string-array name="settings_search_account_and_authority_global">
+        <item>Hesaplar</item>
+        <item>Üçüncü taraf hesapları ekleyin ve yönetin</item>
+        <item>Yetkilendirme;Hesap;Mi hesabı;Ekle;Eşle;Xiaomi;Görünüm;SNS;WeChat;Google;Weibo</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
         <item>Hesaplar</item>
         <item>Üçüncü taraf hesapları ekleyin ve yönetin</item>
         <item>Yetkilendirme;Hesap;Mi hesabı;Ekle;Eşle;Xiaomi;Görünüm;SNS;WeChat;Google;Weibo</item>

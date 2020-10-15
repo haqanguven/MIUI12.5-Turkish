@@ -885,6 +885,12 @@ Mi mesajı etkinleştirmek için giden bir mesaj gerekir. Bu mesaj için operat�
     <string name="privacy_password_title3">Şifrenizi güncelleyin</string>
     <string name="privacy_password_title4">Şifre güncellendi</string>
     <string name="privacy_policy">Gizlilik politikası</string>
+    <string name="privacy_state_revoked_cancel">İptal et</string>
+    <string name="privacy_state_revoked_content">Anahtarı kapatarak mesajlaşma gizlilik politikasına olan onayınızı geri almış olursunuz. Kişisel bilgilerinizi toplamaya son vereceğiz. Halihazırda toplanan ve saklanan kişisel bilgiler geçerli yasaların gerektirdiği belirli süre içinde silinecektir. Mesajlaşma tarafından sağlanan Mi mesaj ve akıllı mesajlaşma size temel hizmetleri sağlamak için gerekli kişisel bilgileri toplamalıdır. Mesajlaşma gizlilik politikasına verdiğiniz onayı Mi mesaj ve akıllı mesaj tarafından sağlanan toplanan kişisel bilgilere dayalı olarak hizmetleri kabul etmeyi reddetmeniz olarak kabul edilecektir</string>
+    <string name="privacy_state_revoked_dialog_title">Onayın geri alınması</string>
+    <string name="privacy_state_revoked_revoked">Geri al</string>
+    <string name="privacy_state_revoked_switch">Onayı geri al</string>
+    <string name="privacy_state_revoked_synopsis">Anahtarı kapatarak mesajlaşma gizlilik politikasına olan onayınızı geri almış olursunuz</string>
     <string name="privacy_term">Gizlilik politikası</string>
     <string name="private_entry_available">Gizliliğe bırak</string>
     <string name="private_entry_default">Gizlilik alanına git</string>
@@ -1193,10 +1199,12 @@ Mobil veriyi açın ve bu sayfayı tekrar açın"</string>
     <string name="slide_up_to_cancel">İptal etmek için yukarı doğru kaydırın</string>
     <string name="slideshow_activity">Slayt gösterisi</string>
     <string name="smart_message_title">Akıllı mesajlaşma</string>
+    <string name="smart_message_upgrade_title">Akıllı mesajlaşma gizlilik politikası güncellemesi</string>
     <string name="smart_messages_network_allow_message">Mi mesaj hizmetlerinin normal şekilde çalışması için internete bağlanması gerekir. Şimdi izin verilsin mi?</string>
     <string name="smart_messages_network_allow_title">İnternet bağlantısı gereklidir</string>
     <string name="smart_msg_main_purpose">Akıllı mesajlaşma, gönderen kimliğini tanıma ve akıllı menü hizmetleri sağlar</string>
     <string name="smart_msg_privacy_policy">Akıllı mesajlaşma gizlilik politikası</string>
+    <string name="smart_msg_upgrade_main_purpose">Akıllı mesajlaşma artık multimedya ile çalışıyor. Gönderenler tarafından sağlanan daha fazla hizmeti kullanmanın yanı sıra yeni biçimlerde mesajlar alabileceksiniz</string>
     <string name="sms_card_partner_label">"Mesaj kartı ortağı: "</string>
     <string name="sms_card_teddy_mobile">Teddy mobil</string>
     <string name="sms_content">İçerik:</string>
@@ -1288,6 +1296,7 @@ Mobil veriyi açın ve bu sayfayı tekrar açın"</string>
 Bu tür izinleri kabul etmeyi veya kişisel bilgilerinizi paylaşmayı veya yüklemeyi kabul etmezseniz bu uygulamayı kullanamazsınız"</string>
     <string name="system_permission_declare_privacy_declare">%1s verilerinizi toplamalı ve normal çalışması için aşağıdaki izinleri gerektirir:</string>
     <string name="system_permission_declare_privacy_declare_new">Bu uygulama internete bağlanmalı ve normal çalışabilmesi için aşağıdaki izinleri gerektirir:</string>
+    <string name="system_permission_declare_privacy_link">"Kullanıcı olarak haklarınızı ve verilerinizi kullanma şeklimizi tam olarak anlamak için %1s'i okuyun ve kabul edin"</string>
     <string name="system_permission_declare_revoke_path">Mesajlaşma ayarlarında izninizi iptal edebilir ve servisleri kapatabilirsiniz</string>
     <string name="system_permission_declare_single_link">"Bu özelliği kullanmadan önce %1s'lerimizi okuyun ve kabul edin"</string>
     <string name="system_permission_declare_triple_link" formatted="false">"Bu özellikleri kullanmadan önce %1s,%2s'lerimizi ve %3s'lerimizi okuyun ve kabul edin"</string>
@@ -1424,6 +1433,7 @@ Son deneme: %s"</string>
     <string name="voice_report_wiredon">Kulaklık ile</string>
     <string name="wap_push_title">"[İtme mesajı] "</string>
     <string name="warning_show">%d saniye içerisinde gönder</string>
+    <string name="web_content_invalid_hint">Bu öğenin görüntülenmesi yerel yasa ve yönetmeliklerle sınırlandırılmıştır</string>
     <string name="wednesday">Çarşamba</string>
     <string name="wednesday_short">Çarşamba</string>
     <string name="wednesday_shortest">Ç</string>

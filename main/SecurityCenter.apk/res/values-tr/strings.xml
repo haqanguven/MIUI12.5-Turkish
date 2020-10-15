@@ -485,9 +485,16 @@ Kişisel kırmızı zarfı destekleyin ve kırmızı zarfı gruplayın
     <string name="application_item_already_permission">İzin verildi</string>
     <string name="application_item_disable">Kısıtlandı</string>
     <string name="applock_add_account">Ekle</string>
+    <string name="applock_add_account_ignore">Şimdi değil</string>
+    <string name="applock_add_account_ignore_with_seconds">Şimdi değil (%d saniye)</string>
     <string name="applock_add_account_info">Şifrenizi unutmanız durumda sıfırlayabilmeniz için Mi hesabınızı ekleyin</string>
     <string name="applock_add_account_setting">Hesap &amp; gizlilik</string>
+    <string name="applock_add_account_tips">Unutursanız Mi hesabı ile uygulama kilidinizi geri yükleyebilirsiniz</string>
+    <string name="applock_add_account_title">Mi hesabınızı ekleyin</string>
+    <string name="applock_already_add_account">Mevcut hesap: %s</string>
     <string name="applock_app_recommend_lock_title">Aşağıdaki uygulamaları kilitleyebilirsiniz</string>
+    <string name="applock_bind_account_dialog_content">Unutmanız durumunda Mi hesabınız uygulama kilidinizi geri yüklemenin tek yoludur. Mi hesabınızı eklemek için oturum açın</string>
+    <string name="applock_bind_account_dialog_title">Mi hesabınızı ekleyin</string>
     <string name="applock_bind_account_title">Şifremi unuttum</string>
     <string name="applock_close_dialog_summary">Uygulama kilidini kapatmanızdan sonra uygulamalar korunmayacak ve şifreniz silinecektir</string>
     <string name="applock_close_dialog_title">Uygulama kilidi kapatılsın mı?</string>
@@ -497,7 +504,10 @@ Kişisel kırmızı zarfı destekleyin ve kırmızı zarfı gruplayın
     <string name="applock_function_base_settings">Uygulama kilidi</string>
     <string name="applock_function_pwd_settings">Şifre</string>
     <string name="applock_go_to">Ayarlar</string>
+    <string name="applock_guide_notification_summary">Gizliliğinizi uygulama kilidi ile koruyun</string>
+    <string name="applock_guide_notification_title">Başkaları ekranınızda hassas bilgiler görebilir</string>
     <string name="applock_guide_open_applock">Aç</string>
+    <string name="applock_guide_placeholder">000</string>
     <string name="applock_guide_tip1">Birden fazla şifre türü seçeneği mevcuttur. Parmak iziniz, yüzünüz veya şifrenizi girerek uygulamaların kilidini açın</string>
     <string name="applock_guide_tip1_global">Parmak izinizle, yüzünüzle uygulamaların kilidini açın veya şifrenizi girin</string>
     <string name="applock_guide_tip1_global_without_face">Parmak izinizle uygulamaların kilidini açın veya şifrenizi girin</string>
@@ -513,8 +523,18 @@ Kişisel kırmızı zarfı destekleyin ve kırmızı zarfı gruplayın
     <string name="applock_header_text_less_than_half">Çok küçük. Biraz daha sürükleyin</string>
     <string name="applock_lock_all">Tümünü kilitle</string>
     <string name="applock_login_and_add_account">Oturum aç &amp; ekle</string>
+    <string name="applock_no_account_login">Mi hesabınızda oturum açmadınız</string>
     <string name="applock_not_add_account"><u>Şimdi değil</u></string>
     <string name="applock_not_login_account">Oturum açmadınız</string>
+    <string name="applock_operate_faceunlock_summary">Sadece ekrana bakarak uygulamaların kilidini açın</string>
+    <string name="applock_operate_faceunlock_title">Yüz verisini kullan</string>
+    <string name="applock_operate_fingerprint_summary">Uygulama kilidi birden fazla parmak izi eklemeyi destekler</string>
+    <string name="applock_operate_fingerprint_title">Parmak izinizi kullanın</string>
+    <string name="applock_operate_hidenoti_summary">Uygulama kilidi bunu korumalı uygulamalar için yapabilir</string>
+    <string name="applock_operate_hidenoti_title">Hassas bildirimleri gizlemek mi istiyorsunuz?</string>
+    <string name="applock_recommend_tips">"Kullanıcıların %s'i bu uygulamaları koruyor"</string>
+    <string name="applock_recommend_title">Uygulamaları seçin</string>
+    <string name="applock_set_complete">Uygulama kilidini kullan</string>
     <string name="applock_set_password_title">Şifre türünü değiştir</string>
     <string name="applock_settings_unlock_all_toast">Tüm uygulamaların kilidi açıldı</string>
     <string name="applock_toast_tip">Uygulama kilidi başarıyla doğrulandı</string>
@@ -701,6 +721,7 @@ Kişisel kırmızı zarfı destekleyin ve kırmızı zarfı gruplayın
     <string name="boot_time">%1$s saatinde</string>
     <string name="boot_time_day">%1$d günü %2$s saatinde aç</string>
     <string name="boot_time_day_tomorrow">Yarın %1$s saatinde</string>
+    <string name="bottom_func_guide_default_text">Daha fazla özellik</string>
     <string name="btn_back">Geri</string>
     <string name="btn_finish_diagnostic">Tamam</string>
     <string name="btn_start_diagnostic">Ağ testi</string>
@@ -799,6 +820,8 @@ Kişisel kırmızı zarfı destekleyin ve kırmızı zarfı gruplayın
     <string name="card_tc_failed">Kalibre edilemedi</string>
     <string name="cd_back">Geri</string>
     <string name="celcius_symbol">℃</string>
+    <string name="cellular_data_auto_check">Otomatik olarak kontrol et</string>
+    <string name="cellular_package_daily_input">Giriş</string>
     <string name="charger_detect_button_ok">Anladım</string>
     <string name="charger_detect_info1">Güç adaptörünün ve kablonun doğru şekilde bağlanıp bağlanmadığını kontrol edin</string>
     <string name="charger_detect_info2">Standart olmayan veya eski güç adaptörleri ve kabloları kullanıyorsanız şarj işlemi de yavaşlayabilir</string>
@@ -1202,10 +1225,14 @@ arama geçmişine geri yüklensin mi?"</string>
     <string name="exception_notify_message">Veri istatistikleri bir hata nedeniyle yüklenemedi. Geri yüklemek için yeniden başlatın</string>
     <string name="exception_titile">Bir hata oluştu</string>
     <string name="exit">Çıkış</string>
+    <string name="exit_dialog_exit">Çıkış</string>
     <string name="exit_dialog_garbage_clean_message">"Cihazınızdaki çöp miktarı %s'den fazla. Çöp temizlensin mi?"</string>
+    <string name="exit_dialog_garbage_clean_message_new"><Data>Temizleyici &lt;font color=#0099ff>%s&lt;/font> depolama alanı boşaltabilir. Şimdi temizlensin mi?</Data></string>
     <string name="exit_dialog_garbage_clean_positive_button">Temizle</string>
     <string name="exit_dialog_garbage_clean_title">Çöpü temizle</string>
     <string name="exit_dialog_homepage_optimise_message">Cihazınızın performans puanı 80 puandan düşük. Şimdi optimize edilsin mi?</string>
+    <string name="exit_dialog_release_memory_positive_button">Kapat</string>
+    <string name="exit_dialog_release_memory_title"><Data>Cihazınızı &lt;font color=#0099ff>%%%d&lt;/font> hızlandırın</Data></string>
     <string name="exit_dialog_release_storage_message">"Cihazınızdaki depolamanın %80'den fazlası dolu. Hiç kullanmadığınız uygulamaları kaldırarak yer açın"</string>
     <string name="exit_dialog_release_storage_positive_button">Boş alan</string>
     <string name="exit_dialog_release_storage_title">Boş alan</string>
@@ -1356,10 +1383,9 @@ arama geçmişine geri yüklensin mi?"</string>
     <string name="first_settings_subtitle">Kullanabileceğiniz güvenli paylaşım seçenekleri şunlardır:</string>
     <string name="first_settings_title">Gizliliğinizi koruyun</string>
     <string name="five_percent_total_pkg">%s (Aylık verinin %%5 oranı)</string>
+    <string name="fixed_cellular_data_quota_monthly">Aylık veri limiti</string>
     <string name="fixed_package_tips">Sabit bir aylık akışın keyfini çıkarın. Eğer bunu aşarsanız ek kesintiler yaparsınız</string>
     <string name="fixed_traffic_by_month">Sabit aylık akış</string>
-    <string name="fixed_traffic_quota">Sabit akış kotası (İsteğe bağlı)</string>
-    <string name="fixed_traffic_value_by_month">Aylık sabit akış kotası</string>
     <string name="float_window">Masaüstü yüzer pencere</string>
     <string name="float_window_summary">Sayfaları sallamak için hızlı atlamayı destekler</string>
     <string name="float_window_tips">Xiaomi cep telefonu hızlı</string>
@@ -1386,6 +1412,8 @@ arama geçmişine geri yüklensin mi?"</string>
     <string name="free_time_traffic_settings">İndirimli veri limiti</string>
     <string name="free_time_traffic_title">İndirimli veri limitini girin</string>
     <string name="free_traffic_settings">İndirimli veri kullanım ayarları</string>
+    <string name="full_fill_oprator_and_location">Operatör bilgilerinizi ve konumunuzu sağlayın</string>
+    <string name="full_fill_sim_location">Önce konumu ayarlayın</string>
     <string name="function_auto_reject_detail">"Bu özellik hakkında:
 1. Oyun oynarken mobil veri hizmeti olmadan Sim karta gelen tüm aramalar otomatik olarak reddedilecektir
 2. Cevapsız aramalarla ilgili bildirimler göreceksiniz ve diğer kişi o anda meşgul olduğunuzu söyleyen bir sesli mesaj duyacaktır
@@ -1725,7 +1753,10 @@ arama geçmişine geri yüklensin mi?"</string>
     <string name="info_unantispam_phone_sms">Arama ve kısa mesajlara izin ver</string>
     <string name="info_unantispam_sms">Kısa mesajlara izin ver</string>
     <string name="information_setting">Öneriler</string>
+    <string name="input_available_cellular_data_daily_hint">Günlük veri limitini girin</string>
     <string name="input_aviable_traffic">Veri kullanım limitini ayarlayın</string>
+    <string name="input_celluar_data_quota_hint">Veri limitini girin</string>
+    <string name="input_cellular_data_warn_hint">Veri kullanımı uyarı limitini girin</string>
     <string name="input_password_hint_text">Şifre girin</string>
     <string name="input_traffic_pkg">Kullanılan veri miktarını girin</string>
     <string name="input_used_hint">Kullanılan veri miktarını girin</string>
@@ -1960,6 +1991,7 @@ Cihazınız şimdi %%%d daha hızlı"</string>
     <string name="menu_item_notification_antispam_text_avail">Engelli listesi</string>
     <string name="menu_item_notification_antispam_text_normal">Engelli listesi</string>
     <string name="menu_item_notification_garbage_text">%s</string>
+    <string name="menu_item_notification_optimize_text">%%%d dolu</string>
     <string name="menu_item_notification_power_text">Güç</string>
     <string name="menu_item_notification_title">Bildirim panelinde menüsü</string>
     <string name="menu_item_shortcut_summary">Ana ekranınıza yerleştirmek istediğiniz özellikleri seçin</string>
@@ -1993,6 +2025,7 @@ Cihazınız şimdi %%%d daha hızlı"</string>
     <string name="menu_summary_power_manager_4">Tam olarak: %s</string>
     <string name="menu_text_antispam">Engelli listesi</string>
     <string name="menu_text_antivirus">Güvenlik taraması</string>
+    <string name="menu_text_deepclean_summary" formatted="false">%1s/%2s dolu</string>
     <string name="menu_text_garbage_cleanup">Temizleyici</string>
     <string name="menu_text_garbage_cleanup_danger">%s</string>
     <string name="menu_text_license_manager">İzinler</string>
@@ -2035,6 +2068,7 @@ Cihazınız şimdi %%%d daha hızlı"</string>
     <string name="mixed_recording_intro_header">En az 4 karakter girin</string>
     <string name="mixed_retry_button_text">İptal et</string>
     <string name="mixed_settings_help_how_to_record">Şifre nasıl ayarlanır</string>
+    <string name="modify_cellular_type">Planınızı seçmek için dokunun</string>
     <string name="modify_password_mode"><u>Şifre türünü değiştir</u></string>
     <string name="modifypassword">Şifreyi değiştir</string>
     <string name="monitor_app_add">Ekle</string>
@@ -2122,11 +2156,11 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="news_change">Değiştir</string>
     <string name="nickname">Kullanıcı adı</string>
     <string name="no_game">Oyunlar bulunamadı</string>
-    <string name="no_limit_by_month">Aylık sınırsız veri</string>
     <string name="no_lucky_money">Kırmızı zarf alınmadı</string>
     <string name="not_available">Hayır</string>
     <string name="not_limited_brand">Sınırsız</string>
     <string name="not_set">Ayarlanmadı</string>
+    <string name="not_settled">Ayarlanmadı</string>
     <string name="note">Not</string>
     <string name="note_call_none">Arama yok</string>
     <string name="note_list_none">Liste boş</string>
@@ -2801,6 +2835,10 @@ Kalibrasyon işlemi sırasında Miui kalibrasyon şablonunu almak amacıyla bir 
     <string name="privacy_provision_summary">Gizlilik koruması ürünlerimizin tasarımının arkasındaki taahhüttür</string>
     <string name="privacy_provision_text">Gizliliğinize saygı göstermeye ve onu korumaya kararlıyız. Bilgi güvenliği alanında araştırma ve geliştirmeye öncelik veren Xiaomi, verilerinizi koruyan yöntemleri, uygulamaları ve teknik çözümleri geliştirmeye devam ediyor. Ayrıca gizlilik kazanmanızı sağlamak için en son başarılarımızı ortaklarımızla paylaşıyoruz</string>
     <string name="privacy_provision_title">Gizlilik</string>
+    <string name="privacy_revoke_dialog_content">Anahtarı kapatarak güvenlik gizlilik politikasına olan onayınızı geri çekmiş olursunuz. Kişisel bilgilerinizi toplamaya son vereceğiz. Halihazırda toplanan ve saklanan kişisel bilgiler, geçerli yasaların gerektirdiği belirli süre içinde silinecektir. Güvenlik size temel hizmetleri sağlamak için gerekli kişisel bilgileri toplamalıdır. Gizlilik politikasına verdiğiniz izni geri çekmeniz toplanan kişisel bilgilere dayanarak hizmetlerini kabul etmeyi reddetmeniz olarak kabul edilecektir</string>
+    <string name="privacy_revoke_dialog_negetive_text">İptal et</string>
+    <string name="privacy_revoke_dialog_positive_text">Geri al</string>
+    <string name="privacy_revoke_dialog_title">Onayın geri alınması</string>
     <string name="privacy_search_key_1">Gizlilik</string>
     <string name="privacy_search_key_10">Cihaz kimliği</string>
     <string name="privacy_search_key_2">Ağ müdahalesi</string>
@@ -2992,6 +3030,8 @@ Kalibrasyon işlemi sırasında Miui kalibrasyon şablonunu almak amacıyla bir 
     <string name="settings_image_camera_summary">Cihaz modeli veya meta verileri olmadan paylaşın</string>
     <string name="settings_location_subtitle_no">Konum bilgisi yok</string>
     <string name="settings_power_save_ontime_title">Zamanlayıcı</string>
+    <string name="settings_privacy_revoke_desc">Anahtarı kapatarak güvenlik gizlilik politikasına olan onayınızı geri çekmiş olursunuz</string>
+    <string name="settings_privacy_revoke_title">Onayın geri alınması</string>
     <string name="settings_share_enable_summary">WeChatte paylaştığınız öğeler bir MIUI rozeti ile görünecek</string>
     <string name="settings_share_info">Galeri ve dosyalardan paylaşılan öğeler için kullanılabilecek güvenli paylaşım seçenekleri şunlardır:</string>
     <string name="settings_show_detail">Detayları göster</string>
@@ -3290,6 +3330,12 @@ Bu ^1 cihazını bu cihazla kullanmak için önce ayarlamanız gerekir"</string>
 
 Biçimlendirme ^2 üzerindeki mevcut içeriği silecektir. İçerik kaybını önlemek için içeriği başka bir ^3 veya cihaza yedekleyin"</string>
     <string name="storage_wizard_format_confirm_v2_title">^1 şimdi biçimlendirilsin mi?</string>
+    <string name="stranger_call_dialog_add_block_list">Engelle</string>
+    <string name="stranger_call_dialog_add_contacts">Yeni kişi</string>
+    <string name="stranger_call_dialog_notification_body">Kişilere ekleyin veya bu numarayı engelleyin</string>
+    <string name="stranger_call_dialog_notification_title_format">Bilinmeyen numara: %s</string>
+    <string name="stranger_call_dialog_subtitle_format">%s kişileriniz arasında değil. Bu telefon numarasını kişilere ekleyebilir veya engelleyebilirsiniz</string>
+    <string name="stranger_call_dialog_title">"Bilinmeyen numara "</string>
     <string name="suggest_app_tolock">Öneriler</string>
     <string name="suggest_app_tolock_masked">Gizli</string>
     <string name="suggest_app_tolock_unmasked">Görünür bildirimler</string>
@@ -3604,6 +3650,7 @@ Kalan ekstra veri"</string>
     <string name="traffic_config_alert_setted">Ayarlar uygulandı</string>
     <string name="traffic_config_alert_title">%s düzeltme</string>
     <string name="traffic_correction_failed">Bilgi alınamıyor</string>
+    <string name="traffic_correction_failed_tips">Veri planı kontrol edilemedi. Operatör ayarlarının doğru olduğundan emin olun veya planınızı manuel olarak ayarlayın</string>
     <string name="traffic_correction_start_correction">Operatör sunucularıyla iletişim kuruluyor</string>
     <string name="traffic_correction_start_correction_failed">İstek gönderilemedi. Operatör ayarlarınızı kontrol edin</string>
     <string name="traffic_correction_success">Veri kullanım bilgileri güncellendi</string>
@@ -3665,6 +3712,7 @@ Kalan veri miktarı geçen aydan kalan veri miktarınıda içerir"</string>
     <string name="uninstall_danagerous_title">Zararlı yazılımı kaldır</string>
     <string name="unknown_package">Paketinizin ne olduğundan emin değil misiniz?</string>
     <string name="unlike">Hayır</string>
+    <string name="unlimited_cellular_data_monthly">Sınırsız plan</string>
     <string name="unlock_failed">İç hata</string>
     <string name="unlock_pattern"><u>Desen</u></string>
     <string name="unlock_pattern_to_bind_fingerprint">Parmak izini etkinleştirmek için şifre girin</string>

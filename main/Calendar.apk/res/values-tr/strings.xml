@@ -156,7 +156,7 @@
     <string name="certificate_notification_connection_security">Bağlantı güvenliği</string>
     <string name="certificate_notification_user_interaction">Lütfen sertifikayı inceleyin</string>
     <string name="change_response_title">Yanıtı değiştir</string>
-    <string name="character_counter_content_description">"Karakterler %1$d/%2$d girdi"</string>
+    <string name="character_counter_content_description">Karakter %1$d/%2$d arasında girildi</string>
     <string name="character_counter_overflowed_content_description">"Karakter sınırı %1$d/%2$d'yi aştı"</string>
     <string name="character_counter_pattern">%1$d / %2$d</string>
     <string name="check_reminded_text">Hatırlatıcıyı görüntüle</string>
@@ -1084,6 +1084,8 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin"</string>
     <string name="setting_show_reject_agenda">Reddedilen etkinlikleri göster</string>
     <string name="setting_sms_import">Mesaj etkinliklerini içe aktar</string>
     <string name="setting_title_about">Hakkında</string>
+    <string name="setting_title_ai_time_parser">Program zamanının akıllıca çıkarılması</string>
+    <string name="setting_title_ai_time_parser_summary">Oluşturma programının başlığındaki zamanı akıllıca çıkarın ve ayarlayın</string>
     <string name="setting_title_debug">Günlüğü dışa aktar</string>
     <string name="setting_title_holiday_display">Tatilleri göster</string>
     <string name="setting_title_import_todo">Görevleri içe aktar</string>

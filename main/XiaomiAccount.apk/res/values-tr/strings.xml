@@ -189,6 +189,7 @@ Bu kodu amirinize gönderin"</string>
     <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
     <string name="facebook">Facebook</string>
     <string name="facebook_app_id">2263965750590514</string>
+    <string name="facebook_login">Facebook ile giriş yap</string>
     <string name="failed_dup_secure_phone_number">Bu telefon numarası zaten başka bir Mi hesabı ile ilişkilendirilmiş durumda</string>
     <string name="fb_login_protocol_scheme">fb2263965750590514</string>
     <string name="find_device">Cihazı bul</string>
@@ -222,9 +223,11 @@ Bu kodu amirinize gönderin"</string>
     <string name="for_diagnosis_usage_only">Yalnızca sorunları bulmak için kullanılır</string>
     <string name="get_back_pwd">Şifre sıfırlama</string>
     <string name="get_device_list_failed">Cihaz listesi alınamıyor</string>
+    <string name="get_identity_auth_url_failed">Kimlik doğrulanamadı</string>
     <string name="get_phone_bind_exceed_limit">Bir telefon numarasıyla 3 Mi hesabına kadar ilişkilendirebilirsiniz. Yeni hesap eklenemiyor</string>
     <string name="get_phone_verifycode_exceed_limit">Bu numaraya çok fazla sayıda doğrulama kodu gönderildi. 24 saat bekleyin ve ardından yeniden deneyin</string>
     <string name="google">Google</string>
+    <string name="google_login">Google ile giriş yap</string>
     <string name="guest_account_label">Mi ziyaretçi hesabı</string>
     <string name="health_action_activate">Etkinleştir</string>
     <string name="health_action_install">Yükle</string>
@@ -504,8 +507,15 @@ Bu kodu amirinize gönderin"</string>
     <string name="passport_trust_device">Bu cihazı onaylı cihazlara ekle</string>
     <string name="passport_trying_read_verify_code_sms">Doğrulama kodu alınıyor</string>
     <string name="passport_uplink_reg">Telefon numarası kullan</string>
+    <string name="passport_uplink_send_sms_hint">Oluşturulmuş bir mesajla sayfaya yeniden yönlendirildikten sonra göndere dokunun</string>
     <string name="passport_uplink_slot1_reg">"Sim 1'i kullan"</string>
     <string name="passport_uplink_slot2_reg">"Sim 2'yi kullan"</string>
+    <string name="passport_uplink_sms_send_cancel">Yukarıdaki bağlantı mesajı gönderimi iptal etti</string>
+    <string name="passport_uplink_sms_send_confirm">Gönder</string>
+    <string name="passport_uplink_sms_send_failed">Yukarıdaki bağlantı mesajı doğrulanamadı</string>
+    <string name="passport_uplink_sms_sending">Ücretli mesaj gönderiliyor</string>
+    <string name="passport_uplink_suggest_dialog_msg">Kod alınamadı. Bunun yerine ücretli bağlantı mesajı kullanılsın mı?</string>
+    <string name="passport_uplink_suggest_dialog_title">Dikkat</string>
     <string name="passport_use_generated_pwd_message">Şifrenizi hatırladığınızdan emin olun. Şifrenizi diğer Mi hizmetlerinde oturum açmak için kullanabilirsiniz</string>
     <string name="passport_use_generated_pwd_title">Şifrenizi hatırlayın</string>
     <string name="passport_user_agreement">Kullanıcı sözleşmesi</string>

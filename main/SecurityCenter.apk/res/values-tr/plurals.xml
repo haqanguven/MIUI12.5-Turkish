@@ -80,9 +80,17 @@
         <item quantity="other">%d yıl önce kullanıldı</item>
         <item quantity="one">%d yıl önce kullanıldı</item>
     </plurals>
+    <plurals name="applock_app_suggest_lock">
+        <item quantity="other">Uygulama kilidini %1$s uygulamalarıyla kullanabilirsiniz</item>
+        <item quantity="one">Uygulama kilidini %1$s uygulamalarıyla kullanabilirsiniz</item>
+    </plurals>
     <plurals name="applock_guide_app_count_tips">
         <item quantity="other">En az %s uygulamayı koruyabilirsiniz</item>
         <item quantity="one">En az %s uygulamayı koruyabilirsiniz</item>
+    </plurals>
+    <plurals name="applock_one_key_lock">
+        <item quantity="other">%s uygulaması uygulama kilidi ile korunacak</item>
+        <item quantity="one">%s uygulaması uygulama kilidi ile korunacak</item>
     </plurals>
     <plurals name="bg_network_allow_count">
         <item quantity="other">%d uygulama arkaplanda ağa bağlanabilir</item>
@@ -119,6 +127,10 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
     <plurals name="ew_concern_date">
         <item quantity="other">%d gün önce</item>
         <item quantity="one">%d gün önce</item>
+    </plurals>
+    <plurals name="exit_dialog_release_memory_message">
+        <item quantity="other">Cihazınızı hızlandırmak için &lt;Data>Close &lt;font color=#0099ff>%d&lt;/font> uygulama kapatılsın mı?&lt;/Data></item>
+        <item quantity="one">Cihazınızı hızlandırmak için &lt;Data>Close &lt;font color=#0099ff>%d&lt;/font> uygulama kapatılsın mı?&lt;/Data></item>
     </plurals>
     <plurals name="find_applications">
         <item quantity="other">%d uygulama arasında ara</item>

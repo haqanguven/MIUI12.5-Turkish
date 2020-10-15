@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="cloud_space_full_gallery_notification_content_title">
+        <item quantity="other">%s öğe senkronize edilemiyor</item>
+        <item quantity="one">%s öğe senkronize edilemiyor</item>
+    </plurals>
     <plurals name="dirty_blocklist_count">
         <item quantity="other">%d engelli liste öğesi</item>
         <item quantity="one">%d engelli liste öğesi</item>
@@ -83,5 +87,21 @@
     <plurals name="select_no_more_than">
         <item quantity="other">%d öğeden fazla seçilemiyor</item>
         <item quantity="one">%d öğeden fazla seçilemiyor</item>
+    </plurals>
+    <plurals name="share_sdk_invitation_some_people_accepted">
+        <item quantity="other">Davet %d kişi tarafından kabul edildi</item>
+        <item quantity="one">Davet %d kişi tarafından kabul edildi</item>
+    </plurals>
+    <plurals name="time_format_day">
+        <item quantity="other">%1$s gün</item>
+        <item quantity="one">%1$s gün</item>
+    </plurals>
+    <plurals name="time_format_hour">
+        <item quantity="other">%1$s saat</item>
+        <item quantity="one">%1$s saat</item>
+    </plurals>
+    <plurals name="time_format_min">
+        <item quantity="other">%1$s dakika</item>
+        <item quantity="one">%1$s dakika</item>
     </plurals>
 </resources>
