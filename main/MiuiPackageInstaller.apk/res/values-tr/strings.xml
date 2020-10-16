@@ -152,8 +152,8 @@ Alternatif olarak basit modu kapatabilir ve tekrar deneyebilirsiniz"</string>
     <string name="install_failed_invalid_apk">Paket zarar görmüş gibi görünüyor</string>
     <string name="install_failed_msg">%1$s telefonunuza yüklenemedi</string>
     <string name="install_failed_system_incompatible">Bu uygulama Miui ile uyumlu değildir</string>
-    <string name="install_finished_notification_summary">Tap to free up storage space</string>
-    <string name="install_finished_notification_title">Installed %1$s successfully. You can free up %2$s of storage space.</string>
+    <string name="install_finished_notification_summary">Depolama alanını boşaltmak için dokunun</string>
+    <string name="install_finished_notification_title">%1$s başarıyla yüklendi. %2$s depolama alanı boşaltabilirsiniz</string>
     <string name="install_from_appstore_hint">Uygulamayı &lt;u>&lt;font color=#91c727>Uygulama mağazasından&lt;/font>&lt;/u> indirmenizi tavsiye ederiz</string>
     <string name="install_vip_account_mode_explain_des">Bu uygulama kapalı bir beta sürümüdür. Şu anda izniniz yok</string>
     <string name="install_vip_account_mode_solution_des">Kapalı beta izinlerine başvurmak için Xiaomi topluluğuna gidin</string>
@@ -246,7 +246,7 @@ Alternatif olarak basit modu kapatabilir ve tekrar deneyebilirsiniz"</string>
     <string name="miui_security_relative">Güvenlik</string>
     <string name="miui_solution_clean">Çöp kutusunu temizle</string>
     <string name="miui_solution_msg">Çözüm</string>
-    <string name="miui_solution_msg_2">Solution</string>
+    <string name="miui_solution_msg_2">Çözüm</string>
     <string name="miui_uninstall_success">Başarıyla kaldırıldı</string>
     <string name="miui_uninstalling">Kaldırılıyor</string>
     <string name="miui_virus_deleted">Virüsler başarıyla silindi</string>
@@ -379,8 +379,8 @@ Alternatif olarak basit modu kapatabilir ve tekrar deneyebilirsiniz"</string>
     <string name="untrusted_external_source_warning_summary">Telefonunuz ve kişisel verileriniz bilinmeyen kaynaklardan gelen saldırılara karşı savunmasızdır. Bu kaynaktan uygulama yükleyerek bu uygulamaları kullanmanız sonucunda telefonunuzun başına gelebilecek her tür hasardan ve veri kaybından kendinizin sorumlu olduğunu kabul etmiş olursunuz</string>
     <string name="user_is_not_allowed_dlg_text">Mevcut kullanıcının kaldırma işlemini gerçekleştirme izni yok</string>
     <string name="user_is_not_allowed_dlg_title">İzin verilmedi</string>
-    <string name="v7_preference_off">OFF</string>
-    <string name="v7_preference_on">ON</string>
+    <string name="v7_preference_off">Kapalı</string>
+    <string name="v7_preference_on">Açık</string>
     <string name="virus_scan_caller_unknown">Bilinmiyor</string>
     <string name="virus_scan_clear">Kaldır</string>
     <string name="virus_scan_install"><u>Yine de yükle</u></string>
