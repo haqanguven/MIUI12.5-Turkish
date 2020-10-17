@@ -1695,6 +1695,8 @@ Bu durum, baloncuk kullanmasına izin verilen diğer uygulamaları veya görüş
     <string name="continue_reset_factory">Fabrika ayarları</string>
     <string name="contributors_title">Katkıda bulunanlar</string>
     <string name="control_center">Kontrol merkezi</string>
+    <string name="control_center_style">Kontrol merkezi stili</string>
+    <string name="control_center_style_summary">Geçiş anahtarlarını ve bildirimleri nasıl görüntülemek istediğinizi seçin</string>
     <string name="controls_label">Denetimler</string>
     <string name="controls_subtitle">Pil kullanımını ayarla</string>
     <string name="convenience_key_category_title">Sistem kontrolü</string>
@@ -3335,6 +3337,8 @@ Xiaomi bulutu açın ve oradan öğeleri geri yükleyin"</string>
     <string name="led_pulse_summary">Yeni bildirim alındığında bildirim ışığını yak söndür</string>
     <string name="led_settings">Bildirim ışığı</string>
     <string name="left_function_key">Sol kısayol</string>
+    <string name="legacy_control_center_desc">Geçiş ve bildirimleri görüntülemek için durum çubuğunu aşağı çekin</string>
+    <string name="legacy_control_center_title">Eski sürüm</string>
     <string name="legacy_navigation_summary">Geri gitme, Ana sayfaya gitme ve uygulamalar arasında geçiş yapma işlemleri için ekranınızın altındaki simgeleri kullanın</string>
     <string name="legacy_navigation_title">3 düğmeli gezinme</string>
     <string name="legal_information">Yasal bilgiler</string>
@@ -3462,6 +3466,7 @@ Xiaomi bulutu açın ve oradan öğeleri geri yükleyin"</string>
     <string name="lock_profile_wipe_warning_content_password">İş şifrenizi bu defa yanlış girmeniz durumunda iş profiliniz ve ilgili veriler bu cihazdan silinecektir</string>
     <string name="lock_profile_wipe_warning_content_pattern">İş deseninizi bu denemenizde yanlış girmeniz durumunda iş profiliniz ve ilgili veriler bu cihazdan silinecektir</string>
     <string name="lock_profile_wipe_warning_content_pin">İş deseninizi bu denemenizde yanlış girmeniz durumunda iş profiliniz ve ilgili veriler bu cihazdan silinecektir</string>
+    <string name="lock_screen_action">Kilit ekranında gösterilen öğeler</string>
     <string name="lock_screen_display_category_name">Kilit ekranı</string>
     <string name="lock_screen_intro_skip_dialog_text">Cihaz koruma özellikleri etkinleştirilmeyecek. Dolayısıyla telefon kaybolduğunda veya çalındığında başkalarının bu telefonu kullanmasını önleyemeyeceksiniz</string>
     <string name="lock_screen_intro_skip_dialog_text_frp">Cihaz koruma özellikleri etkinleştirilmeyecek. Dolayısıyla telefon kaybolduğunda, çalındığında veya sıfırlandığında başkalarının bu telefonu kullanmasını önleyemeyeceksiniz</string>
@@ -4000,6 +4005,8 @@ Cihazınızı yeniden başlatın ve tekrar deneyin"</string>
     <string name="model_name">Model</string>
     <string name="model_number">Cihaz modeli</string>
     <string name="model_summary">Model: %1$s</string>
+    <string name="modern_control_center_desc">Bildirimleri görüntülemek için soldaki durum çubuğunu aşağı çekin. Kontrol merkezini açmak için sağdaki durum çubuğunu aşağı çekin</string>
+    <string name="modern_control_center_title">Yeni sürüm</string>
     <string name="modify_default_browser_message">Üçüncü taraf bir uygulamayı varsayılan tarayıcınız olarak ayarlarsanız tarama geçmişinizi ve diğer verileri toplamaya başlayabilir. Yinede ayarlansın mı?</string>
     <string name="modify_instruction_password_settings">Şifre oluştur</string>
     <string name="modify_privacy_password">Şifreyi değiştir</string>
@@ -4356,6 +4363,8 @@ Bu izin, uygulamaya, Rahatsız Etmeyin ayarını açma veya kapatma ve ilgili ay
     <string name="notification_channels_other">Diğer</string>
     <string name="notification_content_block_summary">Bildirimleri hiçbir zaman gölgede veya çevre birimi cihazlarında gösterme</string>
     <string name="notification_content_block_title">Bildirim göster</string>
+    <string name="notification_control_center">Bildirimler &amp; kontrol merkezi</string>
+    <string name="notification_display_settings">Bildirim gölgesi</string>
     <string name="notification_fold_description1">Bu özellik önemsiz bildirimleri filtreler ve bu bildirimleri ayrı bir klasöre yerleştirir</string>
     <string name="notification_fold_description2">Miui dokunduğunuz bildirimleri hatırlar ve bu bildirimlerin önemli olup olmadığını belirlemek için birkaç kriter kullanır</string>
     <string name="notification_fold_description3">Önemli olduğunu düşündüğünüz bir bildirim halen bildirim klasörüne gidiyorsa bu tarz sorunları bize bildirdiğinizden emin olun. Geri bildiriminiz bizim için önemlidir</string>
@@ -4415,7 +4424,7 @@ Bu izin uygulamaya rahatsız etme ayarını açma veya kapatma ve ilgili ayarlar
     <string name="notification_log_details_visibility">görünürlük</string>
     <string name="notification_log_no_title">(Yok)</string>
     <string name="notification_log_title">Bildirim günlüğü</string>
-    <string name="notification_many_channel_count_summary">%1$d bildirim kanalı. Tümünü yönetmek için dokunun.</string>
+    <string name="notification_many_channel_count_summary">%1$d bildirim kanalı. Tümünü yönetmek için dokunun</string>
     <string name="notification_pulse_title">Işığı yakıp söndür</string>
     <string name="notification_reboot_btn">Yeniden başlat</string>
     <string name="notification_reboot_summary_hm">Cihazınızı yeniden başlatmak için dokunun</string>
@@ -4423,7 +4432,8 @@ Bu izin uygulamaya rahatsız etme ayarını açma veya kapatma ve ilgili ayarlar
     <string name="notification_reboot_title_hm">Güncellemeyi tamamlamak için yeniden başlatın</string>
     <string name="notification_remind">Bildirimler</string>
     <string name="notification_ringtone_title">Varsayılan bildirim sesi</string>
-    <string name="notification_settings_work_profile">İş profilindeki uygulamalar için bildirim erişimi kullanılamaz.</string>
+    <string name="notification_settings">Bildirimler</string>
+    <string name="notification_settings_work_profile">İş profilindeki uygulamalar için bildirim erişimi kullanılamaz</string>
     <string name="notification_shade_shortcut_title">Bildirim çubuğu kısayolu</string>
     <string name="notification_show_lights_title">Işığı yakıp söndür</string>
     <string name="notification_silence_title">Sessiz</string>
@@ -5114,7 +5124,7 @@ UT arayüzü: %5$s"</string>
     <string name="recent_location_requests_title">Konum erişimi</string>
     <string name="recent_notifications">En son gönderilenler</string>
     <string name="recent_notifications_see_all_title">Son 7 gün içinde kullanılan tüm uygulamaları görün</string>
-    <string name="recently_installed_app">Yakın zamanda bu uygulamayı yüklediniz.</string>
+    <string name="recently_installed_app">Yakın zamanda bu uygulamayı yüklediniz</string>
     <string name="recommend_item_1">Telefon kılıfı</string>
     <string name="recommend_item_2">Mi band</string>
     <string name="recommend_item_3">Güç bankası</string>
@@ -5123,9 +5133,9 @@ UT arayüzü: %5$s"</string>
     <string name="recommend_tip">Diğer ayarlara mı ihtiyacınız var?</string>
     <string name="recompute_size">Boyut yeniden hesaplanıyor</string>
     <string name="regional_screen_shot">Kısmi ekran görüntüsü</string>
-    <string name="register_automatically">Otomatik kayıt...</string>
-    <string name="register_on_network">%s ağına kaydediliyor...</string>
-    <string name="registration_done">Ağa kaydedildi.</string>
+    <string name="register_automatically">Otomatik kayıt</string>
+    <string name="register_on_network">%s ağına kaydediliyor</string>
+    <string name="registration_done">Ağa kaydedildi</string>
     <string name="regulatory_info_text" />
     <string name="regulatory_labels">Yönetmelik etiketleri</string>
     <string name="remaining_length_format">%1$s kaldı</string>
@@ -5141,6 +5151,7 @@ UT arayüzü: %5$s"</string>
     <string name="repeat_call">Tekrarlanan aramaları bildir</string>
     <string name="repeat_call_info">Sessiz modda 15 dakika içerisinde tekrarlanan aramalar için ses çal</string>
     <string name="repeat_title">Tekrarla</string>
+    <string name="requires_modern_control_center">Kontrol merkezinin yeni sürümüyle çalışır</string>
     <string name="reset_aaid">Reklam tanımlayıcıyı sıfırla</string>
     <string name="reset_app_preferences">Uygulama tercihlerini sıfırla</string>
     <string name="reset_app_preferences_button">Uygulamaları sıfırla</string>
@@ -5159,7 +5170,7 @@ UT arayüzü: %5$s"</string>
     <string name="reset_dashboard_title">Seçenekleri sıfırla</string>
     <string name="reset_default_apn_failed">Varsayılan apn sıfırlanamadı</string>
     <string name="reset_esim_desc">"Telefondaki tüm eSim'ler silinsin. eSim'lerinizi yeniden indirmek için operatörünüzle iletişim kurmanız gerekir. Bu işlem mobil hizmet planınızı iptal etmez"</string>
-    <string name="reset_esim_error_msg">"eSim'ler bir hata nedeniyle sıfırlanamıyor."</string>
+    <string name="reset_esim_error_msg">"eSim'ler bir hata nedeniyle sıfırlanamıyor"</string>
     <string name="reset_esim_error_title">"eSim'ler sıfırlanamıyor"</string>
     <string name="reset_esim_title">"eSim'i de sıfırla"</string>
     <string name="reset_legacy_password_settings_preface_text">Kilit ekranı şifrenizi sıfırlamanız gerekmektedir</string>
@@ -5909,6 +5920,7 @@ Not: Bu cihazın kilidini açmak için parmak izinizi kullanamazsınız. Daha fa
     <string name="show_all_anrs_summary">Arkaplan uygulamaları için uygulama yanıt vermiyor diyaloğunu gösterir</string>
     <string name="show_all_apps">Tam cihaz kullanımını göster</string>
     <string name="show_background_processes">Önbellekteki işlemleri göster</string>
+    <string name="show_badge_notifications_short">Rozetler</string>
     <string name="show_carrier_under_keyguard_title">Operatör adı</string>
     <string name="show_connected_devices_summary">Bağlı cihazları görüntüle</string>
     <string name="show_connected_devices_title">Bağlı cihazlar</string>
