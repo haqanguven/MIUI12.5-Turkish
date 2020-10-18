@@ -320,8 +320,8 @@ ve tercihleri otomatik olarak ayarla"</string>
     <string name="autozoom_hint">Hareket eden cismi takip et</string>
     <string name="autozoom_landscape_hint">En iyi etki için yatay modda çekim yapın</string>
     <string name="auxiliary_close_status">Ek efektler kapalı</string>
-    <string name="auxiliary_exposure_feedback_status">Pozlama doğrulama açık</string>
-    <string name="auxiliary_focus_peak_status">Odaklama yardımcısı açık</string>
+    <string name="auxiliary_exposure_feedback_status">Poz doğrulama açık</string>
+    <string name="auxiliary_focus_peak_status">Odak yardımcısı açık</string>
     <string name="back_andromeda">2:MI MIX 3 5G:AI DUAL CAMERA</string>
     <string name="back_apollo">3:SHOT ON MI PHONE</string>
     <string name="back_apollo_global">3:SHOT ON MI PHONE</string>
@@ -555,7 +555,7 @@ ve tercihleri otomatik olarak ayarla"</string>
     <string name="confirm_recording_fail_title">Kayıt edilemiyor</string>
     <string name="confirm_reset_manually_parameter_message">Tüm parametreler varsayılan değerlerine sıfırlansın mı?</string>
     <string name="confirm_restore_message">Kamera ayarları sıfırlansın mı?</string>
-    <string name="confirm_restore_title">Varsayılan ayarlara sıfırla</string>
+    <string name="confirm_restore_title">Varsayılan ayarlar</string>
     <string name="copy">Kopyala</string>
     <string name="cta_msg">Kameraya hoş geldiniz! Fotoğraf çekmek ve video çekmek için bu uygulamayı kullanabilirsiniz. Bu uygulamanın internete bağlanması ve aşağıdaki isteğe bağlı izinleri gerektirmesi gerekir:</string>
     <string name="cta_perm_dec">Fotoğraflara ve videolara konum bilgisi eklemek için</string>
@@ -575,7 +575,7 @@ ve tercihleri otomatik olarak ayarla"</string>
     <string name="custom_tint_color_sky_cyan">Cam göbeği</string>
     <string name="custom_watermark_contains_senstive_words">Filigranlar kısıtlı öğeleri içeremez (%1$s)</string>
     <string name="custom_watermark_tips">Metin filigranınızın ikinci satırı olarak gözükecektir. 18 harf veya 14 Çince karaktere kadar içerebilir</string>
-    <string name="custom_watermark_tips_gen2">En çok %1$d çince karakter veya %2$d harf</string>
+    <string name="custom_watermark_tips_gen2">En fazla %1$d karakter veya %2$d harf yazabilirsiniz</string>
     <string name="custom_watermark_too_many_words">Girdiğiniz metin çok uzun</string>
     <string name="custom_watermark_words">Özel filigran</string>
     <string name="custom_watermark_words_input_hint">Metin girin</string>
@@ -909,7 +909,7 @@ daha büyük göstermek için Makro modu kullanın"</string>
     <string name="module_name_edit">Düzenle</string>
     <string name="module_name_edit_favorite_title">Başlangıç ekranı</string>
     <string name="module_name_edit_full_toast">Başlangıç ekranı dolu</string>
-    <string name="module_name_edit_sub_title">Yeniden düzenlemek istediğiniz bir ögenin üzerine basın ve basılı tutun</string>
+    <string name="module_name_edit_sub_title">Yeniden düzenlemek istediğiniz bir öğenin üzerine basın ve basılı tutun</string>
     <string name="module_name_edit_title">Özellikler</string>
     <string name="module_name_edit_unfavorite_title">Daha fazla özellik</string>
     <string name="module_name_fun">Kısa video</string>
@@ -928,8 +928,8 @@ daha büyük göstermek için Makro modu kullanın"</string>
     <string name="moive_frame">Film çerçevesi</string>
     <string name="moon">Moon</string>
     <string name="more_mode_style">Tüm kamera modlarını nasıl düzenlemek istediğinizi seçin</string>
-    <string name="more_mode_style_popup">Daha paneli</string>
-    <string name="more_mode_style_tab">Daha sekmesi</string>
+    <string name="more_mode_style_popup">Kaydırma paneli</string>
+    <string name="more_mode_style_tab">Sekmeler</string>
     <string name="multi_window_mode_not_supported">Kamera çoklu pencere modunda kullanılamıyor</string>
     <string name="music_hint_tt">Hizmet kaynağı</string>
     <string name="network_access_user_notice_agree">Kabul et</string>
@@ -957,13 +957,13 @@ daha büyük göstermek için Makro modu kullanın"</string>
     <string name="parameter_description_pro_video_title">Video çekmek için pro özellikler</string>
     <string name="parameter_description_sub_title">Fotoğraf ve videolarınız üzerinde daha yaratıcı kontrol sahibi olun</string>
     <string name="parameter_ef_split_description">Poz halkasını odak halkasından daha uzağa sürükleyebilir ve parametreleri ayrı ayrı ayarlayabilirsiniz</string>
-    <string name="parameter_ef_split_title">Odaklama ve poz ölçümünü ayırın</string>
+    <string name="parameter_ef_split_title">Odak ve poz ölçümünü ayırın</string>
     <string name="parameter_et_description">Otomatik obtüratör hızı kameranın ışık ölçeri tarafından belirlenir. Manuel olarak obtüratör hızını seçtiğinizde obtüratör ne kadar uzun süre açık kalırsa resmi daha parlak yapan sensörün o kadar çok ışık alacağını unutmayın</string>
     <string name="parameter_et_title">Obtüratör hızı</string>
     <string name="parameter_exposure_description">Bu özellik resminizin, ölçerin önerdiğinden daha parlak veya daha koyu olmasını istediğinizde pozu telafi etmenize izin verir</string>
     <string name="parameter_exposure_feecback_description">Pozlamayı doğru şekilde ayarlamak için mavi renkteki az pozlanmış alanları ve kırmızı renkteki aşırı pozlanmış alanları vurgulayın</string>
-    <string name="parameter_exposure_feecback_title">Pozlama doğrulama</string>
-    <string name="parameter_exposure_title">Pozlama dengeleme</string>
+    <string name="parameter_exposure_feecback_title">Poz doğrulama</string>
+    <string name="parameter_exposure_title">Poz dengeleme</string>
     <string name="parameter_focus_description">Manuel olarak ve otomatik olarak odaklayabilirsiniz. Kaydırıcıda ne kadar büyük odak değeri seçerseniz odak alanı lensten o kadar uzak olacaktır</string>
     <string name="parameter_focus_title">Odakla</string>
     <string name="parameter_histogram_description">Histogram görüntünün solunda en koyu kısımları ve sağında en parlak kısımları belirten eş zamanlı bir pozlama sunumudur. Ölçeğin dikey kısmı görüntünün ne kadar parlak veya koyu olduğunu gösterir</string>
@@ -984,7 +984,7 @@ daha büyük göstermek için Makro modu kullanın"</string>
     <string name="parameter_metering_description">Ortalama ölçüm en küçün alanlarda dahi en iyisi için çalışarak görüntünüzün bütün alanlarını hesaba katar. Merkez ağırlıklı ölçüm ana olarak çerçevedeki merkez alana odaklanır ve çerçevenin merkezindeki özneleri çekmek için uygun olan çevre alanının parlaklığına özen gösterir. Nokta ölçüm poz üzerinde size özel bir kontrol vererek sadece tek bir noktadaki alanı kaplar</string>
     <string name="parameter_metering_title">Ölçüm modları</string>
     <string name="parameter_peak_focus_description">Manuel olarak odakladığınız zaman odak alanına kırmızı bir vurgu yerleştirmek için odak yardımcısını kullanın</string>
-    <string name="parameter_peak_focus_title">Odaklama yardımcısı</string>
+    <string name="parameter_peak_focus_title">Odak yardımcısı</string>
     <string name="parameter_peak_raw_description">Bu görüntü formatı siz fotoğraf çektiğinizde sensör tarafından kaydedilen bütün görüntü verilerini yakalar. Sıkıştırılmamış veriler size işlem sonrası daha fazla seçenek sunar</string>
     <string name="parameter_peak_raw_title">RAW formatı</string>
     <string name="parameter_videos_title">videos_title</string>
@@ -1079,13 +1079,13 @@ Arkaplanı bulanıklaştırırken nesneyi netleştirin"</string>
     <string name="pref_camera_autoexposure_entry_centerweighted">Merkez ağırlıklı</string>
     <string name="pref_camera_autoexposure_entry_frameaverage">Matris</string>
     <string name="pref_camera_autoexposure_entry_spotmetering">Spot</string>
-    <string name="pref_camera_autoexposure_title">Otomatik pozlama ayarları</string>
+    <string name="pref_camera_autoexposure_title">Otomatik poz ayarları</string>
     <string name="pref_camera_autoexposure_value_centerweighted">1</string>
     <string name="pref_camera_autoexposure_value_frameaverage">0</string>
     <string name="pref_camera_autoexposure_value_spotmetering">2</string>
     <string name="pref_camera_auxiliary_close">Kapalı</string>
-    <string name="pref_camera_auxiliary_exposure_feedback">Pozlama doğrulama</string>
-    <string name="pref_camera_auxiliary_focus_peak">Odaklama yardımcısı</string>
+    <string name="pref_camera_auxiliary_exposure_feedback">Poz doğrulama</string>
+    <string name="pref_camera_auxiliary_focus_peak">Odak yardımcısı</string>
     <string name="pref_camera_auxiliary_title">Yardımcı</string>
     <string name="pref_camera_beautify_entry_high">Yüksek</string>
     <string name="pref_camera_beautify_entry_low">Düşük</string>
@@ -1193,7 +1193,7 @@ Arkaplanı bulanıklaştırırken nesneyi netleştirin"</string>
     <string name="pref_camera_exposuretime_entry_8s">8</string>
     <string name="pref_camera_exposuretime_entry_auto">Otomatik</string>
     <string name="pref_camera_exposuretime_entry_auto_abbr">AUTO</string>
-    <string name="pref_camera_face_info_watermark_title">Fotoğraflara yaş etiketi ekle</string>
+    <string name="pref_camera_face_info_watermark_title">Fotoğraf yaş etiketi</string>
     <string name="pref_camera_facedetection_auto_hidden_title">Yüz algılama otomatik gizli</string>
     <string name="pref_camera_facedetection_title">Yüz algılama</string>
     <string name="pref_camera_fastmotion_duration">Süre</string>
@@ -1342,7 +1342,7 @@ Arkaplanı bulanıklaştırırken nesneyi netleştirin"</string>
     <string name="pref_camera_portrait_mode_entry_on">Portre modu açık</string>
     <string name="pref_camera_portrait_mode_title">Portre modu</string>
     <string name="pref_camera_portrait_with_facebeauty_title">Portre modunda güzelleştirme</string>
-    <string name="pref_camera_proximity_lock_summary">Cihaz cebe koyulduğunda dokunma hareketlerini kitle</string>
+    <string name="pref_camera_proximity_lock_summary">Cihaz cebe koyulduğunda dokunma hareketlerini kilitler</string>
     <string name="pref_camera_proximity_lock_title">Cep modu</string>
     <string name="pref_camera_quick_settings">Hızlı ayarlar</string>
     <string name="pref_camera_quick_shot_anim_enable_title">Hızlı çekim animasyonunu etkinleştirin</string>
@@ -1353,8 +1353,8 @@ Arkaplanı bulanıklaştırırken nesneyi netleştirin"</string>
     <string name="pref_camera_recordlocation_default">false</string>
     <string name="pref_camera_recordlocation_entry_off">Kapalı</string>
     <string name="pref_camera_recordlocation_entry_on">Açık</string>
-    <string name="pref_camera_recordlocation_title">Konum bilgilerini kaydet</string>
-    <string name="pref_camera_referenceline_title">Kılavuz çizgilerini göster</string>
+    <string name="pref_camera_recordlocation_title">Konum bilgisini kaydet</string>
+    <string name="pref_camera_referenceline_title">Kılavuz çizgileri</string>
     <string name="pref_camera_saturation_default">3</string>
     <string name="pref_camera_saturation_title">Doygunluk</string>
     <string name="pref_camera_scenemode_entry_auto">Otomatik</string>
@@ -1434,7 +1434,7 @@ Arkaplanı bulanıklaştırırken nesneyi netleştirin"</string>
     <string name="pref_camera_volumekey_function_entryvalue_volume">volume</string>
     <string name="pref_camera_volumekey_function_entryvalue_zoom">zoom</string>
     <string name="pref_camera_volumekey_function_title">Ses tuşları fonksiyonu</string>
-    <string name="pref_camera_watermark_title">Fotoğraflara zaman etiketi ekle</string>
+    <string name="pref_camera_watermark_title">Fotoğraf zaman etiketi</string>
     <string name="pref_camera_whitebalance_default">1</string>
     <string name="pref_camera_whitebalance_entry_auto">Otomatik</string>
     <string name="pref_camera_whitebalance_entry_auto_abbr">AUTO</string>
@@ -1469,7 +1469,7 @@ Arkaplanı bulanıklaştırırken nesneyi netleştirin"</string>
     <string name="pref_capture_settings">Kamera</string>
     <string name="pref_custom_feature_layout_title">Özellik düzeni</string>
     <string name="pref_custom_shutter_sound_title">Ses</string>
-    <string name="pref_custom_tint_title">Renkler</string>
+    <string name="pref_custom_tint_title">Renk</string>
     <string name="pref_customization_title">Özelleştir</string>
     <string name="pref_document_mode">Belgeler</string>
     <string name="pref_dual_camera_video">Ön &amp; arka</string>
@@ -1515,7 +1515,7 @@ Arkaplanı bulanıklaştırırken nesneyi netleştirin"</string>
     <string name="pref_pic_flaw_tip_title">Hataları bildir</string>
     <string name="pref_popup_camera_title">Patlayan kamera</string>
     <string name="pref_priority_storage_title">SD karta kaydet</string>
-    <string name="pref_privacy_title">Gizlilik Politikası</string>
+    <string name="pref_privacy_title">Gizlilik politikası</string>
     <string name="pref_pro_video_volumekey_function_default">shutter</string>
     <string name="pref_qc_focus_position_title">F</string>
     <string name="pref_qc_focus_position_title_abbr">F</string>
@@ -1550,7 +1550,7 @@ Arkaplanı bulanıklaştırırken nesneyi netleştirin"</string>
     <string name="pref_video_focusmode_entry_continuous">CAF</string>
     <string name="pref_video_focusmode_entryvalue_auto">auto</string>
     <string name="pref_video_focusmode_entryvalue_continuous">continuous-video</string>
-    <string name="pref_video_focusmode_title">Odaklama modu</string>
+    <string name="pref_video_focusmode_title">Odak modu</string>
     <string name="pref_video_hfr_entryvalue_default">1920x1080:120</string>
     <string name="pref_video_hfr_title">Video HFR</string>
     <string name="pref_video_quality_1080P">6</string>
@@ -1683,7 +1683,7 @@ Arkaplanı bulanıklaştırırken nesneyi netleştirin"</string>
     <string name="timbre_robot">Robot</string>
     <string name="time_lapse_error">Bu video boyutu hızlandırılmış çekim için kullanılamıyor</string>
     <string name="timer_burst">Zamanlanmış çekim</string>
-    <string name="timer_burst_manu_param_interval">Pozlama olmadan aralık</string>
+    <string name="timer_burst_manu_param_interval">Poz olmadan aralık</string>
     <string name="timer_burst_param_interval">Aralık</string>
     <string name="timer_burst_param_total_count">Fotoğraf sayısı</string>
     <string name="title_snap_double_confirm">Yeniden doğrulayın</string>
