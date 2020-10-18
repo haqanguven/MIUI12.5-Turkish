@@ -1409,8 +1409,8 @@ Arkaplanı bulanıklaştırırken nesneyi netleştirin"</string>
     <string name="pref_camera_touchafaec_entry_off">Kapalı</string>
     <string name="pref_camera_touchafaec_entry_on">Açık</string>
     <string name="pref_camera_ubifocus_title">Yeniden odakla</string>
-    <string name="pref_camera_ultra_wide_ldc_description">Bozulmuş cisimleri otomatik olarak düzeltin</string>
-    <string name="pref_camera_ultra_wide_ldc_title">Ultra geniş çekimlerde bozulmaları düzeltin</string>
+    <string name="pref_camera_ultra_wide_ldc_description">Ultra geniş çekimlerde bozulmaları otomatik olarak düzeltin</string>
+    <string name="pref_camera_ultra_wide_ldc_title">Bozulmaları düzelt</string>
     <string name="pref_camera_ultra_wide_mode_title">Ultra geniş açı modu</string>
     <string name="pref_camera_video_8k_tips">8K</string>
     <string name="pref_camera_video_bokeh_off">Video bokeh kapalı</string>
