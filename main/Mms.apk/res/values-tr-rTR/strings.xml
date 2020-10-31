@@ -464,6 +464,7 @@
     <string name="from_pkg_name">Uygulamadan:</string>
     <string name="ft_cfs_dialog_content">Dosyalar Rcs kullanılarak teslim edilemedi. Bunun yerine kısa mesajla bağlantı gönderilsin mi?</string>
     <string name="ft_cfs_dialog_title">Alternatif dosya aktarımı</string>
+    <string name="go_to">Git</string>
     <string name="google_message_promo_content">"Xiaomi Google'dan mesajlar'a geçmenizi önerir. Wifi üzerinden metin yazmanıza, yüksek kaliteli medya paylaşmanıza ve daha fazlasını yapmanıza izin verir. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Detayları göster</a></font></string>
     <string name="google_message_promo_title">Mesajlaşma uygulamanızı yükseltin</string>
     <string name="group_already_kicked_hint">Bu grupta değilsiniz. Mesaj gönderemezsiniz</string>
@@ -528,6 +529,7 @@
     <string name="loading_mms">Yalnızca bir saniye</string>
     <string name="manage_permission_app_label">Cihaz izinleri</string>
     <string name="mark_number_by_own_dialog_subtitle">%1$s olarak işaretlendi</string>
+    <string name="marketSdkVersion">3.2.5</string>
     <string name="me">Ben</string>
     <string name="menu_add_black">Bu numarayı engelle</string>
     <string name="menu_add_contact">Mevcut kişiye ekle</string>
@@ -1439,6 +1441,9 @@ Son deneme: %s"</string>
     <string name="wednesday_shortest">Ç</string>
     <string name="wild_msg_processing">Çalışıyor</string>
     <string name="wild_msg_title">Senkronize edilecek telefon numaralarını seçin</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">İptal et</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Tamam</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">%s yeni sürüm</string>
     <string name="yellowpage_recommend_msg">"Miui'nın mesajlaşma özelliklerini kontrol edin"</string>
     <string name="yes">Tamam</string>
     <string name="yesterday">Dün</string>

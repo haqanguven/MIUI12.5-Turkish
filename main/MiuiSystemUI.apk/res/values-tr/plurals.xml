@@ -128,10 +128,6 @@
         <item quantity="other">Bildirim çubuğunda %1$d anahtar görüntülenir</item>
         <item quantity="one">Bildirim çubuğunda %1$d anahtar görüntülenir</item>
     </plurals>
-    <plurals name="status_bar_accessibility_recent_apps">
-        <item quantity="other">%d son uygulama</item>
-        <item quantity="one">%d son uygulama</item>
-    </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">Açık</item>
         <item quantity="one">Güneşli</item>

@@ -169,7 +169,7 @@
     <string name="antivirus_privacy_dialog_cloudscan">Uygulama adlarını ve detaylarını karşıya yükle</string>
     <string name="antivirus_privacy_dialog_cloudscan_description">Uygulama isimlerini ve ayrıntıları yükle ve çevrimiçi virüs veritabanını kullanarak tara</string>
     <string name="antivirus_privacy_dialog_ok">Tamam</string>
-    <string name="antivirus_privacy_dialog_summary_new"><Data>Bu özellik Avast, AVL ve Tencent tarafından sağlanan antivirüs tanımlarını kullanır. Daha fazla bilgi edinmek için ilgili &lt;a href=\"%1$s\">lisans sözleşmelerini&lt;/a> okuyun</Data></string>
+    <string name="antivirus_privacy_dialog_summary">This feature is powered by a third party antivirus engine. To learn more, read the <a href="%1$s">License Agreement</a> provided by the third party.</string>
     <string name="antivirus_privacy_dialog_summary_link">Gizlilik politikası</string>
     <string name="antivirus_privacy_dialog_title">Gizlilik politikası</string>
     <string name="antivirus_sec_network_unavailable">Güvenlik uygulaması internet erişimini kısıtlamış olduğunuzdan dolayı güncellenemiyor. Güvenlik uygulamasının internete bağlanmasına izin verilsin mi?</string>
@@ -662,6 +662,7 @@ Kişisel kırmızı zarfı destekleyin ve kırmızı zarfı gruplayın
     <string name="battery_estimate_charge_time_title">Şarj süresi</string>
     <string name="battery_estimate_usage_time_title">Kullanım süresi</string>
     <string name="battery_health_left_battery_text">Kalan pil</string>
+    <string name="battery_health_level_text">Pil sağlığı</string>
     <string name="battery_health_status_text">Pil durumu</string>
     <string name="battery_health_temperature_text">Pil sıcaklığı</string>
     <string name="battery_health_title_text">Pil sağlığı</string>
@@ -686,14 +687,18 @@ Kişisel kırmızı zarfı destekleyin ve kırmızı zarfı gruplayın
     <string name="battery_stats_wake_lock_label">Uyanık</string>
     <string name="battery_stats_wifi_running_label">Wifi</string>
     <string name="battery_status_good">Normal çalışıyor</string>
+    <string name="battery_status_level_excellent">Mükemmel</string>
+    <string name="battery_status_level_good">İyi</string>
+    <string name="battery_status_level_normal">Normal</string>
+    <string name="battery_status_level_poor">Kötü</string>
     <string name="battery_status_overheat">Aşırı ısındı</string>
     <string name="battery_status_unknown">Bilinmeyen hata</string>
     <string name="battery_temperature_title">Sıcaklık</string>
     <string name="begin_date">Kullanım periyodu sıfırlama tarihi</string>
     <string name="best_booster_status">Oyun hızlandırıcı şimdi kullanılabilir</string>
     <string name="best_warning_dialog_button">Biliyorum</string>
-    <string name="best_warning_dialog_message">İpuçları: Xiaomi kırmızı paket asistanını kullandıktan sonra kırmızı paket kapma hızınızı artırır. Ancak elleriniz çok hızlıysa her defasında kırmızı bir zarf alan ilk kişi olacaksınız. <font color="'#e56255'">"\"\"\"WeChat'in otomatik olarak kırmızı zarf toplama eklentisini daha sonra kırmızı zarf işlevini kullanımınızı etkilemek için kullanma şansı vardır.\"\"\""</font> Bu nedenle bazen ritmi kontrol etmek ve kırmızı zarfı kapmak için elinizi kaldırmak daha iyidir. Kırmızı zarflar iyi olsa da çok açgözlü olmayın~</string>
-    <string name="best_warning_dialog_message1">Xiaomi kırmızı paket asistanını kullandıktan sonra kırmızı paket kapma hızınızı artırır. Ancak eliniz çok hızlıysa her seferinde kırmızı zarfı ilk alan siz olacaksınız.<font color="'#e56255'">"\"\"\"WeChat'in otomatik olarak kırmızı zarf toplama eklentisini daha sonra kırmızı zarf işlevini kullanımınızı etkilemek için kullanma şansı vardır.\"\"\""</font> Daha sonra kırmızı zarf işlevini kullanımınızı etkiler. Bu nedenle bazen ritmi kontrol etmek ve kırmızı zarfı kapmak için elinizi kaldırmak daha iyidir. Kırmızı zarf iyi olsa da çok açgözlü olmayın~~</string>
+    <string name="best_warning_dialog_message">İpuçları: Xiaomi kırmızı paket asistanını kullandıktan sonra kırmızı paket kapma hızınızı artırır. Ancak elleriniz çok hızlıysa her defasında kırmızı bir zarf alan ilk kişi olacaksınız. <font color="'#e56255'">"\"\"\"\"WeChat'in otomatik olarak kırmızı zarf toplama eklentisini daha sonra kırmızı zarf işlevini kullanımınızı etkilemek için kullanma şansı vardır.\"\"\"\""</font> Bu nedenle bazen ritmi kontrol etmek ve kırmızı zarfı kapmak için elinizi kaldırmak daha iyidir. Kırmızı zarflar iyi olsa da çok açgözlü olmayın~</string>
+    <string name="best_warning_dialog_message1">Xiaomi kırmızı paket asistanını kullandıktan sonra kırmızı paket kapma hızınızı artırır. Ancak eliniz çok hızlıysa her seferinde kırmızı zarfı ilk alan siz olacaksınız.<font color="'#e56255'">"\"\"\"\"WeChat'in otomatik olarak kırmızı zarf toplama eklentisini daha sonra kırmızı zarf işlevini kullanımınızı etkilemek için kullanma şansı vardır.\"\"\"\""</font> Daha sonra kırmızı zarf işlevini kullanımınızı etkiler. Bu nedenle bazen ritmi kontrol etmek ve kırmızı zarfı kapmak için elinizi kaldırmak daha iyidir. Kırmızı zarf iyi olsa da çok açgözlü olmayın~~</string>
     <string name="best_warning_dialog_title">İpuçları</string>
     <string name="bg_network_exception_title">Sınırlı arka plan ağ bağlantısı</string>
     <string name="bill_limit_notification_text_format">Kart: %1$s | Denge: %2$s CNY</string>
@@ -813,7 +818,6 @@ Kişisel kırmızı zarfı destekleyin ve kırmızı zarfı gruplayın
     <string name="card_main_private_space_summary">İkinci alanı kullanmak iki adet cihaza sahip olmak gibidir</string>
     <string name="card_main_private_space_title">İkinci alan</string>
     <string name="card_main_sectool_title">Araçlar</string>
-    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_xspace_action">Oluştur</string>
     <string name="card_main_xspace_summary">Dilediğiniz uygulama için çift hesap oluşturun</string>
     <string name="card_main_xspace_title">Çift uygulamalar</string>
@@ -858,8 +862,12 @@ Kişisel kırmızı zarfı destekleyin ve kırmızı zarfı gruplayın
     <string name="confirmSecondSpacePassword">İkinci alan şifresini onaylayın</string>
     <string name="confirm_bind_xiaomi_account_dialog_title">Mi hesabı ekleniyor</string>
     <string name="confirm_fingerprint_msg">Parmak izinizi doğrulayın</string>
+    <string name="confirm_leave">No thanks</string>
+    <string name="confirm_open">Turn on</string>
     <string name="confirm_prompt_all_permission">Tüm uygulamalar için izin istensin mi?</string>
     <string name="confirm_reject_all_permission">Tüm uygulamaların bu özelliği kullanımı kısıtlansın mı?</string>
+    <string name="confirm_take">Get</string>
+    <string name="confirm_upgrade">Options</string>
     <string name="connect_internet_by_mobiledata">Mobil veri bağlantısı</string>
     <string name="connect_internet_by_usbshare">USB üzerinden paylaşılan internet</string>
     <string name="connect_internet_by_wifi">Wifi</string>
@@ -1227,12 +1235,12 @@ arama geçmişine geri yüklensin mi?"</string>
     <string name="exit">Çıkış</string>
     <string name="exit_dialog_exit">Çıkış</string>
     <string name="exit_dialog_garbage_clean_message">"Cihazınızdaki çöp miktarı %s'den fazla. Çöp temizlensin mi?"</string>
-    <string name="exit_dialog_garbage_clean_message_new"><Data>Temizleyici &lt;font color=#0099ff>%s&lt;/font> depolama alanı boşaltabilir. Şimdi temizlensin mi?</Data></string>
+    <string name="exit_dialog_garbage_clean_message_new">Temizleyici <font color="#0099ff">%s</font> depolama alanı boşaltabilir. Şimdi temizlensin mi?</string>
     <string name="exit_dialog_garbage_clean_positive_button">Temizle</string>
     <string name="exit_dialog_garbage_clean_title">Çöpü temizle</string>
     <string name="exit_dialog_homepage_optimise_message">Cihazınızın performans puanı 80 puandan düşük. Şimdi optimize edilsin mi?</string>
     <string name="exit_dialog_release_memory_positive_button">Kapat</string>
-    <string name="exit_dialog_release_memory_title"><Data>Cihazınızı &lt;font color=#0099ff>%%%d&lt;/font> hızlandırın</Data></string>
+    <string name="exit_dialog_release_memory_title">Cihazınızı <font color="#0099ff">%%%d</font> hızlandırın</string>
     <string name="exit_dialog_release_storage_message">"Cihazınızdaki depolamanın %80'den fazlası dolu. Hiç kullanmadığınız uygulamaları kaldırarak yer açın"</string>
     <string name="exit_dialog_release_storage_positive_button">Boş alan</string>
     <string name="exit_dialog_release_storage_title">Boş alan</string>
@@ -1385,7 +1393,7 @@ arama geçmişine geri yüklensin mi?"</string>
     <string name="five_percent_total_pkg">%s (Aylık verinin %%5 oranı)</string>
     <string name="fixed_cellular_data_quota_monthly">Aylık veri limiti</string>
     <string name="fixed_package_tips">Sabit bir aylık akışın keyfini çıkarın. Eğer bunu aşarsanız ek kesintiler yaparsınız</string>
-    <string name="fixed_traffic_by_month">Sabit aylık akış</string>
+    <string name="fixed_traffic_quota">Data limit (mandatory)</string>
     <string name="float_window">Masaüstü yüzer pencere</string>
     <string name="float_window_summary">Sayfaları sallamak için hızlı atlamayı destekler</string>
     <string name="float_window_tips">Xiaomi cep telefonu hızlı</string>
@@ -1414,9 +1422,9 @@ arama geçmişine geri yüklensin mi?"</string>
     <string name="free_traffic_settings">İndirimli veri kullanım ayarları</string>
     <string name="full_fill_oprator_and_location">Operatör bilgilerinizi ve konumunuzu sağlayın</string>
     <string name="full_fill_sim_location">Önce konumu ayarlayın</string>
-    <string name="function_auto_reject_detail">"Bu özellik hakkında:
-1. Oyun oynarken mobil veri hizmeti olmadan Sim karta gelen tüm aramalar otomatik olarak reddedilecektir
-2. Cevapsız aramalarla ilgili bildirimler göreceksiniz ve diğer kişi o anda meşgul olduğunuzu söyleyen bir sesli mesaj duyacaktır
+    <string name="function_auto_reject_detail">"Bu özellik hakkında:\u000d
+1. Oyun oynarken mobil veri hizmeti olmadan Sim karta gelen tüm aramalar otomatik olarak reddedilecektir\u000d
+2. Cevapsız aramalarla ilgili bildirimler göreceksiniz ve diğer kişi o anda meşgul olduğunuzu söyleyen bir sesli mesaj duyacaktır\u000d
 3. Bu özellik yalnızca Çin'deki mobil operatörler tarafından desteklenmektedir"</string>
     <string name="function_auto_reject_title">Veri hizmeti olmadan Sim kartlarına yapılan VoLTE aramalarını reddet</string>
     <string name="function_close">Kapat</string>
@@ -1603,18 +1611,48 @@ arama geçmişine geri yüklensin mi?"</string>
     <string name="gb_storage_title">Masaüstü oyun simgelerini düzenle</string>
     <string name="gb_voice_change_settinged">Ses değiştirici açık</string>
     <string name="gb_voice_changer_cartoon">Karikatür</string>
+    <string name="gb_voice_changer_dialog_upgrade_vip">Renew your subscription to be able to use real-time feedback.</string>
     <string name="gb_voice_changer_dlg_button_agree">İzin ver</string>
     <string name="gb_voice_changer_dlg_button_refuse">Reddet</string>
     <string name="gb_voice_changer_dlg_title">Ses değiştirici</string>
+    <string name="gb_voice_changer_free">Free</string>
+    <string name="gb_voice_changer_gender_female">Female</string>
+    <string name="gb_voice_changer_gender_man">Male</string>
+    <string name="gb_voice_changer_headset">Connect earphones to use real-time feedback</string>
     <string name="gb_voice_changer_lady">Kadın</string>
     <string name="gb_voice_changer_loli">Kız</string>
     <string name="gb_voice_changer_men">Adam</string>
     <string name="gb_voice_changer_normal">Orijinal</string>
     <string name="gb_voice_changer_permission_dlg_msg">Ses değiştiricinin normal çalışabilmesi için ses kaydı yapabilmesi gerekir</string>
     <string name="gb_voice_changer_permission_dlg_title">İzinler gerekli</string>
+    <string name="gb_voice_changer_recommend">Recommended</string>
+    <string name="gb_voice_changer_renew_dailog">Renew your subscription to be able to use this effect.</string>
     <string name="gb_voice_changer_robot">Robot</string>
-    <string name="gb_wonderful_moment_toast_window_new_pop">Oyun oturumlarınızın
-önemli anlarını kaydedin</string>
+    <string name="gb_voice_changer_setting_account_title">Mi Account</string>
+    <string name="gb_voice_changer_setting_become_vip">Subscribe</string>
+    <string name="gb_voice_changer_setting_gender_subtitle">Adjust effects and recommendations to selected gender</string>
+    <string name="gb_voice_changer_setting_gender_title">Gender</string>
+    <string name="gb_voice_changer_setting_realtime_subtitle">Check how your voice changes in real time</string>
+    <string name="gb_voice_changer_setting_realtime_title">Real-time feedback</string>
+    <string name="gb_voice_changer_setting_rights">Terms of Service and Privacy Policy</string>
+    <string name="gb_voice_changer_toast_window_bubble_tips">"Try Voice changer now\u000d
+to get a 3-day free trial!"</string>
+    <string name="gb_voice_changer_toast_window_new_tips">"Try Voice changer!\u000d
+Switch between different characters and special effects."</string>
+    <string name="gb_voice_changer_toast_window_open">Turned on \"%s\" effect</string>
+    <string name="gb_voice_changer_toast_window_vip_expire">Your subscription is about to expire. Renew the subscription now to get benefits!</string>
+    <string name="gb_voice_changer_trial_gender_dialog">Received a free trial successfully! Select gender to adjust effects and recommendations accordingly.</string>
+    <string name="gb_voice_changer_trial_gender_dialog_title">Free trial</string>
+    <string name="gb_voice_changer_trial_progress_dialog_message">Receiving a free trial…</string>
+    <string name="gb_voice_changer_user_status_expired">Subscription expired</string>
+    <string name="gb_voice_changer_user_status_get_trial_card_dialog">"Get a %d-day free trial\u000d
+and explore our Voice changer!"</string>
+    <string name="gb_voice_changer_user_status_no_login">Sign in to Mi Account</string>
+    <string name="gb_voice_changer_user_status_remain_time">Expiration date: %s</string>
+    <string name="gb_voice_changer_user_status_renew">Renew</string>
+    <string name="gb_voice_changer_user_tips_info_vip_expire">Your subscriptions expired. Renew the subscription now to get benefits!</string>
+    <string name="gb_wonderful_moment_toast_window_new_pop">"Oyun oturumlarınızın\u000d
+önemli anlarını kaydedin"</string>
     <string name="gb_wonderful_video_cancel">İptal et</string>
     <string name="gb_wonderful_video_checkall">Tümünü seç</string>
     <string name="gb_wonderful_video_date_format">"dd'th',MMM."</string>
@@ -1625,7 +1663,7 @@ arama geçmişine geri yüklensin mi?"</string>
     <string name="gb_xunyou_gift_type_one">Xunyou 1 günlük destek</string>
     <string name="gb_xunyou_gift_type_three">Xunyou 3 günlük destek</string>
     <string name="gb_xunyou_gift_type_two">Xunyou 2 günlük destek</string>
-    <string name="gdpr_msg">"Güvenlik uygulamasının temel özelliklerini kullanabilmek için Xiaomi'nin kişisel verilerinizi toplayacağını kabul etmelisiniz. Güvenlik özellikleri cihazınızda belirtilen temel bilgiler ve diğer bilgileri içerir. "<a href="http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s">Gizlilik politikamıza</a> göz atın</string>
+    <string name="gdpr_msg">"\"Güvenlik uygulamasının temel özelliklerini kullanabilmek için Xiaomi'nin kişisel verilerinizi toplayacağını kabul etmelisiniz. Güvenlik özellikleri cihazınızda belirtilen temel bilgiler ve diğer bilgileri içerir. \""<a href="http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s">Gizlilik politikamıza</a> göz atın</string>
     <string name="ge">Daha</string>
     <string name="get_detail_by_click">Detaylar için tıklayın</string>
     <string name="get_sys_info">Bilgi alınıyor</string>
@@ -1697,7 +1735,7 @@ arama geçmişine geri yüklensin mi?"</string>
     <string name="gtb_setting_item_title_smart_5g">5G ağ optimizasyonu</string>
     <string name="gtb_setting_item_title_smart_wlan_speed">Mi wifi hız artışı</string>
     <string name="gtb_wlan_speed_tips">Mi wifi kullanılıyor</string>
-    <string name="guide_get_operator_error">"&lt;font color='#33b4ff'>&lt;U>Yanlış taşıyıcı mı?&lt;/U>&lt;/font>"</string>
+    <string name="guide_get_operator_error"><font color="'#33b4ff'">Yanlış taşıyıcı mı?</font></string>
     <string name="guide_operator_text">"Operatörünüz: "</string>
     <string name="guide_quck_open">Aç</string>
     <string name="guide_second_text">Operatörünüzü ayarlamanızdan sonra Miui operatörünüze günlük bazda ücretsiz mesaj göndererek mobil veri kullanımınızı izleyecektir. Miui tarife sınırınızı aştığınızı tespit ettiğinde ağ bağlantısını sonlandıracak ve sizi bilgilendirecektir</string>
@@ -1967,7 +2005,7 @@ bekleniyor"</string>
     <string name="memory_check_content">%s temizlendi</string>
     <string name="memory_clean_memory_size_tip">Önbellek</string>
     <string name="memory_clean_no_need_clean">Her şey yolunda gözüküyor</string>
-    <string name="memory_clean_no_need_clean_1" formatted="false">"%s temizlendi
+    <string name="memory_clean_no_need_clean_1" formatted="false">"%s temizlendi\u000d
 Cihazınız şimdi %%%d daha hızlı"</string>
     <string name="memory_clear_unused">Önbelleği temizle (%s)</string>
     <string name="memory_title">Kullanılan: %1$s Toplam: %2$s</string>
@@ -2120,19 +2158,19 @@ Cihazınız şimdi %%%d daha hızlı"</string>
     <string name="network_roaming_exception_tips">Dolaşım sırasında mobil veri kullanılarak ağa bağlanılamıyor</string>
     <string name="network_route_exception_detail">"Bağlanmış olduğunuz yönlendiricide bir sorun olabilir: 
  
-"<b>1. Halka açık wifi ağ sorunları</b>"
+\""<b>1. Halka açık wifi ağ sorunları</b>"\"
 Eğer halka açık bir wifi ağına bağlandıysanız ağa bağlı olan kullanıcı sayısı ağı yavaşlatıyor veya bağlantı sorunları oluşmasına neden oluyor olabilir. Başka bir ağa bağlanın ve ardından tekrar deneyin 
  
-"<b>2. İnternet servis sağlayıcısı sorunları</b>"
+\""<b>2. İnternet servis sağlayıcısı sorunları</b>"\"
 İnternet servis sağlayıcısı hesabınızda bir sorun olup olmadığından emin olun 
  
-"<b>3. Yönlendirici donanım sorunları</b>"
+\""<b>3. Yönlendirici donanım sorunları</b>"\"
 Yönlendiricinizin yönetici ayarlarını kontrol edin veya yönlendiricinizi yeniden başlatmayı deneyin 
  
-"<b>4. Diğer yönlendirici sorunları</b>"
+\""<b>4. Diğer yönlendirici sorunları</b>"\"
 Yönlendiriciniz ile birlikte gelen yönergeleri gözden geçirin ve yönlendiricinizi fabrika ayarlarına geri döndürün 
  
-"<b>5. Yönlendiricinizin doğru şekilde çalıştığından ve bağlandığından emin olun</b>"
+\""<b>5. Yönlendiricinizin doğru şekilde çalıştığından ve bağlandığından emin olun</b>"\"
 Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu değiştirmeyi deneyin. Eğer ev ağınızda bir sorun olduğundan şüpheleniyorsanız internet servis sağlayıcınızla iletişime geçin"</string>
     <string name="network_sim_exception_detail">"Sim kartınızda bir sorun olabilir: 
 
@@ -2157,6 +2195,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="nickname">Kullanıcı adı</string>
     <string name="no_game">Oyunlar bulunamadı</string>
     <string name="no_lucky_money">Kırmızı zarf alınmadı</string>
+    <string name="no_open">Not now</string>
     <string name="not_available">Hayır</string>
     <string name="not_limited_brand">Sınırsız</string>
     <string name="not_set">Ayarlanmadı</string>
@@ -2170,22 +2209,46 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="notification_battery_scan_consume_abnormal_summary">Sorunu çözmek için dokunun</string>
     <string name="notification_battery_scan_consume_abnormal_title_set">%s pili boşalıyor</string>
     <string name="notification_channel_battery">Pil</string>
+    <string name="notification_checker_installed_apk_hint">No need to keep APKs after installation</string>
     <string name="notification_exit_power_save_mode">Pil tasarrufu kapatıldı</string>
     <string name="notification_exit_power_save_mode_subtitle">Pil %s şarj edildi</string>
     <string name="notification_garbage_clean_botton_text">Temizle</string>
+    <string name="notification_garbage_clean_botton_text_new">Clear</string>
     <string name="notification_garbage_clean_hint">Depolama alanını temizle</string>
+    <string name="notification_garbage_clean_hint_new">Let your device soar</string>
     <string name="notification_garbage_clean_size">%s boşalt</string>
+    <string name="notification_garbage_clean_size_float_unit">%.1f GB</string>
+    <string name="notification_garbage_clean_size_found">"There's %s of trash"</string>
+    <string name="notification_garbage_clean_size_found_hint">Time to take the trash out!</string>
+    <string name="notification_garbage_clean_size_found_text">Too many trash files</string>
+    <string name="notification_garbage_clean_size_int_unit">%d GB</string>
+    <string name="notification_garbage_clean_size_new">Free up %s of storage</string>
     <string name="notification_garbage_cleanup_summary">Cihazınızı hızlandırmak için çöp kutusunu temizle (%s)</string>
     <string name="notification_garbage_cleanup_title">Çöp dosyalarını temizle</string>
     <string name="notification_low_battery_action_btn">Aç</string>
     <string name="notification_low_battery_need_charge">Cihazınızı şarj edin</string>
     <string name="notification_low_battery_open_save_mode">Pil tasarrufunu aç</string>
     <string name="notification_low_battery_title">"Kalan pil %s'den daha az"</string>
+    <string name="notification_low_memory_button_text">Fix</string>
+    <string name="notification_low_memory_hint">Trash slows down your device</string>
+    <string name="notification_low_memory_text">Memory is running low</string>
+    <string name="notification_low_storage_size">Less than %s of storage available</string>
+    <string name="notification_low_storage_size_1_gb_hint">Free up storage space to speed up your device</string>
+    <string name="notification_low_storage_size_1p5_gb_hint">Clear trash to speed up your device</string>
     <string name="notification_mask_summary">Kilit ekranı ve Bildirim çubuğunda bildirim içeriklerini gizle</string>
     <string name="notification_mask_title">İçeriği gizle</string>
     <string name="notification_masked_item">Bildirimleri gizle</string>
     <string name="notification_masked_subtitle">Uygulama kilidi ile korunan uygulamalardan gelen bildirimleri gizle</string>
+    <string name="notification_qq_clean_hint">Trash slows down your device</string>
+    <string name="notification_qq_clean_text">"Clear QQ's trash"</string>
     <string name="notification_summary_cmcc_app_check">Detayları görüntülemek için dokunun</string>
+    <string name="notification_uninstall_clean_hint">Clear trash to free up storage space</string>
+    <string name="notification_uninstall_clean_text">Uninstalled apps leave trash on your device</string>
+    <string name="notification_wechat_clean_high_level_hint">Clear trash to speed up your device</string>
+    <string name="notification_wechat_clean_high_level_text_a">WeChat generated lots of trash files</string>
+    <string name="notification_wechat_clean_high_level_text_b">"WeChat's trash slows down your device"</string>
+    <string name="notification_wechat_clean_low_level_hint">Free up storage space</string>
+    <string name="notification_wechat_clean_low_level_text">"Clear WeChat's trash"</string>
     <string name="notification_whatsapp_clean_button_text">Temizle</string>
     <string name="notification_whatsapp_clean_size">WhatsApp önbelleği %s değerine ulaştı</string>
     <string name="notify_channel_mipush">Güvenlik itme mesajları</string>
@@ -2241,7 +2304,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="om_settings_speed_up_auto">Otomatik hız artırma</string>
     <string name="om_settings_title">Optimizasyon ayarları</string>
     <string name="om_shortcut_added_toast_text">Başarıyla eklendi</string>
-    <string name="om_shortcut_dialog_summary">"Ram Jet tek bir dokunuşla belleği temizlemenizi ve cihazınızın hızını artırmanızı sağlar. Ana ekranınıza Ram temizleme eklensin mi?"</string>
+    <string name="om_shortcut_dialog_summary">Ram Jet tek bir dokunuşla belleği temizlemenizi ve cihazınızın hızını artırmanızı sağlar. Ana ekranınıza Ram temizleme eklensin mi?</string>
     <string name="om_shortcut_dialog_title">Ram temizle</string>
     <string name="once_settings_camera_ttile">Meta veri olmadan paylaş</string>
     <string name="once_settings_location_title">Konum bilgisi olmadan paylaş</string>
@@ -2409,9 +2472,57 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="permission_close_permission_control_dialog_msg">İzin yöneticisi kapatıldığında, uygulamalar kişilerinizi okumadan, arama kaydınızı görüntülemeden, sistem ayarlarını değiştirmeden ya da kamera ve diğer kaynaklara erişmeden önce izninizi istemeyecektir</string>
     <string name="permission_close_permission_control_dialog_title">Kapatılsın mı?</string>
     <string name="permission_exception_title">Uygulamalar için sınırlı ağ bağlantısı</string>
+    <string name="permission_instruction_access_notification">This permission allows apps to read, search, and clear all your notifications. Remember that notifications may include private information (e.g. bank card numbers and passwords).</string>
+    <string name="permission_instruction_activity_recognition">This permission allows apps to access the information collected by the built-in sensors that detect your physical activity (e.g. step count and workouts). Remember the information about your physical activity is personal.</string>
+    <string name="permission_instruction_add_voicemail">This permission allows apps to add voicemail to the system.</string>
+    <string name="permission_instruction_answer_phone_call">This permission allows apps to answer or end calls without your consent.</string>
+    <string name="permission_instruction_auto_start">This permission allows apps to autostart without your confirmation. Giving this permission to multiple apps may slow down your device. Malicious apps use this permission to collect your personal information without you knowing it.</string>
+    <string name="permission_instruction_background_start">This permission allows apps to display pop-ups without your confirmation. These pop-ups might cover your screen completely affecting normal use.</string>
+    <string name="permission_instruction_bluetooth_admin">This permission allows apps to turn Bluetooth on and off without your confirmation.</string>
+    <string name="permission_instruction_body_sensors">This permission allows apps to access the information about your body collected by the sensors (e.g. heart rate). Remember the information about your body is personal.</string>
+    <string name="permission_instruction_call_phone">"This permission allows apps to make unsolicited calls, which may generate additional fees. Note that this permission doesn't allow apps to call emergency phone numbers. Malicious apps might use this permission to make paid calls without your consent."</string>
+    <string name="permission_instruction_camera">This permission allows apps to use the camera for taking photos or recording videos.</string>
+    <string name="permission_instruction_change_wifi_state">This permission allows apps to turn Wi-Fi on and off without your confirmation.</string>
+    <string name="permission_instruction_device_admin">This permission allows apps to control your device, which may include clearing data, unlocking the device, and changing passwords. This is a high-risk permission.</string>
+    <string name="permission_instruction_dont_disturb">This permission allows apps to turn DND mode on and off.</string>
+    <string name="permission_instruction_draw_overlay">This permission allows apps to display floating windows over any other interface on your device, which may affect the normal use of other apps. Malicious apps might use this permission to read or collect private information (e.g. passwords) through transparent floating windows.</string>
+    <string name="permission_instruction_external_storage">This permission allows apps to access photos, media, and files on your device. Be careful with this permission to avoid unnecessary disclosure of private information.</string>
+    <string name="permission_instruction_get_accounts">This permission allows apps to access the list of accounts stored on your device. This list might contain all your personal accounts created by installed apps, as well as the accounts from social media platforms and communication tools.</string>
+    <string name="permission_instruction_install_shortcuts">This permission allows apps to create Home screen shortcuts.</string>
+    <string name="permission_instruction_install_unknown_source">This permission allows apps to install other apps on your device. Malicious apps use this permission to install apps without your confirmation.</string>
+    <string name="permission_instruction_modify_audio_settings">This permission allows apps to modify audio settings (e.g. adjust the volume without your confirmation). You might not be able to adjust volume in some apps unless you give them this permission.</string>
+    <string name="permission_instruction_nfc">This permission allows apps to communicate with NFC cards and devices.</string>
+    <string name="permission_instruction_notification_adjustment">This permission allows apps to provide more personalized and diversified adaptive notifications.</string>
+    <string name="permission_instruction_ongoing_notification">This permission allows apps to create permanent shortcuts in the Notification shade, which may prevent you from seeing regular notifications.</string>
+    <string name="permission_instruction_package_usage_stat">This permission allows apps to track the behavior of other apps on your device and obtain the information which might include your carrier and language settings. This is a high-risk permission. Your device might be monitored, and the security of your personal information may also be at risk.</string>
+    <string name="permission_instruction_picture_in_picture">This permission allows apps to display items on your Home screen or over other apps via picture-in-picture interface.</string>
+    <string name="permission_instruction_popup_window">This permission allows apps to display floating windows over any other interface on your device, which may affect the normal use of other apps. Malicious apps might use this permission to read or collect private information (e.g. passwords) through transparent floating windows.</string>
+    <string name="permission_instruction_read_appplication_list">This permission allows apps to access the information about all apps installed on your device. Malicious apps might use this permission to analyze your personal preferences.</string>
+    <string name="permission_instruction_read_calllog">This permission allows apps to access call history, which may contain detailed information about your incoming and outgoing calls. This permission also allows apps to save call history records. Malicious apps might use this permission to share your call history with third parties or use your call history for fraud.</string>
+    <string name="permission_instruction_read_clipboard">This permission allows apps to read any content you copy, which may include private information (e.g. account details, bank card numbers, and passwords).</string>
+    <string name="permission_instruction_read_contacts">This permission allows apps to access the contact info stored on your device. This info might contain the frequency of your communication with specific contacts via calls, emails, and other methods. This permission also allows apps to save contacts. Malicious apps might use this permission to share contacts without your consent.</string>
+    <string name="permission_instruction_read_notify_sms">This permission allows apps to read notification text messages stored on your device or SIM card.</string>
+    <string name="permission_instruction_read_phone_state">"This permission allows apps to access your phone number, IMEI, IMSI, and other device identifiers. Apps normally use this permission to determine whether your calls are being forwarded. If you're using a virtual device ID, apps won't be able to access your actual device identifiers."</string>
+    <string name="permission_instruction_read_sms">This permission allows apps to read all text messages stored on your device or SIM card. Such messages might contain passwords, bank account details, and other personal information.</string>
+    <string name="permission_instruction_read_write_calendar">This permission allows apps to access your calendar, as well as read, add, remove, edit, share, and save calendar events. Malicious apps might use this permission to send messages from your name or edit calendar events without your consent.</string>
+    <string name="permission_instruction_receive_mms">This permission allows apps to read all multimedia messages stored on your device or SIM card. Such messages might contain passwords, bank account details, and other personal information.</string>
+    <string name="permission_instruction_record_audio">"This permission allows apps to use the microphone for recording audio. Remember that this permission allows apps to record anything, including your conversations with others. It's best to allow apps to use this permission only while you're using the apps."</string>
+    <string name="permission_instruction_running_background">This permission allows apps to work in the background. While doing this, the apps may collect data and provide services. Remember that such activities raise power consumption.</string>
+    <string name="permission_instruction_running_exceed_data">This permission allows apps to ignore mobile data usage limits.</string>
+    <string name="permission_instruction_send_mms">This permission allows apps to send multimedia messages, which may generate additional fees. Malicious apps might use this permission to send paid messages without your consent.</string>
+    <string name="permission_instruction_send_payment_sms">This permission allows apps to send paid text messages.</string>
+    <string name="permission_instruction_send_sms">This permission allows apps to send text messages, which may generate additional fees. Malicious apps might use this permission to send paid messages without your consent.</string>
+    <string name="permission_instruction_show_locked">This permission allows apps to display items on your Lock screen. Malicious apps might use this permission to show you annoying ads.</string>
+    <string name="permission_instruction_touch_pay">This permission allows apps to perform contactless payments.</string>
+    <string name="permission_instruction_use_sip">This permission allows apps to use SIP video services.</string>
+    <string name="permission_instruction_vr_assistant">This permission allows apps to use VR assistant services.</string>
+    <string name="permission_instruction_write_calllog">This permission allows apps to edit call history, which may contain detailed information about your incoming and outgoing calls. Malicious apps might use this permission to clear or edit your call history.</string>
+    <string name="permission_instruction_write_clipboard">This permission allows apps to save items to the clipboard. Spam messages may affect your normal use of the clipboard.</string>
+    <string name="permission_instruction_write_contacts">This permission allows apps to edit, add, and delete the contact info stored on your device. This info might contain the frequency of your communication with specific contacts via calls, emails, and other methods. This permission also allows apps to delete your contacts.</string>
+    <string name="permission_instruction_write_settings">This permission allows apps to modify system settings. Malicious apps might use this permission temper with your system settings and affect the normal use of your device.</string>
     <string name="permission_permission_control_closed_desc_dialog_msg">Uygulamalar kişilerinizi okumadan, arama kaydınızı görüntülemeden, sistem ayarlarını değiştirmeden yada kamera veya diğer kaynaklara erişimden önce izninizi sormayacak. İzin ayarlarından bu özelliği kullanılabilir hale getirebilirsiniz</string>
     <string name="permission_permission_control_closed_desc_dialog_title">İzin yöneticisi</string>
-    <string name="permission_privacy_link"><Data>&lt;a href=\"%1$s\">%2$s&lt;/a></Data></string>
+    <string name="permission_privacy_link"><a href="%1$s">%2$s</a></string>
     <string name="permission_upgrade_more">Daha fazla gizlilik koruma özelliğine bakın</string>
     <string name="permission_upgrade_privacy_title">Kişisel gizlilik bilgilerinizi korumak için kayıt, kişiler ve diğer izinler desteği yalnızca kullanıldığında izin ver olarak ayarlanmış. Bu durumu ayarladıktan sonra uygulama bu izni arka planda kullanamaz</string>
     <string name="permission_upgrade_runtime">İzin için başvururken bu zamana izin ver olarak ayarlanmış konumlandırma ve kamera izinleri desteği ayarladıktan sonra uygulamayı kapatırsanız izinler sor seçeneğine geri döner</string>
@@ -3299,14 +3410,14 @@ Kalibrasyon işlemi sırasında Miui kalibrasyon şablonunu almak amacıyla bir 
     <string name="storage_available_total_size">%2$s üzerinden %1$s kullanılabilir</string>
     <string name="storage_available_total_size1">Dolu: %1$s | Toplam: %2$s</string>
     <string name="storage_deepclean_entry">Derin temizlik</string>
-    <string name="storage_dialog_unmountable">"Bu ^1 bozuk
-
+    <string name="storage_dialog_unmountable">"Bu ^1 bozuk\u000d
+\u000d
 Bu ^1'i kullanmak için önce ayarlamanız gerekir"</string>
-    <string name="storage_dialog_unmounted">"Bu ^1 güvenle kaldırıldı ancak yine de kullanılabilir
-
+    <string name="storage_dialog_unmounted">"Bu ^1 güvenle kaldırıldı ancak yine de kullanılabilir\u000d
+\u000d
 Bu ^1'i kullanmak için önce onu monte etmeniz gerekir"</string>
-    <string name="storage_dialog_unsupported">"Bu cihaz bunu desteklemiyor ^1
-
+    <string name="storage_dialog_unsupported">"Bu cihaz bunu desteklemiyor ^1\u000d
+\u000d
 Bu ^1 cihazını bu cihazla kullanmak için önce ayarlamanız gerekir"</string>
     <string name="storage_format_failure">%1$s biçimlendirilemedi</string>
     <string name="storage_format_success">%1$s başarıyla biçimlendirildi</string>
@@ -3326,8 +3437,8 @@ Bu ^1 cihazını bu cihazla kullanmak için önce ayarlamanız gerekir"</string>
     <string name="storage_unmount_failure">%1$s bağlantısı kaldırılamadı</string>
     <string name="storage_unmount_success">%1$s bağlantısı başarıyla kaldırıldı</string>
     <string name="storage_wizard_format_confirm_v2_action">^1 sıfırla</string>
-    <string name="storage_wizard_format_confirm_v2_body">"^1 uygulamasının uygulamaları, dosyaları ve medyayı depolayacak şekilde biçimlendirilmesi gerekiyor
-
+    <string name="storage_wizard_format_confirm_v2_body">"^1 uygulamasının uygulamaları, dosyaları ve medyayı depolayacak şekilde biçimlendirilmesi gerekiyor\u000d
+\u000d
 Biçimlendirme ^2 üzerindeki mevcut içeriği silecektir. İçerik kaybını önlemek için içeriği başka bir ^3 veya cihaza yedekleyin"</string>
     <string name="storage_wizard_format_confirm_v2_title">^1 şimdi biçimlendirilsin mi?</string>
     <string name="stranger_call_dialog_add_block_list">Engelle</string>
@@ -3427,9 +3538,9 @@ Biçimlendirme ^2 üzerindeki mevcut içeriği silecektir. İçerik kaybını ö
     <string name="system_permission_declare_disagree">Kabul etmiyorum</string>
     <string name="system_permission_declare_double_link">Bu özelliği kullanmadan önce <a href="%1$s">Kullanıcı sözleşmemizi</a> ve <a href="%2$s">Gizlilik politikamızı</a> okuyun ve kabul edin</string>
     <string name="system_permission_declare_main_purpose" formatted="false">%1s uygulamasına hoş geldiniz. Bu uygulama aşağıdaki özelliği kullanmanızı sağlar: %2s</string>
-    <string name="system_permission_declare_meanwhile_double_link"><Data>Aynı zamanda bir kullanıcı olarak haklarınızı ve verilerinizi kullanma yöntemlerimizi tam olarak anlamak için &lt;a href=\"%1$s\">kullanıcı sözleşmesi&lt;/a> ve &lt;a href=\"%2$s\">gizlilik politikamızı&lt;/a> kabul etmeniz gerekmektedir</Data></string>
-    <string name="system_permission_declare_meanwhile_privacy_policy"><Data>Aynı zamanda bir kullanıcı olarak haklarınızı ve verilerinizi kullanma yöntemlerimizi tam olarak anlamak için &lt;a href=\"%1$s\">gizlilik politikamızı&lt;/a></Data> kabul etmeniz gerekmektedir</string>
-    <string name="system_permission_declare_meanwhile_user_agreement"><Data>Aynı zamanda bir kullanıcı olarak haklarınızı ve verilerinizi kullanma yöntemlerimizi tam olarak anlamak için &lt;a href=\"%1$s\">kullanıcı sözleşmemizi&lt;/a></Data> kabul etmeniz gerekmektedir</string>
+    <string name="system_permission_declare_meanwhile_double_link">Aynı zamanda bir kullanıcı olarak haklarınızı ve verilerinizi kullanma yöntemlerimizi tam olarak anlamak için <a href="%1$s">kullanıcı sözleşmesi</a> ve <a href="%2$s">gizlilik politikamızı</a> kabul etmeniz gerekmektedir</string>
+    <string name="system_permission_declare_meanwhile_privacy_policy">Aynı zamanda bir kullanıcı olarak haklarınızı ve verilerinizi kullanma yöntemlerimizi tam olarak anlamak için <a href="%1$s">gizlilik politikamızı</a> kabul etmeniz gerekmektedir</string>
+    <string name="system_permission_declare_meanwhile_user_agreement">Aynı zamanda bir kullanıcı olarak haklarınızı ve verilerinizi kullanma yöntemlerimizi tam olarak anlamak için <a href="%1$s">kullanıcı sözleşmemizi</a> kabul etmeniz gerekmektedir</string>
     <string name="system_permission_declare_no_say_no">Gerekli izinleri vermemeyi seçerseniz veya verilerinizi toplamamıza ve kullanmamıza izin vermezseniz bu uygulama normal şekilde çalışamaz</string>
     <string name="system_permission_declare_no_say_no_analytics">Bu izinleri vermek istemiyorsanız Ayarlar> Ek ayarlar> Gizlilik> Kullanıcı deneyimi programından kaydını silebilirsiniz</string>
     <string name="system_permission_declare_no_say_no_non_mandatory">Gerekli izinleri vermemeyi seçerseniz veya verilerinizi toplamamıza ve kullanmamıza izin vermezseniz bu uygulama kısmen çalışama</string>

@@ -188,35 +188,73 @@
         <item quantity="other">Mevcut ayarlar günlük %1$d saatlik uyku garantisi vermez. Bundan daha fazlasına ihtiyacın var</item>
         <item quantity="one">"Mevcut ayarlar günlük %1$d saatlik uyku garantisi vermez. Bundan daha fazlasına ihtiyacın var</item>
     </plurals>
+    <plurals name="sport_tts_goal_consume">
+        <item quantity="other">Hedefinize ulaşana kadar yakmanız için %s kalori kaldı</item>
+        <item quantity="one">Hedefinize ulaşana kadar yakmanız için %s kalori kaldı</item>
+    </plurals>
+    <plurals name="sport_tts_goal_distance">
+        <item quantity="other">Hedefinize ulaşana kadar %s kilometre kaldı</item>
+        <item quantity="one">Hedefinize ulaşana kadar %s kilometre kaldı</item>
+    </plurals>
     <plurals name="sport_tts_goal_time">
         <item quantity="other">Hedefinize %s dakika kaldı</item>
+        <item quantity="one">Hedefinize %s dakika kaldı</item>
+    </plurals>
+    <plurals name="sport_tts_riding_distance">
+        <item quantity="other">%s kilometre bisiklet sürdünüz</item>
+        <item quantity="one">%s kilometre bisiklet sürdünüz</item>
+    </plurals>
+    <plurals name="sport_tts_running_distance">
+        <item quantity="other">%s kilometre koştunuz</item>
+        <item quantity="one">%s kilometre koştunuz</item>
+    </plurals>
+    <plurals name="sport_tts_total_consume">
+        <item quantity="other">%s Kalori yaktınız</item>
+        <item quantity="one">%s Kalori yaktınız</item>
+    </plurals>
+    <plurals name="sport_tts_walking_distance">
+        <item quantity="other">%s kilometre yürüdünüz</item>
+        <item quantity="one">%s kilometre yürüdünüz</item>
     </plurals>
     <plurals name="sporting_content_calories">
         <item quantity="other">Toplam %1$d kalori tükettiniz</item>
+        <item quantity="one">Toplam %1$d kalori tükettiniz</item>
+    </plurals>
+    <plurals name="sporting_content_min">
+        <item quantity="other">%1$d dakika</item>
+        <item quantity="one">%1$d dakika</item>
     </plurals>
     <plurals name="sporting_content_riding_km">
         <item quantity="other">%1$s kilometre sürdünüz</item>
+        <item quantity="one">%1$s kilometre sürdünüz</item>
     </plurals>
     <plurals name="sporting_content_running_km">
         <item quantity="other">%1$s kilometre koştunuz</item>
+        <item quantity="one">%1$s kilometre koştunuz</item>
     </plurals>
-    <plurals name="sporting_content_speed">
-        <item quantity="other">Mevcut hız kilometre başına %1$d dakika %2$d saniyedir</item>
-    </plurals>
-    <plurals name="sporting_content_time">
-        <item quantity="other">Paylaşırken %1$d dakika %2$d saniye</item>
+    <plurals name="sporting_content_sec">
+        <item quantity="other">%1$d saniye</item>
+        <item quantity="one">%1$d saniye</item>
     </plurals>
     <plurals name="sporting_content_walking_km">
         <item quantity="other">Toplam %1$s kilometre uzakta</item>
+        <item quantity="one">Toplam %1$s kilometre uzakta</item>
     </plurals>
     <plurals name="sporting_content_walking_stpe">
         <item quantity="other">%1$d adım yürüdünüz</item>
+        <item quantity="one">%1$d adım yürüdünüz</item>
     </plurals>
     <plurals name="sporting_unit_calories">
         <item quantity="other">%1$d kalori</item>
+        <item quantity="one">%1$d kalori</item>
     </plurals>
     <plurals name="sporting_unit_km">
         <item quantity="other">%1$s kilometre</item>
+        <item quantity="one">%1$s km</item>
+    </plurals>
+    <plurals name="sporting_unit_step">
+        <item quantity="other">adım</item>
+        <item quantity="one">adım</item>
     </plurals>
     <plurals name="step_num_format">
         <item quantity="other">%1$d adım</item>

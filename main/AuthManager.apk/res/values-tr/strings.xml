@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="HIPS_ACTION_REJECT_CLEAR">Panoyu kısıtlayın ve temizleyin</string>
     <string name="HIPS_Action_Accept">İzin ver</string>
     <string name="HIPS_Action_Accept_Once">Bir kereliğine izin ver</string>
+    <string name="HIPS_Action_Accept_This">Bir kez izin ver</string>
     <string name="HIPS_Action_Reject">Reddet</string>
     <string name="HIPS_Action_Reject_Once">Bir kez reddet</string>
+    <string name="HIPS_Action_Reject_This">Bir kez kısıtla</string>
     <string name="HIPS_Perm_AudioRecorder">Ses kaydetme</string>
     <string name="HIPS_Perm_AudioRecorder_Desc">Ses ve aramaları kaydeder</string>
     <string name="HIPS_Perm_AutoStart">Başlangıçta çalıştırma</string>
@@ -91,6 +94,8 @@
     <string name="HIPS_Perm_process_nfc_Desc">Yakın alan iletişim donanımına erişir</string>
     <string name="HIPS_Perm_process_outgoing_calls">Telefon uygulamasına erişim</string>
     <string name="HIPS_Perm_process_outgoing_calls_Desc">Aramaları takip eder ve sonlandırır</string>
+    <string name="HIPS_Perm_read_clipboard">Panodaki öğelere erişin</string>
+    <string name="HIPS_Perm_read_clipboard_Desc">Uygulamaların panodaki öğelere erişmesine izin verin</string>
     <string name="HIPS_Perm_read_notification_sms">Servis kısa mesajları</string>
     <string name="HIPS_Perm_read_notification_sms_Desc">Servis kısa mesajlarını okur</string>
     <string name="HIPS_Perm_recognition">Etkinlik bilgilerine erişin</string>
@@ -99,18 +104,33 @@
     <string name="HIPS_Perm_service_foreground_Desc">Ön plan hizmetleri</string>
     <string name="HIPS_Perm_show_when_locked">Kilit ekranında görüntüle</string>
     <string name="HIPS_Perm_show_when_locked_Desc">Kilit ekranınızda görüntülenir</string>
+    <string name="HIPS_Perm_tencentControl">Sosyal bilgilere erişin</string>
+    <string name="HIPS_Perm_tencentControl_Desc">Uygulamaların sosyal bilgilere erişmesine izin verin</string>
     <string name="HIPS_Perm_use_sip">Video servisleri</string>
     <string name="HIPS_Perm_use_sip_Desc">Video oynatmak için Oturum Başlatma Protokolü kullanır</string>
+    <string name="HIPS_Perm_write_clipboard">Öğeleri panoya kaydet</string>
+    <string name="HIPS_Perm_write_clipboard_Desc">Uygulamaların öğeleri panoya kaydetmesine izin ver</string>
     <string name="HIPS_SecurityPrompt_Caption">Güvenlik uyarısı</string>
     <string name="HIPS_SecurityPrompt_Reject">Reddet (%d)</string>
+    <string name="HIPS_SecurityPrompt_Reject_Clear_This">Panoyu kısıtlayın ve temizleyin (%d)</string>
     <string name="HIPS_SecurityPrompt_Reject_Once">Bir kereliğine engelle (%d)</string>
+    <string name="HIPS_SecurityPrompt_Reject_This">Bir kez kısıtla (%d)</string>
     <string name="HIPS_SecurityPrompt_Title">%1$s şunu yapmaya çalışıyor: %2$s</string>
     <string name="Su_Package_Forbidden2">Kök erişimi yok</string>
     <string name="app_name">İzin yöneticisi</string>
     <string name="background_location_access_reminder_notification_content">Bu uygulama her zaman konumunuza erişebilir. Değiştirmek için dokunun</string>
     <string name="background_location_access_reminder_notification_title">%s konumunuzu kullanıyor</string>
+    <string name="clipboard_ai_allow_once">Panodaki öğelere otomatik olarak %1$s erişim izni verildi</string>
+    <string name="clipboard_data">Pano öğeleri</string>
+    <string name="clipboard_data_request">%1$s panodaki öğelere erişmeye çalışıyor</string>
+    <string name="clipboard_deny_notification_content">Bu girişim engellendi. İzinleri yönetmek için dokunun</string>
+    <string name="clipboard_deny_notification_operation">Yönet</string>
+    <string name="clipboard_deny_notification_title">%1$s panodaki öğelere erişmeye çalışıyor</string>
+    <string name="clipboard_may_sensitive">Muhtemelen hassas bilgiler</string>
+    <string name="clipboard_read_allow_once">Panodaki %1$s öğeye erişildi</string>
     <string name="current_permission_template">%1$s(%2$d/%3$d)</string>
     <string name="default_permission_description">Bilinmeyen bir işlem yapar</string>
+    <string name="go_perm_manager">İzinleri yönet</string>
     <string name="grant_dialog_button_allow">İzin ver</string>
     <string name="grant_dialog_button_allow_always">Her zaman izin ver</string>
     <string name="grant_dialog_button_allow_background">Her zaman izin ver</string>
@@ -123,9 +143,12 @@
     <string name="location_settings">Konum ayarları</string>
     <string name="location_warning">%1$s uygulaması bu cihaz için bir konum servis sağlayıcısıdır. Konum ayarları menüsünde düzenlenebilir</string>
     <string name="never_ask_again">Tekrar sorma</string>
+    <string name="no">Hayır</string>
     <string name="ok">Tamam</string>
     <string name="perm_action_allow">İzin ver</string>
     <string name="perm_action_deny">Reddet</string>
+    <string name="perm_manager_suggest_operation">İzinleri yönet</string>
+    <string name="perm_manager_suggest_title">İzinler ayarlansın mı?</string>
     <string name="perm_modem_location">Konumunuza erişim</string>
     <string name="perm_modem_location_desc">Operatörünüz konum bilgilerinize erişmeye çalışıyor. Konum bilgisi operatörle paylaşılsın mı?</string>
     <string name="permdesc_camera">Fotoğraf çekin ve video kaydedin</string>
@@ -168,6 +191,8 @@
     <string name="static_cache_db_md5">ca8b2bf664b02208f1bbe2344e93a705</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_policy_notify_content">Okumasına izin vermek için. Ayarlara gitmek için tıklayın</string>
+    <string name="storage_policy_notify_gallery_title">%1$s telefon albümlerini okuması reddedildi</string>
+    <string name="storage_policy_notify_sociality_title">%1$s sosyal bilgilerini okuması reddedildi</string>
     <string name="storage_policy_notify_title">%1$s telefon albümlerini okuması reddedildi</string>
     <string name="virtual_reject_notice_content">Kişisel bilgilerinizi korumak için uygulamaya boş bir yanıt gönderildi</string>
     <string name="virtual_reject_notice_title_calendar">%1$s takvime erişmeye çalışıyor</string>
@@ -175,4 +200,5 @@
     <string name="virtual_reject_notice_title_contacts">%1$s kişilere erişmeye çalışıyor</string>
     <string name="virtual_reject_notice_title_phonestate">%1$s cihaz bilgisine erişmeye çalışıyor</string>
     <string name="virtual_reject_notice_title_sms">%1$s mesajlara erişmeye çalışıyor</string>
+    <string name="yes">Evet</string>
 </resources>

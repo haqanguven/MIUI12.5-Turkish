@@ -81,8 +81,8 @@
         <item quantity="one">%d yıl önce kullanıldı</item>
     </plurals>
     <plurals name="applock_app_suggest_lock">
-        <item quantity="other">Uygulama kilidini %1$s uygulamalarıyla kullanabilirsiniz</item>
-        <item quantity="one">Uygulama kilidini %1$s uygulamalarıyla kullanabilirsiniz</item>
+        <item quantity="other">%1$s uygulamalarla uygulama kilidini kullanabilirsiniz</item>
+        <item quantity="one">%1$s uygulamalarla uygulama kilidini kullanabilirsiniz</item>
     </plurals>
     <plurals name="applock_guide_app_count_tips">
         <item quantity="other">En az %s uygulamayı koruyabilirsiniz</item>
@@ -191,6 +191,28 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
     <plurals name="gb_signed_days_sum">
         <item quantity="other">Üst üste %d gün içinde kontrol edildi</item>
         <item quantity="one">%d zaman içinde kontrol edildi</item>
+    </plurals>
+    <plurals name="gb_voice_changer_trial_gain_fail">
+        <item quantity="other">%d günlük ücretsiz deneme alınamadı</item>
+        <item quantity="one">%d günlük ücretsiz deneme alınamadı</item>
+    </plurals>
+    <plurals name="gb_voice_changer_trial_gain_success">
+        <item quantity="other">%d günlük ücretsiz deneme alındı</item>
+        <item quantity="one">%d günlük ücretsiz deneme alındı</item>
+    </plurals>
+    <plurals name="gb_voice_changer_user_status_get_trial_card">
+        <item quantity="other">%d günlük ücretsiz deneme edinin</item>
+        <item quantity="one">%d günlük ücretsiz deneme edinin</item>
+    </plurals>
+    <plurals name="gb_voice_changer_user_status_get_twice_trial_card_dialog">
+        <item quantity="other">"Aboneliklerinizin süresi doldu
+Şimdi %d günlük ücretsiz deneme alabilirsiniz"</item>
+        <item quantity="one">"Aboneliklerinizin süresi doldu
+Şimdi %d günlük ücretsiz deneme alabilirsiniz"</item>
+    </plurals>
+    <plurals name="gb_voice_changer_user_tips_info">
+        <item quantity="other">%d günlük ücretsiz deneme edinin</item>
+        <item quantity="one">%d günlük ücretsiz deneme edinin</item>
     </plurals>
     <plurals name="hide_txt_hint_with_blank_2">
         <item quantity="other">    +%1$d daha fazla karakter</item>
@@ -319,6 +341,10 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
     <plurals name="notification_battery_scan_consume_abnormal_title_split">
         <item quantity="other">%1$s dahil %2$d uygulama pili boşaltıyor</item>
         <item quantity="one">%1$s dahil %2$d uygulama pili boşaltıyor</item>
+    </plurals>
+    <plurals name="notification_checker_installed_apk_text">
+        <item quantity="other">Delete %d installation packages</item>
+        <item quantity="one">Delete %d installation package</item>
     </plurals>
     <plurals name="notification_title_cmcc_app_check">
         <item quantity="other">Son kontrolden beri %d gün</item>
@@ -513,8 +539,8 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
         <item quantity="one">%d pil sorunu çözüldü</item>
     </plurals>
     <plurals name="reset_data_dialog_ok_tick">
-        <item quantity="other">Fabrika ayarları (%ds)</item>
-        <item quantity="one">Fabrika ayarları (%ds)</item>
+        <item quantity="other">Fabrika ayarları (%d saniye)</item>
+        <item quantity="one">Fabrika ayarları (%d saniye)</item>
     </plurals>
     <plurals name="result_sign_header">
         <item quantity="other">%d resmi olmayan uygulama bulundu</item>

@@ -172,8 +172,8 @@
     <string name="earthly_branches_you">20</string>
     <string name="earthly_branches_zi">11</string>
     <string name="empty" />
-    <string name="eras_ad">M.S.</string>
-    <string name="eras_bc">M.Ö.</string>
+    <string name="eras_ad">CE</string>
+    <string name="eras_bc">BCE</string>
     <string name="evening">Öğleden sonra</string>
     <string name="expand_button_title">Gelişmiş</string>
     <string name="fmt_chinese_date">N/e</string>
@@ -300,6 +300,7 @@
     <string name="no_avaliable_application">Kullanılabilir uygulama yok</string>
     <string name="noon">Gün ortası</string>
     <string name="not_set">Ayarlanmadı</string>
+    <string name="notification_control_center">Bildirimler &amp; kontrol merkezi</string>
     <string name="online">Çevrimiçi</string>
     <string name="pm">ÖS</string>
     <string name="preference_copied">%1$s panoya kopyalandı</string>

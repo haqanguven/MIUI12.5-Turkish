@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="account_user_gender_name">
-        <item>Erkek</item>
-        <item>Kadın</item>
-    </string-array>
     <string-array name="alphabet_table">
-        <item>\#</item>
         <item>A</item>
         <item>B</item>
         <item>C</item>
@@ -32,6 +27,7 @@
         <item>X</item>
         <item>Y</item>
         <item>Z</item>
+        <item>\#</item>
     </string-array>
     <string-array name="alphabet_table_with_starred">
         <item>!</item>
@@ -144,10 +140,21 @@
         <item>@string/chinese_symbol_animals_dog</item>
         <item>@string/chinese_symbol_animals_pig</item>
     </string-array>
-    <string-array name="customer_service">
-        <item>@string/customer_service_apply</item>
-        <item>@string/customer_service_complain</item>
-        <item>@string/customer_service_station</item>
+    <string-array name="debug_mode_protocol_entries">
+        <item>Varsayılan</item>
+        <item>MiPlay</item>
+        <item>Miracast</item>
+        <item>AirKan</item>
+        <item>LeLink</item>
+        <item>DLNA</item>
+    </string-array>
+    <string-array name="debug_mode_protocol_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
     </string-array>
     <string-array name="detailed_am_pms">
         <item>@string/midnight</item>
@@ -229,12 +236,6 @@
         <item>@string/month_october_shortest</item>
         <item>@string/month_november_shortest</item>
         <item>@string/month_december_shortest</item>
-    </string-array>
-    <string-array name="reproductivity">
-        <item>@string/feedback_reproductivity_everytime</item>
-        <item>@string/feedback_reproductivity_often</item>
-        <item>@string/feedback_reproductivity_occasionally</item>
-        <item>@string/feedback_reproductivity_once</item>
     </string-array>
     <string-array name="solar_terms">
         <item>@string/empty</item>

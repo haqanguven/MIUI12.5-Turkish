@@ -253,6 +253,8 @@
     <string name="clear_net_mock_success">Başarılı oldu</string>
     <string name="clear_text_end_icon_content_description">Metni temizle</string>
     <string name="clearable_edittext_clear_description">Temizle</string>
+    <string name="click_for_create_event">%s için etkinlik oluştura tıklayın</string>
+    <string name="click_paste">Yapıştırmak için tıklayın</string>
     <string name="close_alarm">Kapat</string>
     <string name="cold_dews">Soğuk çığ</string>
     <string name="cold_dews_tradition">Soğuk çığ</string>

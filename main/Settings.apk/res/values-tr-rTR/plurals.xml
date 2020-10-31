@@ -13,8 +13,8 @@
         <item quantity="one">%d yıl önce</item>
     </plurals>
     <plurals name="accessibility_usage_summary">
-        <item quantity="other">%1$d apps have full access to your device</item>
-        <item quantity="one">1 app has full access to your device</item>
+        <item quantity="other">%1$d uygulamanın cihazınıza tam erişimi var</item>
+        <item quantity="one">1 uygulamanın cihazınıza tam erişimi var</item>
     </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
         <item quantity="other">Olağanüstü kısa gecikme süresi (%1$d milisaniye)</item>
@@ -153,12 +153,12 @@
         <item quantity="one">1 saat</item>
     </plurals>
     <plurals name="location_app_permission_summary_location_on">
-        <item quantity="other">%1$d of %2$d apps have access to location</item>
-        <item quantity="one">%1$d of %2$d apps has access to location</item>
+        <item quantity="other">%1$d / %2$d uygulamanın konuma erişimi var</item>
+        <item quantity="one">%1$d / %2$d uygulamanın konuma erişimi var</item>
     </plurals>
     <plurals name="location_settings_summary_location_on">
-        <item quantity="other">On - %1$d apps have access to location</item>
-        <item quantity="one">On - %1$d app has access to location</item>
+        <item quantity="other">Açık - %1$d uygulamanın konuma erişimi var</item>
+        <item quantity="one">Açık - %1$d uygulamanın konuma erişimi var</item>
     </plurals>
     <plurals name="lockpassword_password_requires_letters">
         <item quantity="other">Şifre en az %d harf içermelidir</item>
@@ -237,16 +237,16 @@
         <item quantity="one">%d eklendi</item>
     </plurals>
     <plurals name="mobile_network_summary_count">
-        <item quantity="other">%1$d SIMs</item>
-        <item quantity="one">%1$d SIM</item>
+        <item quantity="other">%1$d Sim</item>
+        <item quantity="one">%1$d Sim</item>
     </plurals>
     <plurals name="network_restrictions_summary">
         <item quantity="other">%1$d kısıtlama</item>
         <item quantity="one">1 kısıtlama</item>
     </plurals>
     <plurals name="notification_few_channel_count_summary">
-        <item quantity="other">%1$d notification channels.</item>
-        <item quantity="one">%1$d notification channel.</item>
+        <item quantity="other">%1$d bildirim kanalı</item>
+        <item quantity="one">%1$d bildirim kanalı</item>
     </plurals>
     <plurals name="notification_group_summary">
         <item quantity="other">%d kategori</item>
@@ -261,20 +261,20 @@
         <item quantity="one">%d kategori kapalı</item>
     </plurals>
     <plurals name="notifications_sent_daily">
-        <item quantity="other">~%d notifications per day</item>
-        <item quantity="one">~%d notification per day</item>
+        <item quantity="other">~%d günlük bildirim</item>
+        <item quantity="one">~%d günlük bildirim</item>
     </plurals>
     <plurals name="notifications_sent_weekly">
-        <item quantity="other">~%d notifications per week</item>
-        <item quantity="one">~%d notification per week</item>
+        <item quantity="other">~%d haftalık bildirim</item>
+        <item quantity="one">~%d haftalık bildirim</item>
     </plurals>
     <plurals name="number_of_device_admins">
         <item quantity="other">%d etkin uygulama</item>
         <item quantity="one">%d etkin uygulama</item>
     </plurals>
     <plurals name="permission_bar_chart_label">
-        <item quantity="other">%s apps</item>
-        <item quantity="one">1 app</item>
+        <item quantity="other">%s uygulama</item>
+        <item quantity="one">1 uygulama</item>
     </plurals>
     <plurals name="permissions_summary">
         <item quantity="other">%d izin verildi</item>
@@ -325,8 +325,8 @@
         <item quantity="one">Gizli %d öğeyi göster</item>
     </plurals>
     <plurals name="show_bluetooth_devices">
-        <item quantity="other">%1$d devices connected</item>
-        <item quantity="one">%1$d device connected</item>
+        <item quantity="other">%1$d cihaz bağlandı</item>
+        <item quantity="one">%1$d cihaz bağlandı</item>
     </plurals>
     <plurals name="show_cit_countdown">
         <item quantity="other">Donanım testlerinden %1$d adım uzaklıktasınız</item>
@@ -473,12 +473,12 @@ Bu sertifika hakkında daha fazla bilgi edinmek için yöneticinize başvurun"</
         <item quantity="one">1 ağ</item>
     </plurals>
     <plurals name="wifi_saved_all_access_points_summary">
-        <item quantity="other">%d networks &amp; subscriptions</item>
-        <item quantity="one">1 network &amp; subscription</item>
+        <item quantity="other">%d ağ &amp; abonelik</item>
+        <item quantity="one">1 ağ &amp; abonelik</item>
     </plurals>
     <plurals name="wifi_saved_passpoint_access_points_summary">
-        <item quantity="other">%d subscriptions</item>
-        <item quantity="one">1 subscription</item>
+        <item quantity="other">%d abonelik</item>
+        <item quantity="one">1 abonelik</item>
     </plurals>
     <plurals name="wifi_share_count">
         <item quantity="other">%d paylaşılan ağ</item>
@@ -493,9 +493,9 @@ Bu sertifika hakkında daha fazla bilgi edinmek için yöneticinize başvurun"</
         <item quantity="one">Yanlış Sim Pin kodu. Cihazınızın kilidini açmak için operatörünüzle bağlantı kurmak zorunda kalmadan önce %d deneme hakkınız kaldı</item>
     </plurals>
     <plurals name="zen_mode_bypassing_apps_subtext">
-        <item quantity="other">Notifications from %1$d apps can override Do Not Disturb</item>
-        <item quantity="zero">No apps can override Do Not Disturb</item>
-        <item quantity="one">Notifications from 1 app can override Do Not Disturb</item>
+        <item quantity="other">%1$d uygulamadan gelen bildirimler rahatsız etmeyini geçersiz kılabilir</item>
+        <item quantity="zero">Hiçbir uygulama rahatsız etmeyini geçersiz kılamaz</item>
+        <item quantity="one">1 uygulamadan gelen bildirimler rahatsız etmeyini geçersiz kılabilir</item>
     </plurals>
     <plurals name="zen_mode_duration_summary_time_hours">
         <item quantity="other">%d saat (Otomatik olarak açılmadıkça)</item>

@@ -1219,6 +1219,7 @@ Ağ etkinliğinizi izleyebilecek bir VPN'ye de bağlısınız"</string>
     <string name="mr_dialog_transferable_header">Bir grupta oynat</string>
     <string name="mr_system_route_name">Sistem</string>
     <string name="mr_user_route_category_name">Cihazlar</string>
+    <string name="msim_set_sub_not_supported_phone_in_call">Arama sırasında ayarlanamaz</string>
     <string name="mtrl_chip_close_icon_content_description">%1$s kaldır</string>
     <string name="mtrl_picker_cancel">İptal et</string>
     <string name="mtrl_picker_confirm">Kaydet</string>
@@ -1264,6 +1265,7 @@ Ağ etkinliğinizi izleyebilecek bir VPN'ye de bağlısınız"</string>
     <string name="notification_channel_tv_pip">Fotoğraf içinde fotoğraf</string>
     <string name="notification_channel_usb">USB</string>
     <string name="notification_channels_list_desc_2">%1$s, %2$s</string>
+    <string name="notification_control_center">Bildirimler &amp; kontrol merkezi</string>
     <string name="notification_default_channel_desc">Bu uygulamada bildirim kategorileri yok</string>
     <string name="notification_done">Bitti</string>
     <string name="notification_group_collapse_button_text">Daralt</string>
@@ -1571,6 +1573,9 @@ Ağ etkinliğinizi izleyebilecek bir VPN'ye de bağlısınız"</string>
     <string name="quick_settings_user_new_user">Yeni kullanıcı</string>
     <string name="quick_settings_user_title">Kullanıcı</string>
     <string name="quick_settings_vibrate_label">Titreşim</string>
+    <string name="quick_settings_vowifi_label">Wifi arama</string>
+    <string name="quick_settings_vowifi_sim1_label">Wifi arama Sim1</string>
+    <string name="quick_settings_vowifi_sim2_label">Wifi arama Sim2</string>
     <string name="quick_settings_wifi_detail_dual_wifi_accelerated">Hız arttırılıyor</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_cancel">İptal et</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_confirm">Onayla</string>

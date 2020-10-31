@@ -145,6 +145,7 @@ Metne kaydetme şu anda yalnızca mandarin aktarımını desteklemektedir. Aktar
     <string name="network_unavailable_tip">Ağa bağlanın ve tekrar deneyin</string>
     <string name="new_record_name">Yeni kayıt</string>
     <string name="no_file">Boş</string>
+    <string name="no_network">Ağa bağlanılamadı</string>
     <string name="not_set">Ayarlanmadı</string>
     <string name="notification_message_all_paused">Wifi bağlantısı için bekleniyor</string>
     <string name="notification_playback">Oynatılıyor</string>
@@ -381,4 +382,7 @@ Metin ses servisinden daha iyi yararlanmak için aşağıdakileri de bilmeniz ge
     <string name="wifi_recommended_body" formatted="false">Bu dosyayı (%s) indirmek için mobil veri bağlantınızı kullanmanız, veri kullanımınızı arttıracaktır. Tarifenizin veri kullanım limitini aşarsanız, operatörünüz tarafından ek ücretlendirmelere maruz kalabilirsiniz. İndirme işlemini bir Wi-Fi ağına bağlanılana kadar bekletmek için %s dokunun.</string>
     <string name="wifi_recommended_title">Veri kullanımı uyarısı</string>
     <string name="xiaomi_account_type">com.xiaomi</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">İptal et</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Tamam</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">%s yeni sürüm</string>
 </resources>

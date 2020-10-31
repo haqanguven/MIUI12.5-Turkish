@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="aggregate_entries">
-        <item>Önerilen</item>
-        <item>Önemli</item>
-        <item>Önemsiz</item>
+        <item>Gruplandır</item>
+        <item>Gruplandırma</item>
     </string-array>
     <string-array name="aggregate_summaries">
-        <item>Bildirimleri otomatik olarak düzenler</item>
-        <item>Bildirimler gölgesinde görünecek her zaman gösterilir</item>
-        <item>Bildirimler ayrı bir klasörde gösterilir</item>
+        <item>Promosyon ve içerikle ilgili itme bildirimleri gruplandırılacaktır</item>
+        <item>İtme bildirimleri gruplandırılmayacaktır"</item>
     </string-array>
     <string-array name="agps_network_entries">
         <item>Ev ağı</item>

@@ -95,7 +95,7 @@
     <string name="apply_not_support_aod">Her zaman açık ekran bu cihazda desteklenmiyor</string>
     <string name="apply_not_support_in_second_space">Bu öğe İkinci alanda uygulanamıyor</string>
     <string name="apply_not_support_maml_aod">Her zaman açık ekran bu cihazdaki temalarla birleştirilemiyor</string>
-    <string name="apply_succeed">Applied successfully</string>
+    <string name="apply_succeed">Uygulandı</string>
     <string name="apply_success_not_enable_aod">Önce ayarlardan her zaman açık ekranı açın</string>
     <string name="apply_success_not_support_aod">Her zaman açık ekran bu cihazdaki temalarla birleştirilemiyor. Bu temanın diğer bileşenleri başarıyla uygulandı</string>
     <string name="apply_theme_with_ringtones">Tema zil sesi</string>
@@ -594,7 +594,7 @@ mm"</string>
     <string name="miuix_compat_dialog_button">Anladım</string>
     <string name="miuix_compat_dialog_cancel">İptal et</string>
     <string name="miuix_compat_dialog_checkbox">Bir daha gösterme</string>
-    <string name="miuix_compat_dialog_content">"%s nin mevcut sürümü bu temayla uyumlu değil"</string>
+    <string name="miuix_compat_dialog_content">"%s'nin mevcut sürümü bu temayla uyumlu değil"</string>
     <string name="miuix_compat_dialog_ok">Tamam</string>
     <string name="miuix_compat_dialog_title">%s öğesine varsayılan tema uygulandı</string>
     <string name="miuix_compat_dialog_update_title">Bir güncelleme gerekli</string>

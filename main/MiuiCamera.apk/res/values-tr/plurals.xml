@@ -20,6 +20,18 @@
         <item quantity="other">Bir seferde en fazla %d klon oluşturabilirsiniz</item>
         <item quantity="one">Bir seferde en fazla %d klon oluşturabilirsiniz</item>
     </plurals>
+    <plurals name="fastmotion_pro_min_unit">
+        <item quantity="other">%1$d dakika</item>
+        <item quantity="one">%1$d dakika</item>
+    </plurals>
+    <plurals name="fastmotion_pro_sec_unit">
+        <item quantity="other">%1$d saniye</item>
+        <item quantity="one">%1$d saniye</item>
+    </plurals>
+    <plurals name="live_workspace_delete_dialog_title">
+        <item quantity="other">%1$d taslak silinsin mi?</item>
+        <item quantity="one">%1$d taslak silinsin mi?</item>
+    </plurals>
     <plurals name="pref_camera_fastmotion_duration_unit">
         <item quantity="other">%1$s dakika</item>
         <item quantity="one">%1$s dakika</item>

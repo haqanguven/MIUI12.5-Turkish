@@ -759,8 +759,8 @@ Boş yer açın veya sadece önemli öğeleri aktarın"</string>
     <string name="user_notice_declaration_ignore">Tekrar gösterme</string>
     <string name="user_notice_message">Bazı hizmetler normal olarak çalışabilmeleri için internet bağlantısına ihtiyaç duymaktadır</string>
     <string name="user_notice_title">Uyarı</string>
-    <string name="v7_preference_off">OFF</string>
-    <string name="v7_preference_on">ON</string>
+    <string name="v7_preference_off">Kapat</string>
+    <string name="v7_preference_on">Aç</string>
     <string name="view_password_description">Şifreyi göster</string>
     <string name="wait_link">"Eski cihazda Mi taşıyıcıyı açın
 Göndericiyime dokunun ve bağlanmak için bir bağlantı noktası seçin

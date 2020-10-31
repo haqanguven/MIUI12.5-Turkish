@@ -226,6 +226,7 @@
     <string name="kilobyteShort">KB</string>
     <string name="load_finish_hint">Görüntülemeye yarın devam edebilirsiniz</string>
     <string name="loading">Yükleniyor</string>
+    <string name="marketSdkVersion">3.2.5</string>
     <string name="media_filter">Medya</string>
     <string name="megabyteShort">MB</string>
     <string name="member_cost">Yıllık</string>
@@ -307,7 +308,7 @@ indirme işlemlerini hızlandırın"</string>
     <string name="pref_summary_max_bytes_limit_format">Dosya boyutu %s boyutunu aştığında wifi ağına bağlanmayı bekle</string>
     <string name="pref_summary_no_limit_popup">Sınırsız</string>
     <string name="pref_title_enable_max_bytes_popup">Veri kullanım uyarısı görüntüle</string>
-    <string name="preference_copied">\"%1$s\" panoya kopyalandı.</string>
+    <string name="preference_copied">%1$s panoya kopyalandı</string>
     <string name="preferences_title">Ayarlar</string>
     <string name="privacy_policy">Gizlilik politikası</string>
     <string name="privacy_tip_cancel">İptal et</string>
@@ -515,6 +516,9 @@ Cihazlarınızın tamamında indirme işlemlerini hızlandırın"</string>
     <string name="web_dialog_cancel">İptal et</string>
     <string name="web_dialog_confirm">Tamam</string>
     <string name="xiaomi_account_not_exist_message">Böyle bir Mi hesabı bulunmamaktadır</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">İptal et</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Tamam</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">%s yeni sürüm</string>
     <string name="xl_annual_vip_open">Yıllık üyelik (%1$s Mi kredi veya %2$s aylık)</string>
     <string name="xl_annual_vip_renew">1 yıllık yenile (%1$s Mi kredi veya %2$s aylık)</string>
     <string name="xl_bind_account">Mevcut Xunlei hesabı ekle</string>

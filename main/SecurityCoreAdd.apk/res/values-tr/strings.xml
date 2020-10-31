@@ -124,12 +124,12 @@ mesajları ikinci alanda göster"</string>
     <string name="dont_import">Şimdi değil</string>
     <string name="downloading_space">İndiriliyor</string>
     <string name="dual_animation">Başlatma animasyonu</string>
-    <string name="dual_animation_description">Çift uygulama başlatıldığında animasyonu göster</string>
+    <string name="dual_animation_description">Çift uygulama başlatıldığında animasyon gösterir</string>
     <string name="enable">Aç</string>
     <string name="ent_activating">Etkinleştiriliyor</string>
     <string name="ent_activation">Etkinleştir</string>
     <string name="ent_activation_hint">Şirket modunu etkinleştirmek için şirket kodunuzu lisans koduyla birlikte girin. Bundan sonra özel şirket hizmetleri etkinleştirilecek</string>
-    <string name="ent_activation_hint_whit_licence">"Şirket hizmetlerini etkinleştirmek için şirket modunu etkinleştirin\u000d
+    <string name="ent_activation_hint_whit_licence">"Şirket hizmetlerini etkinleştirmek için şirket modunu etkinleştirin
 Şirketinizin adı doğru olduğundan emin olun. Etkinleştirmeden önce ilgili gizlilik politikalarını okuyun ve kabul edin"</string>
     <string name="ent_agency_code">Şirket kodu</string>
     <string name="ent_agency_code_hint">Şirket kodunu girin</string>
@@ -194,7 +194,7 @@ mesajları ikinci alanda göster"</string>
     <string name="green_guard_title3">Uygulamaları yönet</string>
     <string name="greenguard_child_des">Arkadaşlarınızın ve ailenizin cihazlarını yönetin</string>
     <string name="greenguard_child_des_title">Cihaz eklemek için QR kodunu tarayın</string>
-    <string name="greenguard_functional_description">"Cihazları uzaktan yönetin, konum bilgisini görüntüleyin,\u000d
+    <string name="greenguard_functional_description">"Cihazları uzaktan yönetin, konum bilgisini görüntüleyin,
 yüklü uygulamaları kontrol etme ve kullanımı kısıtlama"</string>
     <string name="greenguard_install_cancle">Hayır</string>
     <string name="greenguard_install_confirm">Yükle</string>
@@ -279,7 +279,6 @@ Uygulamaları ayrıca ayrı ayrı da indirebilirsiniz"</string>
     <string name="notificationTitle">Bildirim çubuğu kısayolu</string>
     <string name="notification_from_owner_user">İlk alan bildirimi</string>
     <string name="notification_from_second_user">Cep telefonu avatarından haber</string>
-    <string name="notification_recommend_title">İkinci alan için en çok kullanılan 12 uygulama</string>
     <string name="notification_setting_second_space">İkinci alanı ayarla</string>
     <string name="notification_setting_second_space_desc">İkinci alan şifresi ekleyin ve verilerinizi taşıyın</string>
     <string name="ok_button">Tamam</string>
@@ -304,10 +303,10 @@ Aksi halde, İkinci alana kilit ekranından giriş yapamazsınız"</string>
     <string name="qq_login">"QQ'da oturum açın"</string>
     <string name="qq_send">QQ arkadaşlarına veya cihazlarına gönder</string>
     <string name="radio_button_icon_switch_title">Simge geçişi, kolay ve hızlı</string>
-    <string name="radio_button_password_switch_title">Şifre anahtarı, gizli giriş</string>
+    <string name="radio_button_password_switch_title">Şifre anahtarı ve gizli giriş</string>
     <string name="removeSuccess">Başarıyla silindi</string>
-    <string name="remove_button">Kaldır ve yeniden başlat</string>
-    <string name="remove_button_time">Kaldır ve yeniden başlat (%d saniye)</string>
+    <string name="remove_button">Sil ve yeniden başlat</string>
+    <string name="remove_button_time">Sil ve yeniden başlat (%d saniye)</string>
     <string name="remove_second_space_msg">İkinci alanı silmenizden sonra ikinci alan verilerin tamamını kaybedeceksiniz. İkinci alanı silmek istiyor musunuz?</string>
     <string name="removingSpace">Siliniyor</string>
     <string name="repeat_scanner_fingerprint">Tekrar ekle</string>
@@ -325,7 +324,7 @@ Aksi halde, İkinci alana kilit ekranından giriş yapamazsınız"</string>
     <string name="same_qr_code_enter_space">İş alanına git</string>
     <string name="same_qr_code_title">%s zaten mevcut</string>
     <string name="scanner_fingerprint">Parmak izi taranıyor</string>
-    <string name="scanner_fingerprint_enter_second">"Kilit ekranından ikinci alana girmek için\u000d
+    <string name="scanner_fingerprint_enter_second">"Kilit ekranından ikinci alana girmek için
 ikinci alan parmak izini tarayın"</string>
     <string name="scanner_fingerprint_error_tips_desc">Eşleşen parmak izi bulunamıyor. İkinci alana parmak izi eklensin mi?</string>
     <string name="scanner_fingerprint_error_tips_title">Eşleşen parmak izi bulunamıyor</string>
@@ -413,7 +412,7 @@ Verilerinizi ayırın ve güvenliğini sağlayın"</string>
 ikinci alan parmak izi kullanın"</string>
     <string name="start_setting_guide_desc_title">Ayarlanması gereken bir kaç şey var</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="stop_xspace_alert_content">Tüm çift uygulamaları sildiniz. Çift uygulama hesaplarını ve uygulama verilerinide silmek ister misiniz?</string>
+    <string name="stop_xspace_alert_content">Çift uygulama hesaplarını ve uygulama verilerini silmek istediğinize emin misiniz?</string>
     <string name="stop_xspace_alert_title">Çift uygulama hesaplarını silme</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_switch_apps_settings">İkinci alanda kullanılan uygulamaları seçin</string>
@@ -488,10 +487,14 @@ Bazı çift uygulamalar Google hizmet çerçevesine ihtiyaç duyar. Bu gibi duru
     <string name="xspace_disable">Oluşturulamadı</string>
     <string name="xspace_enable">Oluşturuldu</string>
     <string name="xspace_facebook_title">Facebook</string>
-    <string name="xspace_guide_des">Geçiş yapmadan 2 hesap kullanın</string>
-    <string name="xspace_guide_title">Çift uygulama oluştur</string>
+    <string name="xspace_guide_content_bound">Kullanılabilir uygulamalar</string>
+    <string name="xspace_guide_des">Çift uygulamalar aralarında geçiş yapmadan aynı anda iki hesabı kullanmanıza izin verir</string>
+    <string name="xspace_guide_description">"Her hesap
+kendi uygulamasını hak ediyor"</string>
+    <string name="xspace_guide_title">Çift uygulamaları deneyin</string>
     <string name="xspace_header">Çift uygulamalar</string>
     <string name="xspace_instagram_title">İnstagram</string>
+    <string name="xspace_install_complete">&lt;font>Çift uygulama başarıyla oluşturuldu. &lt;/font>&lt;font color=#0D84FF>Şimdi aç&lt;/font></string>
     <string name="xspace_install_completed">Simge ana ekrana eklendi</string>
     <string name="xspace_install_completed_global">Simge çekmeceye eklendi</string>
     <string name="xspace_install_failed">Oluşturulamadı</string>
@@ -500,11 +503,13 @@ Bazı çift uygulamalar Google hizmet çerçevesine ihtiyaç duyar. Bu gibi duru
     <string name="xspace_label">Çift uygulamalar</string>
     <string name="xspace_loading_msg">Uygulamalar yükleniyor</string>
     <string name="xspace_notification">Çift uygulama bildirimleri</string>
+    <string name="xspace_notification_button">Dene</string>
     <string name="xspace_notification_error">Çift WeChat uygulamasında oturum açın ve tekrar deneyin</string>
     <string name="xspace_qq_title">QQ</string>
-    <string name="xspace_remove">Çift uygulamaların hesaplarını silin</string>
+    <string name="xspace_remove">Çift uygulamaların hesabını sil</string>
     <string name="xspace_setting_label">Çift uygulama ayarları</string>
     <string name="xspace_settins">Ayarla</string>
+    <string name="xspace_start">Oluştur</string>
     <string name="xspace_uninstall_completed">Çift uygulama başarıyla kaldırıldı</string>
     <string name="xspace_uninstall_dialog_content">Çift uygulamayı kaldırmak uygulama verilerin tamamını silecektir</string>
     <string name="xspace_uninstall_dialog_title">Çift uygulamayı kaldır</string>

@@ -70,7 +70,7 @@ sol üst köşedeki düğmeye dokunun"</string>
     <string name="altitude_range">Boy</string>
     <string name="am">ÖÖ</string>
     <string name="androidx_camera_default_config_provider">androidx.camera.camera2.Camera2Config$DefaultProvider</string>
-    <string name="app_name">SnailAudioSDK</string>
+    <string name="app_name">plugin.health.analyze</string>
     <string name="app_setting">Uygulamalar</string>
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="audio_permission_dialog_desc">Uyku döngünüzü analiz etmek ve konuşma ve horlamayı kaydetmek için Xiaomi sağlığın ses kaydı için izne ihtiyacı var</string>
@@ -333,7 +333,7 @@ Sağlık verilerinizi saklamayı seçtikten sonra silmeye karar verirseniz Sağl
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
-    <string name="date_picker_lunar">Ay takvimi</string>
+    <string name="date_picker_lunar">Çin takvimi</string>
     <string name="date_week_index">"yyyy 'W'ww"</string>
     <string name="day">Gün</string>
     <string name="deep_light_detection_open_prompt">Bir sonraki yatışınızda uyku döngünüz analiz edilecek</string>
@@ -387,7 +387,8 @@ Lütfen bu kodu teknisyene gönderin"</string>
     <string name="dialog_account_perm_desc">Mi hesabınıza erişmek için</string>
     <string name="dialog_agree">Kabul et</string>
     <string name="dialog_agree_and_continue">Kabul et</string>
-    <string name="dialog_allow">Allow</string>
+    <string name="dialog_agree_permission">İzin ver</string>
+    <string name="dialog_allow">İzin ver</string>
     <string name="dialog_auto_start_detail">"Bildirim almak için Mi sağlığa otomatik başlama izni verin
 Mi sağlık yalnızca önemli ögeler hakkında bildirim gönderir"</string>
     <string name="dialog_auto_start_title">Mi sağlığa otomatik başlama izni verin</string>
@@ -416,9 +417,11 @@ Mi sağlık yalnızca önemli ögeler hakkında bildirim gönderir"</string>
     <string name="dialog_ok">Tamam</string>
     <string name="dialog_open">İzin ver</string>
     <string name="dialog_permission_loading_msg">Kontrol ediliyor</string>
+    <string name="dialog_permission_title">İzinler gerekli</string>
     <string name="dialog_privacy_policy_statement">Gizlilik politikası ifadesi</string>
     <string name="dialog_privacy_title">Şartlar ve koşullar</string>
     <string name="dialog_read_phone_perm_desc">Cihazınızı tanımlamak için cihaz kimliğine erişmek için</string>
+    <string name="dialog_reject">Kısıtla</string>
     <string name="dialog_request_network">Bu uygulamanın internete bağlanmasına izin verin</string>
     <string name="dialog_sleep_goal_setting">Uyku süresi hedefini ayarla</string>
     <string name="dialog_sleep_goal_subtitle">Her gün 7-9 saat uyumanız önerilir</string>
@@ -714,15 +717,18 @@ Daire kırmızı olana kadar bekleyin"</string>
     <string name="hr_detect_state_reseting">Dinlenme durumu</string>
     <string name="hr_detect_state_reseting_desc">Sadece uyan ya da tamamen rahatla</string>
     <string name="hr_disturb_detect">Algılama kesintisit</string>
+    <string name="hr_finger_permission_desc">Kalp atış hızınızı ölçmek için bu özelliğin kan akışınızdaki değişiklikleri algılayabilmesi için parmak izi tarayıcısına erişmesi gerekir. İzin vermek istiyor musunuz?</string>
     <string name="hr_fp_area">Parmak izi alanı</string>
     <string name="hr_fp_detect_desc">Kalp atışı sırasında parmaklara kan akışı artar. Ekranın altındaki parmak izi alanında bulunan parlak ışık kaynağı sayesinde parmak kanının değişim sıklığı elde edilebilir. Frekans doğru kalp atış hızını hesaplamak için bir nabız sinyaline dönüştürülür</string>
     <string name="hr_fp_detect_principle_desc">"Kan ışığı emebilir. Her kalp atışında parmaklara daha fazla kan akar ve daha fazla ışık emilir. Kalp atışları arasındaki aralıkta daha az ışık emilir. Ekranın altındaki parmak izi alanında bulunan parlak ışık kaynağı sayesinde parmak kanının değişim frekansı elde edilebilir. Frekans doğru kalp atış hızını hesaplamak için bir nabız sinyaline dönüştürülür
 
 Çok sayıda deney yoluyla ortalama kalp atış hızı hatası 3 BPM'den azdır"</string>
     <string name="hr_fp_detect_principle_desc_2">Not: Lütfen parmağınızın parmak izi alanını tamamen kapladığından emin olun. Tespit sırasında hafifçe bastırın. Basınç çok yüksekse parmaktaki kan akışı azalacak ve hatalı sonuçlara neden olacaktır. Test verileri sadece referans içindir. Tıbbi cihazlar için değildi</string>
-    <string name="hr_fp_detect_start_desc">Lütfen parmağınızı hafifçe bastırın. Parmak izi alanını hareket ettirmeyin</string>
+    <string name="hr_fp_detect_start_desc">"Lütfen parmağınızı hafifçe bastırın
+Parmak izi alanını hareket ettirmeyin"</string>
     <string name="hr_fp_detecting">Tespit ediliyor</string>
-    <string name="hr_fp_not_put_well">Parmak doğru yerde değil. Tekrar dene</string>
+    <string name="hr_fp_not_put_well">"Parmak doğru yerde değil
+Tekrar dene"</string>
     <string name="hr_fp_report_common_desc">"Normal kalp atış hızı dakikada 60 ila 100 atış arasındadır. 60 BPM'den düşük bir kalp hızı bradikardinin bir işaretidir. 100 BPM'nin üzerindeki bir kalp hızı ise yetişkinlerde taşikardi olarak kabul edilir"</string>
     <string name="hr_heart_rate_unit">Kalp atış hızı (BPM)</string>
     <string name="hr_in_detect">Lütfen test sırasında parmağınızı oynatmayın</string>
@@ -1315,6 +1321,7 @@ bulunamadı"</string>
     <string name="snore_detection_abnormal_state">Oturum kesildi</string>
     <string name="snore_detection_abnormal_state_description">Mikrofon kapalı</string>
     <string name="snore_detection_close_prompt">Horlama ve konuşma algılama kapalı</string>
+    <string name="snore_detection_close_prompt_desc">Bir süredir horlamayı ve konuşmayı fark etmediniz. Pilden tasarruf etmeniz için bu özelliği kapattık. Ayarları kontrol etmek için dokunun</string>
     <string name="snore_detection_close_title">Horlama ve konuşma algılaması kapatılsın mı?</string>
     <string name="snore_detection_enable">Horlamayı ve konuşmayı tespit et</string>
     <string name="snore_detection_guide_one_description">Siz uyurken ses kaydedilecek. Makine öğrenimi Xiaomi sağlık için konuşma, yüksek sesleri tespit etme ve kayıtları cihazınıza kaydetme olanağı sağlar</string>
@@ -1370,7 +1377,9 @@ bulunamadı"</string>
     <string name="solar_term_winter_solstice">Kış gündönümü</string>
     <string name="sport_btn_continue">Devam et</string>
     <string name="sport_btn_finish">Bitir</string>
+    <string name="sport_btn_lock">Kilitle</string>
     <string name="sport_btn_pause">Duraklat</string>
+    <string name="sport_btn_unlock">Kilidi aç</string>
     <string name="sport_counter_begin">Doğrudan başla</string>
     <string name="sport_home_begin">Başlat</string>
     <string name="sport_home_set_goal">Hedef belirle</string>
@@ -1378,6 +1387,7 @@ bulunamadı"</string>
     <string name="sport_invalid_dialog_time_content">Bu spor 5 saniyeden az. Spor kaydı oluşturulamıyor</string>
     <string name="sport_invalid_dialog_title">Etkisiz spor</string>
     <string name="sport_menu_share">Paylaş</string>
+    <string name="sport_no_internet_toast">Zayıf ağ sinyali nedeniyle tam konumunuza erişilemiyor</string>
     <string name="sport_pace_chart_last_km">Bir kilometreden az</string>
     <string name="sport_pace_step_unit">Adım/dakika</string>
     <string name="sport_pace_time_format" formatted="false">"%d'%d"</string>
@@ -1390,6 +1400,7 @@ bulunamadı"</string>
     <string name="sport_share_save_local">Yerel olarak kaydet</string>
     <string name="sport_share_save_local_fail">Kaydedilemedi. Lütfen tekrar deneyin</string>
     <string name="sport_share_save_local_success">Kaydedildi</string>
+    <string name="sport_share_success">Paylaşıldı</string>
     <string name="sport_share_title">Sporu paylaş</string>
     <string name="sport_step_average_frequency">Ortalama ritim</string>
     <string name="sport_step_max_frequency">En iyi yürüyüş</string>
@@ -1399,17 +1410,13 @@ bulunamadı"</string>
     <string name="sport_tts_begin_running">Koşmaya başla</string>
     <string name="sport_tts_begin_walking">Yürümeye başla</string>
     <string name="sport_tts_finish_by_user">Tebrikler. Egzersizi bitirdin</string>
-    <string name="sport_tts_goal_consume">Hedefinize %s kalori</string>
-    <string name="sport_tts_goal_distance">Hedefinizden %s kilometre uzaktasınız</string>
     <string name="sport_tts_goal_finish">Hedef tamamlandı. Tebrikler</string>
     <string name="sport_tts_goal_finish_half">Spor hedefinin yarısı tamamlandı. Harika</string>
     <string name="sport_tts_last_km_spent">Son bir kilometrede %s</string>
     <string name="sport_tts_pause_by_user">Spor duraklatıldı</string>
-    <string name="sport_tts_riding_distance">%s kilometre sürdünüz</string>
-    <string name="sport_tts_running_distance">%s kilometre koştunuz</string>
-    <string name="sport_tts_total_consume">%s kalori tükettiniz</string>
-    <string name="sport_tts_walking_distance">%s kilometre yürüdünüz</string>
     <string name="sport_type">Spor türü</string>
+    <string name="sporting_content_speed">Şu anki hız: Kilometre başına %1$s %2$s</string>
+    <string name="sporting_content_time">Egzersiz süresi: %1$s %2$s</string>
     <string name="sporting_goal">Amaçları</string>
     <string name="sporting_hint_exit_map">Spor haritasından çık</string>
     <string name="sporting_hint_long_press">Bitirmek için uzun basın</string>
@@ -1419,11 +1426,11 @@ bulunamadı"</string>
     <string name="sporting_key_speed">Hız</string>
     <string name="sporting_key_step">Adım</string>
     <string name="sporting_key_time">Zamanlayıcı</string>
+    <string name="sporting_location">Bul</string>
     <string name="sporting_title_outdoor_riding">Sürme</string>
     <string name="sporting_title_pause">Duraklat</string>
     <string name="sporting_title_running">Koşu</string>
     <string name="sporting_title_waking">Yürüme</string>
-    <string name="sporting_unit_step">adım</string>
     <string name="stand">Ayakta</string>
     <string name="stand_assistant">Ayakta</string>
     <string name="stand_detection">Ayakta durmayı takip et</string>
