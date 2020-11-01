@@ -1666,4 +1666,6 @@ Lütfen ilgili seçeneklerden birini seçin:"</string>
     <string name="yesterday">Dün</string>
     <string name="zero_items_selected">Öğeleri seçin</string>
     <string name="zero_letter">+</string>
+	<string name="confirm_call_log_dial_title">Arama onayı</string>
+	<string name="confirm_call_log_dial_summary">Yanlışlıkla aramaları önlemek için arama kaydında bir numara çevirmeden önce onay gereklidir</string>
 </resources>

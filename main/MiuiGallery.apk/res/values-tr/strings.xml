@@ -1001,8 +1001,10 @@
     <string name="download_title">Dosyalar hazırlanıyor</string>
     <string name="download_type_origin">Orijinal dosya</string>
     <string name="download_type_origin_desc">Orijinal dosya</string>
+    <string name="download_type_origin_title">Orijinal</string>
     <string name="download_type_thumbnail">Yüksek kalite</string>
-    <string name="download_type_thumbnail_desc">Yüksek kalite</string>
+    <string name="download_type_thumbnail_subtitle">Yüksek kaliteli görüntüler orijinal olanlarla neredeyse aynı görünür ancak daha az depolama alanı kaplar</string>
+    <string name="download_type_thumbnail_title">Yüksek kalite</string>
     <string name="download_type_title">İndirme kalitesi</string>
     <string name="download_with_metered_network_msg">Orijinal dosyaları indirmek ek operatör ücretleri oluşturabilir. Yine de indirmek ister misiniz?</string>
     <string name="download_with_metered_network_title">Ücretli bir ağa bağlısınız</string>
@@ -1672,6 +1674,7 @@ yüzünüzle fotoğrafları seçin"</string>
     <string name="need_to_turn_on_sync_first">Öncelikle Mi bulut ile senkronizasyon özelliğini açın</string>
     <string name="need_to_turn_on_wlan">Öncelikle Wifi ağına bağlanın</string>
     <string name="network_connected_rescan">Ağa bağlanılamıyor</string>
+    <string name="new_album_invalid_byte">Bu isim çok uzun</string>
     <string name="new_album_invalid_char">İsimler %s karakterini içermemelidir. Bir harf veya rakam girin</string>
     <string name="new_album_invalid_name">%s albümü sistem albümüdür. Lütfen yeniden adlandırın</string>
     <string name="new_album_invalid_prefix">Albüm adı başlangıcında \".\" veya \"_\" karakterlerini kullanmayın</string>
@@ -1691,6 +1694,7 @@ yüzünüzle fotoğrafları seçin"</string>
     <string name="not_remind_again">Tekrar gösterme</string>
     <string name="not_remind_any_more">Tekrar gösterme</string>
     <string name="not_set">Ayarlanmadı</string>
+    <string name="notice_click_lock_orientation">Yönü kilitlemek için dokunun</string>
     <string name="ocr_abnormal">Metin tanınamadı</string>
     <string name="ocr_abnormal_pic_format">Metin tanınamadı. Bu resim biçimi desteklenmiyor</string>
     <string name="ocr_abnormal_pic_too_large">Metin tanınamadı. Bu görüntü çok büyük</string>
@@ -1762,6 +1766,9 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="operation_remove_rubbish">Geri yükle</string>
     <string name="operation_remove_secret">Göster</string>
     <string name="operation_rename">Yeniden adlandır</string>
+    <string name="operation_replace_album_cover">Albüm kapağını değiştir</string>
+    <string name="operation_replace_album_cover_custom_mode">Özel</string>
+    <string name="operation_replace_album_cover_default_mode">Varsayılan</string>
     <string name="operation_save">Kaydet</string>
     <string name="operation_send">Paylaş</string>
     <string name="operation_set_contact_photo">Kişi fotoğrafı olarak ayarla</string>
@@ -1898,6 +1905,7 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="photo_movie_module_finish">Klipler başarıyla yüklendi</string>
     <string name="photo_movie_module_loading">Klipler yükleniyor</string>
     <string name="photo_movie_select_image_range">Klipler 3-20 fotoğraf içerebilir</string>
+    <string name="photo_page_lock_screen">Yönü kilitle</string>
     <string name="photo_page_rotate_screen">Ekranı döndür</string>
     <string name="photo_page_save_uri_image_fail">Galeriye kaydedilemedi</string>
     <string name="photo_page_save_uri_image_ok">Fotoğraf galeriye kaydedildi</string>
@@ -2463,6 +2471,7 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="to_enable_sync_dialog_title">Senkronize et</string>
     <string name="toast_invalid_char">Dosya adları %s içeremez</string>
     <string name="toast_invalid_prefix">"Dosya adları . veya _ ile başlayamaz"</string>
+    <string name="toast_orientation_locked">Yönlendirme başarıyla kilitlendi</string>
     <string name="toast_rename_exit">Bu dosya zaten var</string>
     <string name="today">Bugün</string>
     <string name="tomorrow">Yarın</string>
@@ -2786,7 +2795,7 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="vlog_trans_right">Sağ</string>
     <string name="vlog_trans_suoxiao">Uzaklaştır</string>
     <string name="vlog_trans_suoxiao_rotate">Dışa döndür</string>
-    <string name="vlog_trans_up">Up</string>
+    <string name="vlog_trans_up">Yukarı</string>
     <string name="vlog_unzip_file_fail">Dosya açılamadı</string>
     <string name="vlog_video_adjust_order">Videoları yeniden düzenle</string>
     <string name="vlog_video_importing">Video içe aktarılıyor</string>
@@ -2794,6 +2803,7 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="vlog_video_selected_not_support">Seçilen video düzenlenemiyor</string>
     <string name="vlog_video_trans_code_cons">Yüksek çözünürlüklü bir dosya işleniyor</string>
     <string name="voice_assistant">Ses girişi</string>
+    <string name="watch_all_photo">Galeri</string>
     <string name="wednesday">Çarşamba</string>
     <string name="wednesday_short">Çarşamba</string>
     <string name="wednesday_shortest">Ç</string>

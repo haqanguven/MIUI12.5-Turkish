@@ -83,11 +83,16 @@
     <string name="action_update_phone">Telefon numarasını değiştir</string>
     <string name="activate_email_notice">Hesabınızı 24 saat içerisinde etkinleştirdiğinizden emin olun</string>
     <string name="activity_not_found_notice">Uygulama bulunamıyor</string>
+    <string name="ad">Reklam</string>
     <string name="ad_buy">Satın al</string>
     <string name="ad_download">İndir</string>
     <string name="ad_join">Topluluğa katılın</string>
     <string name="ad_more">Daha fazla</string>
+    <string name="add_search_channel_link">Bağlantı</string>
+    <string name="add_search_channel_name">Ad</string>
+    <string name="add_search_channel_tip">Hedef internet sitesinde %s araması yapın ve ardından bağlantıyı kopyalayıp buraya yapıştırın</string>
     <string name="add_to_trust_device">Bu güvenli bir cihazdır</string>
+    <string name="add_website">İnternet sitesi ekle</string>
     <string name="agree">Kabul et</string>
     <string name="agree_and_continue">Kabul et</string>
     <string name="ai_animation_music_text">AI film müziği</string>
@@ -110,6 +115,7 @@
     <string name="app_code">MOVIE-ANDROID-MIVIDEO</string>
     <string name="app_name">Videolar</string>
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="auth_again">Kabul et</string>
     <string name="auth_fail_warning">Oturumun süresi doldu. Tekrar oturum açın</string>
     <string name="auto_play_next_off">Otomatik oynatma kapalı</string>
     <string name="auto_play_next_on">Otomatik oynatma açık</string>
@@ -175,6 +181,8 @@
     <string name="choose_to_signup">Hayır. Yeni bir hesap oluşturacağım</string>
     <string name="click_to_reload_more">Daha fazla yüklemek için dokunun</string>
     <string name="click_to_retry">Yeniden dene</string>
+    <string name="cloud_auto_pip_play_switch">Pencere içinde pencere özelliğini otomatik olarak kullan</string>
+    <string name="cloud_online_player">Oynatıcı</string>
     <string name="cloud_online_switch">Kişiselleştirilmiş öneriler</string>
     <string name="cloud_online_switch_close_time">%s içinde kişiselleştirilmiş içerik tavsiyelerini açabilirsiniz</string>
     <string name="cloud_online_switch_open_time">Kişiselleştirilmiş içerik tavsiyelerini göster</string>
@@ -267,6 +275,7 @@
     <string name="default_web_client_id">144285974528-0s4d24nm35j65v8dde47naur9f0p32ff.apps.googleusercontent.com</string>
     <string name="define_roundedimageview" />
     <string name="description">Tanım</string>
+    <string name="detail_select_source">Oynatma kaynağını seçin</string>
     <string name="diagnosis_log_send_failed">Kayıtlar gönderilemedi. Tekrar deneyin</string>
     <string name="diagnosis_log_sent_format">"Kayıtlar başarıyla gönderildi
 Kimlik:%s
@@ -368,6 +377,7 @@ Bu kodu gönderin"</string>
     <string name="find_psw">Şifremi unuttum</string>
     <string name="finish">Bitti</string>
     <string name="firebase_database_url">https://global-video-5cd70.firebaseio.com</string>
+    <string name="firework_privacy">Havai fişek gizlilik politikası</string>
     <string name="for_diagnosis_usage_only">Kayıtlar yalnızca tanımlama işlemleri için kullanılır</string>
     <string name="for_you">Size özel</string>
     <string name="friday">Cuma</string>
@@ -431,9 +441,9 @@ Bu kodu gönderin"</string>
     <string name="galleryplus_online_cta_title">Şartlar ve koşullar</string>
     <string name="galleryplus_online_video_loading">Yükleniyor</string>
     <string name="galleryplus_permission_content">Bu özelliği kullanabilmek için videoya gerekli izinleri verin</string>
-    <string name="galleryplus_permission_content2">"Bu özelliği kullanabilmek için Ayarlar > Uygulamalar > Videolar > Uygulama izinleri menüsüne gidin ve videonun aşağıdakileri yapmasına izin verin:\u000d
-\u000d
-1. Depolamaya erişim\u000d
+    <string name="galleryplus_permission_content2">"Bu özelliği kullanabilmek için Ayarlar > Uygulamalar > Videolar > Uygulama izinleri menüsüne gidin ve videonun aşağıdakileri yapmasına izin verin:
+
+1. Depolamaya erişim
 2. Cihaz kimliğine erişim"</string>
     <string name="galleryplus_permission_open_settings">Ayarlar</string>
     <string name="galleryplus_permission_refuse">Hayır</string>
@@ -499,6 +509,12 @@ Bu kodu gönderin"</string>
     <string name="input_size_tips">1000 karaktere kadar girebilirsiniz</string>
     <string name="isornot_your_mi_account">Bu Mi hesabı sizin mi?</string>
     <string name="issue">Sorun</string>
+    <string name="item_card_all_replies">Tüm yanıtlar</string>
+    <string name="item_card_continue_play">Otomatik oynatma</string>
+    <string name="item_card_more_trailers">Daha fazla fragman</string>
+    <string name="item_card_open_in">"Aç "</string>
+    <string name="item_card_related">Benzer</string>
+    <string name="item_setting_go_back">İznin geri çekilmesi</string>
     <string name="just_a_second">Yükleniyor</string>
     <string name="language_later_setting_tips">Dil tercihlerinizi Profil > Dil menüsünde değiştirebilirsiniz</string>
     <string name="language_select_tips">"Videolar için
@@ -726,7 +742,9 @@ tercih ettiğiniz dili seçin"</string>
     <string name="notification_recall_desc">Mi Video, popüler videolar ve abonelikleriniz hakkında size bildirim gönderebilir.</string>
     <string name="notification_recall_title">Bildirimleri aç</string>
     <string name="notify_apk_installed">Başarıyla indirildi</string>
+    <string name="off_tip_firework_recommend">"Firework'ten kişiselleştirilmiş içerik önerilerini almayacaksınız"</string>
     <string name="ok">Tamam</string>
+    <string name="on_tip_firework_recommend">"Firework'ten kişiselleştirilmiş içerik önerilerini alacaksınız"</string>
     <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">Son abonelikler</string>
     <string name="order_recently_updated">Son güncellenen</string>
@@ -938,11 +956,16 @@ Hesap güvenliğinin arttırılması"</string>
     <string name="phone_number">Telefon numarası</string>
     <string name="photoPickerNotFoundText">Kullanılabilir fotoğraf yok</string>
     <string name="pip">Resim içinde resim</string>
+    <string name="playlist_create">Oluştur</string>
     <string name="playlist_detail_recomm_title">Önerilen çalma listeleri</string>
+    <string name="playlist_finish">Bitti</string>
     <string name="playlist_hot">Popüler</string>
+    <string name="playlist_name">Çalma listesi başlığı girin</string>
     <string name="playlist_new">Yeni</string>
     <string name="playlist_no_more">Burada daha fazla video yok</string>
+    <string name="playlist_no_videos">Burada video yok</string>
     <string name="playlist_offline">Bu çalma listesi artık kullanılamıyor</string>
+    <string name="playlist_remove">Kaldır</string>
     <string name="playlist_title">Çalma listesi</string>
     <string name="playlist_view_more">Daha fazla çalma listesi</string>
     <string name="plus_add_shortcut">Ana ekran kısayolu oluştur</string>
@@ -1136,6 +1159,8 @@ Hesap güvenliğinin arttırılması"</string>
     <string name="search_hot_words">Popüler</string>
     <string name="search_key_not_null">Arama talepleri boş bırakılamaz</string>
     <string name="search_menu_title">Ara</string>
+    <string name="search_result_download_error">İndirilemedi</string>
+    <string name="search_result_startdownload">İndiriliyor</string>
     <string name="selectall">Tümünü seç</string>
     <string name="selectnull">Tüm seçimleri kaldır</string>
     <string name="send_diagnosis_log">Kayıtları gönder</string>
@@ -1235,8 +1260,11 @@ Hiçbir şey göstermiyor"</string>
     <string name="ticket_hint">Doğrulama kodu</string>
     <string name="ticket_invalid">Girmiş olduğunuz kod hatalı</string>
     <string name="ticket_sign_in">Mesaj ile oturum aç</string>
+    <string name="tip_auth_again">"Daha önce üçüncü taraf içerik sağlayacısının ilgili gizlilik politikasının koşullarını kabul etmediğiniz için anlarda video içeriğini gösteremiyoruz. Gizlilik politikasını kabul etmek için aşağıdaki tuşa dokunun ve bu özelliğe erişin"</string>
     <string name="tip_author_click">Bu hesaptan daha fazla video görüntülemek için dokunun</string>
+    <string name="tip_pop">"&lt;Data>Anlar'dan içerik Firework tarafından sağlanmaktadır. Görüntüleme deneyiminizi geliştirmek ve daha alakalı içerik önerileri almak için Firework'un, Gizlilik politikasına göre kişisel bilgilerinizi toplamasına, işlemesine ve kullanmasına izin verin. Hizmetleri kullanmadan önce &lt;a href=\"%1$s\">Firework Gizlilik Politikasını&lt;/a> okuyun ve kabul edin&lt;/Data>"</string>
     <string name="tip_topic_click">Bu konuda daha fazla video bulmak için dokunun</string>
+    <string name="title_firework_recommend">Firework önerileri</string>
     <string name="title_publisher">Yayıncılar</string>
     <string name="title_subscribe">Aboneliklerim</string>
     <string name="toast_no_data">Bu ürün şu anda mevcut değil. Daha sonra gel</string>

@@ -6,7 +6,7 @@
     </string-array>
     <string-array name="aggregate_summaries">
         <item>Promosyon ve içerikle ilgili itme bildirimleri gruplandırılacaktır</item>
-        <item>İtme bildirimleri gruplandırılmayacaktır"</item>
+        <item>İtme bildirimleri gruplandırılmayacaktır</item>
     </string-array>
     <string-array name="agps_network_entries">
         <item>Ev ağı</item>

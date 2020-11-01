@@ -2463,7 +2463,7 @@ Oluşturulan kayıtları dosya yöneticisinde görüntüleyebilirsiniz"</string>
     <string name="enable_terminal_title">Yerel terminal</string>
     <string name="enable_text">Etkinleştir</string>
     <string name="enable_wifi_display">Kablosuz ekran</string>
-    <string name="enabled">On</string>
+    <string name="enabled">Açık</string>
     <string name="enabled_authorised_apps_summary">Yetkilendirmeniz uygulamaların anahtarları değiştirmenizden sonra iptal edilecektir</string>
     <string name="enabled_authorised_apps_title">Yetki verildi</string>
     <string name="enabled_by_admin">Yönetici tarafından etkinleştirildi</string>

@@ -503,6 +503,9 @@
     <string name="recents_exit_multi_window_mode">Çıkış</string>
     <string name="recents_forbid_dock_when_screening_toast_text">Yayın yaparken bölünmüş ekran kullanılamıyor</string>
     <string name="recents_incompatible_app_message">Bu uygulama bölünmüş ekranı desteklemiyor</string>
+    <string name="recents_layout_style">Son kullanılan görünüm düzeni</string>
+    <string name="recents_layout_style_horizontal">Yatay</string>
+    <string name="recents_layout_style_vertical">Dikey</string>
     <string name="recents_smallwindow_text">Eklemek için bırakın</string>
     <string name="recents_task_screening">Yayın yapılıyor</string>
     <string name="recents_title_app_manager">Uygulamaları yönet</string>
