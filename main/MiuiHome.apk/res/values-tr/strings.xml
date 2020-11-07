@@ -486,7 +486,7 @@
     <string name="preferences_title">Başlatıcı ayarları</string>
     <string name="preferred_app_settings_not_selected">Seçilmedi</string>
     <string name="privacy_thumbnail_blur_summary">Son kullanılan uygulamalarda önizlemeleri bulanıklaştırır</string>
-    <string name="privacy_thumbnail_blur_title">Uygulama önizleme bulanıklığı</string>
+    <string name="privacy_thumbnail_blur_title">Uygulamaların önizleme bulanıklığı</string>
     <string name="process" />
     <string name="quick_app">Hızlı uygulama</string>
     <string name="recent_apps">Son kullanılanlar</string>
@@ -495,7 +495,7 @@
     <string name="recent_menu_item_multi_window">Böl</string>
     <string name="recent_menu_item_unlock">Kilidi aç</string>
     <string name="recents_app_info_button_label">Uygulama bilgisi</string>
-    <string name="recents_config_title">Son işlemler</string>
+    <string name="recents_config_title">Son işlem ayarları</string>
     <string name="recents_dimiss_task">Temizle</string>
     <string name="recents_empty_message">Son öğe yok</string>
     <string name="recents_empty_message_dismissed_all">Her şeyi temizledin</string>
@@ -503,7 +503,7 @@
     <string name="recents_exit_multi_window_mode">Çıkış</string>
     <string name="recents_forbid_dock_when_screening_toast_text">Yayın yaparken bölünmüş ekran kullanılamıyor</string>
     <string name="recents_incompatible_app_message">Bu uygulama bölünmüş ekranı desteklemiyor</string>
-    <string name="recents_layout_style">Son kullanılan görünüm düzeni</string>
+    <string name="recents_layout_style">Kullanılan uygulamaların görünüm düzeni</string>
     <string name="recents_layout_style_horizontal">Yatay</string>
     <string name="recents_layout_style_vertical">Dikey</string>
     <string name="recents_smallwindow_text">Eklemek için bırakın</string>

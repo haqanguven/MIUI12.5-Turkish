@@ -1728,9 +1728,9 @@ Ağ etkinliğinizi izleyebilecek bir VPN'ye de bağlısınız"</string>
     <string name="sim_state_locked_dialog_title">Geçersiz Sim kart</string>
     <string name="sim_state_locked_puk_dialog_message">En az %d kez yanlış Puk kodu girdiniz. Sim kartınız şu anda geçersiz. Bu Sim kartı bir başkasıyla değiştirin</string>
     <string name="simulate_color_space">Renk uzayını simüle et</string>
-    <string name="small_window_guide_title">Yüzen pencereler</string>
+    <string name="small_window_guide_title">Kayan pencereler</string>
     <string name="small_window_notification_text">"MIUI %d'nin bu özelliği hakkında daha fazla bilgi edinmek dokunun"</string>
-    <string name="small_window_notification_title">Yüzen pencereler</string>
+    <string name="small_window_notification_title">Kayan pencereler</string>
     <string name="snooze_option_15_min">15 dakika</string>
     <string name="snooze_option_1_hour">1 saat</string>
     <string name="snooze_option_2_hour">2 saat</string>

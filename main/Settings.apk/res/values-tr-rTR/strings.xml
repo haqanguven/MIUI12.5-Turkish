@@ -2868,18 +2868,18 @@ At veya başka bir hayvan görünmüyordu. Erkekler önlerinde ittikleri küçü
     <string name="free_wifi_wiwide_provider">WiWide</string>
     <string name="free_xiaomi_wifi_connect_summary">%1$s ağına bağlanmak için dokunun</string>
     <string name="freeform_guide_drop_down_to_fullscreen_summary">Basın ve basılı tutun ve ardından kayan bir pencerenin eylem çubuğunu aşağı çekin</string>
-    <string name="freeform_guide_drop_down_to_fullscreen_title">Yüzen pencereleri tam ekran modunda görüntüle</string>
+    <string name="freeform_guide_drop_down_to_fullscreen_title">Kayan pencereleri tam ekran modunda görüntüle</string>
     <string name="freeform_guide_move_summary">Sürüklemek için kayan bir pencerenin işlem çubuğunu basılı tutun</string>
     <string name="freeform_guide_move_title">Kayan pencereleri hareket ettir</string>
-    <string name="freeform_guide_move_to_small_freeform_window_summary">Yüzen pencereyi ekranın köşesine sürükleyin</string>
-    <string name="freeform_guide_move_to_small_freeform_window_title">Yüzen pencereleri en aza indir</string>
+    <string name="freeform_guide_move_to_small_freeform_window_summary">Kayan pencereyi ekranın köşesine sürükleyin</string>
+    <string name="freeform_guide_move_to_small_freeform_window_title">Kayan pencereleri en aza indir</string>
     <string name="freeform_guide_notification_drop_down_summary">Basılı tutun ve bir bildirimin eylem çubuğunu aşağı çekin</string>
-    <string name="freeform_guide_notification_drop_down_title">Yüzen pencereleri aç</string>
-    <string name="freeform_guide_settings">Yüzen pencereler</string>
+    <string name="freeform_guide_notification_drop_down_title">Kayan pencereleri aç</string>
+    <string name="freeform_guide_settings">Kayan pencereler</string>
     <string name="freeform_guide_slide_up_to_close_summary">Kayan bir pencerenin işlem çubuğundan hızlıca yukarı kaydırın</string>
-    <string name="freeform_guide_slide_up_to_close_title">Yüzen pencereleri kapat</string>
+    <string name="freeform_guide_slide_up_to_close_title">Kayan pencereleri kapat</string>
     <string name="freeform_vedio_description">"· Kayan bir pencerede açmak için basılı tutun ve bir bildirimi aşağı çekin
-· Uygulamaları seçmek için son aramalarda yüzen pencereler öğesine dokunun"</string>
+· Uygulamaları seçmek için son aramalarda kayan pencereler öğesine dokunun"</string>
     <string name="frequently_fragment_delete">Kaldır</string>
     <string name="frequently_fragment_tempty">Sık kullanılan ögeler burada listelenecektir</string>
     <string name="fsg_mistake_touch_summary">Hareketlerin tam ekran oyunlar ve videolar gibi bazı sahnelerde etkinleştirilmesi için iki defa kaydırılması gereklidir</string>
