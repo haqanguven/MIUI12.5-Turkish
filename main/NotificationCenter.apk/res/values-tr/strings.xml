@@ -29,6 +29,7 @@
     <string name="abc_toolbar_collapse_description">Daralt</string>
     <string name="actionbar_button_up_description">Geri</string>
     <string name="afternoon">Öğleden sonra</string>
+    <string name="aggregate_title">Bildirim gruplama kuralları</string>
     <string name="am">ÖÖ</string>
     <string name="app_name">Bildirimler</string>
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
@@ -36,6 +37,9 @@
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="cancel">İptal et</string>
     <string name="category_other">Diğer</string>
+    <string name="channel_keyguard_hide_content">Tüm bildirimleri göster ancak içeriği gizle</string>
+    <string name="channel_keyguard_show_content">Tüm bildirimleri ve içeriklerini göster</string>
+    <string name="channel_keyguard_show_nothing">Bildirim gösterme</string>
     <string name="channel_name_aggregation">Gruplanmış bildirimler</string>
     <string name="channel_name_notification">Uygulama bildirimleri</string>
     <string name="channel_name_recovered">Geri yüklenen bildirimler</string>
@@ -209,9 +213,13 @@
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">zW T</string>
     <string name="fmt_weekday_timezone">zW</string>
-    <string name="friday">Friday</string>
-    <string name="friday_short">Fri</string>
-    <string name="friday_shortest">Fri</string>
+    <string name="fold_importance_default">Önerilen</string>
+    <string name="fold_importance_important">Önemli</string>
+    <string name="fold_importance_unimportant">Önemsiz</string>
+    <string name="fold_title">Gruplanmış bildirimler için kurallar</string>
+    <string name="friday">Cuma</string>
+    <string name="friday_short">Cum</string>
+    <string name="friday_shortest">C</string>
     <string name="function_description">İşlev açıklaması</string>
     <string name="heavenly_stems_bing">3</string>
     <string name="heavenly_stems_ding">4</string>
@@ -344,6 +352,9 @@
     <string name="notification_display_style">Bildirim türü</string>
     <string name="notification_fold_summary">Önemsiz bildirimleri otomatik olarak gruplar</string>
     <string name="notification_fold_title">Bildirimler klasörü</string>
+    <string name="notification_keyguard_hide_content">Bildirimleri göster ancak içeriği gizle</string>
+    <string name="notification_keyguard_show_content">Bildirim ve içeriği göster</string>
+    <string name="notification_keyguard_show_nothing">Kilit ekranı bildirimlerini gösterme</string>
     <string name="notification_manager">Uygulama bildirimleri</string>
     <string name="notification_style_android">Android</string>
     <string name="notification_style_miui">Miui</string>
@@ -356,6 +367,7 @@
     <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
     <string name="pm">ÖS</string>
     <string name="preference_copied">%1$s panoya kopyalandı</string>
+    <string name="rule_keyguard_display">Biçim</string>
     <string name="saturday">Cumartesi</string>
     <string name="saturday_short">Cumartesi</string>
     <string name="saturday_shortest">C</string>
@@ -390,6 +402,8 @@
     <string name="solar_term_winter_solstice">Kış gündönümü</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_setting">Durum çubuğu</string>
+    <string name="summary_aggregate_default">Promosyon ve içerikle ilgili itme bildirimleri gruplanacak</string>
+    <string name="summary_aggregate_home">İtme bildirimleri gruplanmayacak</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_disable_float_notification">Kayan bildirimlere izin verilmedi</string>
     <string name="summary_disable_lockscreen_notification">Kilit ekranı bildirimleri izinli değil</string>
@@ -398,6 +412,9 @@
     <string name="summary_enable_lockscreen_notification">Kilit ekranı bildirimleri izinli</string>
     <string name="summary_enable_show_badge_notification">Uygulama bildirimlerine izin verildi</string>
     <string name="summary_float_enable_notification_first">Kayan bildirimleri etkinleştirebilmek için bildirimlere izin verin</string>
+    <string name="summary_fold_importance_default">MIUI hangi bildirimlerin doğrudan görünmesi gerektiğine karar verecektir</string>
+    <string name="summary_fold_importance_important">Bildirimler bildirim gölgesinde görünecek</string>
+    <string name="summary_fold_importance_unimportant">Bildirimler ayrı bir klasörde görünecek</string>
     <string name="summary_lock_screen_enable_notification_first">Kilit ekranı bildirimlerini etkinleştirebilmek için bildirimlere izin verin</string>
     <string name="summary_show_badge_enable_notification_first">Bildirim rozetlerini etkinleştirebilmek için bildirimlere izin verin</string>
     <string name="sunday">Pazar</string>
@@ -450,7 +467,9 @@
     <string name="time_picker_dialog_title">Saati ayarla</string>
     <string name="time_picker_label_hour">S</string>
     <string name="time_picker_label_minute">D</string>
-    <string name="tip_select_category">Bildirim kategorisini seçin</string>
+    <string name="tip_feedback_thanks">Geri bildiriminiz için teşekkürler</string>
+    <string name="title_aggregate_default">Grup bildirimleri</string>
+    <string name="title_aggregate_home">Bildirimleri gruplama</string>
     <string name="today">Bugün</string>
     <string name="tomorrow">Yarın</string>
     <string name="tuesday">Salı</string>

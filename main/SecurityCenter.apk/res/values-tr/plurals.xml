@@ -128,10 +128,6 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
         <item quantity="other">%d gün önce</item>
         <item quantity="one">%d gün önce</item>
     </plurals>
-    <plurals name="exit_dialog_release_memory_message">
-        <item quantity="other">Cihazınızı hızlandırmak için &lt;Data>Close &lt;font color=#0099ff>%d&lt;/font> uygulama kapatılsın mı?&lt;/Data></item>
-        <item quantity="one">Cihazınızı hızlandırmak için &lt;Data>Close &lt;font color=#0099ff>%d&lt;/font> uygulama kapatılsın mı?&lt;/Data></item>
-    </plurals>
     <plurals name="find_applications">
         <item quantity="other">%d uygulama arasında ara</item>
         <item quantity="one">%d uygulama arasında ara</item>

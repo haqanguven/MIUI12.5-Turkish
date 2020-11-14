@@ -116,8 +116,8 @@
     <string name="add_done">Eklendi</string>
     <string name="add_game">Oyun ekle</string>
     <string name="add_game_notification_summary">Başlatmak &amp; hızı arttırmak için dokunun</string>
-    <string name="add_miservice_dialog_content">%s, Miui hizmet çerçevesini istisnalar listesine eklemek istiyor. Miui ile birlikte gelen uygulamalardan ya da üçüncü parti uygulamalardan bildirimler alabilirsiniz</string>
-    <string name="add_miservice_dialog_title">Miui hizmet çerçevesi</string>
+    <string name="add_miservice_dialog_content">%s, MIUI hizmet çerçevesini istisnalar listesine eklemek istiyor. MIUI ile birlikte gelen uygulamalardan ya da üçüncü parti uygulamalardan bildirimler alabilirsiniz</string>
+    <string name="add_miservice_dialog_title">MIUI hizmet çerçevesi</string>
     <string name="add_to_whitelist_button">Veri dolaşım istisnaları</string>
     <string name="add_whitelist">İstisnalara ekle</string>
     <string name="address">Adres</string>
@@ -185,7 +185,7 @@
     <string name="apn_exception_summary">Operatörün erişim noktası adı ayarlarını test et</string>
     <string name="apn_exception_title">APN ayarlarını kontrol et</string>
     <string name="apn_exception_wap_summary">"WAP şimdi kararsız. NET'e geçin"</string>
-    <string name="app_behavior_about_content_no_link">Kullanıcının özel verilerinin gizliliğini korumak için Miui sistemi sistem ve üçüncü taraf uygulamaların zincirleme başlatma, izin aktarma ve hassas kayıtları kayıt olarak görüntüler. Android sisteminde bu kayıtta hatalar olabilir. Bir sistem kayıt hatası bulursanız lütfen kaydın doğruluğunu düzeltmemize yardımcı olmak için hata içeriğini bize gönderin</string>
+    <string name="app_behavior_about_content_no_link">Kullanıcının özel verilerinin gizliliğini korumak için MIUI sistemi sistem ve üçüncü taraf uygulamaların zincirleme başlatma, izin aktarma ve hassas kayıtları kayıt olarak görüntüler. Android sisteminde bu kayıtta hatalar olabilir. Bir sistem kayıt hatası bulursanız lütfen kaydın doğruluğunu düzeltmemize yardımcı olmak için hata içeriğini bize gönderin</string>
     <string name="app_behavior_about_negative">Geri bildirim</string>
     <string name="app_behavior_about_positive">Anladım</string>
     <string name="app_behavior_allowed">İzin ver</string>
@@ -209,8 +209,14 @@
     <string name="app_behavior_camera_single">Bu uygulama fotoğraf çekti veya video kaydetti</string>
     <string name="app_behavior_clipboard">%1s panoyu okuma veya yazma girişiminde bulundu</string>
     <string name="app_behavior_clipboard_bg">%1s erişildi veya öğeler arka planda panoya kaydedildi</string>
+    <string name="app_behavior_clipboard_bg_new">%1s öğeleri arka planda panoya kopyaladı</string>
     <string name="app_behavior_clipboard_bg_single">Bu uygulama arka planda pano öğelerine erişti veya kaydetti</string>
+    <string name="app_behavior_clipboard_bg_single_new">Bu uygulama öğeleri arka planda panoya kopyaladı</string>
+    <string name="app_behavior_clipboard_new">%1s öğeleri panoya kopyaladı</string>
+    <string name="app_behavior_clipboard_read_bg_single">Bu uygulama panodaki öğelere arka planda erişti</string>
+    <string name="app_behavior_clipboard_read_single">Bu uygulama panodaki öğelere erişti</string>
     <string name="app_behavior_clipboard_single">Bu uygulama panoya erişti veya öğeleri kaydetti</string>
+    <string name="app_behavior_clipboard_single_new">Bu uygulama öğeleri panoya kopyaladı</string>
     <string name="app_behavior_contacts">%1s adres defteri bilgilerini almaya çalıştı</string>
     <string name="app_behavior_contacts_bg">%1s arka planda adres defteri bilgilerini almaya çalıştı</string>
     <string name="app_behavior_contacts_bg_single">Bu uygulama arka planda kişilerinize erişti</string>
@@ -278,6 +284,8 @@
     <string name="app_behavior_phonestate">%1s mobil bilgisi almaya çalıştı</string>
     <string name="app_behavior_phonestate_single">Bu uygulamaya cihaz bilgilerine erişti</string>
     <string name="app_behavior_privacy_manager">Hassas davranış bildirimi</string>
+    <string name="app_behavior_read_clipboard">%1s panodaki öğelere erişti</string>
+    <string name="app_behavior_read_clipboard_bg">%1s panodaki öğelere arka planda erişti</string>
     <string name="app_behavior_recognition">%1s form koruma bilgilerinizi almaya çalıştı</string>
     <string name="app_behavior_recognition_single">Bu uygulama etkinlik bilgilerinize erişti</string>
     <string name="app_behavior_search">Ara</string>
@@ -402,7 +410,7 @@
     <string name="app_manager_permission_startself_title">Otomatik başlatma</string>
     <string name="app_manager_permission_summary_reject">Tümünü kısıtla</string>
     <string name="app_manager_power_consume">%%%.1f</string>
-    <string name="app_manager_powerkeeper_miui_auto">Miui pil tasarrufu</string>
+    <string name="app_manager_powerkeeper_miui_auto">MIUI pil tasarrufu</string>
     <string name="app_manager_powerkeeper_no_bg">Arka plan etkinliklerini kısıtla</string>
     <string name="app_manager_powerkeeper_no_restrict">Kısıtlama yok</string>
     <string name="app_manager_powerkeeper_restrict_bg">Arka plan uygulamalarını kısıtla</string>
@@ -429,7 +437,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz"</string>
     <string name="app_manager_title">Uygulamaları yönet</string>
     <string name="app_manager_total_size">Toplam</string>
     <string name="app_manager_uninstall">Kaldır</string>
-    <string name="app_manager_uninstall_protected_dlg_msg">Sistem uygulamalarını kaldırmak bazı Miui bileşenlerinin düzgün çalışmasına engel olabilir. Uygulama yinede kaldırılsın mı?</string>
+    <string name="app_manager_uninstall_protected_dlg_msg">Sistem uygulamalarını kaldırmak bazı MIUI bileşenlerinin düzgün çalışmasına engel olabilir. Uygulama yinede kaldırılsın mı?</string>
     <string name="app_manager_uninstall_protected_dlg_title">Sistem uygulamalarını kaldırmak</string>
     <string name="app_manager_uninstall_with_xspace_app_dlg_msg">Karşılık gelen çift uygulamalar, uygulama verileri ile birlikte silinecektir</string>
     <string name="app_manager_uninstall_xspace_app_dlg_msg">Çift uygulamayı kaldırmak uygulama verilerin tamamını silecektir</string>
@@ -818,6 +826,7 @@ Kişisel kırmızı zarfı destekleyin ve kırmızı zarfı gruplayın
     <string name="card_main_private_space_summary">İkinci alanı kullanmak iki adet cihaza sahip olmak gibidir</string>
     <string name="card_main_private_space_title">İkinci alan</string>
     <string name="card_main_sectool_title">Araçlar</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_xspace_action">Oluştur</string>
     <string name="card_main_xspace_summary">Dilediğiniz uygulama için çift hesap oluşturun</string>
     <string name="card_main_xspace_title">Çift uygulamalar</string>
@@ -910,7 +919,7 @@ Kişisel kırmızı zarfı destekleyin ve kırmızı zarfı gruplayın
     <string name="daily_card_setting_fragment_daily_card_brand">Taşıyıcı</string>
     <string name="daily_card_setting_fragment_daily_card_brand_value">Taşıyıcı seç</string>
     <string name="daily_card_setting_fragment_daily_card_setting">Günlük veri planı ayarları</string>
-    <string name="daily_card_setting_fragment_daily_card_summary">Miui seçtiğiniz taşıyıcıya göre sınırsız veri içeren veri limitlerini ve uygulamaları belirleyecektir. Taşıyıcınız listelenmemişse diğer seçeneğini seçin ve günlük veri planınızı el ile ayarlayın</string>
+    <string name="daily_card_setting_fragment_daily_card_summary">MIUI seçtiğiniz taşıyıcıya göre sınırsız veri içeren veri limitlerini ve uygulamaları belirleyecektir. Taşıyıcınız listelenmemişse diğer seçeneğini seçin ve günlük veri planınızı el ile ayarlayın</string>
     <string name="daily_card_setting_fragment_daily_package">Günlük veri limiti</string>
     <string name="daily_card_setting_fragment_month_package">Aylık veri paketi</string>
     <string name="daily_card_setting_fragment_package_summary">Günlük veri planınız aylık veri paketi içeriyorsa günlük paketten önce kullanılacaktır</string>
@@ -927,15 +936,15 @@ Kişisel kırmızı zarfı destekleyin ve kırmızı zarfı gruplayın
     <string name="data_usage_leisure_warning_body">Veri kullanım detaylarını görüntülemek için dokunun</string>
     <string name="data_usage_leisure_warning_title">İndirimli veri kullanım limiti</string>
     <string name="data_usage_limit_body">Mobil veriyi açmak için dokunun</string>
-    <string name="data_usage_mobile_dialog_title">Zaten 5 GB mobil veri kullandınız. Miui mobil veriyi kapattı</string>
+    <string name="data_usage_mobile_dialog_title">Zaten 5 GB mobil veri kullandınız. MIUI mobil veriyi kapattı</string>
     <string name="data_usage_mobile_limit_title">Mobil veri limitine ulaşıldı</string>
     <string name="data_usage_no_total_package_body">Veri limiti ayarlamak için dokunun</string>
     <string name="data_usage_no_total_package_body_dual">%s için veri limiti ayarlanmadı</string>
     <string name="data_usage_no_total_package_title">Veri kullanım limiti ayarla</string>
-    <string name="data_usage_protected_dialog_message">"Miui ek ücret oluşmasını önlemek için mobil veriyi kapattı
+    <string name="data_usage_protected_dialog_message">"MIUI ek ücret oluşmasını önlemek için mobil veriyi kapattı
 
 Mobil veriyi tekrar açtığınızda operatörünüz size ek ücretler talep edebilir"</string>
-    <string name="data_usage_protected_notify_message">Miui ek ücret oluşmasını önlemek için mobil veriyi kapattı</string>
+    <string name="data_usage_protected_notify_message">MIUI ek ücret oluşmasını önlemek için mobil veriyi kapattı</string>
     <string name="data_usage_protected_notify_title">Zaten 5 GB mobil veri kullandınız</string>
     <string name="data_usage_warning_body">Veri kullanım detaylarını görüntülemek için dokunun</string>
     <string name="data_usage_warning_body_notify">Ayrıntıları görüntülemek için dokunun</string>
@@ -975,12 +984,12 @@ Cihazınızdaki tüm veriler silinebilir ve kilit ekranı şifreniz sıfırlanab
     <string name="dialog_app_roaming_title">%1$s veri dolaşımını kullanamıyor</string>
     <string name="dialog_change_package_type_summary">Veri planı türünü değiştirmek tüm veri kullanım ayarlarını varsayılan değerlerine sıfırlar. Veri planı türü şimdi değiştirilsin mi?</string>
     <string name="dialog_change_package_type_title">Veri planı türü değiştiriliyor</string>
-    <string name="dialog_msg_auto_start_declare">Bazı uygulamalar hatalı olarak başlatılmalarının Miui tarafından engellendiğini bildirebilir. Bu gibi durumlarda bireysel uygulamalara verilmiş izinleri ayarlar > uygulamalar menüsünde kontrol edin</string>
+    <string name="dialog_msg_auto_start_declare">Bazı uygulamalar hatalı olarak başlatılmalarının MIUI tarafından engellendiğini bildirebilir. Bu gibi durumlarda bireysel uygulamalara verilmiş izinleri ayarlar > uygulamalar menüsünde kontrol edin</string>
     <string name="dialog_msg_stop_virus_scan">Güvenlik taraması tamamlanmadan önce durdurulsun mu?</string>
     <string name="dialog_no_longer_alert">Tekrar gösterme</string>
     <string name="dialog_remobe_luckymoney_cancle">Tek atış kullan</string>
     <string name="dialog_remobe_luckymoney_ok">Devam et</string>
-    <string name="dialog_remove_luckymoney">Mevcut Miui sürümü zaten sistem seviyesi kırmızı zarf asistanını destekliyor</string>
+    <string name="dialog_remove_luckymoney">Mevcut MIUI sürümü zaten sistem seviyesi kırmızı zarf asistanını destekliyor</string>
     <string name="dialog_restrict_all_mobile_summary">Bundan sonraki tüm uygulamalar için %s mobil veri bağlantısı kısıtlı olacaktır</string>
     <string name="dialog_restrict_all_mobile_title">%s mobil veri bağlantısını kısıtla</string>
     <string name="dialog_restrict_all_wlan_summary">Bundan sonra tüm uygulamalar için wifi bağlantısı kısıtlı olacaktır</string>
@@ -1422,9 +1431,9 @@ arama geçmişine geri yüklensin mi?"</string>
     <string name="free_traffic_settings">İndirimli veri kullanım ayarları</string>
     <string name="full_fill_oprator_and_location">Operatör bilgilerinizi ve konumunuzu sağlayın</string>
     <string name="full_fill_sim_location">Önce konumu ayarlayın</string>
-    <string name="function_auto_reject_detail">"Bu özellik hakkında:\u000d
-1. Oyun oynarken mobil veri hizmeti olmadan Sim karta gelen tüm aramalar otomatik olarak reddedilecektir\u000d
-2. Cevapsız aramalarla ilgili bildirimler göreceksiniz ve diğer kişi o anda meşgul olduğunuzu söyleyen bir sesli mesaj duyacaktır\u000d
+    <string name="function_auto_reject_detail">"Bu özellik hakkında:
+1. Oyun oynarken mobil veri hizmeti olmadan Sim karta gelen tüm aramalar otomatik olarak reddedilecektir
+2. Cevapsız aramalarla ilgili bildirimler göreceksiniz ve diğer kişi o anda meşgul olduğunuzu söyleyen bir sesli mesaj duyacaktır
 3. Bu özellik yalnızca Çin'deki mobil operatörler tarafından desteklenmektedir"</string>
     <string name="function_auto_reject_title">Veri hizmeti olmadan Sim kartlarına yapılan VoLTE aramalarını reddet</string>
     <string name="function_close">Kapat</string>
@@ -1635,9 +1644,9 @@ arama geçmişine geri yüklensin mi?"</string>
     <string name="gb_voice_changer_setting_realtime_subtitle">Check how your voice changes in real time</string>
     <string name="gb_voice_changer_setting_realtime_title">Real-time feedback</string>
     <string name="gb_voice_changer_setting_rights">Terms of Service and Privacy Policy</string>
-    <string name="gb_voice_changer_toast_window_bubble_tips">"Try Voice changer now\u000d
+    <string name="gb_voice_changer_toast_window_bubble_tips">"Try Voice changer now
 to get a 3-day free trial!"</string>
-    <string name="gb_voice_changer_toast_window_new_tips">"Try Voice changer!\u000d
+    <string name="gb_voice_changer_toast_window_new_tips">"Try Voice changer!
 Switch between different characters and special effects."</string>
     <string name="gb_voice_changer_toast_window_open">Turned on \"%s\" effect</string>
     <string name="gb_voice_changer_toast_window_vip_expire">Your subscription is about to expire. Renew the subscription now to get benefits!</string>
@@ -1645,13 +1654,13 @@ Switch between different characters and special effects."</string>
     <string name="gb_voice_changer_trial_gender_dialog_title">Free trial</string>
     <string name="gb_voice_changer_trial_progress_dialog_message">Receiving a free trial…</string>
     <string name="gb_voice_changer_user_status_expired">Subscription expired</string>
-    <string name="gb_voice_changer_user_status_get_trial_card_dialog">"Get a %d-day free trial\u000d
+    <string name="gb_voice_changer_user_status_get_trial_card_dialog">"Get a %d-day free trial
 and explore our Voice changer!"</string>
     <string name="gb_voice_changer_user_status_no_login">Sign in to Mi Account</string>
     <string name="gb_voice_changer_user_status_remain_time">Expiration date: %s</string>
     <string name="gb_voice_changer_user_status_renew">Renew</string>
     <string name="gb_voice_changer_user_tips_info_vip_expire">Your subscriptions expired. Renew the subscription now to get benefits!</string>
-    <string name="gb_wonderful_moment_toast_window_new_pop">"Oyun oturumlarınızın\u000d
+    <string name="gb_wonderful_moment_toast_window_new_pop">"Oyun oturumlarınızın
 önemli anlarını kaydedin"</string>
     <string name="gb_wonderful_video_cancel">İptal et</string>
     <string name="gb_wonderful_video_checkall">Tümünü seç</string>
@@ -1738,7 +1747,7 @@ and explore our Voice changer!"</string>
     <string name="guide_get_operator_error"><font color="'#33b4ff'">Yanlış taşıyıcı mı?</font></string>
     <string name="guide_operator_text">"Operatörünüz: "</string>
     <string name="guide_quck_open">Aç</string>
-    <string name="guide_second_text">Operatörünüzü ayarlamanızdan sonra Miui operatörünüze günlük bazda ücretsiz mesaj göndererek mobil veri kullanımınızı izleyecektir. Miui tarife sınırınızı aştığınızı tespit ettiğinde ağ bağlantısını sonlandıracak ve sizi bilgilendirecektir</string>
+    <string name="guide_second_text">Operatörünüzü ayarlamanızdan sonra MIUI operatörünüze günlük bazda ücretsiz mesaj göndererek mobil veri kullanımınızı izleyecektir. MIUI tarife sınırınızı aştığınızı tespit ettiğinde ağ bağlantısını sonlandıracak ve sizi bilgilendirecektir</string>
     <string name="guide_wait_setting">Şimdi değil</string>
     <string name="handle_bar_summary_wifi_unknown">Bilinmiyor</string>
     <string name="handle_bar_title_system">Sistem</string>
@@ -1850,7 +1859,7 @@ Mobil veri bağlantısını tekrar kullanmanız durumunda operatörünüz ek üc
     <string name="load_only_under_wlan">Yalnızca wifi kullanarak yükle</string>
     <string name="loading">Yükleniyor</string>
     <string name="loading_text_format" formatted="false">Fotoğraflardan gizli bilgileri kaldırılıyor (%d/%d)</string>
-    <string name="local_ip_exception_summary">"Yerel IP adresi alınamadı. Sorunu Miui'ye bildirmek için geri bildirim uygulamasına gidin ve cihazından bir hata raporu gönderin"</string>
+    <string name="local_ip_exception_summary">"Yerel IP adresi alınamadı. Sorunu MIUI'ye bildirmek için geri bildirim uygulamasına gidin ve cihazından bir hata raporu gönderin"</string>
     <string name="lock_all_title">Tüm uygulamaları kilitle</string>
     <string name="lock_mode_title">Kilit ayarları</string>
     <string name="lock_screen_business_hongbao_message">%1$s kaynağından</string>
@@ -2005,7 +2014,7 @@ bekleniyor"</string>
     <string name="memory_check_content">%s temizlendi</string>
     <string name="memory_clean_memory_size_tip">Önbellek</string>
     <string name="memory_clean_no_need_clean">Her şey yolunda gözüküyor</string>
-    <string name="memory_clean_no_need_clean_1" formatted="false">"%s temizlendi\u000d
+    <string name="memory_clean_no_need_clean_1" formatted="false">"%s temizlendi
 Cihazınız şimdi %%%d daha hızlı"</string>
     <string name="memory_clear_unused">Önbelleği temizle (%s)</string>
     <string name="memory_title">Kullanılan: %1$s Toplam: %2$s</string>
@@ -2146,6 +2155,9 @@ Cihazınız şimdi %%%d daha hızlı"</string>
     <string name="network_connected_exception_title">Ağ testi</string>
     <string name="network_control">Uygulama ayarlarını görüntüle</string>
     <string name="network_diagnostics">Ağ testi</string>
+    <string name="network_disable_dialog_btn_text">Anladım</string>
+    <string name="network_disable_dialog_content">Onayınızı geri çekebilmeniz için cihazınızın ağa bağlanması gerekir. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
+    <string name="network_disable_dialog_title">Ağa bağlanamıyorum</string>
     <string name="network_mobile_exception_detail">"Cihazınız internete bağlanamıyor:
 
 1. Tarifenizin mobil veri kullanım sınırını aşmadığınızdan emin olun
@@ -2186,7 +2198,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="network_speed_for_apps_title">Bağlantı</string>
     <string name="network_speed_for_apps_total">Bağlantı hızı</string>
     <string name="network_test_speed">Wifi hızını test et</string>
-    <string name="network_traffic_warning_text">Miui bireysel sistem uygulamaları için veri kullanım istatistiklerini hesaplayamaz. Bu uygulamanın mobil verileri aktif olarak kullanması durumunda uygulama ayrıntılarında veri kullanımı ile ilgili bilgileri görebileceksiniz</string>
+    <string name="network_traffic_warning_text">MIUI bireysel sistem uygulamaları için veri kullanım istatistiklerini hesaplayamaz. Bu uygulamanın mobil verileri aktif olarak kullanması durumunda uygulama ayrıntılarında veri kullanımı ile ilgili bilgileri görebileceksiniz</string>
     <string name="network_traffic_warning_title">Sistem uygulamaları için veri kullanımı</string>
     <string name="networkchanged_exception_summary">Ağ bağlantısı değişti. Yeniden test edin</string>
     <string name="networkchanged_exception_title">Bağlantı değişti</string>
@@ -2352,7 +2364,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="optimize_result_button_to_set">Ayarla</string>
     <string name="optimize_result_button_update_now">Güncelle</string>
     <string name="optimize_result_summary_sucurity_risk">Bazı güvenlik özellikleri kapalı durumda. Cihazınızı daha güvenli hale getirmek için belirtilen özellikleri açın:</string>
-    <string name="optimize_result_summary_system_default_settings">Varsayılan Miui uygulamalarını kullanmanız sistem stabilizasyonu ve güvenliği seviyesini arttırır</string>
+    <string name="optimize_result_summary_system_default_settings">Varsayılan MIUI uygulamalarını kullanmanız sistem stabilizasyonu ve güvenliği seviyesini arttırır</string>
     <string name="optimize_result_title_sucurity_risk">Güvenlik riskleri bulundu</string>
     <string name="optimize_result_title_system_default_settings">Varsayılan ayarlar değiştirildi</string>
     <string name="optimize_result_title_uninstall_apps">Uygulamalar</string>
@@ -2444,6 +2456,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="perm_intercept_privacy_content">Bu eylemler kişisel verilerinizi açığa çıkarabilir. Yine de izin verilsin mi? (%1s)</string>
     <string name="perm_intercept_title">%1s için kullanım verilerine erişim izni vermek bu uygulamanın aşağıdaki işlemleri yapmasına izin verir:</string>
     <string name="perm_intercept_unknown_title">"%1s'nin bilinmeyen kaynaklardan uygulama yüklemesine izin vermek aşağıdaki risklere neden olabilir:"</string>
+    <string name="perm_list_header_title">Uygulamalar</string>
     <string name="permdesc_in_calls">Gelen aramaları izleyin</string>
     <string name="permdesc_out_calls">Giden aramaları izleyin</string>
     <string name="permgroupdesc_calendar">Takvim etkinliklerine erişme</string>
@@ -2458,6 +2471,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="permgroupdesc_sms">Mesaj oku veya gönder</string>
     <string name="permgroupdesc_storage">Cihazdaki fotoğraflara veya dosyalara erişme</string>
     <string name="permission_action_accept">Kabul et</string>
+    <string name="permission_action_ai_prompt">Notify when permission is used</string>
     <string name="permission_action_always">Herzaman izin ver</string>
     <string name="permission_action_desc">Uygulama izinleri verin ancak gizliliği korumak için boş bilgiler gönderin</string>
     <string name="permission_action_desc_always">Bu izin her zaman kullanılabilir</string>
@@ -2530,6 +2544,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="permission_upgrade_virtual">Adres defteri ve arama kayıtları gibi gerçek bilgiler vermek istemiyorsanız ilgili makam boş bilgi yetkilendirme olarak ayarlanabilir. Uygulama izinleri verin ancak gizliliği korumak için boş bilgiler gönderin</string>
     <string name="permission_with_SMS_and_MMS">Mesaj ve multimedya mesajı ile ilgili izinler</string>
     <string name="permission_with_call_and_contact">Aramalar, kişiler ve arama kayıtları ile ilgili izinler</string>
+    <string name="permission_with_read_write_clipboard">Allow apps to access and save items to the clipboard</string>
     <string name="permit_running_network">Arka plan verisi</string>
     <string name="person_have_hongbao">%1$s kırmızı bir zarf vereyim</string>
     <string name="person_hotpot">Mobil internet bağlantı noktası</string>
@@ -2574,7 +2589,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="power_center_charge_time">Tam doluma %1$s</string>
     <string name="power_center_dialog_msg_bottom">Pil ömrünü %1$d saat %2$d dakikaya kadar artırabilirsiniz. Pil tasarrufu açılsın mı?</string>
     <string name="power_center_dialog_msg_title">%1$s fazladan zaman kazanmak için açın. Pil tasarrufu için aşağıdaki işlemler yapılacaktır:</string>
-    <string name="power_center_dialog_msg_top">Pil tasarrufu açıkken Miui aşağıdaki optimizasyonları gerçekleştirir:</string>
+    <string name="power_center_dialog_msg_top">Pil tasarrufu açıkken MIUI aşağıdaki optimizasyonları gerçekleştirir:</string>
     <string name="power_center_hints_scan_danger_result">Pil sorunlarını şimdi çözebilirsiniz</string>
     <string name="power_center_list_item_auto_brightness">Ekran parlaklığını otomatik olarak ayarla</string>
     <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
@@ -2717,7 +2732,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="power_wifi">Wifi</string>
     <string name="pref_about_traffic_title">Veri kullanım ayarları</string>
     <string name="pref_adjust_data_usage">Taşıyıcı mesaj şablonu</string>
-    <string name="pref_adjust_data_usage_summary">Kalibrasyon şablonunu değiştirdikten sonra Miui operatörünüzden veri kullanım istatistiklerini almak için kullanır</string>
+    <string name="pref_adjust_data_usage_summary">Kalibrasyon şablonunu değiştirdikten sonra MIUI operatörünüzden veri kullanım istatistiklerini almak için kullanır</string>
     <string name="pref_adjust_traffic_data">Veri kullanımını ayarla</string>
     <string name="pref_allow_connect_network_title">Veri dolaşımı</string>
     <string name="pref_auto_adjust_traffic">Veri kullanım istatistiklerini otomatik olarak ayarla</string>
@@ -2767,7 +2782,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="pref_roaming_setting_gategory">Ayarlar</string>
     <string name="pref_special_package_setting">Özel tarife</string>
     <string name="pref_special_package_setting_summary">İndirimli veri, bakiye paketleri, günlük tarifeler ve diğer planlı verileri yönetin</string>
-    <string name="pref_summary_upload_data_usage">"Miui'yi geliştirmemize yardımcı olmak için veri kullanım istatistiklerinizi bize yollayın. Raporlama Gizlilik Politikamıza uygun olarak yapılır"</string>
+    <string name="pref_summary_upload_data_usage">"MIUI'yi geliştirmemize yardımcı olmak için veri kullanım istatistiklerinizi bize yollayın. Raporlama Gizlilik Politikamıza uygun olarak yapılır"</string>
     <string name="pref_title_declaration">Yasal uyarı</string>
     <string name="pref_title_diagnostics_show_float_notification">Kayan bildirimler</string>
     <string name="pref_title_manual_check_virus_db_update">Güncellemeleri kontrol et</string>
@@ -2884,6 +2899,9 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="privacy_dialog_call_title">Aramaları koruyun</string>
     <string name="privacy_dialog_camera_message">Gizliliğinizi korumak için MIUI uygulamaların kameranızı arka planda kullanmasına izin vermez</string>
     <string name="privacy_dialog_camera_title">Arka plan kamera kullanımını kısıtla</string>
+    <string name="privacy_dialog_content_part1">Welcome to Security! This app checks your device for trash and viruses, as well as allows you to manage apps, control mobile data usage, block calls and messages, and more.</string>
+    <string name="privacy_dialog_content_part2"><Data>Security needs to collect necessary personal information to provide you with its services and be able to improve its features. You can learn how we handle the information we collect in our &lt;a href=\"%1$s\">Privacy Policy&lt;/a>. You can withdraw your consent to the Privacy Policy of Security in the Settings at any time.</Data></string>
+    <string name="privacy_dialog_content_part3"><Data>"Read and agree to our &lt;a href=\"%2$s\">User Agreement&lt;/a> and &lt;a href=\"%1$s\">Privacy Policy&lt;/a> before using Security. If you don't agree to use the aforementioned services, you won't be able to use some features of this app; however, its basic functionality will still be available to you."</Data></string>
     <string name="privacy_dialog_danger_mission_message">Androidin birden çok yüksek riskli izni vardır. Gizliliğinizi korumak için MIUI bu tür davranışlara izin verip vermediğinizi soracak ve kısıtlama seçenekleri sunacaktır</string>
     <string name="privacy_dialog_danger_mission_title">Yüksek riskli izinler</string>
     <string name="privacy_dialog_feedback">Geri bildirim</string>
@@ -2891,6 +2909,8 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="privacy_dialog_ok">Anladım</string>
     <string name="privacy_dialog_ok_with_num">Anladım (%s saniye)</string>
     <string name="privacy_dialog_open">Aç</string>
+    <string name="privacy_dialog_revoking">Withdrawing consent…</string>
+    <string name="privacy_dialog_title">Terms and conditions</string>
     <string name="privacy_empty_call">Bugün arama geçmişine erişilmedi</string>
     <string name="privacy_empty_contact">Bugün kişilere erişilmedi</string>
     <string name="privacy_empty_location">Bugün konuma erişilmedi</string>
@@ -2934,9 +2954,9 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="privacy_pop_record">Bugün ses kaydedildi</string>
     <string name="privacy_pop_storage">Bugün depolama alanına erişildi</string>
     <string name="privacy_prompt_tc_sms_report_message">Telefon numaranız ve operatör bilgileriniz kullanım verilerinizi güncellemek amacıyla şifrelenecek ve Mi sunucularına yüklenecektir</string>
-    <string name="privacy_prompt_traffic_adjust_message">"Kalibrasyon işlemini başlatmanızdan sonra Miui ağa bağlanır, operatör bilgilerini, telefon numarasını, İmei ve Mi hesabı bilgilerini Mi sunucularına yükler. Bu işlem operatörünüzün kalibrasyon şablonunu edinmek ve bulunduğunuz konumda veri satın alımının mümkün olup olmadığını öğrenmek amacıyla yapılmaktadır
+    <string name="privacy_prompt_traffic_adjust_message">"Kalibrasyon işlemini başlatmanızdan sonra MIUI ağa bağlanır, operatör bilgilerini, telefon numarasını, İmei ve Mi hesabı bilgilerini Mi sunucularına yükler. Bu işlem operatörünüzün kalibrasyon şablonunu edinmek ve bulunduğunuz konumda veri satın alımının mümkün olup olmadığını öğrenmek amacıyla yapılmaktadır
 
-Kalibrasyon işlemi sırasında Miui kalibrasyon şablonunu almak amacıyla bir metin mesajı gönderecektir"</string>
+Kalibrasyon işlemi sırasında MIUI kalibrasyon şablonunu almak amacıyla bir metin mesajı gönderecektir"</string>
     <string name="privacy_prompt_upload">Karşıya yükle</string>
     <string name="privacy_protect_summary">Kişisel bilgilerinizi koruyun</string>
     <string name="privacy_protect_title">Gizlilik</string>
@@ -2965,6 +2985,13 @@ Kalibrasyon işlemi sırasında Miui kalibrasyon şablonunu almak amacıyla bir 
     <string name="privacy_special_permission_summary">Uygulamaların hassas izinleri nasıl kullandığını izleyin</string>
     <string name="privacy_special_permission_title">Özel izinler</string>
     <string name="privacy_summary">"MIUI 12'de gizlilik koruması hakkında bilgi edinin"</string>
+    <string name="privacy_thumbnail_blur_category_financial">Finance</string>
+    <string name="privacy_thumbnail_blur_category_other">Other</string>
+    <string name="privacy_thumbnail_blur_category_photography">Photo &amp; video</string>
+    <string name="privacy_thumbnail_blur_category_tip">Recommended</string>
+    <string name="privacy_thumbnail_blur_search_empty">"Couldn't find results"</string>
+    <string name="privacy_thumbnail_blur_title">Blur previews</string>
+    <string name="privacy_thumbnail_blur_top_tip">Select apps for which previews will be blurred in Recents</string>
     <string name="privacy_type_open">Aç</string>
     <string name="privacy_using_camera">Kamerayı kullanma</string>
     <string name="privacy_using_location">Konuma erişme</string>
@@ -2978,7 +3005,7 @@ Kalibrasyon işlemi sırasında Miui kalibrasyon şablonunu almak amacıyla bir 
     <string name="prompt_all">Tümü için sor</string>
     <string name="prompt_input_time_illegal">Bu zamana ayarlanamadı. Zamanı değiştirin ve yeniden deneyin</string>
     <string name="protocol_exception_title">Ağ protokolu tanımlamaları</string>
-    <string name="protocol_loop_back_exception_summary">"Yerel döngü testi başarısız oldu. Sorunu Miui'ye bildirmek için geri bildirim uygulamasına gidin ve cihazından bir hata raporu gönderin"</string>
+    <string name="protocol_loop_back_exception_summary">"Yerel döngü testi başarısız oldu. Sorunu MIUI'ye bildirmek için geri bildirim uygulamasına gidin ve cihazından bir hata raporu gönderin"</string>
     <string name="qq_lucky_warning">QQ kırmızı zarf</string>
     <string name="qucick_replay_instrument">Seçilen habercilerin bildirimlerinde hızlı cevapları kullanın (Örneğin: WhatsApp, İnstagram, Telegram)</string>
     <string name="quick_optimize_checking">"Taranıyor: "</string>
@@ -2999,6 +3026,14 @@ Kalibrasyon işlemi sırasında Miui kalibrasyon şablonunu almak amacıyla bir 
     <string name="reach_daily_limit_value_body">Mobil veri kullanımını azalt</string>
     <string name="reach_daily_limit_value_title">Günlük veri sınırına ulaşıldı</string>
     <string name="read_all_sms">Tümünü oku</string>
+    <string name="read_and_write_clipboard">Access and save items to the clipboard</string>
+    <string name="read_clipboard_ai_close_no">Not now</string>
+    <string name="read_clipboard_ai_close_tip">"You will no longer receive notifications when apps access the clipboard. Instead, they'll be allowed to use this permission only while you're using the app. Adjust permissions?"</string>
+    <string name="read_clipboard_ai_close_yes">Adjust</string>
+    <string name="read_clipboard_op_content">"Instead of giving the permission only when you're using the app, you'll receive a notification every time apps access your clipboard."</string>
+    <string name="read_clipboard_op_title">Notify when apps access items in the clipboard</string>
+    <string name="read_clipboard_tip_content">This permission allows apps to read any content you copy, which may include private information (e.g. account details, bank card numbers, and passwords).</string>
+    <string name="read_clipboard_tip_title">Accessing items in the clipboard</string>
     <string name="receive_now">Al</string>
     <string name="recently_reject_message">%1$s ve diğer %2$d uygulamanın yükleme işlemi reddedildi</string>
     <string name="recently_reject_message_one">%1$s yükleme isteği reddedildi</string>
@@ -3073,7 +3108,7 @@ Kalibrasyon işlemi sırasında Miui kalibrasyon şablonunu almak amacıyla bir 
     <string name="safe_result_item_info_system_antivirus">Kimlik avı virüsünden korunma</string>
     <string name="safe_result_item_info_system_root">Kök güvenli</string>
     <string name="safe_result_item_info_system_scan">Ödeme takibi açık</string>
-    <string name="safe_result_item_info_system_version">Miui güncel</string>
+    <string name="safe_result_item_info_system_version">MIUI güncel</string>
     <string name="safepay_alert_dialog_button_continue">Devam et</string>
     <string name="safepay_alert_dialog_button_fix">Düzelt</string>
     <string name="save_mode_btn_ok">Anladım</string>
@@ -3410,14 +3445,14 @@ Kalibrasyon işlemi sırasında Miui kalibrasyon şablonunu almak amacıyla bir 
     <string name="storage_available_total_size">%2$s üzerinden %1$s kullanılabilir</string>
     <string name="storage_available_total_size1">Dolu: %1$s | Toplam: %2$s</string>
     <string name="storage_deepclean_entry">Derin temizlik</string>
-    <string name="storage_dialog_unmountable">"Bu ^1 bozuk\u000d
-\u000d
+    <string name="storage_dialog_unmountable">"Bu ^1 bozuk
+
 Bu ^1'i kullanmak için önce ayarlamanız gerekir"</string>
-    <string name="storage_dialog_unmounted">"Bu ^1 güvenle kaldırıldı ancak yine de kullanılabilir\u000d
-\u000d
+    <string name="storage_dialog_unmounted">"Bu ^1 güvenle kaldırıldı ancak yine de kullanılabilir
+
 Bu ^1'i kullanmak için önce onu monte etmeniz gerekir"</string>
-    <string name="storage_dialog_unsupported">"Bu cihaz bunu desteklemiyor ^1\u000d
-\u000d
+    <string name="storage_dialog_unsupported">"Bu cihaz bunu desteklemiyor ^1
+
 Bu ^1 cihazını bu cihazla kullanmak için önce ayarlamanız gerekir"</string>
     <string name="storage_format_failure">%1$s biçimlendirilemedi</string>
     <string name="storage_format_success">%1$s başarıyla biçimlendirildi</string>
@@ -3437,8 +3472,8 @@ Bu ^1 cihazını bu cihazla kullanmak için önce ayarlamanız gerekir"</string>
     <string name="storage_unmount_failure">%1$s bağlantısı kaldırılamadı</string>
     <string name="storage_unmount_success">%1$s bağlantısı başarıyla kaldırıldı</string>
     <string name="storage_wizard_format_confirm_v2_action">^1 sıfırla</string>
-    <string name="storage_wizard_format_confirm_v2_body">"^1 uygulamasının uygulamaları, dosyaları ve medyayı depolayacak şekilde biçimlendirilmesi gerekiyor\u000d
-\u000d
+    <string name="storage_wizard_format_confirm_v2_body">"^1 uygulamasının uygulamaları, dosyaları ve medyayı depolayacak şekilde biçimlendirilmesi gerekiyor
+
 Biçimlendirme ^2 üzerindeki mevcut içeriği silecektir. İçerik kaybını önlemek için içeriği başka bir ^3 veya cihaza yedekleyin"</string>
     <string name="storage_wizard_format_confirm_v2_title">^1 şimdi biçimlendirilsin mi?</string>
     <string name="stranger_call_dialog_add_block_list">Engelle</string>
@@ -3452,7 +3487,7 @@ Biçimlendirme ^2 üzerindeki mevcut içeriği silecektir. İçerik kaybını ö
     <string name="suggest_app_tolock_unmasked">Görünür bildirimler</string>
     <string name="suggest_scan_again">Güvenlik risklerinden kaçınmak için taramayı tamamlayın</string>
     <string name="summary_app_lock_disable">Verilerinizi Uygulama Kilidi ile koruyun</string>
-    <string name="summary_auto_update">Miui güncellemeleri indirmek ve yüklemek için en uygun zamanı seçer</string>
+    <string name="summary_auto_update">MIUI güncellemeleri indirmek ve yüklemek için en uygun zamanı seçer</string>
     <string name="summary_background_connection">Bu uygulama için arka plan bağlantısını kısıtladınız. Düzeltmek için dokunun</string>
     <string name="summary_block_calls_from_cantacts">Engelleme listesini kullanıyorsunuz. Düzeltmek için dokunun</string>
     <string name="summary_block_calls_from_strangers">Sadece kişilerden gelen aramalara izin verilir. Düzeltmek için dokunun</string>
@@ -3586,7 +3621,7 @@ Biçimlendirme ^2 üzerindeki mevcut içeriği silecektir. İçerik kaybını ö
     <string name="tc_sms_report_get_sms_successs">Veri kullanım bilgileri başarıyla güncellendi</string>
     <string name="tc_sms_report_get_sms_timeout">İstek zaman aşımına uğradı</string>
     <string name="tc_sms_report_get_success">Operatörden veri kullanım rapor mesajı alındı. Doğru olduğundan emin olun ve ardından bize gönderin</string>
-    <string name="tc_sms_report_get_success_notify_body">"Raporun doğru olduğundan emin olun ve Miui'ye gönderin"</string>
+    <string name="tc_sms_report_get_success_notify_body">"Raporun doğru olduğundan emin olun ve MIUI'ye gönderin"</string>
     <string name="tc_sms_report_get_success_notify_title">Veri kullanım rapor mesajı alındı</string>
     <string name="tc_sms_report_geting_sms">Mesaj bilgisi alınıyor</string>
     <string name="tc_sms_report_notify_correction_body">Güvenlik merkezindeki veri kullanımı uygulamasına gidin ve manuel olarak tekrar deneyin</string>
@@ -3596,7 +3631,7 @@ Biçimlendirme ^2 üzerindeki mevcut içeriği silecektir. İçerik kaybını ö
     <string name="tc_sms_report_notify_get_timeout_body">İşlem zaman aşımına uğradı. Girdiğiniz Mesaj sorgu kodunun doğru olduğundan emin olun</string>
     <string name="tc_sms_report_notify_get_timeout_title">Veri kullanım mesajı alınamıyor</string>
     <string name="tc_sms_report_receive_content">Veri kullanım raporu Mesaj içeriği (Veri kullanım istatistikleri doğrulama)</string>
-    <string name="tc_sms_report_receive_content_null">"Bu özelliği geliştirmemize yardımcı olun.&lt;br/>Nasıl mı?:&lt;br/>1. Mesaj komutlarını konrol et ve alıcı numarası menülerine gidin.&lt;br/>2. Mesaj şablonu edin seçeneğine dokunun&lt;br/>3. Operatörünüzden mesajının gelmesini bekleyin&lt;br/> 4. Miui'ye gönder seçeneğine dokunun"</string>
+    <string name="tc_sms_report_receive_content_null">"Bu özelliği geliştirmemize yardımcı olun.&lt;br/>Nasıl mı?:&lt;br/>1. Mesaj komutlarını konrol et ve alıcı numarası menülerine gidin.&lt;br/>2. Mesaj şablonu edin seçeneğine dokunun&lt;br/>3. Operatörünüzden mesajının gelmesini bekleyin&lt;br/> 4. MIUI'ye gönder seçeneğine dokunun"</string>
     <string name="tc_sms_report_receive_num">Alıcı numarası</string>
     <string name="tc_sms_report_send_num">Operatör telefonu #</string>
     <string name="tc_sms_report_summary">Veri kullanımınız hatalı veya güncellemede sorun yaşıyorsanız, durum raporunuzu bize göndererek bu özelliği geliştirmemize katkıda bulunun.</string>
@@ -3635,7 +3670,7 @@ kırmızı zarf alarmını açın"</string>
     <string name="thermal_tips_message">Performans modunda oyun oynamak ısınma sorunlarına neden olabilir</string>
     <string name="thermal_tips_title">Uyarı</string>
     <string name="third_application">Yüklü uygulamalar</string>
-    <string name="third_desktop_dialog_content">Üçüncü taraf başlatıcı uygulamaları veri sızıntısı, anormal pil boşalması ve gecikme gibi sorunlara neden olabileceğinden yalnızca Miui tarafından doğrulananlar varsayılan başlatıcınız olarak ayarlanabilir</string>
+    <string name="third_desktop_dialog_content">Üçüncü taraf başlatıcı uygulamaları veri sızıntısı, anormal pil boşalması ve gecikme gibi sorunlara neden olabileceğinden yalnızca MIUI tarafından doğrulananlar varsayılan başlatıcınız olarak ayarlanabilir</string>
     <string name="third_desktop_dialog_ok">Anladım</string>
     <string name="third_desktop_dialog_title">Hata</string>
     <string name="three_percent_total_pkg">%s (Aylık verinin %%3 oranı)</string>
@@ -3686,7 +3721,7 @@ kırmızı zarf alarmını açın"</string>
     <string name="title_limit_traffic_per_day">Günlük veri kullanım limiti</string>
     <string name="title_mifi_insurance">Genişletilmiş garanti</string>
     <string name="title_miui_update">Güncelleme mevcut</string>
-    <string name="title_miui_update_latest">Miui güncel</string>
+    <string name="title_miui_update_latest">MIUI güncel</string>
     <string name="title_mms_no">Mesaj filtresi kapalı</string>
     <string name="title_mms_yes">Mesaj filtresi açık</string>
     <string name="title_more_setting">Daha fazla</string>
@@ -3886,12 +3921,22 @@ Kalan veri miktarı geçen aydan kalan veri miktarınıda içerir"</string>
     <string name="vb_video_effects_display_style">Stil</string>
     <string name="vb_video_effects_setting_black_white">S&amp;B</string>
     <string name="vb_video_effects_setting_cinema">Sinema</string>
+    <string name="vb_video_effects_setting_girl">Blush</string>
+    <string name="vb_video_effects_setting_gorgeous">Vibrant</string>
+    <string name="vb_video_effects_setting_green_orange">Orange</string>
+    <string name="vb_video_effects_setting_grim">Cool</string>
+    <string name="vb_video_effects_setting_hdr">HDR</string>
+    <string name="vb_video_effects_setting_knight">Metal</string>
+    <string name="vb_video_effects_setting_mecha">Robot</string>
+    <string name="vb_video_effects_setting_nostalgia">Nostalgic</string>
     <string name="vb_video_effects_setting_old_movie">Retro</string>
-    <string name="vb_video_effects_setting_outside">Dış mekan</string>
-    <string name="vb_video_effects_setting_raw">Orijinal</string>
-    <string name="vb_video_effects_settings_liquid">Berraklık</string>
-    <string name="vb_video_effects_settings_stereo">Ses</string>
-    <string name="vb_video_effects_srs_premium_sound">Ses</string>
+    <string name="vb_video_effects_setting_outside">Outdoor</string>
+    <string name="vb_video_effects_setting_raw">Original</string>
+    <string name="vb_video_effects_setting_solar">Fade</string>
+    <string name="vb_video_effects_setting_warmth">Warm</string>
+    <string name="vb_video_effects_settings_liquid">Clarity</string>
+    <string name="vb_video_effects_settings_stereo">Volume</string>
+    <string name="vb_video_effects_srs_premium_sound">Sound</string>
     <string name="video_repeat">Tekrar oynat</string>
     <string name="videobox_hangup_tips_content">Bu özellik ekran kapalıyken uygulamanın arka planda çalışmasını sağlar. Şimdi açılsın mı?</string>
     <string name="videobox_hangup_tips_title">Dikkat</string>
@@ -4052,6 +4097,8 @@ Kalan veri miktarı geçen aydan kalan veri miktarınıda içerir"</string>
     <string name="wlan_change_protection_title">Ağ arası geçiş yapmaktan kaçın</string>
     <string name="wlan_optimization_summary">Wifi ağ gecikmesini azaltın</string>
     <string name="wlan_optimization_title">Wifi optimizasyonu</string>
+    <string name="write_clipboard_tip_content">This permission allows apps to save items to the clipboard. Spam messages may affect your normal use of the clipboard.</string>
+    <string name="write_clipboard_tip_title">Saving items to the clipboard</string>
     <string name="wrong_password">Hatalı şifre</string>
     <string name="xunyou_net_booster">Ağ hızlandırıcı</string>
     <string name="xunyou_net_booster_detail">Oyun için Xunyou hızlandırıcı servislerini kullanın</string>

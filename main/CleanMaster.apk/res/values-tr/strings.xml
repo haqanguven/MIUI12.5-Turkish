@@ -136,6 +136,8 @@
     <string name="auto_clean_time_three_day">Her 3 günde bir</string>
     <string name="auto_cleaner_open">Aç</string>
     <string name="back">Geri</string>
+    <string name="browser_scan_history_desc">Tarayıcı geçmişi</string>
+    <string name="browser_search_history_desc">Aranan öğeler</string>
     <string name="btn_text_done">Tamamlandı</string>
     <string name="btn_text_quick_cleanup">Temizle</string>
     <string name="btn_text_quick_cleanup_apk">"Seçili Apk'lari sil: %1$s"</string>
@@ -180,6 +182,7 @@
     <string name="cache_title_empty_folder2">Boş klasör</string>
     <string name="cache_title_system_cache">Sistem önbelleği</string>
     <string name="cached_garbage">Önbellek</string>
+    <string name="call_log">Arama kayıtları</string>
     <string name="cancel">İptal et</string>
     <string name="cd_back">Geri</string>
     <string name="cd_check_box_checked">Kontrol edildi</string>
@@ -209,6 +212,8 @@
     <string name="clear_bigfiles">Büyük boyutlu dosyaları, çoklu fotoğrafları ve diğer kullanılmayan öğeleri sil</string>
     <string name="clear_immediately">Şimdi temizle</string>
     <string name="clear_safe_notify">Bildirim çubuğu aracı</string>
+    <string name="clip_board_history_desc">Kopyalanan veya kesilen içerik</string>
+    <string name="clipboard">Pano</string>
     <string name="close">Kapat</string>
     <string name="confirm_auto_cleaner">Tamam</string>
     <string name="conn_of_function_safe">Güvenlik uygulaması ağ bağlantısı</string>
@@ -674,6 +679,7 @@
     <string name="permission_dialog_storage_content">Temizleyicinin normal çalışabilmesi için dahili depolamaya erişmek için izne ihtiyacı var. Depolama izinlerini yönetmek için ayarlara dokunun</string>
     <string name="permission_dialog_storage_title">İzinler gerekli</string>
     <string name="petabyteShort">PB</string>
+    <string name="phone_search">Google arama</string>
     <string name="positive_confirm">Tamam</string>
     <string name="pref_about_privacy_title">Gizlilik politikası</string>
     <string name="pref_category_title_auto_clean_settings">Temizlemeyi hatırlat</string>
@@ -743,6 +749,7 @@
     <string name="privacy_app_desc_message">Hesap, şifre ve mesajlar</string>
     <string name="privacy_app_desc_search">Hesap, şifre ve arama geçmişi</string>
     <string name="privacy_app_desc_setting">Hesap, şifre ve ayarlar</string>
+    <string name="privacy_appdata_chrome_history_des">Ziyaret edilen internet siteleri</string>
     <string name="privacy_browser_desc">Aranan öğeler</string>
     <string name="privacy_cache_desc">Hesap, şifre, geçmiş, ayarlar ve daha fazlası</string>
     <string name="privacy_cache_empty">Özel veri yok</string>
@@ -776,6 +783,7 @@
     <string name="sc_allow_network_dialog_button">İzin ver</string>
     <string name="sc_allow_network_dialog_message">Bu uygulamanın güncelleme dosyalarını almak amacıyla internete bağlanmasına izin verilsin mi?</string>
     <string name="scanning">Taranıyor</string>
+    <string name="search_history">Arama geçmişi</string>
     <string name="search_menu_title">Ara</string>
     <string name="security_center_slogan">Cihazınızı hızlı ve güvenli tutun</string>
     <string name="see_more">Daha fazla</string>
@@ -786,6 +794,7 @@
     <string name="similar_image_empty">Çoklu resim bulunamadı</string>
     <string name="similar_image_scaning">Kontrol ediliyor</string>
     <string name="similar_image_title">Fotoğraflar</string>
+    <string name="sms">Mesaj veya multimedya</string>
     <string name="sponsored">Sponsorlu</string>
     <string name="start_downloading_app">İndirme işlemine başlanıyor: %1$s</string>
     <string name="start_install">Şimdi yükle</string>

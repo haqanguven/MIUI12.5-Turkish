@@ -169,9 +169,7 @@
     <string name="chinese_digit_seven">Yedi</string>
     <string name="chinese_digit_six">Altı</string>
     <string name="chinese_digit_ten">On</string>
-    <string name="chinese_digit_thirty">Otuz</string>
     <string name="chinese_digit_three">Üç</string>
-    <string name="chinese_digit_twenty">Yirmi</string>
     <string name="chinese_digit_two">İki</string>
     <string name="chinese_digit_zero">Sıfır</string>
     <string name="chinese_leap">Takvime eklenen</string>
@@ -556,12 +554,18 @@
     <string name="menu_unlock">Favorilerden çıkar</string>
     <string name="menu_view_contact">Kişiyi görüntüle</string>
     <string name="menu_view_group_info">Grup bilgisi</string>
+    <string name="message_cannot_send_air_mode">"Mesaj gönderilemiyor
+Önce uçak modunu kapatın"</string>
+    <string name="message_cannot_send_sim_unavailable">"Mesaj gönderilemiyor
+Sim kartınızı kontrol edin"</string>
     <string name="message_class_label">"Mesaj sınıfı: "</string>
     <string name="message_contact">Kişi:</string>
     <string name="message_details_title">Mesaj detayları</string>
     <string name="message_download_failed_title">Mesaj indirilmedi</string>
     <string name="message_expired">Süresi doldu</string>
     <string name="message_failed">Başarısız oldu</string>
+    <string name="message_failed_and_cotanct_operator">Bir hata oluştu. <font color="#1c86ee">Operatörünüzle iletişime geçin</font></string>
+    <string name="message_failed_and_feedback">Bir hata oluştu. <font color="#1c86ee">Sorunu bildirin</font></string>
     <string name="message_failed_body">Mesajı görüntülemek için dokunun ve tekrar deneyin</string>
     <string name="message_number">Telefon numarası:</string>
     <string name="message_pending">Gönderiliyor</string>
@@ -583,9 +587,20 @@
     <string name="mi_message_title">Mi mesaj</string>
     <string name="midnight">Gece</string>
     <string name="millionbyte">MB</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Seçimi kaldır</string>
+    <string name="miuix_appcompat_action_mode_select_all">Tümünü seç</string>
+    <string name="miuix_appcompat_action_mode_title_empty">Öğeleri seç</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Daha fazla</string>
+    <string name="miuix_appcompat_cancel_description">İptal et</string>
     <string name="miuix_appcompat_cloud_state_disabled">Bulut ile senkronizasyon kapalı</string>
     <string name="miuix_appcompat_cloud_state_finished">Bulut ile senkronize edildi</string>
     <string name="miuix_appcompat_cloud_state_syncing">Bulut ile senkronize et</string>
+    <string name="miuix_appcompat_confirm_description">Onayla</string>
+    <string name="miuix_appcompat_delete_description">Sil</string>
+    <string name="miuix_appcompat_deselect_all_description">Tüm seçimi kaldır</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">İptal et</string>
+    <string name="miuix_appcompat_search_input_description">Ara</string>
+    <string name="miuix_appcompat_select_all_description">Tümünü seç</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için çek</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Yenileme tamamlandı</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor</string>

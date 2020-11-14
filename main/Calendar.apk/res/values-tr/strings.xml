@@ -1047,6 +1047,9 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin"</string>
     <string name="saturday">Cumartesi</string>
     <string name="saturday_short">Cumartesi</string>
     <string name="saturday_shortest">C</string>
+    <string name="save_to_gallery_failure_message">Albüme kaydedilemedi</string>
+    <string name="save_to_gallery_icon_name">Albümü kaydet</string>
+    <string name="save_to_gallery_success_message">Albüme kaydedildi</string>
     <string name="saving_event">Etkinlik kaydedildi</string>
     <string name="saving_event_with_guest">Güncellemeler gönderiliyor</string>
     <string name="search_calendar">Tarih;Güneş Dönemleri;Ay takvimi;Almanak;Fal;Ajanda;Toplantı;Hatırlatıcı;Gezi;Tatil;Doğum günü;2016;2017;Bahar bayramı;Yeni Yıl Günü;Uluslararası İşçi Bayramı;Güz ortası bayramı</string>

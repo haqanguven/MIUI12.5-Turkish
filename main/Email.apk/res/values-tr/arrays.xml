@@ -132,6 +132,11 @@
         <item>1</item>
         <item>4</item>
     </string-array>
+    <string-array name="ad_address_list_ignore">
+        <item>do_not_reply@apple.com</item>
+        <item>order_acknowledgment@orders.apple.com</item>
+        <item>zhangming3@kingsoft.com</item>
+    </string-array>
     <string-array name="all_month_str">
         <item>Ocak</item>
         <item>Şubat</item>
@@ -147,7 +152,6 @@
         <item>Aralık</item>
     </string-array>
     <string-array name="alphabet_chars">
-        <item>★</item>
         <item>A</item>
         <item>B</item>
         <item>C</item>
@@ -290,6 +294,31 @@
         <item>normal</item>
         <item>large</item>
         <item>huge</item>
+    </string-array>
+    <string-array name="invoice_amount">
+        <item>Fatura tutarı</item>
+        <item>Fatura tutarı</item>
+        <item>Miktar</item>
+    </string-array>
+    <string-array name="invoice_buyer">
+        <item>Ödeyen</item>
+        <item>Alıcı</item>
+        <item>Fatura</item>
+        <item>Ara</item>
+    </string-array>
+    <string-array name="invoice_card_keyword">
+        <item>Fatura</item>
+    </string-array>
+    <string-array name="invoice_card_pdf_keyword">
+        <item>Fatura</item>
+        <item>invoice</item>
+    </string-array>
+    <string-array name="invoice_date">
+        <item>Fatura tarihi</item>
+    </string-array>
+    <string-array name="invoice_seller">
+        <item>Alıcı</item>
+        <item>Satıcı</item>
     </string-array>
     <string-array name="kids_arrays">
         <item>@string/under_sixteen</item>

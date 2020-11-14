@@ -70,7 +70,7 @@ sol üst köşedeki düğmeye dokunun"</string>
     <string name="altitude_range">Boy</string>
     <string name="am">ÖÖ</string>
     <string name="androidx_camera_default_config_provider">androidx.camera.camera2.Camera2Config$DefaultProvider</string>
-    <string name="app_name">plugin.health.analyze</string>
+    <string name="app_name">İzleme ağacı</string>
     <string name="app_setting">Uygulamalar</string>
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="audio_permission_dialog_desc">Uyku döngünüzü analiz etmek ve konuşma ve horlamayı kaydetmek için Xiaomi sağlığın ses kaydı için izne ihtiyacı var</string>
@@ -78,6 +78,15 @@ sol üst köşedeki düğmeye dokunun"</string>
     <string name="audio_record_perm_description">Uyku döngüsünü analiz ederken horlamayı ve konuşmayı kaydetmek için</string>
     <string name="audio_record_permission_description">Uyku döngünüzü analiz ederken konuşma ve horlamayı kaydetmek için</string>
     <string name="auth_description">"%1$s'nin aşağıdaki cihazlardan veri senkronize etmesine izin ver"</string>
+    <string name="auth_dialog_description">"Öneriler açılsın mı?
+
+Size öneriler sunmak için sağlık verilerinizi üçüncü taraf bir hizmet sağlayıcıyla paylaşacağız. Paylaşacağımız öğeler arasında kişisel bilgiler (Yaş ve cinsiyet), sağlık istatistikleri (Boy, kilo ve egzersiz rutini), davranış verileri (Başlangıç ve bitiş zamanı ile egzersizlerinizin süresi) yer alır
+
+Üçüncü taraf hizmet sağlayıcıların aldıkları verilere dayanarak sizi kişisel olarak tanımlamasını önlemek için bu öğeleri paylaşmadan önce işleyeceğiz
+
+Önerilen sınıflara erişmek istemiyorsanız yine de normal egzersiz programlarını kullanabilirsiniz"</string>
+    <string name="auth_dialog_link">Bir kullanıcı olarak haklarınızı ve verilerinizi kullanma şeklimizi tam olarak anlamak için <a href="%1$s"><font color="#0D84FF">Kullanıcı sözleşmesi ve <a href="%2$s"><font color="#0D84FF">Gizlilik politikamızı kabul etmeniz gerekmektedir</string>
+    <string name="auth_dialog_title">Önerilen sınıflar</string>
     <string name="auto_start_fail">İzin verilemedi</string>
     <string name="auto_start_success">Yetki başarıyla verildi</string>
     <string name="auto_start_tips">Mi sağlık ayarlarını açmak ve gerekli izinleri vermek için aşağıdaki ayarlar seçeneğine dokunun</string>
@@ -220,9 +229,7 @@ sol üst köşedeki düğmeye dokunun"</string>
     <string name="chinese_digit_seven">Yedi</string>
     <string name="chinese_digit_six">Altı</string>
     <string name="chinese_digit_ten">On</string>
-    <string name="chinese_digit_thirty">Otuz</string>
     <string name="chinese_digit_three">Üç</string>
-    <string name="chinese_digit_twenty">Yirmi</string>
     <string name="chinese_digit_two">İki</string>
     <string name="chinese_digit_zero">Sıfır</string>
     <string name="chinese_leap">Takvime eklenen</string>
@@ -409,7 +416,7 @@ Mi sağlık yalnızca önemli ögeler hakkında bildirim gönderir"</string>
     <string name="dialog_feedback_title">Geri bildirim</string>
     <string name="dialog_health_applicator">Mi sağlık şu anda yalnızca yetişkinlere hizmet vermektedir</string>
     <string name="dialog_juveniles_details">Gizlilik politikamıza göre bu ürünü kullanabilmek için en az 18 yaşında olmalısınız</string>
-    <string name="dialog_juveniles_link">&lt;font color=\"#FE6D67\">&lt;a href=%1$s>Gizlilik politikamıza&lt;/a>&lt;/font> göre bu ürünü kullanabilmek için en az 18 yaşında olmalısınız</string>
+    <string name="dialog_juveniles_link"><a href="%1$s"><font color="#FE6D67">Gizlilik politikamıza göre bu ürünü ku</font></a>llanabilmek için en az 18 yaşında olmalısınız</string>
     <string name="dialog_keep">Tut</string>
     <string name="dialog_known">Anladım</string>
     <string name="dialog_menstruation_purpose">Mi sağlığa hoşgeldiniz. Adet özelliği adet dönemlerinizi kaydetmenize, yaklaşan adet dönemlerinizi tahmin etmenize ve hatırlatıcı almanıza izin verir. Tüm ilgili veriler yerel olarak cihazınızda saklanır. Bu da veriler kolayca yönetmenizi sağlar</string>
@@ -652,7 +659,7 @@ Yatakta 30 dakika geçirdikten sonra uykuya dalmakta hala zorlanıyorsanız bu d
     <string name="guide_exit">Xiaomi sağlıktan çık</string>
     <string name="guide_exit_description">Henüz 14 yaşını doldurmamış kişilere hizmet veremiyoruz. Bu cihazı yasal vasinizin izniyle kullandığınızdan emin olun. Uygulamadan çıkmak için aşağıdaki düğmeye dokunun</string>
     <string name="guide_exit_title">14 yaşından sonra Xiaomi sağlık kullanmaya başlayabilirsiniz</string>
-    <string name="guide_local_data_sync_subtitle">Adımlar, uyku, ağırlık, ve periyotlar</string>
+    <string name="guide_local_data_sync_subtitle">Adımlar, uyku, ağırlık ve periyotlar</string>
     <string name="guide_local_data_sync_title">Bu cihazdan veri yükle</string>
     <string name="guide_other_data_sync_subtitle">Telefonlar, bantlar, tartılar ve diğer cihazlar</string>
     <string name="guide_other_data_sync_title">Diğer cihazlardan verileri eşitle</string>
@@ -720,10 +727,9 @@ Daire kırmızı olana kadar bekleyin"</string>
     <string name="hr_finger_permission_desc">Kalp atış hızınızı ölçmek için bu özelliğin kan akışınızdaki değişiklikleri algılayabilmesi için parmak izi tarayıcısına erişmesi gerekir. İzin vermek istiyor musunuz?</string>
     <string name="hr_fp_area">Parmak izi alanı</string>
     <string name="hr_fp_detect_desc">Kalp atışı sırasında parmaklara kan akışı artar. Ekranın altındaki parmak izi alanında bulunan parlak ışık kaynağı sayesinde parmak kanının değişim sıklığı elde edilebilir. Frekans doğru kalp atış hızını hesaplamak için bir nabız sinyaline dönüştürülür</string>
-    <string name="hr_fp_detect_principle_desc">"Kan ışığı emebilir. Her kalp atışında parmaklara daha fazla kan akar ve daha fazla ışık emilir. Kalp atışları arasındaki aralıkta daha az ışık emilir. Ekranın altındaki parmak izi alanında bulunan parlak ışık kaynağı sayesinde parmak kanının değişim frekansı elde edilebilir. Frekans doğru kalp atış hızını hesaplamak için bir nabız sinyaline dönüştürülür
-
-Çok sayıda deney yoluyla ortalama kalp atış hızı hatası 3 BPM'den azdır"</string>
+    <string name="hr_fp_detect_principle_desc">"Kan ışığı emebilir. Her kalp atışında parmaklara daha fazla kan akar ve daha fazla ışık emilir. Kalp atışları arasındaki aralıkta daha az ışık emilir. Ekranın altındaki parmak izi alanında bulunan parlak ışık kaynağı sayesinde parmak kanının değişim frekansı elde edilebilir. Frekans doğru kalp atış hızını hesaplamak için bir nabız sinyaline dönüştürülür. Çok sayıda deney yoluyla ortalama kalp atış hızı hatası 3 BPM'den azdır"</string>
     <string name="hr_fp_detect_principle_desc_2">Not: Lütfen parmağınızın parmak izi alanını tamamen kapladığından emin olun. Tespit sırasında hafifçe bastırın. Basınç çok yüksekse parmaktaki kan akışı azalacak ve hatalı sonuçlara neden olacaktır. Test verileri sadece referans içindir. Tıbbi cihazlar için değildi</string>
+    <string name="hr_fp_detect_principle_desc_3">Our tests show that this method measures your heart rate with an error of only ≤3 BPM.</string>
     <string name="hr_fp_detect_start_desc">"Lütfen parmağınızı hafifçe bastırın
 Parmak izi alanını hareket ettirmeyin"</string>
     <string name="hr_fp_detecting">Tespit ediliyor</string>
@@ -816,6 +822,7 @@ Tekrar dene"</string>
     <string name="light_sleep_time_increase_description">Hafif uykun çok uzun</string>
     <string name="light_sleep_time_normal_description">Yeterli miktarda hafif uykun var</string>
     <string name="load_failed">Öğeler yüklenemedi. Bir iki dakika bekleyin ve tekrar deneyin</string>
+    <string name="loading">Yükleniyor</string>
     <string name="location_permission_dialog_content">Mevcut sağlık uygulaması izinleri bulma yetkisine sahip değil ve konum bilgilerinizi onaylayamıyor ve açık havada egzersiz kayıt işlevleri sağlayamıyor. Lütfen kullanmak için sağlık izni yönetimi konumlandırma yetkisine gidin</string>
     <string name="location_permission_dialog_negative">Kullanımda değil</string>
     <string name="location_permission_dialog_positive">Yetkilendirmeye git</string>
@@ -903,7 +910,7 @@ Tekrar dene"</string>
     <string name="mesens_card_title_today_begin">Dönem bugün başlayabilir</string>
     <string name="mesens_card_title_tomorrow_begin">Dönem yarın başlayabilir</string>
     <string name="mi_belt">Xiaomi Wear</string>
-    <string name="mi_health">Xiaomi sağlık</string>
+    <string name="mi_health">Xiaomi Sağlık</string>
     <string name="mi_sport">Mi Fit</string>
     <string name="mi_sports">Mi Fit</string>
     <string name="middle">Orta</string>
@@ -918,10 +925,20 @@ Tekrar dene"</string>
     <string name="min_pace">En düşük hız</string>
     <string name="minimum">Minimum</string>
     <string name="minute">" dakika"</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Seçimi kaldır</string>
+    <string name="miuix_appcompat_action_mode_select_all">Tümünü seç</string>
+    <string name="miuix_appcompat_action_mode_title_empty">Öğeleri seç</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Daha fazla</string>
+    <string name="miuix_appcompat_cancel_description">İptal et</string>
     <string name="miuix_appcompat_cloud_state_disabled">Bulut ile senkronizasyon kapalı</string>
     <string name="miuix_appcompat_cloud_state_finished">Bulut ile senkronize edildi</string>
     <string name="miuix_appcompat_cloud_state_syncing">Bulut ile senkronize et</string>
+    <string name="miuix_appcompat_confirm_description">Onayla</string>
+    <string name="miuix_appcompat_delete_description">Sil</string>
+    <string name="miuix_appcompat_deselect_all_description">Tüm seçimi kaldır</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">İptal et</string>
     <string name="miuix_appcompat_search_input_description">Ara</string>
+    <string name="miuix_appcompat_select_all_description">Tümünü seç</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için çek</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Yenileme tamamlandı</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor</string>
@@ -993,13 +1010,14 @@ Tekrar dene"</string>
     <string name="mtrl_picker_range_header_title">Bir tarih aralığı seçin</string>
     <string name="mtrl_picker_range_header_unselected">Başlangıç tarihi - Bitiş tarihi</string>
     <string name="muscle_rate">Kas</string>
-    <string name="muscle_rate_descripe_content">Kas yüzdesi kas kütlesi, vücut ağırlığı ve boyuna göre hesaplanır. Ne kadar sağlıklı ve güçlü olduğunuzu belirlemek için yararlıdır. Vücudunuzdaki sağlıklı kas miktarını korumak için düzenli egzersiz şarttır</string>
+    <string name="muscle_rate_descripe_content">Kas yüzdesi, kas kütlesi, vücut ağırlığı ve boyuna göre hesaplanır. Ne kadar sağlıklı ve güçlü olduğunuzu belirlemek için yararlıdır. Vücudunuzdaki sağlıklı kas miktarını korumak için düzenli egzersiz şarttır</string>
     <string name="my_data_source">Veri kaynakları</string>
     <string name="name_title_menstruation_today_end">Adet döneminin bugün bitmesi bekleniyor</string>
     <string name="need_auto_start_permission">Daha doğru istatistikler almak için Mi sağlığa otomatik başlama izni verin</string>
     <string name="need_unrestricted_permission">Daha doğru istatistikler almak için Mi sağlığa arka planda çalışma izni verin</string>
     <string name="network_connect_failure">Ağa bağlanılamadı. Ağ ayarlarınızı kontrol edip tekrar deneyin</string>
     <string name="network_not_available">Ağa bağlanılamadı. Ağ ayarlarınızı kontrol edip tekrar deneyin</string>
+    <string name="network_not_available2">"Couldn't connect to the network"</string>
     <string name="next_step">İleri</string>
     <string name="night">Akşam</string>
     <string name="no_available_data_source">Veri kaynağı yok</string>
@@ -1065,6 +1083,8 @@ Tekrar dene"</string>
     <string name="permission_check_result_failed">Ayarlanamadı</string>
     <string name="permission_manage">İzinleri yönet</string>
     <string name="permission_tip">Uykunuzu daha doğru takip edebilmesi için Mi sağlığa şu izinleri verin</string>
+    <string name="personal_course_recommend_subtitle">Kişisel bilgilerinize, sağlık istatistiklerinize ve tercihlerinize göre size önerilen sınıflara erişin</string>
+    <string name="personal_course_recommend_title">Önerilen sınıflar</string>
     <string name="phone_detection">Otomatik olarak algılandı</string>
     <string name="photograph">Kamera</string>
     <string name="picker_day">Seçilen gün: %1$d. Seçmek için dikey olarak kaydırın</string>
@@ -1077,6 +1097,7 @@ Tekrar dene"</string>
     <string name="placement_tips_warn">Lütfen kaçının</string>
     <string name="placement_tips_warn_1">Telefonu koşu bandına yerleştirin</string>
     <string name="play">Oynat</string>
+    <string name="please_choose">Seç</string>
     <string name="pm">ÖS</string>
     <string name="pool_swimming">Havuzda yüzme</string>
     <string name="predict_menstruation">Beklenen adet dönemi</string>
@@ -1094,6 +1115,7 @@ Tekrar dene"</string>
     <string name="preference_update_find_new_version">Güncellemeleri kontrol et</string>
     <string name="preference_update_find_newer_version">Bir güncelleme mevcut: %1$s</string>
     <string name="privacy_policy">Gizlilik politikası</string>
+    <string name="privacy_setting">Privacy</string>
     <string name="prompt_more_than_3h">3 saatten fazla</string>
     <string name="prompt_sleep_time_night">Gece uykusu</string>
     <string name="prompt_sleep_time_noon">Şekerleme</string>
@@ -1207,11 +1229,13 @@ Tekrar dene"</string>
     <string name="sleep_chart_empty">Veri yok</string>
     <string name="sleep_chart_loading">Yükleniyor</string>
     <string name="sleep_day">Gün</string>
+    <string name="sleep_day_multi_short_title">%1$d. gün</string>
+    <string name="sleep_day_single_short_title">Güneş</string>
+    <string name="sleep_day_title">Gündüz uykusu</string>
     <string name="sleep_deep">Derin uyku</string>
     <string name="sleep_deep_light_analysis">Hafif uyku ve derin uyku</string>
     <string name="sleep_deep_light_close_tip">Derin uyku analizi kapalı</string>
     <string name="sleep_deep_light_no_data">Burada henüz veri yok</string>
-    <string name="sleep_deep_light_no_data_improvement">Uyku aşamaları algılanamadı. Algoritmalarımızı geliştiriyoruz. Bizi izlemeye devam edin</string>
     <string name="sleep_detection_enable">Uyku döngüsünü analiz edin</string>
     <string name="sleep_detection_feedback">Geri bildirim</string>
     <string name="sleep_detection_guide_four_description">Uyku izleme her gün pilinizde yaklaşık 1% tüketim yapar</string>
@@ -1259,7 +1283,6 @@ Bu sorun sık sık meydana geliyorsa cihazınızda zamanlanmış kapatma görevl
     <string name="sleep_goal_not_compliance">Yetersiz uyku</string>
     <string name="sleep_goal_not_upto_standard">Yeterince uyumadın</string>
     <string name="sleep_health_model_hint">Miao sağlık tarafından sağlanan uyku değerlendirme önerileri</string>
-    <string name="sleep_incomplete_deep_light_data_tip">Hafif ve derin uyku bilgisi neden eksik?</string>
     <string name="sleep_keep_hard">Uyku problemleri</string>
     <string name="sleep_light">Hafif uyku</string>
     <string name="sleep_management_content1">Yatmak ve kalkmak için hatırlatıcılar ayarla</string>
@@ -1269,6 +1292,7 @@ Bu sorun sık sık meydana geliyorsa cihazınızda zamanlanmış kapatma görevl
     <string name="sleep_need_auto_start">Uyku verilerini daha doğru hale getirmek için Mi sağlığa otomatik başlatma izni verin</string>
     <string name="sleep_need_background_run">Uyku verilerini daha doğru hale getirmek için kısıtlama yok seçeneğini seçin</string>
     <string name="sleep_need_necessary_permissions">Uyku verilerini daha doğru hale getirmek için gerekli izinleri verin</string>
+    <string name="sleep_night_title">Gece uykusu</string>
     <string name="sleep_no_data_info">"Tam bir uyku
 döngüsünü bitirin"</string>
     <string name="sleep_no_deep_light_data_tip">Hafif ve derin uyku neden kaydedilmiyor?</string>
@@ -1300,6 +1324,8 @@ bulunamadı"</string>
     <string name="sleep_snore_detection_desc">Uykunuz hakkında daha fazla bilgi edinmek için horlamayı ve konuşmayı algılayın</string>
     <string name="sleep_sober">Uyanık</string>
     <string name="sleep_sober_times_title">Uyandı</string>
+    <string name="sleep_state_this_month">Bu ayın uykusu</string>
+    <string name="sleep_state_this_week">Bu haftanın uykusu</string>
     <string name="sleep_status">Uyku durumu</string>
     <string name="sleep_time_edit">Düzenle</string>
     <string name="sleep_time_standard_pattern">Standart: %1$ds</string>
@@ -1512,11 +1538,11 @@ bulunamadı"</string>
     <string name="tb_detection_subpage_info">%1$d sayfa açıklaması. %2$d sayfasına gitmek için ekranın üst kısmında yatay olarak kaydırın</string>
     <string name="tb_detection_subpage_last_info">%1$d sayfa açıklaması. Son sayfa</string>
     <string name="tb_exercise_consume_no_data">Kalori bilgisi yok</string>
-    <string name="tb_exercise_consume_normal">Yanmış Kalori: %1$d. %2$s. Ayrıntıları görüntülemek için dokunun</string>
-    <string name="tb_exercise_detail_consume_daily_enough">Yanmış Kalori: %1$d. Spor yeterliydi</string>
-    <string name="tb_exercise_detail_consume_daily_not_enough">Yanmış Kalori: %1$d. Spor yeterince verimli değildi</string>
-    <string name="tb_exercise_detail_consume_no_data">Yanmış Kalori hakkında bilgi yok</string>
-    <string name="tb_exercise_detail_consume_w_m_normal">Ortalama yanmış kalori: %1$d. Toplam Yanmış Kalori: %2$d</string>
+    <string name="tb_exercise_consume_normal">Yanmış kalori: %1$d. %2$s. Ayrıntıları görüntülemek için dokunun</string>
+    <string name="tb_exercise_detail_consume_daily_enough">Yanmış kalori: %1$d. Spor yeterliydi</string>
+    <string name="tb_exercise_detail_consume_daily_not_enough">Yanmış kalori: %1$d. Spor yeterince verimli değildi</string>
+    <string name="tb_exercise_detail_consume_no_data">Yanmış kalori hakkında bilgi yok</string>
+    <string name="tb_exercise_detail_consume_w_m_normal">Ortalama yanmış kalori: %1$d. Toplam yanmış kalori: %2$d</string>
     <string name="tb_exercise_detail_data">%1$s için istatistikler görüntüleniyor</string>
     <string name="tb_exercise_detail_duration_daily_enough">Dakika cinsinden orta ila yüksek yoğunlukta spor süresi: %1$d. Spor yeterliydi</string>
     <string name="tb_exercise_detail_duration_daily_not_enough">Dakika cinsinden true yüksek yoğunlukta spor süresi: %1$d. Spor yeterince üretken değildi</string>
@@ -1537,7 +1563,7 @@ bulunamadı"</string>
     <string name="tb_exercise_home_banner">Günlük giriş</string>
     <string name="tb_exercise_label_close">İstemi kapat</string>
     <string name="tb_exercise_list_add">Spor istatistikleri ekle</string>
-    <string name="tb_exercise_list_consume">Yanmış Kalori: %1$d. Bitiş zamanı: %2$s. Ayrıntıları görüntülemek için dokunun</string>
+    <string name="tb_exercise_list_consume">Yanmış kalori: %1$d. Bitiş zamanı: %2$s. Ayrıntıları görüntülemek için dokunun</string>
     <string name="tb_exercise_list_sport">%1$s. Kilometre cinsinden uzaklık: %2$s. Bitiş zamanı: %3$s. Veri kaynağı: %4$s. Ayrıntıları görüntülemek için dokunun</string>
     <string name="tb_exercise_list_sport_one">%1$s. Süre: %2$s. Bitiş zamanı: %3$s. Veri kaynağı: %4$s. Ayrıntıları görüntülemek için dokunun</string>
     <string name="tb_exercise_list_walk">Adım sayısı: %1$s. Bitiş zamanı: %2$s. Ayrıntıları görüntülemek için dokunun</string>
@@ -1626,7 +1652,7 @@ bulunamadı"</string>
     <string name="tb_stand_wm_column_click">%1$s. Ayağa kalkma: %2$d. %3$s</string>
     <string name="tb_unmultiple_selecte_all">Hiçbiri</string>
     <string name="tb_user_account_signed">Mi hesabı: %1$s.</string>
-    <string name="tb_user_account_unsigned">Mi Hesabında oturum açmak için dokunun</string>
+    <string name="tb_user_account_unsigned">Mi hesabında oturum açmak için dokunun</string>
     <string name="tb_user_sleep_card_info">Günlük uyku hedefi: %1$s.</string>
     <string name="tb_user_sleep_target_btn">Uyku hedefini değiştir</string>
     <string name="tb_user_step_card_info">Günlük hedef: %1$s, hakkında %2$s veya %3$s</string>

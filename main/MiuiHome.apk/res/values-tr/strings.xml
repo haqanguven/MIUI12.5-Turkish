@@ -327,9 +327,9 @@
     <string name="home_gesture_no_action">Yok</string>
     <string name="home_gesture_notification_bar">Bildirimler</string>
     <string name="home_indicator">bottom_point</string>
-    <string name="home_pull_down_action">Ana ekranda aşağı kaydırın</string>
+    <string name="home_pull_down_action">Ana ekranda aşağı kaydırma</string>
     <string name="home_screen">Ana ekran</string>
-    <string name="home_slide_up_action">Ana ekranda yukarı kaydırın</string>
+    <string name="home_slide_up_action">Ana ekranda yukarı kaydırma</string>
     <string name="home_switch_personal_assistant">-1 ekran</string>
     <string name="icon_reorganize_channel">Simgeleri düzenle</string>
     <string name="icon_size">Simge boyutu</string>
@@ -340,11 +340,11 @@
     <string name="is_system_wallpaper_message">Sistem kaynakları silinemez</string>
     <string name="key_shortcut_settings_title">Tuş kısayolları</string>
     <string name="launcher_not_exist">Bir hata oluştu. Ana ekrana dönüp tekrar deneyin</string>
-    <string name="launcher_pull_down_title">Ana ekranda aşağı kaydırın</string>
+    <string name="launcher_pull_down_title">Ana ekranda aşağı kaydırma</string>
     <string name="launcher_search_bar_title">Ana ekran arama çubuğu</string>
     <string name="launcher_search_bar_value_disable">Kapalı</string>
     <string name="launcher_search_bar_value_enable">Açık</string>
-    <string name="launcher_slide_up_title">Ana ekranda yukarı kaydırın</string>
+    <string name="launcher_slide_up_title">Ana ekranda yukarı kaydırma</string>
     <string name="launcher_sliding_up_gesture">Arama bölümü</string>
     <string name="launcher_title">Ana ekran &amp; son kullanılanlar</string>
     <string name="like">Favorilere ekle</string>

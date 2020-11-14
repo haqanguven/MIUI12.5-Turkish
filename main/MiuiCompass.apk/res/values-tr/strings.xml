@@ -81,6 +81,7 @@
     <string name="location_enabled">Konum hizmetlerini istediğiniz zaman ayarlar menüsünde kapatabilirsiniz.</string>
     <string name="location_north">K</string>
     <string name="location_not_enabled_summary">Pusula koordinatları ve rakımı görüntülemek için konumunuza erişmesi gerekmektedir</string>
+    <string name="location_not_enabled_summary_no_pressure_sensor">Pusulanın mevcut koordinatlarınızı görüntülemek için konumunuza erişmesi gerekiyor</string>
     <string name="location_not_enabled_title">Konum hizmetleri</string>
     <string name="location_south">G</string>
     <string name="location_west">B</string>

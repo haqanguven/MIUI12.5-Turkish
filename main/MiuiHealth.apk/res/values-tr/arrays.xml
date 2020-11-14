@@ -5,10 +5,11 @@
         <item>Spor</item>
     </string-array>
     <string-array name="SportTabTitle">
-        <item>Açık havada koşu</item>
+        <item>Koşu</item>
         <item>Yürüme</item>
-        <item>Açık havada sürme</item>
+        <item>Bisiklet sürme</item>
         <item>Koşu bandı</item>
+        <item>Egzersiz yapma</item>
     </string-array>
     <string-array name="alphabet_table">
         <item>A</item>

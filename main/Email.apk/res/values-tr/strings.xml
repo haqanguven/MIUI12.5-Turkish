@@ -88,6 +88,7 @@
     <string name="account_settings_notifications">Bildirimler</string>
     <string name="account_settings_notify_label">E-posta bildirimleri</string>
     <string name="account_settings_notify_summary">Yeni e-posta alındığında bildirim görüntüle</string>
+    <string name="account_settings_only_notify_inbox">Yalnızca bildirim hatırlatıcı gelen kutusu postası</string>
     <string name="account_settings_param">Hesap ayarları</string>
     <string name="account_settings_policies">Güvenlik politikaları</string>
     <string name="account_settings_preference_att_save_path">Eklentiler için varsayılan konum</string>
@@ -98,7 +99,7 @@
     <string name="account_settings_ringtone">Bildirim sesi</string>
     <string name="account_settings_servers">Sunucu ayarları</string>
     <string name="account_settings_smime_title">S/MIME (Güvenli veya çok amaçlı internet e-posta uzantıları)</string>
-    <string name="account_settings_summary">Senkronizasyon sıklığı, bildirimler, vb.</string>
+    <string name="account_settings_summary">Senkronizasyon sıklığı ve bildirimler</string>
     <string name="account_settings_sync_calendar_enable">Takvimi senkronize et</string>
     <string name="account_settings_sync_calendar_summary">Bu hesabın takvim etkinliğini senkronize et</string>
     <string name="account_settings_sync_contacts_enable">Kişileri senkronize et</string>
@@ -306,6 +307,8 @@
     <string name="body_forward_email_text">[İlet]</string>
     <string name="body_hint">E-posta oluştur</string>
     <string name="body_inline_pic_text">[Resim]</string>
+    <string name="bottom_bar_more_pdf">"PDF'ye aktar"</string>
+    <string name="bottom_bar_more_pdf_exporting">Aktarılıyor</string>
     <string name="bottom_bar_more_quickreply">Hızlı yanıt</string>
     <string name="bottom_bar_more_share">Paylaş</string>
     <string name="bottom_bar_no_quickreply_toast">Hızlı yanıt yok</string>
@@ -392,6 +395,7 @@
     <string name="contact_list_title">Kişiler</string>
     <string name="contact_permission_error">Telefon kişilerine erişim kısıtlanmış durumda</string>
     <string name="contact_select">Kişileri seçin</string>
+    <string name="contain_view_all_body">Mesajın tam metnini görüntüle</string>
     <string name="content_description">%1$s hakkında %2$s, %3$s %4$s, %5$s tarihinde</string>
     <string name="content_description_today">%1$s hakkında %2$s, %3$s %4$s, %5$s tarihinde</string>
     <string name="contextmenu_add">Kişilere ekle</string>
@@ -433,6 +437,7 @@
     <string name="conversation_view">Konuşma görünümü</string>
     <string name="conversation_view_keywords">konuşma görünümü;posta konuşması</string>
     <string name="copied">Kopyalandı</string>
+    <string name="copy">Copy</string>
     <string name="copy_email">E-posta adresini kopyala</string>
     <string name="copy_number">Telefon numarasını kopyala</string>
     <string name="create_action">Yeni</string>
@@ -505,6 +510,10 @@
     <string name="drawer_close">Navigasyon çekmecesini kapat</string>
     <string name="drawer_contacts">Kişiler</string>
     <string name="drawer_open">Navigasyon çekmecesini aç</string>
+    <string name="drive_card_button_tips">Çıkarılan kodu kopyalayın ve paylaşılan içeriği alın</string>
+    <string name="drive_card_code">Çıkarma kodu</string>
+    <string name="drive_card_tips">%s tarafından paylaşılan bağlantı bulundu</string>
+    <string name="drive_card_title">Disk link</string>
     <string name="dtend">Uçlar</string>
     <string name="dtstart">Başlar</string>
     <string name="due">Vade</string>
@@ -543,6 +552,7 @@
     <string name="exception_updated">Bu etkinliğin ayrıntıları değiştirildi: %s</string>
     <string name="exchange_name">Kurumsal</string>
     <string name="exchange_name_alternate">Microsoft Exchange etkin senkronizasyonu</string>
+    <string name="expand_button_title">Gelişmiş</string>
     <string name="expand_recipient_details">Alıcı ayrıntılarını genişlet</string>
     <string name="expand_slide">Kenar çubuğunu genişlet</string>
     <string name="fail_get_email_message">Mesaj alınamadı</string>
@@ -699,10 +709,16 @@
     <string name="interact_with_server_error">Sunucuya bağlanılamadı</string>
     <string name="invalid_recipient">%s adresi geçersizdir</string>
     <string name="invalid_recipient_title">Alıcı hatası</string>
+    <string name="invoice_card_amount">amount</string>
+    <string name="invoice_card_buyer">buyer</string>
+    <string name="invoice_card_date">date</string>
+    <string name="invoice_card_open">open invoice</string>
+    <string name="invoice_card_save">save invoice</string>
+    <string name="invoice_card_seller">seller</string>
+    <string name="invoice_card_title">e-invoice</string>
     <string name="kilobytes">%s KB</string>
     <string name="label_notification_ticker">%1$s: %2$s</string>
     <string name="list_empty_to_fresh">Henüz e-posta yok</string>
-    <string name="load_attachment">@string/load_more</string>
     <string name="load_from_remote">Sunucu posta kutusunu ara</string>
     <string name="load_more">Daha fazla yükle</string>
     <string name="loading_conversation">Yükleniyor</string>
@@ -727,6 +743,8 @@
     <string name="login_des_yahoo">"Yahoo Mail'de oturum açın"</string>
     <string name="login_des_yangdex">"Yandex Mail'de oturum açın"</string>
     <string name="login_err_message">%1$s oturum açmak için doğrulama koduna da ihtiyacınız olabilir. Şifrenizi sıfırlamanız gerekiyorsa kullanabileceğiniz seçenekleri görmek için https://email.163.com/ adresini ziyaret edin</string>
+    <string name="login_err_outlook_msg">"%s
+Lütfen uygulama şifresinin açık olup olmadığını onaylayın. Eğer açıksa lütfen uygulama şifresini sıfırlamak için Microsoft internet sitesine gidin"</string>
     <string name="login_err_sina_message">%1$s oturum açmak için doğrulama koduna da ihtiyacınız olabilir. Şifrenizi sıfırlamanız gerekiyorsa kullanabileceğiniz seçenekleri görmek için https://mail.sina.com.cn/ adresini ziyaret edin</string>
     <string name="login_failed_ticker">%s oturumu açılamadı</string>
     <string name="login_failed_tip">Giriş yardımı geri bildirimi ekleyin:</string>
@@ -786,48 +804,48 @@
     <string name="me_subject_pronun">ben</string>
     <string name="meeting_accepted">"
         Kabul edildi:
-		%s
-	"</string>
+%s
+"</string>
     <string name="meeting_allday">"
         Ne zaman:
-		%s
-		(Tüm gün)
-	"</string>
+%s
+(Tüm gün)
+"</string>
     <string name="meeting_allday_recurring">"
         Ne zaman:
-		%s
-		(Tüm gün. Yinelenen)
+%s
+(Tüm gün. Yinelenen)
     "</string>
     <string name="meeting_canceled">"
         İptal edildi:
-		%s
-	"</string>
+%s
+"</string>
     <string name="meeting_declined">"
         Reddedildi:
-		%s
-	"</string>
+%s
+"</string>
     <string name="meeting_recurring">"
         Ne zaman:
-		%s
-		(Yinelenen)
+%s
+(Yinelenen)
     "</string>
     <string name="meeting_responded_failed">Yanıt yok</string>
     <string name="meeting_tentative">"
         Geçici:
-		%s
-	"</string>
+%s
+"</string>
     <string name="meeting_updated">"
         Güncellendi:
-		%s
-	"</string>
+%s
+"</string>
     <string name="meeting_when">"
         Ne zaman:
-		%s
-	"</string>
+%s
+"</string>
     <string name="meeting_where">"
         Nerede:
-		%s
-	"</string>
+%s
+"</string>
     <string name="megabytes">%s MB</string>
     <string name="menu_att_mgr">Eklentiler</string>
     <string name="menu_att_mgr_order_default">Yakınlarda görüntülenen</string>
@@ -849,6 +867,7 @@
     <string name="menu_search">Ara</string>
     <string name="menu_settings">Ayarlar</string>
     <string name="merged_mailbox_compose_select_account">Hesap seçin</string>
+    <string name="message_all_body">Tam metin</string>
     <string name="message_body_load_set_description">Mobil veri kullanıyorken e-posta yükle</string>
     <string name="message_compose_insert_quick_response_list_title">Hızlı yanıt ekle</string>
     <string name="message_count_spacer">  </string>
@@ -884,6 +903,7 @@
     <string name="mute">Sessiz</string>
     <string name="navigation_menu">Gezinme menüsü</string>
     <string name="need_get_qq_mail">QQ mail ihtiyacınız var</string>
+    <string name="net_error">Ağ hatası. Lütfen daha sonra tekrar deneyin</string>
     <string name="network_error">Bağlantı yok</string>
     <string name="network_invaild">Ağa bağlanılamıyor</string>
     <string name="network_not_available">Ağa bağlanılamıyor</string>
@@ -911,6 +931,7 @@ Farklı bir e-posta hesabı kullanmayı deneyin"</string>
     <string name="no_recognize_describe">"Bilet veya rezervasyon içeren bir e-posta bulunamadı
 Farklı bir posta kutusu deneyin"</string>
     <string name="no_search_results">Sonuç bulunamadı</string>
+    <string name="not_set">Ayarlanmadı</string>
     <string name="not_subject">(Konu yok)</string>
     <string name="not_synced_title">Hesap senkronize edilmedi</string>
     <string name="notification_action_archive">Arşiv</string>
@@ -1011,6 +1032,9 @@ Farklı bir posta kutusu deneyin"</string>
     <string name="pdf_has_signature_prompt_cancel">Orijinal dosyayı açın</string>
     <string name="pdf_has_signature_prompt_confirm">Kopyala</string>
     <string name="pdf_has_signature_prompt_message">Bu ekin imzalı bir kopyası tespit edildi. Açık ya da değil mi?</string>
+    <string name="pdf_save_error">Gövde çok büyük. PDF dosyası olarak dışa aktarılamaz</string>
+    <string name="pdf_save_no_body">Metnin başarıyla yüklenmesini bekleyin ve tekrar deneyin</string>
+    <string name="pdf_save_to">Kaydedildi</string>
     <string name="pdf_signature_create_title">İmza oluştur</string>
     <string name="pdf_signature_manager_max_count">Maksimum imza sayısı. Lütfen mevcut imzayı silin ve tekrar deneyin</string>
     <string name="pdf_signature_manager_title">İmza yöneticisi</string>
@@ -1075,6 +1099,7 @@ e-postanızdaki fatura ve seyahat bilgilerini analiz edin"</string>
     <string name="policy_text_truncation">Metin e-posta boyutunu sınırla</string>
     <string name="pop3_name">POP3</string>
     <string name="prefDefault_autoAdvance">liste</string>
+    <string name="preference_copied">%1$s panoya kopyalandı</string>
     <string name="preference_eas_tips">E-posta sunucusu kurulumu için Etkinleştir e dokunun</string>
     <string name="preference_imap_tips" />
     <string name="preference_pop_tips">POP3 protokolünde e-posta ekleri e-postalar ile birlikte indirilir. Bu durum mobil veri kullanımızı arttırabilir</string>
@@ -1179,13 +1204,11 @@ e-postanızdaki fatura ve seyahat bilgilerini analiz edin"</string>
     <string name="quote_divider_qq_en">------------------ Orijinal ------------------</string>
     <string name="quote_divider_qq_zh">------------------ Orijinal posta ------------------</string>
     <string name="quoted_text">Alıntı metinlerini içer</string>
-    <string name="quoted_text_background_color_string">@android:color/white</string>
-    <string name="quoted_text_font_color_string">@color/gray_text_color</string>
     <string name="quoted_text_label">Metni alıntıla</string>
     <string name="re_download_message_button">Tekrar indirmek için dokunun</string>
     <string name="re_download_message_info">E-posta indirilemedi</string>
     <string name="read_string">okunmuş konuşma</string>
-    <string name="recipient_needed">En az bir alıcı eklemelisiniz.</string>
+    <string name="recipient_needed">En az bir alıcı eklemelisiniz</string>
     <string name="recipient_needed_title">Uyar</string>
     <string name="recognize_hotel_check_in_date">Giriş zamanı</string>
     <string name="recognize_hotel_hotel_money">Ücret %1$s</string>
@@ -1208,7 +1231,7 @@ e-postanızdaki fatura ve seyahat bilgilerini analiz edin"</string>
     <string name="recognize_ticket_title">Uçak &amp; tren biletleri</string>
     <string name="recognize_ticket_train_alter">Değiştirildi</string>
     <string name="recognize_ticket_train_depart_date">%2$s/%1$s tarihinde %3$s:%4$s saatinde hareket ediyor</string>
-    <string name="recognize_ticket_train_notification_content">İyi yolculuklar!</string>
+    <string name="recognize_ticket_train_notification_content">İyi yolculuklar</string>
     <string name="recognize_ticket_train_notification_title">%3$s numaralı tren (%1$s/%2$s) yakında hareket edecektir. Biletinizi tekrar kontrol edin</string>
     <string name="recognize_ticket_train_return">İptal edildi</string>
     <string name="recognize_ticket_train_user_name">Yolcu: %1$s</string>
@@ -1304,7 +1327,7 @@ Tamamen senkronize edilmesini bekleyin veya mesajı bilgisayarınızda görünt�
     <string name="ser_resp_err_map_pserr">Hatalı kullanıcı adı veya şifre</string>
     <string name="ser_resp_err_map_serclosed">%s sunucusu kapalı</string>
     <string name="ser_resp_err_map_serclosed_info">%s sunucusu kapatıldı</string>
-    <string name="ser_resp_err_map_ssl">"Güvenlik türü menüsünde SSL/TLS opsiyonunu seçin"</string>
+    <string name="ser_resp_err_map_ssl">Güvenlik türü menüsünde SSL/TLS opsiyonunu seçin</string>
     <string name="server_cet_button">Bu sertifikaya güven</string>
     <string name="server_cet_cert_data">"Geçerlilik süresi: "</string>
     <string name="server_cet_cert_issuer">"Sertifikayı veren: "</string>
@@ -1373,6 +1396,7 @@ Tamamen senkronize edilmesini bekleyin veya mesajı bilgisayarınızda görünt�
     <string name="suffix_sancharnet">sancharnet.in</string>
     <string name="suffix_vsnl">vsnl.com</string>
     <string name="suggestions_authority">com.android.mail.providers.SuggestionsProvider</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sync_calendra_fail_per_content">Takvime erişim izini vermek için dokunun</string>
     <string name="sync_calendra_fail_per_title">Takvim senkronize edilemedi</string>
     <string name="sync_calendra_fail_permission">Takvim senkronize edilemedi. Posta uygulamasının ayarlardan takviminize erişmesine izin verin</string>
@@ -1401,7 +1425,7 @@ Tamamen senkronize edilmesini bekleyin veya mesajı bilgisayarınızda görünt�
     <string name="tablet">tablet</string>
     <string name="tap_to_configure">Kurulum için dokunun</string>
     <string name="tap_to_enable_sync">Açmak için dokunun</string>
-    <string name="three_day">3 days</string>
+    <string name="three_day">3 gün</string>
     <string name="title_activity_about">Hakkında</string>
     <string name="to">Kime</string>
     <string name="to_heading">"Bitiş: "</string>
@@ -1413,8 +1437,11 @@ Tamamen senkronize edilmesini bekleyin veya mesajı bilgisayarınızda görünt�
     <string name="toast_bar_send_fail_remind">E-posta gönderilemedi. Giden klasörüne kaydedildi</string>
     <string name="toast_bar_sync_failed_client_cert">QQ şifre/e-posta şifresi/ müşteri doğrulama kodu açıklaması</string>
     <string name="toast_bar_sync_failed_mi_authority">Cihazınızı yetkilendirmek için oturum açın</string>
+    <string name="toastbar_calendar_and_contacts_permission_switch_allow_only_using">Program ve kişi bilgileri gerçek zamanlı olarak senkronize edilemez. Lütfen ilgili izinleri her zaman izin ver olarak ayarlayın</string>
     <string name="toastbar_calendar_and_contacts_permission_switch_close">Takvim bilgilerini ve kişileri senkronize etmek için e-posta uygulamasına ayarlar menüsünde gerekli izinleri verin</string>
+    <string name="toastbar_calendar_permission_switch_allow_only_using">E-posta planları gerçek zamanlı olarak senkronize edilemez. Lütfen takvim iznini her zaman izin ver olarak ayarlayın</string>
     <string name="toastbar_calendar_permission_switch_close">Takvim hatırlatıcıları almak için e-posta uygulamasına Ayarlar menüsünde gerekli izinleri verin</string>
+    <string name="toastbar_contacts_permission_switch_allow_only_using">Kişi bilgileri gerçek zamanlı olarak senkronize edilemez. Lütfen kişi iznini her zaman izin ver olarak ayarlayın</string>
     <string name="toastbar_contacts_permission_switch_close">Kişi eklemek için e-posta uygulamasına ayarlar menüsünde gerekli izinleri verin</string>
     <string name="toastbar_local_calendar_and_contacts_sync_switch_close">Takvim ve kişi senkronizasyonu yapmak için takvim ve kişi senkronizasyonunu etkinleştirin</string>
     <string name="toastbar_local_calendar_sync_switch_close">Takvim hatırlatıcıları almak için takvim senkronizasyonunu açın</string>
@@ -1428,6 +1455,12 @@ Tamamen senkronize edilmesini bekleyin veya mesajı bilgisayarınızda görünt�
     <string name="toolbar_part_symbol">Paragraf sembolü</string>
     <string name="topic_merge">Görüntüleme ayarları</string>
     <string name="topic_merge_summary">Konuya göre grupla</string>
+    <string name="train_card_title">Tren bileti başarıyla satın alındı</string>
+    <string name="train_card_title_alternate">Tren bileti başarıyla bekleniyor</string>
+    <string name="train_card_title_change">Tren bileti başarıyla değiştirildi</string>
+    <string name="train_card_title_change_arrival">Tren bileti başarıyla değiştirildi</string>
+    <string name="train_card_title_refund">Tren biletinin başarıyla iade edildi</string>
+    <string name="train_travel_refund_info" formatted="false">Geri ödeme ücreti: %s¥. İade edilebilir ücret: %s¥</string>
     <string name="translation_loading">Yükleniyor</string>
     <string name="translation_no_result">Sonuç yok</string>
     <string name="translation_pronunciation_am">AmE</string>
@@ -1484,6 +1517,8 @@ Hesap kaldırılsın mı?"</string>
     <string name="user_privacy_settings_path">İpucu: Kullanıcı gizlilik ayarlarında izinlerinizi, ayarlarınızı ve kullanıcı gizlilik ayarlarınızı geri alabilirsiniz</string>
     <string name="user_privacy_settings_summary">Android kimliğinizi veya bir işlem günlüğünü toplayacağız. Kullanıcı gizlilik politikası ile onayınızı istediğiniz zaman geri çekme hakkınız vardır</string>
     <string name="user_privacy_settings_title">Gizlilik izni hatırlatması</string>
+    <string name="v7_preference_off">Kapalı</string>
+    <string name="v7_preference_on">Açık</string>
     <string name="validation_failed_prompt">Hesap doğrulanamıyor. %s için sunucu ayarlarını kontrol edin</string>
     <string name="veiled_address" />
     <string name="veiled_alternate_text" />
@@ -1494,7 +1529,7 @@ Hesap kaldırılsın mı?"</string>
     <string name="via_domain">%1$s üzerinden</string>
     <string name="view_more_conversations">Daha fazla konuşma görüntüle</string>
     <string name="wait_for_manual_sync_body">"Bu hesap otomatik olarak senkronize edilecek şekilde yapılandırılmadı
-Postayı bir kez senkronize etmek için <b>şimdi senkronize et</b> veya bu hesabı postayı otomatik olarak senkronize edilecek şekilde ayarlamak için <b>senkronizasyon ayarlarını değiştire</b> dokunun"</string>
+Postayı bir kez senkronize etmek için "<b>şimdi senkronize et</b> veya bu hesabı postayı otomatik olarak senkronize edilecek şekilde ayarlamak için <b>senkronizasyon ayarlarını değiştire</b> dokunun</string>
     <string name="wait_for_sync_title">Senkronizasyon için bekleniyor</string>
     <string name="wait_help_context">Bekleyin</string>
     <string name="wait_while_update_db">Veri tabanı yükseltme işlemi sırasında bir dakika bekleyin lütfen</string>
@@ -1511,6 +1546,9 @@ Postayı bir kez senkronize etmek için <b>şimdi senkronize et</b> veya bu hesa
     <string name="wipe_account_fail_description">İzin ver</string>
     <string name="wipe_account_fail_description_remind">Veri kullanımı kısıtlamalarından sebebiyle hesabı sildikten sonra takvim ve kişiler uygulamasında artık veri kalabilir. Bu öğeleri bizzat silin</string>
     <string name="wipe_account_fail_title">Kişisel bilgiler silinemedi</string>
+    <string name="wps_card_button_tips">Kingsoft belgesini aç</string>
+    <string name="wps_card_tips">%s adresinden paylaşım bağlantısı bulundu</string>
+    <string name="wps_card_title">Kingsoft belgesi</string>
     <string name="wps_title">WPS mail</string>
     <string name="wrong_password">Girmiş olduğunuz şifre hatalı</string>
     <string name="xiaomi_auth_toastbar">Telefonunuz henüz yetkilendirilmedi. Giriş izni için lütfen buraya tıklayın</string>
