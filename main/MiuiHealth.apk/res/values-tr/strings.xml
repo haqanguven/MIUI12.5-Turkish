@@ -1592,7 +1592,7 @@ bulunamadı"</string>
     <string name="tb_home_exercise_card_speed_of_progress">Spor. %1$s. Tamamlandı: %2$s. Hedef: %3$s. İlerleme: %4$s</string>
     <string name="tb_home_heart_rate_card">Kalp atış hızı. Dakikada %1$d vuruş. %2$s tarihinde kaydedildi</string>
     <string name="tb_home_heart_rate_card_no_data">Kalp atış hızı. Veri yok</string>
-    <string name="tb_home_sleep_card">Uyku. Bugün %1$s. Yatmaya gittin: %2$s. Uyandın: %3$s. %4$s</string>
+    <string name="tb_home_sleep_card">Bugün uyku: %1$s, %2$s</string>
     <string name="tb_home_sleep_card_no_data">Uyku. Bugün veri yok</string>
     <string name="tb_home_sleep_card_not_open_trace">Uyku. Uyku döngüsü analizi kapalı</string>
     <string name="tb_home_tip_open_data_sync">Diğer cihazlardan erişmek için Xiaomi sağlığa öğelerini Xiaomi bulut ile eşitleyin. Başlamak için iki kez dokunun</string>

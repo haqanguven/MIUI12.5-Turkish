@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="settings_clear_data_confirmation">
+        <item quantity="other">"Parolaları şimdi silerseniz bir sonraki oturum açışınızda bunları manuel olarak girmeniz gerekecektir
+%1$s seçilen uygulamanın şifreleri silinsin mi?"</item>
+        <item quantity="one">"Parolaları şimdi silerseniz bir sonraki oturum açışınızda bunları manuel olarak girmeniz gerekecektir
+%1$s seçilen uygulamanın şifresi silinsin mi?"</item>
+    </plurals>
+</resources>

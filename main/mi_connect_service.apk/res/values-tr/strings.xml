@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="a2dp_connect_success">Hoparlörde çalındı</string>
+    <string name="a2dp_disconnect_success">Bu cihazda ses çalınıyor</string>
     <string name="a2dp_not_pair">Cihaz bağlı değil</string>
     <string name="a2dp_not_pair_desc">"Lütfen konuşmacıya "Little Ai" deyin: Bluetooth'u açın
 Hoparlör ürün yazılımının en son sürüme yükseltilmesi gerekiyor"</string>
-    <string name="a2dp_not_pair_desc_same_wifi">Lütfen telefonunuzu ve cihazınızı aynı wifi ağına bağlayın ve tekrar deneyin</string>
+    <string name="a2dp_not_pair_desc_same_wifi">"Lütfen telefonunuzu ve cihazınızı
+aynı wifi ağına bağlayın ve tekrar deneyin"</string>
     <string name="abc_action_bar_home_description">Ana ekrana git</string>
     <string name="abc_action_bar_up_description">Yukarı git</string>
     <string name="abc_action_menu_overflow_description">Diğer seçenekler</string>

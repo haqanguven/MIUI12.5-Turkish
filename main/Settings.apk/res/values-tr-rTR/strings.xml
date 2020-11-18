@@ -383,7 +383,7 @@ Yöneticiniz ağ etkinliği ve cihazınızın konum bilgileri de dahil olmak üz
     <string name="allow_lights_title">Işık bildirimi</string>
     <string name="allow_mock_location">Sahte konumlara izin ver</string>
     <string name="allow_mock_location_summary">Sahte konumlara izin ver</string>
-    <string name="allow_oaid_used">Cihaz kimliğini kullanmaya izin ver</string>
+    <string name="allow_oaid_used">Cihaz kimliğini kullanma izni</string>
     <string name="allow_oaid_used_desc">Açıkça izin vermedikçe uygulamalar herhangi bir kimliğe erişemez. Bu özellik açıkken bazı kişisel öneri özellikleri düzgün çalışmayabilir</string>
     <string name="allow_overlay_description">Bu uygulamaya kullandığınız diğer uygulamaların üzerinde gösterme izin verir. Bu durum diğer uygulamaların kullanımını etkileyebilir veya görünüşünü ya da davranışını değiştirebilir</string>
     <string name="allow_sound_title">Seslere izin ver</string>
@@ -5432,7 +5432,7 @@ UT arayüzü: %5$s"</string>
     <string name="restore_oaid_dialog_content">Sanal kimlik şu anda birden çok uygulama tarafından kullanılıyor. Kimliğini sıfırlarsanız bazı uygulama kullanıcı verilerinin yanlış veya kaybolmasına neden olabilir.Sanal kimliği sıfırlamak istediğinizden emin misiniz?</string>
     <string name="restore_oaid_positive">Sıfırla</string>
     <string name="restore_oaid_positive_step">Sıfırla (%1$d)</string>
-    <string name="restore_oaid_title">Cihaz kimliğimi sıfırlamak</string>
+    <string name="restore_oaid_title">Cihaz kimliğimi sıfırla</string>
     <string name="restr_pin_enter_admin_pin">"Yönetici Pin'ini girin"</string>
     <string name="restrict_background_blacklisted">Arka plan verisi kapalı</string>
     <string name="restrict_bg_app">Kısıtla</string>

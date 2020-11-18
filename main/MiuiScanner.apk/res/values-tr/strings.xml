@@ -57,7 +57,6 @@
     <string name="blog">Weibo</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="business_card">İş kartı</string>
-    <string name="business_card_result_title">İş kartı</string>
     <string name="business_card_title">İş kartını karenin içerisine hizalayın</string>
     <string name="business_card_with_qr_code">İş kartını veya QR kodunu karenin içine yerleştirin</string>
     <string name="business_copy">Kopyala</string>
@@ -221,6 +220,7 @@
     <string name="history">Geçmiş</string>
     <string name="history_empty">Burada henüz öğe yok</string>
     <string name="hold_down">Kelimeyi almak için basılı tutun</string>
+    <string name="identify_the_results">Sonuçları tanımla</string>
     <string name="if_open_result">Uygulamaya döndüğünüzde tarama sonucunu göster</string>
     <string name="if_to_open_milogo_scanning">Xiaomi logosunu tanıma</string>
     <string name="image_file_name_format">"'scanner'_yyyyMMdd_HHmmss"</string>
@@ -385,6 +385,7 @@ Cihazı yerleştirmek için lütfen resimdeki açıya bakın ve tekrar deneyin"<
     <string name="picture_error">Resim hasarlı</string>
     <string name="picture_gif_tag">Gif</string>
     <string name="picture_go_setting">Ayarlara git</string>
+    <string name="picture_is_being_saved">Resim kaydediliyor</string>
     <string name="picture_jurisdiction">Hafıza kartını okuma izni reddedildi</string>
     <string name="picture_know">Anladım</string>
     <string name="picture_long_chart">Uzun resim</string>

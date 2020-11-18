@@ -458,9 +458,9 @@
     <string name="create_group_dialog_title">Yeni grup oluştur</string>
     <string name="create_qrcode_fail_message">QR kodu oluşturulamıyor</string>
     <string name="cta_content_seg1">"Önemli uyarı:
-Kabul ediyorumaa dokunarak "<a href;="'https://static.account.xiaomi.com/html/agreement/account/en.html'"><font color="#33aaff">Mi hesabı hizmet sözleşmesi, <a href;="'https://cnbj1-fds.api.xiaomi.com/mimobile-static/mi-carrier-services-useragreement.html'"><font color="#33aaff">Mi dolaşım kullanıcı sözleşmesi ve <a href;="'http://www.miui.com/res/doc/privacy/en.html'"><font color="#33aaff">Gizlilik politikasını kabul etmiş olursunuz. Kabul etmeden önce  </font></a>bu belgeleri dikkatlice okuyun ve</font></a></font></a>ilgili tüm hüküm ve koşulları tam olarak anlayın"</string>
+Kabul ediyoruma dokunarak "<a href;="'https://static.account.xiaomi.com/html/agreement/account/en.html'"><font color="#33aaff">Mi hesabı hizmet sözleşmesi, <a href;="'https://cnbj1-fds.api.xiaomi.com/mimobile-static/mi-carrier-services-useragreement.html'"><font color="#33aaff">Mi dolaşım kullanıcı sözleşmesi ve <a href;="'http://www.miui.com/res/doc/privacy/en.html'"><font color="#33aaff">Gizlilik politikasını kabul etmiş olursunuz. Kabul etmeden önce  </font></a>bu belgeleri dikkatlice okuyun ve</font></a></font></a>ilgili tüm hüküm ve koşulları tam olarak anlayın"</string>
     <string name="cta_content_seg2">"
-Mi dılaşımın normal şekilde çalışması için internete bağlanması ve konum bilgilerinize erişmesi gerekir. Ek olarak Mi dılaşım kişisel bilgilerinizi toplayabilir, kullanabilir ve paylaşabilir. Kişisel bilgileriniz yerel yasa ve yönetmeliklere uygun olarak korunacaktır"</string>
+Mi dolaşımın normal şekilde çalışması için internete bağlanması ve konum bilgilerinize erişmesi gerekir. Ek olarak Mi dolaşım kişisel bilgilerinizi toplayabilir, kullanabilir ve paylaşabilir. Kişisel bilgileriniz yerel yasa ve yönetmeliklere uygun olarak korunacaktır"</string>
     <string name="cta_dialog_cancel">Çıkış</string>
     <string name="cta_dialog_ok">Kabul et</string>
     <string name="cta_dialog_title">Şartlar ve koşullar</string>

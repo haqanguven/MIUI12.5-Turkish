@@ -49,6 +49,10 @@
         <item quantity="other">%1$d dakika içinde başlıyor</item>
         <item quantity="one">%1$d dakika içinde başlıyor</item>
     </plurals>
+    <plurals name="app_course_to_start">
+        <item quantity="other">%1$d dakika İçinde başlıyor</item>
+        <item quantity="one">%1$d dakika İçinde başlıyor</item>
+    </plurals>
     <plurals name="app_express_content_title_1">
         <item quantity="other">%d paket yolda</item>
         <item quantity="one">%d paket yolda</item>

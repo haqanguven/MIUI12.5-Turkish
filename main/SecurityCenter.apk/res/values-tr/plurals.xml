@@ -81,8 +81,8 @@
         <item quantity="one">%d yıl önce kullanıldı</item>
     </plurals>
     <plurals name="applock_app_suggest_lock">
-        <item quantity="other">%1$s uygulamalarla uygulama kilidini kullanabilirsiniz</item>
-        <item quantity="one">%1$s uygulamalarla uygulama kilidini kullanabilirsiniz</item>
+        <item quantity="other">"+ %1$s uygulamaya, uygulama kilidi ayarlayabilirsiniz"</item>
+        <item quantity="one">"+ %1$s uygulamaya, uygulama kilidi ayarlayabilirsiniz"</item>
     </plurals>
     <plurals name="applock_guide_app_count_tips">
         <item quantity="other">En az %s uygulamayı koruyabilirsiniz</item>
@@ -270,6 +270,18 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
         <item quantity="other">%d uygulamanın veri kullanımı takip edilmiyor</item>
         <item quantity="one">%d uygulamanın veri kullanımı takip edilmiyor</item>
     </plurals>
+    <plurals name="image_protect_del_tips">
+        <item quantity="other">%d fotoğraf kalıcı olarak silinsin mi?</item>
+        <item quantity="one">%d fotoğraf kalıcı olarak silinsin mi?</item>
+    </plurals>
+    <plurals name="image_protect_exit_del_tips">
+        <item quantity="other">Bu sayfadan ayrıldıktan sonra %d fotoğraf kalıcı olarak silinecek. Yinede silinsin mi?</item>
+        <item quantity="one">Bu sayfadan ayrıldıktan sonra %d fotoğraf kalıcı olarak silinecek. Yinede silinsin mi?</item>
+    </plurals>
+    <plurals name="image_protect_try_del_tips">
+        <item quantity="other">%d fotoğrafı sil</item>
+        <item quantity="one">%d fotoğrafı sil</item>
+    </plurals>
     <plurals name="install_game_count_title">
         <item quantity="other">%d oyun eklendi</item>
         <item quantity="one">%d oyun eklendi</item>
@@ -339,8 +351,8 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
         <item quantity="one">%1$s dahil %2$d uygulama pili boşaltıyor</item>
     </plurals>
     <plurals name="notification_checker_installed_apk_text">
-        <item quantity="other">Delete %d installation packages</item>
-        <item quantity="one">Delete %d installation package</item>
+        <item quantity="other">%d yükleme paketini sil</item>
+        <item quantity="one">%d yükleme paketini sil</item>
     </plurals>
     <plurals name="notification_title_cmcc_app_check">
         <item quantity="other">Son kontrolden beri %d gün</item>
@@ -502,6 +514,10 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
         <item quantity="other">Cihazınız %d saniye içinde kapanacak. Şarj cihazını bağlayın</item>
         <item quantity="one">Cihazınız %d saniye içinde kapanacak. Şarj cihazını bağlayın</item>
     </plurals>
+    <plurals name="pp_times">
+        <item quantity="other">%s kez</item>
+        <item quantity="one">%s kez</item>
+    </plurals>
     <plurals name="privacy_apps_disable_header_title">
         <item quantity="other">%d uygulama gizlendi</item>
         <item quantity="one">%d uygulama gizlendi</item>
@@ -517,6 +533,50 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
     <plurals name="privacy_pop_times">
         <item quantity="other">%s kez</item>
         <item quantity="one">%s kez</item>
+    </plurals>
+    <plurals name="privacy_risk_app_count">
+        <item quantity="other">%d apps</item>
+        <item quantity="one">%d app</item>
+    </plurals>
+    <plurals name="privacy_risk_dangerous_permissions_tip">
+        <item quantity="other">%d yüksek riskli izin verildi</item>
+        <item quantity="one">%d yüksek riskli izin verildi</item>
+    </plurals>
+    <plurals name="privacy_risk_install_app_tip">
+        <item quantity="other">%d riskli uygulama bulundu</item>
+        <item quantity="one">%d riskli uygulama bulundu</item>
+    </plurals>
+    <plurals name="privacy_risk_photo_location_tip">
+        <item quantity="other">Konum bilgisinin ifşa edilmesine ilişkin %d risk algılandı</item>
+        <item quantity="one">Konum bilgisinin ifşa edilmesine ilişkin %d risk algılandı</item>
+    </plurals>
+    <plurals name="privacy_risk_result_item_error">
+        <item quantity="other">%d risk algılandı</item>
+        <item quantity="one">%d risk algılandı</item>
+    </plurals>
+    <plurals name="privacy_risk_result_msg">
+        <item quantity="other">%d olası risk bulundu</item>
+        <item quantity="one">%d olası risk bulundu</item>
+    </plurals>
+    <plurals name="privacy_risk_result_photo_sensitive_msg">
+        <item quantity="other">%d fotoğraf özel veya hassas bilgiler içerebilir</item>
+        <item quantity="one">d fotoğraf özel veya hassas bilgiler içerebilir</item>
+    </plurals>
+    <plurals name="privacy_risk_result_protection_tip">
+        <item quantity="other">Gizliliğinizi koruyan %d özellik kapatıldı</item>
+        <item quantity="one">Gizliliğinizi koruyan %d özellik kapatıldı</item>
+    </plurals>
+    <plurals name="privacy_risk_sensitive_permissions_tip">
+        <item quantity="other">%d hassas izin verildi</item>
+        <item quantity="one">%d hassas izin verildi</item>
+    </plurals>
+    <plurals name="privacy_risk_uninstall_btn">
+        <item quantity="other">%d uygulamayı kaldır</item>
+        <item quantity="one">%d uygulamayı kaldır</item>
+    </plurals>
+    <plurals name="privacy_risk_work_encryption_msg">
+        <item quantity="other">%d öğe için ekstra koruma gerekiyor</item>
+        <item quantity="one">%d öğe için ekstra koruma gerekiyor</item>
     </plurals>
     <plurals name="quick_optimize_issue_count">
         <item quantity="other">%d pil sorunu</item>

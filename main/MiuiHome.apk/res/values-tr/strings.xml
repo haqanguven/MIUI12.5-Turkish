@@ -486,7 +486,7 @@
     <string name="preferences_title">Başlatıcı ayarları</string>
     <string name="preferred_app_settings_not_selected">Seçilmedi</string>
     <string name="privacy_thumbnail_blur_summary">Son kullanılan uygulamalarda önizlemeleri bulanıklaştırır</string>
-    <string name="privacy_thumbnail_blur_title">Uygulamaların önizleme bulanıklığı</string>
+    <string name="privacy_thumbnail_blur_title">Önizleme bulanıklığı</string>
     <string name="process" />
     <string name="quick_app">Hızlı uygulama</string>
     <string name="recent_apps">Son kullanılanlar</string>

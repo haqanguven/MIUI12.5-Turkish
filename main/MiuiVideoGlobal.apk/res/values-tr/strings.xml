@@ -17,18 +17,6 @@
     <string name="abc_activitychooserview_choose_application">Bir uygulama seçin</string>
     <string name="abc_capital_off">Kapat</string>
     <string name="abc_capital_on">Aç</string>
-    <string name="abc_font_family_body_1_material">sans-serif</string>
-    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
-    <string name="abc_font_family_button_material">sans-serif-medium</string>
-    <string name="abc_font_family_caption_material">sans-serif</string>
-    <string name="abc_font_family_display_1_material">sans-serif</string>
-    <string name="abc_font_family_display_2_material">sans-serif</string>
-    <string name="abc_font_family_display_3_material">sans-serif</string>
-    <string name="abc_font_family_display_4_material">sans-serif-light</string>
-    <string name="abc_font_family_headline_material">sans-serif</string>
-    <string name="abc_font_family_menu_material">sans-serif</string>
-    <string name="abc_font_family_subhead_material">sans-serif</string>
-    <string name="abc_font_family_title_material">sans-serif-medium</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Kontrol+</string>
     <string name="abc_menu_delete_shortcut_label">Sil</string>
@@ -374,6 +362,7 @@ Bu kodu gönderin"</string>
     <string name="feedback_tag_title">Kategori</string>
     <string name="feedback_text_empty_toast">Önce geri bildiriminizi girin</string>
     <string name="file_cant_rename">%1$s adında bir dosya zaten var. Lütfen yeniden adlandırın</string>
+    <string name="file_space_not_enough_tip">Yeterli depolama alanı yok. En az %d MB yer açın ve uygulamayı tekrar başlatın</string>
     <string name="find_psw">Şifremi unuttum</string>
     <string name="finish">Bitti</string>
     <string name="firebase_database_url">https://global-video-5cd70.firebaseio.com</string>
@@ -405,6 +394,7 @@ Bu kodu gönderin"</string>
     <string name="galleryplus_already_cloud_member">Oynamak için VIP üyeliğini kullan</string>
     <string name="galleryplus_check_network">Ayarlar</string>
     <string name="galleryplus_chose_play_speed">%1$.1fX hızında oynatılıyor</string>
+    <string name="galleryplus_chose_play_speed_2">%1$.2fX hızında oynatılıyor</string>
     <string name="galleryplus_chose_play_speed_failure">Oynatma hızı ayarlanamadı</string>
     <string name="galleryplus_click_to_higher_definition">HD önizlemeyi açmak için çift dokunun</string>
     <string name="galleryplus_copyright_unsported_audio">Telif hakkı kısıtlamalarından dolayı ses parça videosu oynatılamıyor</string>
@@ -462,6 +452,7 @@ Bu kodu gönderin"</string>
     <string name="galleryplus_subtitle_edit_edit">Altyazıları düzenle</string>
     <string name="galleryplus_subtitle_edit_hide">Altyazıları gizle</string>
     <string name="galleryplus_subtitle_edit_literal_edit">Metni düzenle</string>
+    <string name="galleryplus_subtitle_edit_reminder">Girdiğiniz metin çok uzun</string>
     <string name="galleryplus_subtitle_recognized_empty_subtitles">Kayıt yaparken konuşma tanınamadı</string>
     <string name="galleryplus_v_agree">Onayla</string>
     <string name="galleryplus_v_cancel">İptal et</string>
@@ -1271,6 +1262,8 @@ Hiçbir şey göstermiyor"</string>
     <string name="toast_request_too_frequently">Çok hızlı değil</string>
     <string name="toast_share_failed">Paylaşılamadı. Bir veya iki dakika bekleyin ve tekrar deneyin</string>
     <string name="today">Bugün</string>
+    <string name="tool_bar_notification_setting_sub_title">Araç çubuğunu bildirim gölgesinde göster</string>
+    <string name="tool_bar_notification_setting_title">Bildirim gölgesi araç çubuğu</string>
     <string name="top_bar_game_desc">Burada birçok yeni oyun keşfedin</string>
     <string name="top_bar_game_title">Oyun kanalı</string>
     <string name="tuesday">Salı</string>
