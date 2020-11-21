@@ -365,14 +365,14 @@
     <string name="app_debug_settings_preview_title">Önizleme</string>
     <string name="app_debug_settings_staging2_title">Sahneleme2</string>
     <string name="app_debug_settings_staging3_title">Sahneleme3</string>
-    <string name="app_debug_settings_staging4qa_title">Sahneleme4qa</string>
+    <string name="app_debug_settings_staging4qa_title">Sahneleme4</string>
     <string name="app_debug_settings_staging_title">Sahneleme</string>
-    <string name="app_debug_settings_toast_switch_error">Env anahtarını değiştir</string>
+    <string name="app_debug_settings_toast_switch_error">En anahtarını değiştir</string>
     <string name="app_debug_settings_vaid">VAID</string>
-    <string name="app_debug_settings_vaid_summary">(VAID kopyamak için tıklayın)</string>
+    <string name="app_debug_settings_vaid_summary">(VAID kopyalamak için tıklayın)</string>
     <string name="app_disclaimer_content">Bu özellik %1$s tarafından sağlandı. %1$s sunduğu hizmetlerle ilgili tüm sorumluluğu üstlenecektir. Herhangi bir sorunuz varsa %1$s ile iletişime geçebilirsiniz</string>
     <string name="app_disclaimer_title">Uyarı</string>
-    <string name="app_display_linkage_default">Herkes için yenilik</string>
+    <string name="app_display_linkage_default">MIUITR</string>
     <string name="app_display_setting_edit_hint">Metin girin</string>
     <string name="app_display_setting_edit_instruction">Başlık uygulama kasasının üstünde görüntülenir</string>
     <string name="app_display_setting_edit_toast">Bu başlık çok uzun</string>
@@ -2392,7 +2392,7 @@ Rezervasyon yok, unuttunuz ya da telefon numarasını devre dışı bıraktıysa
     <string name="template_network_error_try_later">Ağ hatası. Lütfen daha sonra tekrar deneyin</string>
     <string name="template_retry_button">Tekrar deneyin</string>
     <string name="template_update_error">Şablon güncellemesi başarısız oldu</string>
-    <string name="the_anniversary_of_lifting_martial_law">Sıkıyönetim Kanunun Yıldönümü</string>
+    <string name="the_anniversary_of_lifting_martial_law">Sıkı yönetim kanunun yıldönümü</string>
     <string name="the_anti_aggression_day">Saldırganlık karşıtı günü</string>
     <string name="the_arbor_day">Ağaç dikme günü</string>
     <string name="the_armed_forces_day">Silahlı kuvvetler günü</string>
@@ -2403,7 +2403,7 @@ Rezervasyon yok, unuttunuz ya da telefon numarasını devre dışı bıraktıysa
     <string name="the_double_ninth_festival">Çift dokuzuncu festivali</string>
     <string name="the_dragon_boat_festival">Ejderha botu festivali</string>
     <string name="the_easter_day">Paskalya</string>
-    <string name="the_eve_of_the_spring_festival">Çin yeni yılı Arifesi</string>
+    <string name="the_eve_of_the_spring_festival">Çin yeni yılı arifesi</string>
     <string name="the_fifth_day">Çin yeni yılının Beşinci günü</string>
     <string name="the_fools_day">1 nisan şaka günü</string>
     <string name="the_forth_day">Çin yeni yılının dördüncü günü</string>
