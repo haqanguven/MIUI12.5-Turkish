@@ -354,6 +354,14 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
         <item quantity="other">%d yükleme paketini sil</item>
         <item quantity="one">%d yükleme paketini sil</item>
     </plurals>
+    <plurals name="notification_power_consume_issue">
+        <item quantity="other">%d pil kullanım sorunu</item>
+        <item quantity="one">%d pil kullanım sorunu</item>
+    </plurals>
+    <plurals name="notification_power_consume_suggest">
+        <item quantity="other">Pilden tasarruf etmek için %d öğeyi optimize edin</item>
+        <item quantity="one">Pilden tasarruf etmek için %d öğeyi optimize edin</item>
+    </plurals>
     <plurals name="notification_title_cmcc_app_check">
         <item quantity="other">Son kontrolden beri %d gün</item>
         <item quantity="one">Son kontrolden beri %d gün</item>
@@ -466,9 +474,29 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
         <item quantity="other">%1$d kişi tarafından indirildi</item>
         <item quantity="one">%1$d kişi tarafından indirildi</item>
     </plurals>
+    <plurals name="power_center_battery_charge_number">
+        <item quantity="other">kez</item>
+        <item quantity="one">kez</item>
+    </plurals>
+    <plurals name="power_center_battery_consume_prolblem">
+        <item quantity="other">%d pil kullanım sorunu</item>
+        <item quantity="one">%d pil kullanım sorunu</item>
+    </plurals>
     <plurals name="power_center_battery_day">
         <item quantity="other">"%d gün "</item>
         <item quantity="one">"%d gün "</item>
+    </plurals>
+    <plurals name="power_center_battery_duration_hour_time_format">
+        <item quantity="other">" saat"</item>
+        <item quantity="one">" saat"</item>
+    </plurals>
+    <plurals name="power_center_battery_duration_min_time_format">
+        <item quantity="other">" dakika"</item>
+        <item quantity="one">" dakika"</item>
+    </plurals>
+    <plurals name="power_center_battery_health_summary">
+        <item quantity="other">Doğru istatistikler almak için cihazınızı en az %2$d kez tam olarak şarj edin</item>
+        <item quantity="one">Doğru istatistikler almak için cihazınızı en az %2$d kez tam olarak şarj edin</item>
     </plurals>
     <plurals name="power_center_battery_hour">
         <item quantity="other">"%d saat "</item>
@@ -477,6 +505,26 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
     <plurals name="power_center_battery_minute">
         <item quantity="other">"%d dakika "</item>
         <item quantity="one">"%d dakika "</item>
+    </plurals>
+    <plurals name="power_center_battery_problem">
+        <item quantity="other">%d pil kullanım sorununu düzelt</item>
+        <item quantity="one">%d pil kullanım sorununu düzelt</item>
+    </plurals>
+    <plurals name="power_center_battery_problem_result">
+        <item quantity="other">%d pil kullanım sorununu çözebilirsiniz</item>
+        <item quantity="one">%d pil kullanım sorununu çözebilirsiniz</item>
+    </plurals>
+    <plurals name="power_center_battery_save_suggest">
+        <item quantity="other">" %d öğe optimize edilebilir"</item>
+        <item quantity="one">" %d öğe optimize edilebilir"</item>
+    </plurals>
+    <plurals name="power_center_battery_suggest">
+        <item quantity="other">Pilden tasarruf etmek için %d öğeyi optimize edin</item>
+        <item quantity="one">Pilden tasarruf etmek için %d öğeyi optimize edin</item>
+    </plurals>
+    <plurals name="power_center_battery_suggest_result">
+        <item quantity="other">Pilden tasarruf etmek için %d öğeyi optimize edebilirsiniz</item>
+        <item quantity="one">Pilden tasarruf etmek için %d öğeyi optimize edebilirsiniz</item>
     </plurals>
     <plurals name="power_center_battery_temperature">
         <item quantity="other">%d ℃</item>
@@ -514,6 +562,14 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
         <item quantity="other">Cihazınız %d saniye içinde kapanacak. Şarj cihazını bağlayın</item>
         <item quantity="one">Cihazınız %d saniye içinde kapanacak. Şarj cihazını bağlayın</item>
     </plurals>
+    <plurals name="power_optimize_app_autostart_summary">
+        <item quantity="other">%d uygulama sık sık otomatik olarak başlıyor</item>
+        <item quantity="one">%d uygulama sık sık otomatik olarak başlıyor</item>
+    </plurals>
+    <plurals name="power_optimize_close_app_summary">
+        <item quantity="other">%d uygulama pili tüketiyor</item>
+        <item quantity="one">%d uygulama pili tüketiyor</item>
+    </plurals>
     <plurals name="pp_times">
         <item quantity="other">%s kez</item>
         <item quantity="one">%s kez</item>
@@ -535,8 +591,8 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
         <item quantity="one">%s kez</item>
     </plurals>
     <plurals name="privacy_risk_app_count">
-        <item quantity="other">%d apps</item>
-        <item quantity="one">%d app</item>
+        <item quantity="other">%d uygulama</item>
+        <item quantity="one">%d uygulama</item>
     </plurals>
     <plurals name="privacy_risk_dangerous_permissions_tip">
         <item quantity="other">%d yüksek riskli izin verildi</item>

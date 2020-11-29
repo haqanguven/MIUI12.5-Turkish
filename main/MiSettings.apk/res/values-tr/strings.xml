@@ -320,6 +320,7 @@
     <string name="preference_copied">%1$s panoya kopyalandı</string>
     <string name="preview">Önizleme</string>
     <string name="primary_color_region">Original</string>
+    <string name="primary_color_region_chinese_only">Doğa</string>
     <string name="primary_color_region_summary">Renk kalibrasyonu ile renk kontrasını otomatik olarak tanımlayın</string>
     <string name="privacy_policy">Gizlilik politikası</string>
     <string name="reset_edit">Değişiklikleri yoksay</string>
@@ -466,6 +467,7 @@
     <string name="unlock_times_per_hour">"Her saat kilit açma:  "</string>
     <string name="usage_agree">Kabul et</string>
     <string name="usage_app_get_it">Anladım</string>
+    <string name="usage_app_holiday_limit">İzin günleri</string>
     <string name="usage_app_limit_alter_summary">Görüşüne göre bu süre limiti bu uygulamayı bugün kullandığınız süreden daha kısa. Limit yine de ayarlansın mı?</string>
     <string name="usage_app_limit_alter_title">Ekran süresi limitini kontrol et</string>
     <string name="usage_app_limit_prelong">Zamanı uzat</string>
@@ -551,11 +553,16 @@ Temel hizmetler sağlamak için internete bağlanmanız ve gerekli kişisel bilg
     <string name="usage_new_home_unused">Kullanmadı</string>
     <string name="usage_new_home_update">Değiştir</string>
     <string name="usage_new_home_usage_detail">Kullanım ayrıntıları</string>
+    <string name="usage_new_home_week_average_count">Ortalama %s</string>
     <string name="usage_new_home_week_category_title">Uygulama kategorileri</string>
     <string name="usage_new_home_week_compare_text1">%.2f önceki haftadan fazla</string>
+    <string name="usage_new_home_week_compare_text1_new">(Geçen haftadan %%%s fazla)</string>
     <string name="usage_new_home_week_compare_text2">%.2f önceki haftadan az</string>
+    <string name="usage_new_home_week_compare_text2_new">(Geçen haftadan %%%s daha az)</string>
     <string name="usage_new_home_week_equals_text">Önceki hafta ile aynı</string>
     <string name="usage_new_home_week_title">Hafta</string>
+    <string name="usage_new_home_week_unlock_compare_decrease">(%.2f geçen haftadan daha az)</string>
+    <string name="usage_new_home_week_unlock_compare_increase">(%.2f geçen haftadan daha fazla)</string>
     <string name="usage_new_home_week_unlock_equals_text">Önceki hafta ile aynı</string>
     <string name="usage_new_home_week_usage_title">Bireysel uygulamalar</string>
     <string name="usage_new_home_which_week">Hafta: %d</string>
@@ -625,8 +632,10 @@ Bu uygulama normal çalışabilmek için internete bağlanmaya ve aşağıdaki i
     <string name="usage_state_focus_weak_summary">Telefonunuzu uzaklaştırın</string>
     <string name="usage_state_friday">Cuma</string>
     <string name="usage_state_go_more">Daha fazla uygulama</string>
+    <string name="usage_state_holiday_day_hour_minute">İzin günleri: %1$s %2$s</string>
+    <string name="usage_state_holiday_time">İzin günleri: %s</string>
     <string name="usage_state_hour_minute">%1$d saat %2$d dakika</string>
-    <string name="usage_state_less_one_minute">1 dakikadan az</string>
+    <string name="usage_state_less_one_minute">&lt; 1 dakikadan az</string>
     <string name="usage_state_monday">Pazartesi</string>
     <string name="usage_state_mourth_day">%s üzerinden ekran süresi</string>
     <string name="usage_state_noti_mourth_day">%s ile ilgili bildirim</string>
@@ -675,8 +684,10 @@ Bu uygulama normal çalışabilmek için internete bağlanmaya ve aşağıdaki i
     <string name="usage_stats_experience_text">Denemek için dokunun (1 dakika)</string>
     <string name="usage_stats_limit_time_accuracy_title">Kalan sürenin ekran doğruluğu</string>
     <string name="usage_stats_limit_time_high_accuracy_summary">Kalan kullanılabilir süre dakikaya kadar doğrudur ve güç tüketimi yüksektir</string>
+    <string name="usage_stats_limit_time_high_accuracy_summary_new">Dakikaya kadar doğru (Daha fazla güç tüketir)</string>
     <string name="usage_stats_limit_time_high_accuracy_title">Yüksek hassasiyet</string>
     <string name="usage_stats_limit_time_low_accuracy_summary">Uygun sürenin sadece 2 saat içinde dakikaya doğrudur ve düşük güç tüketimi mevcuttur</string>
+    <string name="usage_stats_limit_time_low_accuracy_summary_new">Kalan %d saat içinde dakikaya kadar doğru (Güç tasarrufu sağlar)</string>
     <string name="usage_stats_limit_time_low_accuracy_title">Düşük hassasiyet</string>
     <string name="usage_stats_limit_time_warn">Kalan süre hatırlatıcısı</string>
     <string name="usage_stats_limit_time_warn_summary">Açıldıktan sonra kalan kullanılabilir süre bildirim çubuğunda görüntülenir</string>

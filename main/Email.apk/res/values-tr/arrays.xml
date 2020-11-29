@@ -229,11 +229,6 @@
         <item>@color/combined_view_account_color_8</item>
         <item>@color/combined_view_account_color_9</item>
     </array>
-    <string-array name="compose_modes">
-        <item>Yanıtla</item>
-        <item>Tümünü yanıtla</item>
-        <item>İlet</item>
-    </string-array>
     <string-array name="default_quick_responses">
         <item>@string/quick_1</item>
         <item>@string/quick_2</item>
@@ -295,30 +290,12 @@
         <item>large</item>
         <item>huge</item>
     </string-array>
-    <string-array name="invoice_amount">
-        <item>Fatura tutarı</item>
-        <item>Fatura tutarı</item>
-        <item>Miktar</item>
-    </string-array>
-    <string-array name="invoice_buyer">
-        <item>Ödeyen</item>
-        <item>Alıcı</item>
-        <item>Fatura</item>
-        <item>Ara</item>
-    </string-array>
     <string-array name="invoice_card_keyword">
         <item>Fatura</item>
     </string-array>
     <string-array name="invoice_card_pdf_keyword">
         <item>Fatura</item>
         <item>invoice</item>
-    </string-array>
-    <string-array name="invoice_date">
-        <item>Fatura tarihi</item>
-    </string-array>
-    <string-array name="invoice_seller">
-        <item>Alıcı</item>
-        <item>Satıcı</item>
     </string-array>
     <string-array name="kids_arrays">
         <item>@string/under_sixteen</item>

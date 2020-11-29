@@ -264,6 +264,14 @@
     <string name="base_btn_download">İndir</string>
     <string name="begin_share">Bebek albümü %s oluşturuldu. Albümü şimdi paylaşabilirsiniz</string>
     <string name="begin_share_toast">Paylaşmadan önce ayrı bir çocuk albümü oluşturulsun mu?</string>
+    <string name="blackshark">Black Shark</string>
+    <string name="blackshark_1">Black Shark</string>
+    <string name="blackshark_2">Black Shark 2</string>
+    <string name="blackshark_2_pro">Black Shark 2 Pro</string>
+    <string name="blackshark_3">Black Shark 3</string>
+    <string name="blackshark_3_pro">Black Shark 3 Pro</string>
+    <string name="blackshark_helo">Black Shark Helo</string>
+    <string name="blackshark_phone">Black Shark</string>
     <string name="blank_app_name" />
     <string name="blur_refocus_enter" />
     <string name="browse_category_title">Gözat</string>
@@ -1514,6 +1522,8 @@ yüzünüzle fotoğrafları seçin"</string>
     <string name="mark_operation_succeeded">Eklendi</string>
     <string name="mark_people_ignore_info_message">Kişilerin fotoğraflarını gruplara eklemek için basılı tutun</string>
     <string name="megabyteShort">MB</string>
+    <string name="meizu">Meizu</string>
+    <string name="meizu_phone">Meizu</string>
     <string name="member_menu_vipname_free">Ücretsiz</string>
     <string name="member_menu_vipname_mega">Mega</string>
     <string name="member_menu_vipname_premium">Premium</string>
@@ -1720,6 +1730,8 @@ yüzünüzle fotoğrafları seçin"</string>
     <string name="onekey_none">Orijinal</string>
     <string name="onekey_portrait">Portre</string>
     <string name="onekey_scene">Manzara</string>
+    <string name="oneplus">OnePlus</string>
+    <string name="oneplus_phone">OnePlus</string>
     <string name="online_video_error_unknown">Çevrimiçi oynatma hatası oluştu. Bunun yerine öğeyi indirdi</string>
     <string name="online_video_error_unsupported_type">Çevrimiçi oynatıcı bu biçimi desteklemiyor. Bunun yerine öğeyi indirdi</string>
     <string name="online_video_normal_transcoding">Bu video şu anda dönüştürülüyor. Bir iki dakika bekleyin ve tekrar deneyin</string>
@@ -2011,12 +2023,16 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="recovery_not_synced_reason">Öğeler geri yüklenemedi</string>
     <string name="recovery_not_synced_solution">Öğeleri geri yüklemek için ağa bağlanın</string>
     <string name="recovery_rename">Yeniden adlandır</string>
+    <string name="redmi_10x">Redmi 10X</string>
+    <string name="redmi_10x_4g">Redmi 10X 4G</string>
+    <string name="redmi_10x_pro">Redmi 10X Pro</string>
     <string name="redmi_6">Redmi 6</string>
     <string name="redmi_6_pro">Redmi 6 Pro</string>
     <string name="redmi_6a">Redmi 6A</string>
     <string name="redmi_7a">Redmi 7A</string>
     <string name="redmi_8">Redmi 8</string>
     <string name="redmi_8a">Redmi 8A</string>
+    <string name="redmi_9">Redmi 9</string>
     <string name="redmi_k20">Redmi K20</string>
     <string name="redmi_k20_pro">Redmi K20 Pro</string>
     <string name="redmi_k30">Redmi K30</string>
@@ -2027,6 +2043,10 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="redmi_note_7_pro">Redmi Note 7 Pro</string>
     <string name="redmi_note_8">Redmi Note 8</string>
     <string name="redmi_note_8_pro">Redmi Note 8 Pro</string>
+    <string name="redmi_note_9">Redmi Note 9</string>
+    <string name="redmi_note_9_pro">Redmi Note 9 Pro</string>
+    <string name="redmi_note_9_pro_max">Redmi Note 9 Pro Max</string>
+    <string name="redmi_note_9s">Redmi Note 9S</string>
     <string name="refocus_desc">Tekrar odaklan</string>
     <string name="relation_text_empty_alert">İlişki bilgileri ekleyin</string>
     <string name="relation_text_family">Aile üyesi</string>
@@ -2197,6 +2217,7 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="select_item_face">Bu %s adlı kişi mi?</string>
     <string name="select_origin_tip">Orijinal dosya (%s)</string>
     <string name="send_file_beautify_failed">Paylaşılamadı</string>
+    <string name="send_files_by">Dosyaları paylaş</string>
     <string name="send_files_to">Öğeleri paylaş</string>
     <string name="send_heif_summary">Uyumluluk için göndermeden önce görüntüleri dönüştürün</string>
     <string name="send_heif_title">Göndermeden önce HEIF dosyasını JPG dosyasına dönüştürün</string>
@@ -2506,6 +2527,7 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="unrecognized_model">Bilinmeyen aygıt</string>
     <string name="unsupport_raw">%s Raw görüntülerle çalışmıyor</string>
     <string name="unsupport_raw_and_video">%s videolar ve Raw resimlerle çalışmıyor</string>
+    <string name="unsupport_type">Bu dosya türü desteklenmiyor</string>
     <string name="unsupport_video">%s videolarla çalışmıyor</string>
     <string name="unsupported_media_downloading_tip_common">"Orijinal görüntüleri bu formatta görüntülemek Android'in bu sürümünde desteklenmemektedir. Yine de indirilsin mi?"</string>
     <string name="unsupported_media_downloading_tip_format">"Orijinal %s görüntünün izlenmesi Android'in bu sürümünde desteklenmiyor. Yine de indirilsin mi?"</string>
@@ -2813,6 +2835,8 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="who_is_this">Kim o?</string>
     <string name="xiaomi">Mi</string>
     <string name="xiaomi_10">Mi 10</string>
+    <string name="xiaomi_10_lite">Mi 10 Lite</string>
+    <string name="xiaomi_10_lite_5g">Mi 10 Lite 5G</string>
     <string name="xiaomi_10_pro">Mi 10 Pro</string>
     <string name="xiaomi_6">Mi 6</string>
     <string name="xiaomi_6x">Mi 6X</string>
@@ -2824,7 +2848,7 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="xiaomi_9">Mi 9</string>
     <string name="xiaomi_9_pro">Mi 9 Pro 5G</string>
     <string name="xiaomi_9_se">Mi 9 SE</string>
-    <string name="xiaomi_account_not_exists_toast">Mi hesabı mevcut değil</string>
+    <string name="xiaomi_account_not_exists_toast">"Mi Account doesn't exist"</string>
     <string name="xiaomi_cc_9">Mi CC9</string>
     <string name="xiaomi_cc_9_custom">Mi CC9 Meitu Edition</string>
     <string name="xiaomi_cc_9_pro">Mi CC9 Pro</string>
@@ -2835,9 +2859,11 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="xiaomi_mix_3">Mi MIX 3</string>
     <string name="xiaomi_mix_3_5g">Mi MIX 3 5G</string>
     <string name="xiaomi_mix_alpha">Mi MIX Alpha</string>
+    <string name="xiaomi_note_10_lite">Mi Note 10 Lite</string>
     <string name="xiaomi_note_3">Mi Note 3</string>
     <string name="xiaomi_phone">Xiaomi</string>
     <string name="xiaomi_poco_f1">POCO F1</string>
+    <string name="xiaomi_poco_m2_pro">POCO M2 Pro</string>
     <string name="yes">Evet</string>
     <string name="yesterday">Dün</string>
     <string name="you_are">Senin bebeğin</string>

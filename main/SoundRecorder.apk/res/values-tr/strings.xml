@@ -125,6 +125,7 @@ Metne kaydetme şu anda yalnızca mandarin aktarımını desteklemektedir. Aktar
     <string name="low_battery_error_title">Düşük pil</string>
     <string name="lyric_item_point_count">%1$d - %2$d</string>
     <string name="mark_point_list_title">İşaretler</string>
+    <string name="marketSdkVersion">3.2.6</string>
     <string name="menu">Menü</string>
     <string name="message_file_size_error">Kayıt %s tarafından desteklenen maksimum kayıt uzunluğuna ulaştı</string>
     <string name="mi_account_msg">Dosyalarınızı bulutta yazıya dökmek için Mi hesabınızda oturum açın ve ilk 60 dakikayı ücretsiz olarak edinin</string>
@@ -368,6 +369,8 @@ Metin ses servisinden daha iyi yararlanmak için aşağıdakileri de bilmeniz ge
     <string name="trash_box">Son silinen öğeler</string>
     <string name="trash_box_close_tip">İstemi kapat</string>
     <string name="trash_box_delete_all">Tüm öğeler çöp kutusundan kalıcı olarak silinsin mi?</string>
+    <string name="uninstall_warning_content">Ses kaydedici bir sistem uygulamasıdır. Kaldırdıktan sonra sesli ve sesli aramaları kaydedemez ve yazıya dökemezsiniz</string>
+    <string name="uninstall_warning_title">Ses kaydedici Kaldırılsın mı?</string>
     <string name="usage_description">Sesin kopyalanması ve öğelerin bulut ile senkronize edilmesi</string>
     <string name="user_feedback">Geri bildirim</string>
     <string name="v7_preference_off">Kapalı</string>

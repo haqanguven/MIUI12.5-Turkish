@@ -92,17 +92,9 @@
         <item quantity="other">%s senkronize edilen mesaj sonuçları</item>
         <item quantity="one">%s senkronize edilen mesaj sonuçları</item>
     </plurals>
-    <plurals name="month">
-        <item quantity="other">%d ay</item>
-        <item quantity="one">%d ay</item>
-    </plurals>
     <plurals name="more_atts_remaining">
         <item quantity="other">Kalan %1$d ek parça sayısı</item>
         <item quantity="one">Kalan %1$d ek parça sayısı</item>
-    </plurals>
-    <plurals name="move_conversation">
-        <item quantity="other">%1$d konuşmayı taşı</item>
-        <item quantity="one">Konuşmayı taşı</item>
     </plurals>
     <plurals name="new_incoming_messages_many">
         <item quantity="other">%1$d yeni mesajı göster</item>
@@ -155,10 +147,6 @@
     <plurals name="number_of_week_before">
         <item quantity="other">%1$d hafta önce</item>
         <item quantity="one">%1$d hafta önce</item>
-    </plurals>
-    <plurals name="quick_reply_hint">
-        <item quantity="other">%1$d kişiye yanıt ver</item>
-        <item quantity="one">%1$d kişiye yanıt ver</item>
     </plurals>
     <plurals name="remote_search_result">
         <item quantity="other">Tüm hesaplardan %s sonuç</item>

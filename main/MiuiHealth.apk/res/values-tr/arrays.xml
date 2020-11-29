@@ -4,6 +4,14 @@
         <item>Sağlık</item>
         <item>Spor</item>
     </string-array>
+    <string-array name="MediaControlView_playback_speeds">
+        <item>0.25x</item>
+        <item>0.5x</item>
+        <item>0.75x</item>
+        <item>1.25x</item>
+        <item>1.5x</item>
+        <item>2x</item>
+    </string-array>
     <string-array name="SportTabTitle">
         <item>Koşu</item>
         <item>Yürüme</item>
@@ -263,6 +271,15 @@
         <item>" mt"</item>
         <item>" km"</item>
     </string-array>
+    <integer-array name="media2_widget_speed_multiplied_by_100">
+        <item>25</item>
+        <item>50</item>
+        <item>75</item>
+        <item>100</item>
+        <item>125</item>
+        <item>150</item>
+        <item>200</item>
+    </integer-array>
     <string-array name="months">
         <item>@string/month_january</item>
         <item>@string/month_february</item>
@@ -328,15 +345,15 @@
         <item>10</item>
     </integer-array>
     <string-array name="references">
-        <item>中华人民共和国卫生行业标准 WS/T 476-2015 营养名词术语</item>
-        <item>Ito H, Ohshima A, Ohto N, Ogasawara M, Tsuzuki M, Takao K, Hijii C, Tanaka H, Nishioka K. Relation between body composition and age in healthy Japanese subjects. Eur J Clin Nutr. 55(6):462-70, 2001</item>
-        <item>Lee RD and Nieman DC. Nutritional Assessment(second edition), pp.264</item>
+        <item>Çin Halk Cumhuriyeti sağlık sektörü standardı WS/T476-2015 beslenme terimleri</item>
+        <item>Ito H, Ohshima A, Ohto N, Ogasawara M, Tsuzuki M, Takao K, Hijii C, Tanaka H, Nishioka K.Sağlıklı Japon deneklerinde vücut kompozisyonu ve yaş arasındaki ilişki. Eur J Clin Nutr. 55 (6): 462-70, 2001</item>
+        <item>Lee RD ve Nieman DC. beslenme değerlendirmesi (İkinci baskı). Sayfa: 264</item>
         <item>Lohman TG. Advanced in body composition assessment - Currenet issues in exercise science series. Champaign-IL: Human Kinetics. pp 80. 1992</item>
         <item>"Mahan LK and Escott-stump S. Krause's Food, nutrition &amp; diet therapy 9th edition. WB Saunders Co. pp 455"</item>
-        <item>《神经病学》第9版 第二十二章 睡眠障碍 人民卫生出版社</item>
-        <item>《生理学》第9版 第十章 神经系统的功能 人民卫生出版社</item>
-        <item>《睡眠医学：理论与实践》第4版 第一章 正常睡眠和睡眠变异 人民卫生出版社</item>
-        <item>《中国居民膳食指南2016》第一部分 一般人群膳食指南 中国营养学会 编著</item>
+        <item>Neurology 9. baskı 22. bölüm 22. uyku bozuklukları halk tıp yayınevi</item>
+        <item>Physiology 9. baskı bölüm 10 sinir sisteminin işlevleri halk tıp yayınevi</item>
+        <item>"Uyku tıbbı: Teori ve uygulama 4. baskı bölüm 1 normal uyku ve uyku Değişimi halk tıp yayınevi</item>
+        <item>Çin sakinleri için beslenme yönergeleri 2016 kısım I genel nüfus için diyet yönergeleri Çin beslenme derneği tarafından düzenlenmiştir</item>
         <item>Advanced fitness assessment and exercise prescription. Heyward VH. Human Kinetics. pp. 162</item>
         <item>"American College of Sports Medicine. ACSM's Guidelines for Exercise Testing Prescription[M]. Wolters Kluwer/Lippincott Williams &amp; Wilkins Health, 2014."</item>
         <item>Bray GA. Contemporary Diagnosis and Management of Obesity. pp.13, 1998</item>
@@ -473,6 +490,15 @@
         <item>@string/saturday_shortest</item>
     </string-array>
     <string-array name="week_label">
+        <item>Pazar</item>
+        <item>Pazartesi</item>
+        <item>Salı</item>
+        <item>Çarşamba</item>
+        <item>Perşembe</item>
+        <item>Cuma</item>
+        <item>Cumartesi</item>
+    </string-array>
+    <string-array name="week_short">
         <item>Pazar</item>
         <item>Pazartesi</item>
         <item>Salı</item>

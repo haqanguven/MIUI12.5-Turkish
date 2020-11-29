@@ -124,6 +124,8 @@
     <string name="download">İndirilenler</string>
     <string name="download_auth">Yetki alınıyor</string>
     <string name="download_complete">İndirilenler</string>
+    <string name="download_description_content">İndirmeler, indirme görevlerinin ilerlemesini görüntüleme ve yeni indirme görevleri oluşturma gibi işlevler sağlayan bir MIUI sistem uygulamasıdır. Kaldırma indirme görevi ilerleme görünümünün ve diğer işlevlerin normal kullanımını etkileyecektir</string>
+    <string name="download_description_title">İndirmeler kaldırılsın mı?</string>
     <string name="download_detail">Detaylar</string>
     <string name="download_error">İndirilemedi</string>
     <string name="download_error_download_file_not_exists">Dosya mevcut değil</string>
