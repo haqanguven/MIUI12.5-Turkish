@@ -119,6 +119,8 @@ Not: Yüklemiş olduğunuz uygulamara ait veriler Xiaomi bulut alanınıza yedek
     <string name="cloud_backup">Bulut yedekleri</string>
     <string name="cloud_backup_derail_size_summary">Boyut: %s</string>
     <string name="cloud_backup_detail_frequence">Zamanlı yedekleme</string>
+    <string name="cloud_backup_detail_frequence_every_7_day">Her %d günde bir yedekleyin</string>
+    <string name="cloud_backup_detail_frequence_every_day">Her gün yedekleyin</string>
     <string name="cloud_backup_detail_manage">Yedekleri yönet</string>
     <string name="cloud_backup_detail_state">Xiaomi bulut yedekleme</string>
     <string name="cloud_backup_detail_state_summary">Wifi ağına bağlandığında Xiaomi bulut yedeklerini otomatik olarak oluşturun</string>
@@ -131,7 +133,7 @@ Not: Yüklemiş olduğunuz uygulamara ait veriler Xiaomi bulut alanınıza yedek
     <string name="cloud_backup_select_recover">Xiaomi bulut alanından yedek seç</string>
     <string name="cloud_restore_from_other_device">%s cihazından geri yüklemeyi durdup ve bu yedek silinsin mi? Bu işlemi geri alamazsınız</string>
     <string name="cloud_restore_task">Geri yükleniyor</string>
-    <string name="cloud_task_in_process">%s işlemini durdur ve bu yedeği sil? Bu işlemi geri alamazsınız</string>
+    <string name="cloud_task_in_process">%s işlem durdurulsun ve bu yedek silinsin mi? Bu işlemi geri alamazsınız!</string>
     <string name="confirm_cancel_restore_negative">İptal et</string>
     <string name="confirm_cancel_restore_positive">Devam et</string>
     <string name="confirm_cancel_restore_title">Geri yükleme iptal edilsin mi?</string>

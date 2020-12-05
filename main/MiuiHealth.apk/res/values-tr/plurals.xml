@@ -112,10 +112,6 @@
         <item quantity="other">%1$d saat</item>
         <item quantity="one">%1$d saat</item>
     </plurals>
-    <plurals name="hr_fp_detect_time_remainder">
-        <item quantity="other">%1$d saniye kaldı</item>
-        <item quantity="one">%1$d saniye kaldı</item>
-    </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">1 saat içinde</item>
     </plurals>

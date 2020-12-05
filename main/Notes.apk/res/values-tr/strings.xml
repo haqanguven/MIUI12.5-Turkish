@@ -466,6 +466,8 @@
     <string name="notealert_enter">Notu aç</string>
     <string name="notealert_ok">Yoksay</string>
     <string name="notelist_string_info">…</string>
+    <string name="notes_description_content">Notlar bir sistem uygulamasıdır. Kaldırdıktan sonra bu uygulamayı kullanamayacaksınız</string>
+    <string name="notes_description_title">Notlar kaldırılsın mı?</string>
     <string name="notification_content_add_todo_from_other_app">Yeni bir görev eklediniz. Görüntülemek için dokunun</string>
     <string name="notify_alarm_title">Not hatırlatıcı</string>
     <string name="permdesc_accessNote">Zararlı yazılımlar kişisel verilerinize ulaşmak için bunu kullanabilir</string>

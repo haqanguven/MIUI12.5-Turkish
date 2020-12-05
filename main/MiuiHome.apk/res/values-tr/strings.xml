@@ -331,8 +331,11 @@
     <string name="home_screen">Ana ekran</string>
     <string name="home_slide_up_action">Ana ekranda yukarı kaydırma</string>
     <string name="home_switch_personal_assistant">-1 ekran</string>
+    <string name="icon_customize_summary">Stili seçin ve boyutu ayarlayın</string>
+    <string name="icon_form">Simgeler</string>
     <string name="icon_reorganize_channel">Simgeleri düzenle</string>
     <string name="icon_size">Simge boyutu</string>
+    <string name="icon_style">Stil</string>
     <string name="image_too_small_message">Orijinal resim yeterince büyük değil</string>
     <string name="install">Yükle</string>
     <string name="invalid_contact_shortcut">Geçersiz kişi</string>
@@ -527,6 +530,8 @@
     <string name="recommend_loading">Yükleniyor</string>
     <string name="recommend_refresh">Yenile</string>
     <string name="recommend_xout">Gösterme</string>
+    <string name="remove_dialog_message">Uygulama sistemin gerekli işlevlerini içerir ve yalnızca masaüstü simgelerini kaldırmayı destekler</string>
+    <string name="remove_dialog_title_format">%s kaldırsın mı?</string>
     <string name="remove_invalidate_gadget_tips">Kullandığınız araçlardan biri artık mevcut değil. Başka bir tane ekleyebilirsiniz</string>
     <string name="reset_cate_tip_content">Varsayılan uygulama grupları geri yüklenecek. Devam edilsin mi?</string>
     <string name="reset_cate_tip_title">Varsayılan grupları geri yükle</string>

@@ -144,6 +144,7 @@
     <string name="adjust_traffic_carrier_summary_yesterday">Dün güncellendi: %s</string>
     <string name="adjust_traffic_data">Veri kullanımını ayarlayın</string>
     <string name="after_the_lock_screen">Uygulamaları ekranla birlikte kilitleyin</string>
+    <string name="ai_allow_all">Herkes için izin kullanıldığında bildir</string>
     <string name="alarm_headsup_bottom">Xiaomi cep telefonu kırmızı paketleri tutuyor</string>
     <string name="alarm_lock_screen_summary">Kırmızı zarf yağmuru yolda</string>
     <string name="alarm_lockscreen_btn">Kırmızı zarfları almaya başla</string>
@@ -247,6 +248,7 @@
     <string name="app_behavior_key_location">Konum</string>
     <string name="app_behavior_key_protect">Kişisel bilgileri koru</string>
     <string name="app_behavior_kill_process">@string/menu_item_force_stop</string>
+    <string name="app_behavior_link_start">Tetiklenmiş başlangıç</string>
     <string name="app_behavior_list_load_more">Daha fazla</string>
     <string name="app_behavior_location">%1s konum bilgisi almaya çalıştı</string>
     <string name="app_behavior_location_bg">%1s arka planda konum bilgisi almaya çalıştı</string>
@@ -308,6 +310,8 @@
     <string name="app_behavior_settings_category_privacy">Kişisel bilgileri koruyun</string>
     <string name="app_behavior_settings_perm_tips">Uygulamalar konumunuza eriştiğinde, ses kaydettiğinde veya fotoğraf çektiğinde durum çubuğunda bir uyarı gösterir</string>
     <string name="app_behavior_settings_privacy_tips">Uygulamalar kişilerinize eriştiğinde, arama geçmişinde bulunduğunda veya diğer hassas işlemleri gerçekleştirirken bildirim alın</string>
+    <string name="app_behavior_share_file">Dosyayı paylaş</string>
+    <string name="app_behavior_share_picture">Fotoğrafı paylaş</string>
     <string name="app_behavior_sms_read">%1s kısa mesajı okumaya çalıştı</string>
     <string name="app_behavior_sms_read_single">Bu uygulama mesajları okudu</string>
     <string name="app_behavior_sms_send">%1s kısa mesaj göndermeye çalıştı</string>

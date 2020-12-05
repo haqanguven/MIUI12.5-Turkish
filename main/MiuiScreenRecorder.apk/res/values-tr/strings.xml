@@ -136,6 +136,8 @@
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="timer_format">%s</string>
     <string name="unchecked">Seçilmedi</string>
+    <string name="uninstall_warning_content">Ekran kaydedici bir sistem uygulamasıdır. Kaldırdıktan sonra ekran videoları kaydedemeyeceksiniz</string>
+    <string name="uninstall_warning_title">Ekran kaydedici kaldırılsın mı?</string>
     <string name="using_record_confirm_cancel">Reddet</string>
     <string name="using_record_confirm_ok">Kabul et</string>
     <string name="v7_preference_off">Kapalı</string>

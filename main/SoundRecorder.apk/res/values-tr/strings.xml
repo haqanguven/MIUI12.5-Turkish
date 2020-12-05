@@ -43,6 +43,8 @@
     <string name="call_record_list_group_connected">Bağlanıldı</string>
     <string name="call_record_list_group_unconnected">Bağlanmadı</string>
     <string name="cancel_rename">İptal et</string>
+    <string name="clear_data_dialog_content">Önbelleğe alınan öğeler, uygulama verileri ve özelleştirilmiş ayarlar silinecek ancak kayıtlarınız yerinde kalacaktır</string>
+    <string name="clear_data_dialog_title">Veriler şimdi temizlensin mi?</string>
     <string name="clear_records">Senkronize edilen kayıtları sil</string>
     <string name="cloud_record_open">Kayıtları senkronize et</string>
     <string name="cloud_record_tip">Kayıtları Mi bulut ile senkronize et</string>
@@ -190,6 +192,7 @@ Metne kaydetme şu anda yalnızca mandarin aktarımını desteklemektedir. Aktar
     <string name="pay_error_unknown">Bilinmeyen hata</string>
     <string name="playback_delete_records">Kaydı sil</string>
     <string name="playback_share_records">Kaydı paylaş</string>
+    <string name="preference_clear_data">Verileri temizle</string>
     <string name="preference_copied">%1$s panoya kopyalandı</string>
     <string name="preference_enable_earpiece_summary">Harici oynatma için alıcı hoparlörünü kullan</string>
     <string name="preference_enable_earpiece_title">Sesi oynatmak için alıcı kullan</string>

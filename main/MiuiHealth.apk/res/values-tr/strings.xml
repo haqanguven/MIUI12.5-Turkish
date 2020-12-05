@@ -782,17 +782,6 @@ Daire kırmızı olana kadar bekleyin"</string>
     <string name="hr_detect_state_reseting_desc">Sadece uyan ya da tamamen rahatla</string>
     <string name="hr_disable_in_split_screen">Bölünmüş ekran kullanılırken kalp atış hızı ölçülemiyor</string>
     <string name="hr_disturb_detect">Algılama kesintisit</string>
-    <string name="hr_finger_permission_desc">Kalp atış hızınızı ölçmek için bu özelliğin kan akışınızdaki değişiklikleri algılayabilmesi için parmak izi tarayıcısına erişmesi gerekir. İzin vermek istiyor musunuz?</string>
-    <string name="hr_fp_area">Parmak izi alanı</string>
-    <string name="hr_fp_detect_desc">Kalp atışı sırasında parmaklara kan akışı artar. Ekranın altındaki parmak izi alanında bulunan parlak ışık kaynağı sayesinde parmak kanının değişim sıklığı elde edilebilir. Frekans doğru kalp atış hızını hesaplamak için bir nabız sinyaline dönüştürülür</string>
-    <string name="hr_fp_detect_principle_desc">"Kan ışığı emebilir. Her kalp atışında parmaklara daha fazla kan akar ve daha fazla ışık emilir. Kalp atışları arasındaki aralıkta daha az ışık emilir. Ekranın altındaki parmak izi alanında bulunan parlak ışık kaynağı sayesinde parmak kanının değişim frekansı elde edilebilir. Frekans doğru kalp atış hızını hesaplamak için bir nabız sinyaline dönüştürülür. Çok sayıda deney yoluyla ortalama kalp atış hızı hatası 3 BPM'den azdır"</string>
-    <string name="hr_fp_detect_principle_desc_2">Not: Lütfen parmağınızın parmak izi alanını tamamen kapladığından emin olun. Tespit sırasında hafifçe bastırın. Basınç çok yüksekse parmaktaki kan akışı azalacak ve hatalı sonuçlara neden olacaktır. Test verileri sadece referans içindir. Tıbbi cihazlar için değildi</string>
-    <string name="hr_fp_detect_principle_desc_3">"Testlerimiz bu yöntemin kalp atış hızınızı yalnızca 3 BPM'lik bir hata ile ölçtüğünü göstermektedir"</string>
-    <string name="hr_fp_detect_start_desc">Simgeyi parmağınızla kapatın</string>
-    <string name="hr_fp_detecting">Parmağını hareket ettirme</string>
-    <string name="hr_fp_not_put_well">"Parmak doğru yerde değil
-Tekrar dene"</string>
-    <string name="hr_fp_report_common_desc">"Normal kalp atış hızı dakikada 60 ila 100 atış arasındadır. 60 BPM'den düşük bir kalp hızı bradikardinin bir işaretidir. 100 BPM'nin üzerindeki bir kalp hızı ise yetişkinlerde taşikardi olarak kabul edilir"</string>
     <string name="hr_heart_rate_unit">Kalp atış hızı (BPM)</string>
     <string name="hr_in_detect">Lütfen test sırasında parmağınızı oynatmayın</string>
     <string name="hr_input_heart_rate">Kalp atış hızını kaydedin</string>
