@@ -215,6 +215,7 @@ Alternatif olarak basit modu kapatabilir ve tekrar deneyebilirsiniz"</string>
     <string name="miui_failed_solution_5">Uyumlu bir kurulum paketi kullanmayı deneyin</string>
     <string name="miui_failed_solution_6">Bu uygulamayı ikinci alandan kaldırın ve tekrar deneyin</string>
     <string name="miui_failed_solution_7">GetApps uygulamasının en son sürümünü indirin</string>
+    <string name="miui_failed_solution_8">"GetApps'tan uygulamayı indirin"</string>
     <string name="miui_failed_system_incompatible">Uyumsuz kurulum paketi</string>
     <string name="miui_failed_update_incompatible">Çakışan uygulama imzaları</string>
     <string name="miui_failed_version_downgrade">Uygulamaların sürümü düşürülemiyor</string>

@@ -20,6 +20,9 @@
     <string name="application_permissions">Uygulama izinleri</string>
     <string name="back">Geri</string>
     <string name="backup_introduction">Cihazınızdaki öğeleri yedeklemek ve geri yüklemek için bu uygulamayı kullanabilirsiniz</string>
+    <string name="boot_video_desc" />
+    <string name="boot_video_replay">Tekrar oynat</string>
+    <string name="boot_video_skip">Atla</string>
     <string name="calculator_introduction">Hesaplamaları yapmak, birimleri ve para birimlerini dönüştürmek ve ipotek ödemelerinizi tahmin etmek için bu uygulamayı kullanabilirsiniz</string>
     <string name="camera_introduction">Fotoğraf çekmek ve video çekmek için kamerayı kullanabilirsiniz</string>
     <string name="carrier_introduction">Size daha iyi hizmet verebilmek için cihazınız periyodik olarak cihaz sürüm bilgilerinizi, cihaz tanımlama verilerini (IMEI / IMSI / MSISDN / MAC adresi, MEID / ICCID dahil) ve yaklaşık konum bilgilerini (Baz istasyonu kimliği dahil) cihazınıza gönderebilir. Wifi veya mobil veri şebekesi yalnızca hizmet kalitesini artırmak veya özelleştirilmiş hizmetler veya teknolojiler sunmak için ilgili bilgileri analiz etme sözü verir ve ilgili bilgileri sizi kişisel olarak tanımlayan herhangi bir biçimde üçüncü taraflara ifşa etmeyecektir. Özel taşıyıcı beyanı geçerli olacaktır. Bu servisi kullanmanın maliyeti konusunda operatörünüze danışın</string>
@@ -86,7 +89,7 @@
     <string name="location_content">Yasaya uygun olarak mobil taşıyıcılar, güvenlik ve acil kurtarma amaçlarını gözeten acil kurtarma kurumlarının gereksinimlerine uymak için mobil cihazların konum bilgilerini elde edebilir</string>
     <string name="location_introduction">Konum tabanlı servisler size en yakın ürünleri ve hizmetleri bulur</string>
     <string name="location_location">Acil kurtarma ekipleri talep üzerine mevcut konumunuzu alabilir</string>
-    <string name="lockscreen_introduction">Atlıkarınca duvar kağıdı ile kilit ekranınıza günlük olarak gönderilen taze görüntüleri almanızı sağlar</string>
+    <string name="lockscreen_introduction">Duvar kağıdı döngüsü duvar kağıdı ile kilit ekranınıza günlük olarak gönderilen taze görüntüleri almanızı sağlar</string>
     <string name="mint_keyboard_oobe_checkbox">Mint klavye gizlilik politikasını okudum ve kabul ettim</string>
     <string name="mint_keyboard_oobe_terms">Mint klavye gizlilik politikası</string>
     <string name="miui_privacy_policy_no_network">İnternet bağlantınız yok. Hizmet koşullarını %s adresinde görüntüleyin</string>
@@ -213,7 +216,7 @@ Seçili klavyenin gizlilik politikasını görüntüleyin"</string>
     <string name="service_name_game">Oyun eklentileri</string>
     <string name="service_name_google_service">Google hizmetlerine ilişkin açıklama</string>
     <string name="service_name_location">Konum tabanlı hizmetler</string>
-    <string name="service_name_lockscreen">Atlıkarınca duvar kağıdı</string>
+    <string name="service_name_lockscreen">Duvar kağıdı döngüsü duvar kağıdı</string>
     <string name="service_name_note">Notlar</string>
     <string name="service_name_recorder">Ses kaydedici</string>
     <string name="service_name_screen_recording">Ekran kaydedici</string>
@@ -262,8 +265,8 @@ Bu özelliği kullanmadan önce facemoji klavyesinin gizlilik politikasını kab
     <string name="terms_of_use_lable_default_input_method_kika">"
 
 Bu özelliği kullanmadan önce kika klavyesinin gizlilik politikasını kabul etmeniz gerekir"</string>
-    <string name="terms_of_use_lable_default_input_method_mint">"\u000d
-\u000d
+    <string name="terms_of_use_lable_default_input_method_mint">"
+
 Bu özelliği kullanmadan önce Mint klavyesinin gizlilik politikasını kabul etmelisiniz"</string>
     <string name="terms_of_use_lable_gms">, Google Play hizmetleri</string>
     <string name="terms_of_use_lable_smart_cards">, Akıllı kartlar</string>

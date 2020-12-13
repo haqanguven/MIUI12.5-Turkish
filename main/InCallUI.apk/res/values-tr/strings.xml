@@ -2,6 +2,9 @@
 <resources>
     <string name="ai_assistant">AI arama yardımcısı</string>
     <string name="ai_assistant_not_installed">Önce AI arama yardımcısını yükleyin</string>
+    <string name="ai_mode_auto">Otomatik</string>
+    <string name="ai_mode_manual">El ile</string>
+    <string name="ai_mode_subtitles">Altyazılar</string>
     <string name="antispam_local_marked">Yerel işaretli</string>
     <string name="antispam_notification_title">Bilinmeyen numara</string>
     <string name="antispam_provider">%s olarak tanımlandı</string>
@@ -102,6 +105,7 @@
     <string name="description_image_button_two">iki</string>
     <string name="description_image_button_video_answer">Görüntülü arama</string>
     <string name="description_image_button_zero">sıfır</string>
+    <string name="description_incoming_video">Gelen aramalar için profil videosu</string>
     <string name="description_message_list_title">Hızlı cevapların listesi</string>
     <string name="description_target_answer">Cevapla</string>
     <string name="dialpad_abc">ABC</string>
@@ -216,7 +220,7 @@
     <string name="voicemail">Sesli mesaj</string>
     <string name="volte_call">VoLTE arama</string>
     <string name="volume_boost_text">Ses arttırıldı</string>
-    <string name="wait_prompt_str">"İlgili tonlar gönderilsin mi?\u000d
+    <string name="wait_prompt_str">"İlgili tonlar gönderilsin mi?
 "</string>
     <string name="waiting_close_airplane_mode">Yükleniyor</string>
     <string name="wifi_call">VoWifi arama</string>

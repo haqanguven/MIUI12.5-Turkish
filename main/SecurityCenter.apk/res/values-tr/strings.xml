@@ -154,6 +154,7 @@
     <string name="alert_back_milink_hangup_tips_content">Bir aramayı bitirirken yansıtma kesintiye uğramaz. Ekranı uyandırmak için güç düğmesine basabilirsiniz</string>
     <string name="alert_back_milink_hangup_tips_content_vb">Ekran kapalıyken ve uygulama arka planda çalışırken yayın kesintiye uğramaz. Ekranı tekrar açmak için güç düğmesine basabilirsiniz</string>
     <string name="all_address_choose_hint">Bu bölgedeki bütün numaralar</string>
+    <string name="allow_all">Tümüne izin ver</string>
     <string name="already_close_gamebooster">Oyun hızı arttırması kapalı</string>
     <string name="anti_disturb_msg_detail">Gelen arama bildirimleri hariç tüm bildirimleri kapat</string>
     <string name="anti_disturb_msg_title">Rahatsız etme</string>
@@ -888,6 +889,7 @@ Kişisel kırmızı zarfı destekleyin ve kırmızı zarfı gruplayın
     <string name="cmd_lucky_float">Salla</string>
     <string name="comprehensive_protection_measures">Kapsamlı koruma</string>
     <string name="confirmSecondSpacePassword">İkinci alan şifresini onaylayın</string>
+    <string name="confirm_allow_all_permission">Tüm uygulamaların bu özelliği kullanmasına izin verilsin mi?</string>
     <string name="confirm_bind_xiaomi_account_dialog_title">Mi hesabı ekleniyor</string>
     <string name="confirm_fingerprint_msg">Parmak izinizi doğrulayın</string>
     <string name="confirm_leave">Hayır</string>

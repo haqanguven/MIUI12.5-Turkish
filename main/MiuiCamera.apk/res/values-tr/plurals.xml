@@ -36,6 +36,10 @@
         <item quantity="other">%1$s dakika</item>
         <item quantity="one">%1$s dakika</item>
     </plurals>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">%d</item>
+        <item quantity="one">%d</item>
+    </plurals>
     <plurals name="timer_burst_setting_total_count">
         <item quantity="other">%1$s fotoğraf</item>
         <item quantity="one">%1$s fotoğraf</item>

@@ -743,6 +743,8 @@ Neden: %s"</string>
     <string name="heduohao_label">HeDuoHao</string>
     <string name="heduohao_main_call_menu_title">Ana hattan ara</string>
     <string name="heduohao_popup_txt">Sub %d</string>
+    <string name="hide_app_description_content">Kişiler bir sistem uygulamasıdır. Ana ekran kısayolunu kaldırdıktan sonra yelefon uygulaması aracılığıyla kullanmaya devam edebilirsiniz</string>
+    <string name="hide_app_description_title">Kişiler ana ekrandan kaldırılsın mı?</string>
     <string name="hint_distance" />
     <string name="hint_findContacts">Kişileri bul</string>
     <string name="hint_more_contact">Çoklu kişi kayıtlarını birleştir</string>
@@ -1100,8 +1102,12 @@ Başlamak için ekranınızın altındaki birleştir simgesine dokunun"</string>
     <string name="residual_time_description2">%1$d saat</string>
     <string name="residual_time_description3">%1$d dakika</string>
     <string name="residual_time_description4">%1$d gün</string>
+    <string name="restore_app_btn_cancel">İptal et</string>
+    <string name="restore_app_btn_restore">Tamam</string>
+    <string name="restore_app_description_content">Kişilerinize daha hızlı erişebilmek için bir ana ekran kısayolu ekleyin</string>
+    <string name="restore_app_description_title">Kişiler ana ekrana eklensin mi?</string>
     <string name="restore_nickname">Geri yükle</string>
-    <string name="return_call">"Aramaya dönmek için dokunun ｜ "</string>
+    <string name="return_call">"Aramaya dön ｜ "</string>
     <string name="return_call_calling">Arama devam ediyor</string>
     <string name="return_call_dialing">Aranıyor</string>
     <string name="return_call_incoming">Gelen arama</string>

@@ -1118,11 +1118,15 @@ almak için dokunun"</string>
     <string name="miui_ringer_total_description">Alarm saati dışındaki tüm öğeler için titreşim kapatılır</string>
     <string name="miui_screen_rotation_freeze_message">Otomatik döndürme devre dışı</string>
     <string name="miui_toast_zen_dnd_to_off">Sesler ve titreşim normale döndü</string>
+    <string name="miui_toast_zen_dnd_to_off_version_R">Rahatsız etme kapalı. Bildirim sesleri ve titreşim geri geldi</string>
     <string name="miui_toast_zen_standard_to_off">Zil sesleri normale döndü</string>
     <string name="miui_toast_zen_standard_to_off_when_shield_media">Zil seslerinin yanı sıra bildirim ve medya sesleri de çalınacak</string>
+    <string name="miui_toast_zen_standard_to_off_when_shield_media_version_R">Sessiz mod kapalı. Bildirimler, medya sesleri ve titreşim yeniden açılır</string>
     <string name="miui_toast_zen_to_dnd">Sesler sessiz ve titreşim kapalı</string>
+    <string name="miui_toast_zen_to_dnd_version_R">Rahatsız etme açık. Bildirimler susturulacak ve titreşim kapatılacaktır</string>
     <string name="miui_toast_zen_to_standard">Aramalar ve bildirimler için zil sesleri susturulur</string>
     <string name="miui_toast_zen_to_standard_when_shield_media">Zil seslerinin yanı sıra bildirim ve medya sesleri de susturulacak</string>
+    <string name="miui_toast_zen_to_standard_when_shield_media_version_R">Sessiz mod açık. Bildirimler ve medya susturulacak ve titreşim kapatılacaktır</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için çek</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Yenileme tamamlandı</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor</string>

@@ -994,6 +994,10 @@ Devam etmek için sil ve dönüştür seçeneğine basın"</string>
     <string name="fiveg_icon_type1">Nr simge türü:</string>
     <string name="fiveg_infos">5G bilgileri</string>
     <string name="fiveg_network_config_type1">Ağ yapılandırma türü:</string>
+    <string name="fiveg_network_mode_default">Otomatik</string>
+    <string name="fiveg_network_mode_nsa">NSA</string>
+    <string name="fiveg_network_mode_sa_nsa">SA+NSA</string>
+    <string name="fiveg_network_mode_title">5G ağ modunu seç</string>
     <string name="fiveg_network_title">5G ağları</string>
     <string name="fiveg_plmn_info_list1">PLMN bilgi listesi:</string>
     <string name="fiveg_restrict_dcnr1">"DCNR'yi kısıtla:"</string>
@@ -1004,6 +1008,7 @@ Devam etmek için sil ve dönüştür seçeneğine basın"</string>
     <string name="fiveg_sa_switch_title_slot0">Sim 1 SA modu</string>
     <string name="fiveg_sa_switch_title_slot1">Sim 2 SA modu</string>
     <string name="fiveg_sa_switch_warning_toast">Etkili olması için lütfen telefonu yeniden başlatın</string>
+    <string name="fiveg_sa_vice_switch_title">"SA ikinci Sim'dir"</string>
     <string name="fiveg_signal_strength1">5G sinyal gücü:</string>
     <string name="fiveg_switch_status1">5G anahtar durumu:</string>
     <string name="fiveg_switch_title">5G ağı</string>
