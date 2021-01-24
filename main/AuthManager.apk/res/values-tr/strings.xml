@@ -121,7 +121,9 @@
     <string name="app_name">İzin yöneticisi</string>
     <string name="background_location_access_reminder_notification_content">Bu uygulama her zaman konumunuza erişebilir. Değiştirmek için dokunun</string>
     <string name="background_location_access_reminder_notification_title">%s konumunuzu kullanıyor</string>
+    <string name="blur_location_is_on_tip">%1$s yaklaşık konumunuzu kullanır. Kesin konum yerine kullanmaya devam edilsin mi?</string>
     <string name="blur_location_now_tip">Yaklaşık konum açık</string>
+    <string name="blur_location_title">Yaklaşık konum</string>
     <string name="clipboard_ai_allow_once">Panodaki öğelere otomatik olarak %1$s erişim izni verildi</string>
     <string name="clipboard_ai_allow_tip">Akıllı %1$s öğesinin panodaki %2$s öğesini okumasına izin verir</string>
     <string name="clipboard_data">"İçerik: "</string>
@@ -139,6 +141,8 @@
     <string name="go_behavior_record">Uygulama davranış geçmişi</string>
     <string name="go_perm_manager">İzinleri yönet</string>
     <string name="go_setting">Ayarlar</string>
+    <string name="gold_master_dialog_reject">Kısıtla (%d)</string>
+    <string name="gold_master_dialog_title">%1$s panonuza erişmek istiyor</string>
     <string name="grant_dialog_button_allow">İzin ver</string>
     <string name="grant_dialog_button_allow_always">Her zaman izin ver</string>
     <string name="grant_dialog_button_allow_background">Her zaman izin ver</string>
@@ -151,6 +155,7 @@
     <string name="grant_dialog_storage_category_title">Bu uygulama sosyal medya uygulamalarında galeriye ve mesajlara erişmek için izinler gerektiriyor</string>
     <string name="grant_dialog_storage_gallery_title">Galeri</string>
     <string name="grant_dialog_storage_sociality_title">Sosyal medya uygulamalarındaki mesajlar</string>
+    <string name="keep_blur_location">Hayır</string>
     <string name="keep_notice_me">Bildirmeye devam et</string>
     <string name="location_settings">Konum ayarları</string>
     <string name="location_warning">%1$s uygulaması bu cihaz için bir konum servis sağlayıcısıdır. Konum ayarları menüsünde düzenlenebilir</string>
@@ -205,6 +210,7 @@
     <string name="screen_overlay_title">Ekran kaplaması tespit edindi</string>
     <string name="static_cache_db_md5">ca8b2bf664b02208f1bbe2344e93a705</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="stop_blur_location">Evet</string>
     <string name="storage_policy_notify_both_title">"%1$s'in sosyal medya uygulamalarındaki galeriye ve mesajlara erişmesine izin verilmiyor"</string>
     <string name="storage_policy_notify_content">Okumasına izin vermek için. Ayarlara gitmek için tıklayın</string>
     <string name="storage_policy_notify_gallery_title">%1$s telefon albümlerini okuması reddedildi</string>

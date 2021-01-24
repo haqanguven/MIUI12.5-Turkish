@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="clipboard_ai_allow_more">
+        <item quantity="other">Panodaki öğelere %2$d kez otomatik olarak erişim izni verildi</item>
+        <item quantity="one">Panodaki öğelere %2$d kez otomatik olarak erişim izni verildi</item>
+    </plurals>
+    <plurals name="clipboard_read_ai_deny_more">
+        <item quantity="other">%1$s için %2$d panoya erişim denemesi engellendi</item>
+        <item quantity="one">%1$s için %2$d panoya erişim denemesi engellendi</item>
+    </plurals>
+    <plurals name="clipboard_read_allow_more">
+        <item quantity="other">%1$s panodaki öğelere %2$d kez erişildi</item>
+        <item quantity="one">%1$s panodaki öğelere %2$d kez erişildi</item>
+    </plurals>
+    <plurals name="perm_manager_suggest_allow_content">
+        <item quantity="other">"%2$s'nin panoya %1$d kez erişmesine izin verdiniz. %3$s’ın panoya erişmesine her zaman izin vermek istiyor musunuz?"</item>
+        <item quantity="one">"%2$s'nin panoya %1$d kez erişmesine izin verdiniz. %3$s’ın panoya erişmesine her zaman izin vermek istiyor musunuz?"</item>
+    </plurals>
+    <plurals name="perm_manager_suggest_deny_content">
+        <item quantity="other">"Şimdiden %2$s %1$d kez panoya erişimi kısıtladınız. %3$s için panoya erişim kalıcı olarak kısıtlansın mı?"</item>
+        <item quantity="one">"Şimdiden %2$s %1$d kez panoya erişimi kısıtladınız. %3$s için panoya erişim kalıcı olarak kısıtlansın mı?"</item>
+    </plurals>
+</resources>

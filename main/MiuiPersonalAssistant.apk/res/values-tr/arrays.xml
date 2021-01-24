@@ -293,6 +293,18 @@
         <item>@string/app_express_send_provider_xiaomi</item>
         <item>@string/app_express_send_provider_cainiao</item>
     </string-array>
+    <string-array name="app_health_setting_text_array_duration">
+        <item>10 dakika</item>
+        <item>20 dakika</item>
+        <item>30 dakika</item>
+        <item>60 dakika</item>
+    </string-array>
+    <string-array name="app_health_setting_value_array_duration">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>60</item>
+    </string-array>
     <string-array name="aqi_title">
         <item>Mükemmel</item>
         <item>İyi</item>

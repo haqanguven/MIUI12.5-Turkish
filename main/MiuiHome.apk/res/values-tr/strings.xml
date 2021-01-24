@@ -69,6 +69,8 @@
     <string name="all_app_category_tools">Araçlar</string>
     <string name="all_app_category_work">İş</string>
     <string name="all_apps">Tüm uygulamalar</string>
+    <string name="all_apps_install_contentcenter_msg">Görünüşe göre içerik merkezi kaldırılmış. Tekrar yüklensin mi?</string>
+    <string name="all_apps_install_contentcenter_title">İçerik merkezini yükle</string>
     <string name="all_apps_no_search_results">Sonuç bulunamadı</string>
     <string name="all_apps_search_app">Uygulama ara</string>
     <string name="all_apps_search_market_message">Çevrimiçi ara</string>
@@ -180,6 +182,7 @@
     <string name="change_wallpaper">Değiştir</string>
     <string name="choose_wallpaper">Duvar kağıdı seçin</string>
     <string name="chooser_wallpaper">Yeni bir duvar kağıdı seçin</string>
+    <string name="clearable_edittext_clear_description">Temizle</string>
     <string name="cloud_app_restore_title">Beklemede</string>
     <string name="common_home_search_delete">Ana ekran arama çubuğu siliniyor</string>
     <string name="common_home_search_delete_cancle">İptal et</string>
@@ -342,6 +345,7 @@
     <string name="is_setting_wallpaper_message">Duvar kağıdı ayarlanıyor</string>
     <string name="is_system_wallpaper_message">Sistem kaynakları silinemez</string>
     <string name="key_shortcut_settings_title">Tuş kısayolları</string>
+    <string name="launcher_icon_management">Ana ekran kısayollarını yönet</string>
     <string name="launcher_not_exist">Bir hata oluştu. Ana ekrana dönüp tekrar deneyin</string>
     <string name="launcher_pull_down_title">Ana ekranda aşağı kaydırma</string>
     <string name="launcher_search_bar_title">Ana ekran arama çubuğu</string>
@@ -350,6 +354,7 @@
     <string name="launcher_slide_up_title">Ana ekranda yukarı kaydırma</string>
     <string name="launcher_sliding_up_gesture">Arama bölümü</string>
     <string name="launcher_title">Ana ekran &amp; son kullanılanlar</string>
+    <string name="lib_name">Android filament</string>
     <string name="like">Favorilere ekle</string>
     <string name="liked">Favorilere eklendi</string>
     <string name="loading_desktop">Yükleniyor</string>
@@ -542,6 +547,7 @@
     <string name="reset_title">Geri yükle</string>
     <string name="resource_canary_leak_tip">Sızıntı var</string>
     <string name="resource_canary_wait_for_heapdump_message">Yığın boyutu boşaltılıyor</string>
+    <string name="restore_icon_successful">Eklendi</string>
     <string name="screen_cells_config_title">Ana ekran düzeni</string>
     <string name="screen_locked_toast">Ana ekran düzeni kilitli</string>
     <string name="screen_number">%d. ekran</string>

@@ -56,6 +56,8 @@ mm"</string>
     <string name="lunar_san">3</string>
     <string name="miui_clock_fancy_colon"></string>
     <string name="miui_clock_city_name_second">İkinci saat</string>
+    <string name="def_calendar_alert">/system/media/audio/ui/StoneSkimming_preview.ogg</string>
+    <string name="def_notes_alert">/system/media/audio/ui/StoneSkimming_preview.ogg</string>
     <string name="lunar_si">4</string>
     <string name="lunar_wu">5</string>
     <string name="lunar_liu">6</string>
@@ -219,8 +221,14 @@ mm"</string>
     <string name="makewishes">Doğum günü dileği</string>
     <string name="robot">Robot</string>
     <string name="surprise">Sürpriz</string>
-    <string name="birdcicada_preview">Doğa - kuşlar &amp; ateşböcekleri</string>
-    <string name="waterdrop_preview">Doğa - damlacıkları</string>
+    <string name="birdcicada_preview">Kuşlar &amp; ateşböcekleri</string>
+    <string name="waterdrop_preview">Damlacıklar</string>
+    <string name="stoneskimming_preview">Hafif adımlar</string>
+    <string name="amazonanimals_preview">Yağmur ormanı</string>
+    <string name="africaanimals_preview">Savana</string>
+    <string name="australiaanimals_preview">Avustralya</string>
+    <string name="arcticanimals_preview">Arktik</string>
+    <string name="southwestmountain_preview">Dağlar</string>
     <string name="windchime">Rüzgar çanları</string>
     <string name="mihouse">Mi elektronik</string>
     <string name="mijazz">Mi caz</string>
@@ -238,6 +246,8 @@ mm"</string>
     <string name="wallpaper_group_red_mars_title">Mars</string>
     <string name="wallpaper_group_red_mars_subtitle">NASA, JPL, Arizona üniversitesi</string>
     <string name="wallpaper_group_more_system_wallpaper_title">Daha fazla sistem duvar kağıdı</string>
+    <string name="wallpaper_group_color_move_title">Sıvı renkler</string>
+    <string name="wallpaper_group_sgn_mountain_title">Siguniang dağı</string>
     <string name="cta_permission_delimiter">, </string>
     <string name="cta_permission_and"> ve </string>
     <string name="cta_title">Kullanım şartları</string>

@@ -469,6 +469,7 @@ Mi sağlık yalnızca önemli ögeler hakkında bildirim gönderir"</string>
     <string name="dialog_keep">Tut</string>
     <string name="dialog_known">Anladım</string>
     <string name="dialog_menstruation_purpose">Mi sağlığa hoşgeldiniz. Adet özelliği adet dönemlerinizi kaydetmenize, yaklaşan adet dönemlerinizi tahmin etmenize ve hatırlatıcı almanıza izin verir. Tüm ilgili veriler yerel olarak cihazınızda saklanır. Bu da veriler kolayca yönetmenizi sağlar</string>
+    <string name="dialog_new_version_title">Bir güncelleme mevcut</string>
     <string name="dialog_no_more_prompt">Tekrar gösterme</string>
     <string name="dialog_ok">Tamam</string>
     <string name="dialog_open">İzin ver</string>
@@ -488,6 +489,7 @@ Mi sağlık yalnızca önemli ögeler hakkında bildirim gönderir"</string>
     <string name="dialog_user_agreement_purpose2">Mi sağlığa hoş geldiniz. Bu uygulama ile adımlarınızı sayma, uykunuzu analiz etme, kilonuzu kaydetme ve daha fazlasını yapmak için kullanabilirsiniz</string>
     <string name="diastolic_pressure">Diyastolik</string>
     <string name="disable">Kapalı</string>
+    <string name="discard_update">Hayır</string>
     <string name="divider">/</string>
     <string name="divider_format1">%1$s/%2$s</string>
     <string name="divider_format2">%1$s-%2$s</string>
@@ -620,6 +622,7 @@ Yatakta 30 dakika geçirdikten sonra uykuya dalmakta hala zorlanıyorsanız bu d
     <string name="feedback_need_permission_msg">Geri bildirim için kullanılan kayıtları oluşturabilmesi için Mi sağlıkğa harici depolamaya yazma izni verin</string>
     <string name="feedback_permission_denied_msg">Mi sağlık harici depolamaya yazamıyor. Mi Sağlığa ayarlarda gerekli izni verin</string>
     <string name="fewer">Küçük</string>
+    <string name="find_new_verision">%s sürümü şu anda mevcut</string>
     <string name="finish">Bitir</string>
     <string name="finish_stand">Evet</string>
     <string name="finish_stand2">Ayağa kalkma</string>
@@ -782,6 +785,17 @@ Daire kırmızı olana kadar bekleyin"</string>
     <string name="hr_detect_state_reseting_desc">Sadece uyan ya da tamamen rahatla</string>
     <string name="hr_disable_in_split_screen">Bölünmüş ekran kullanılırken kalp atış hızı ölçülemiyor</string>
     <string name="hr_disturb_detect">Algılama kesintisit</string>
+    <string name="hr_finger_permission_desc">Kalp atış hızınızı ölçmek için bu özelliğin kan akışınızdaki değişiklikleri algılayabilmesi için parmak izi tarayıcısına erişmesi gerekir. İzin veriyor musunuz?</string>
+    <string name="hr_fp_area">Parmak izi tarayıcısı</string>
+    <string name="hr_fp_detect_desc">Her kalp atışında kan parmaklarınıza akar. Ekranın altındaki parmak izi tarayıcı alanındaki parlak ışık, kan akışınızdaki değişiklikleri izlememize, modelleri analiz etmemize ve bunları kalp atış hızı değerlerine dönüştürmemize olanak tanır</string>
+    <string name="hr_fp_detect_principle_desc">Kan tamamen opak değildir. Bu nedenle ışık içinden geçebilir. Her kalp atışında kan parmaklarınıza akar ve kalp atışları arasındakinden daha fazla ışığı engeller. Ekranın altındaki parmak izi tarayıcı alanındaki parlak ışık değişiklikleri izlememizi sağlar. Kan akışınızda kalıpları analiz edin ve bunları kalp atış hızı değerlerine dönüştürün</string>
+    <string name="hr_fp_detect_principle_desc_2">Not: Ölçüm sırasında parmağınızın parmak izi simgesini tam olarak kapladığından emin olun. Parmak ucunuzdaki kan akışını engelleyebileceği ve sonuçları hatalı hale getirebileceği için kuvvet uygulamayın. Bu ölçüm yalnızca referansınız için sağlanmıştır</string>
+    <string name="hr_fp_detect_principle_desc_3">"Testlerimiz bu yöntemin kalp atış hızınızı yalnızca 3 BPM'lik bir hata ile ölçtüğünü göstermektedir"</string>
+    <string name="hr_fp_detect_start_desc">Simgeyi parmağınızla kapatın</string>
+    <string name="hr_fp_detecting">Parmağınızı hareket ettirmeyin</string>
+    <string name="hr_fp_not_put_well">"Parmağınız hareket etti
+Baştan başla"</string>
+    <string name="hr_fp_report_common_desc">"Normal kalp atış hızı dakikada 60 ila 100 atış arasındadır. 60 BPM'den düşük bir kalp hızı bradikardinin bir işaretidir. 100 BPM'nin üzerindeki bir kalp hızı ise yetişkinlerde taşikardi olarak kabul edilir"</string>
     <string name="hr_heart_rate_unit">Kalp atış hızı (BPM)</string>
     <string name="hr_in_detect">Lütfen test sırasında parmağınızı oynatmayın</string>
     <string name="hr_input_heart_rate">Kalp atış hızını kaydedin</string>
@@ -820,6 +834,7 @@ Daire kırmızı olana kadar bekleyin"</string>
     <string name="hr_strength_lowest">Çok düşük</string>
     <string name="hr_strength_mid">Normal</string>
     <string name="icon_content_description">Diyalog simgesi</string>
+    <string name="immediately_experience">Güncelleme</string>
     <string name="improve_step_target">Hedefinize çok sık ulaşıyorsunuz. Daha yüksek bir hedef seçmeyi deneyin</string>
     <string name="improve_your_health_default_tips">Sağlıklı kalmak için egzersiz yapın ve uykunuzu alın</string>
     <string name="inactivated">Etkinleştirilmedi</string>
@@ -880,6 +895,7 @@ Daire kırmızı olana kadar bekleyin"</string>
     <string name="light_sleep_time_normal_description">Yeterli miktarda hafif uykun var</string>
     <string name="load_failed">Öğeler yüklenemedi. Bir iki dakika bekleyin ve tekrar deneyin</string>
     <string name="loading">Yükleniyor</string>
+    <string name="location_perm_description">Dış mekan antrenmanlarını izlemek ve rotaları kaydetmek için</string>
     <string name="location_permission_dialog_content">Mevcut sağlık uygulaması izinleri bulma yetkisine sahip değil ve konum bilgilerinizi onaylayamıyor ve açık havada egzersiz kayıt işlevleri sağlayamıyor. Lütfen kullanmak için sağlık izni yönetimi konumlandırma yetkisine gidin</string>
     <string name="location_permission_dialog_negative">Kullanımda değil</string>
     <string name="location_permission_dialog_positive">Yetkilendirmeye git</string>
@@ -907,7 +923,8 @@ Daire kırmızı olana kadar bekleyin"</string>
     <string name="manual_page_measure_date_title">Tarih ve saat</string>
     <string name="manual_record">El ile kaydet</string>
     <string name="mark_end">Adet dönemi sona erdi</string>
-    <string name="mark_start">Başlangıç</string>
+    <string name="mark_start">Başlat</string>
+    <string name="marketSdkVersion">3.2.7</string>
     <string name="max_altitude">En yüksek rakım</string>
     <string name="max_heart_rate">En yüksek kalp atış hızı</string>
     <string name="max_high_pressure">Maksimum sistolik (Üst)</string>
@@ -1104,6 +1121,7 @@ Daire kırmızı olana kadar bekleyin"</string>
     <string name="need_auto_start_permission">Daha doğru istatistikler almak için Mi sağlığa otomatik başlama izni verin</string>
     <string name="need_unrestricted_permission">Daha doğru istatistikler almak için Mi sağlığa arka planda çalışma izni verin</string>
     <string name="network_connect_failure">Ağa bağlanılamadı. Ağ ayarlarınızı kontrol edip tekrar deneyin</string>
+    <string name="network_name_china">Wifi</string>
     <string name="network_not_available">Ağa bağlanılamadı. Ağ ayarlarınızı kontrol edip tekrar deneyin</string>
     <string name="network_not_available2">Ağa bağlanılamadı</string>
     <string name="next_step">İleri</string>
@@ -1134,6 +1152,7 @@ Daire kırmızı olana kadar bekleyin"</string>
     <string name="oar_time">Sürüş zamanı</string>
     <string name="oauth_account_failed">Hesap bilgileri alınamadı</string>
     <string name="oauth_account_failed_desc">Veri kaynakları eklemek için Xiaomi sağlık Mi hesabınızı kullanmalıdır. Devam etmek için oturum açın</string>
+    <string name="oauth_invalid">Oturum süresi doldu. Tekrar oturum açın</string>
     <string name="ok">Tamam</string>
     <string name="open">Aç</string>
     <string name="open_data_sync_description">Diğer kaynaklardan gelen sağlık verilerini senkronize etmek için bulutla senkronizeyi açın</string>
@@ -1229,6 +1248,8 @@ Daire kırmızı olana kadar bekleyin"</string>
     <string name="recent_train">Son eğitim</string>
     <string name="recent_train_course_count">Toplamda %1$d kurs</string>
     <string name="recent_trained">Yakın zamanda uygulandı</string>
+    <string name="recog_permission_dialog_content">Adım sayısını görebilmek için Xiaomi sağlığın etkinlik bilgilerinize erişmesine izin verin</string>
+    <string name="recog_permission_dialog_title">İzinler gerekli</string>
     <string name="recommand_body_weight_msg">Önerilen hedef kilo: %1$.1f kg. Kardiyovasküler ve karaciğer hastalıkları riskini azaltmak için vücut kitle indeksi %2$.1f</string>
     <string name="recommend_sleep_goal">21:00-11:00</string>
     <string name="record_blood_pressure">Ölçüm kaydı</string>
@@ -1323,6 +1344,33 @@ Daire kırmızı olana kadar bekleyin"</string>
     <string name="severe_abnormal">Hipertansif krizler</string>
     <string name="severe_abnormal_tip">Her gün kalktıktan sonra, öğle yemeğinden sonra ve yatmadan önce</string>
     <string name="share">Paylaş</string>
+    <string name="share_card_key_avg_pace">Hız</string>
+    <string name="share_card_key_consume">Kaloriler</string>
+    <string name="share_card_key_groups">Aralıklar</string>
+    <string name="share_card_key_step">Adımlar</string>
+    <string name="share_card_key_time">Süreler</string>
+    <string name="share_card_title_climbing">%s tırmanıyor</string>
+    <string name="share_card_title_cross_hiking">%s yürüyor</string>
+    <string name="share_card_title_elliptical_trainer">Eliptik</string>
+    <string name="share_card_title_free_training">Serbest stil egzersiz</string>
+    <string name="share_card_title_high_interval_training">HIIT</string>
+    <string name="share_card_title_indoor_rinding">%s hareketsiz bisiklet</string>
+    <string name="share_card_title_indoor_running">%s koşuyor</string>
+    <string name="share_card_title_open_swimming">swim %s açık suda yüzme</string>
+    <string name="share_card_title_outdoor_hiking">%s yürüyor</string>
+    <string name="share_card_title_outdoor_riding">%s bisiklet sürüyor</string>
+    <string name="share_card_title_outdoor_running">%s koşuyor</string>
+    <string name="share_card_title_outdoor_walking">%s yürüyor</string>
+    <string name="share_card_title_pool_swimming">%s havuzda yüzme</string>
+    <string name="share_card_title_riding">%s bisiklet sürüyor</string>
+    <string name="share_card_title_rope_skipping">%s ip atlama</string>
+    <string name="share_card_title_rowing_machine">%s bisiklet</string>
+    <string name="share_card_title_running">%s koşuyor</string>
+    <string name="share_card_title_stair_climbing">Merdiven tırmanma</string>
+    <string name="share_card_title_swimming">%s yüzüyor</string>
+    <string name="share_card_title_treadmill">%s koşu bandı</string>
+    <string name="share_card_title_walking">%s yürüyor</string>
+    <string name="share_card_title_yoga">Yoga</string>
     <string name="skip">Atla</string>
     <string name="skip_to_next_item_button_content_description">Sonraki öğeye atla</string>
     <string name="skip_to_previous_item_button_content_description">Önceki öğeye atla</string>
@@ -1557,6 +1605,9 @@ bulunamadı"</string>
     <string name="sport_step_max_frequency">En iyi yürüyüş</string>
     <string name="sport_step_min_frequency">Minimum ritim</string>
     <string name="sport_title_step_frequency">Ritim</string>
+    <string name="sport_tts_1">Bir</string>
+    <string name="sport_tts_2">İki</string>
+    <string name="sport_tts_3">Üç</string>
     <string name="sport_tts_begin_riding">Sürmeye başla</string>
     <string name="sport_tts_begin_running">Koşmaya başla</string>
     <string name="sport_tts_begin_walking">Yürümeye başla</string>
@@ -1950,16 +2001,9 @@ Yenilikler:
     <string name="welcome_start_use">Başlat</string>
     <string name="well">İyi</string>
     <string name="write_strorage_perm_description">Karşılaştığınız sorunlar hakkındaki bilgileri kaydetmek için</string>
-    <string name="xiaomi_update_sdk_bytes_unit">%1$sB</string>
-    <string name="xiaomi_update_sdk_connect_download_manager_fail">İndirme yöneticisine bağlanma başarısız oldu. Lütfen uygulama yönetimindeki indirme yöneticisi durumunu kontrol edin</string>
-    <string name="xiaomi_update_sdk_dialog_message">"Tanıtımı sürümü: %1$s
-Boyut: %2$s"</string>
-    <string name="xiaomi_update_sdk_dialog_message_diff">"Tanıtımı sürümü: %1$s
-Delta güncelleme boyutu: %2$s"</string>
-    <string name="xiaomi_update_sdk_dialog_title">%1$s güncelle</string>
-    <string name="xiaomi_update_sdk_external_storage_unavailable">Depolama kullanılamıyor. Lütfen SD kartı kontrol edin</string>
-    <string name="xiaomi_update_sdk_kilobytes_unit">%1$sKB</string>
-    <string name="xiaomi_update_sdk_megabytes_unit">%1$sMB</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Şimdi</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Güncelle</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Bir güncelleme mevcut</string>
     <string name="year">Yıl</string>
     <string name="yesterday">Dün</string>
     <string name="yoga">Yoga</string>

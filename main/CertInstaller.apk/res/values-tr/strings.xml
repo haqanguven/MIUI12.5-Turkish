@@ -9,7 +9,6 @@
     <string name="cert_read_error">Sertifika dosyası okunamadığından yüklenemedi</string>
     <string name="cert_too_large_error">Sertifika boyutu çok büyük olduğundan yüklenemedi</string>
     <string name="certificate_capabilities_warning">Not: Bu sertifikanın vericisi cihazdan gelen ve giden tüm trafiği inceleyebilir</string>
-    <string name="config_system_install_component">com.android.settings/com.android.settings.security.CredentialStorage</string>
     <string name="credential_info">Paket şunları içeriyor:</string>
     <string name="credential_name">Sertifika adı:</string>
     <string name="credential_password">Sertifikaları çıkartmak için şifreyi girin</string>

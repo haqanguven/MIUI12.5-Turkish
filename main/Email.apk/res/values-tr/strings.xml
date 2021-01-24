@@ -665,6 +665,7 @@
     <string name="kilobytes">%s KB</string>
     <string name="label_notification_ticker">%1$s: %2$s</string>
     <string name="list_empty_to_fresh">Henüz e-posta yok</string>
+    <string name="load_attachment">@string/load_more</string>
     <string name="load_from_remote">Sunucu posta kutusunu ara</string>
     <string name="load_more">Daha fazla yükle</string>
     <string name="loading_conversation">Yükleniyor</string>
@@ -710,7 +711,8 @@ Lütfen uygulama şifresinin açık olup olmadığını onaylayın. Eğer açık
     <string name="mail_login_help_details2">2. Müşteri doğrulama kodu: Zaten bir müşteri doğrulama kodu ayarladıysanız oturum açmak için bunu kullanmanız gerekir. POP3/IMAP/SMTP protokolünün açık olduğundan emin olun</string>
     <string name="mail_login_help_title">E-posta şifresi veya müşteri doğrulama kodu açıklaması:</string>
     <string name="mail_outlook_login_tips">Microsoft gereksinimlerine göre microsoft yetkilendirme sayfasına şifreyi girmeniz gerekir</string>
-    <string name="mail_outlook_oauth_login">OAuth ile giriş yapın</string>
+    <string name="mail_outlook_oauth_login">"OAuth ile oturum açın
+(Kişisel Outlook kullanıcıları OAuth ile oturum açarken takvimlerini senkronize edemez)"</string>
     <string name="mail_outlook_psw_login">Şifre ile giriş yap</string>
     <string name="mailbox_list_account_selector_combined_view">Birleşik hesap</string>
     <string name="mailbox_name_display_ad">Reklamlar</string>
@@ -884,6 +886,7 @@ Farklı bir e-posta hesabı kullanmayı deneyin"</string>
     <string name="open_external_storage_and_contacts_and_calendar_permission">E-posta uygulamasına ayarlar menüsünde depolama alanına, kişilere ve takvim bilgilerine erişim izni verin</string>
     <string name="open_external_storage_and_contacts_permission">E-posta uygulamasına ayarlar menüsünde depolama alanına ve kişilere erişim izni verin</string>
     <string name="open_notification_kingagent">Mezarlık noktası bildirimini aç</string>
+    <string name="open_pdf_error">Pdf dosyası açılamadı. Lütfen diğer PDF açma araçlarını indirin ve daha sonra tekrar deneyin</string>
     <string name="optimization_suggestion">Optimizasyon önerisi</string>
     <string name="others_mail">Diğer</string>
     <string name="others_mail_des">Bu diğer e-posta veya kurumsal e-posta servisleri içindir</string>

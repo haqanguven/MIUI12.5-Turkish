@@ -219,11 +219,14 @@ Not: Yüklemiş olduğunuz uygulamara ait veriler Xiaomi bulut alanınıza yedek
     <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="preference_copied">%1$s panoya kopyalandı</string>
     <string name="process_whole_recovery">%s geri yükleniyor</string>
+    <string name="provision_back">Geri</string>
     <string name="provision_background_restore_more_data">Arka planda daha fazla öğe geri yükle</string>
     <string name="provision_error_connect_msg">Ağı test edin ve tekrar deneyin. Cihazınız çevrimdışı olduğunda yedekleme yapılamaz</string>
     <string name="provision_error_connect_title">Bağlanılamadı</string>
+    <string name="provision_next">Sonraki</string>
     <string name="provision_restore_data">Öğeler geri yükleniyor</string>
     <string name="provision_restore_item_backup_name_with_size">%1$s %2$s</string>
+    <string name="provision_skip_underline">Atla</string>
     <string name="query_restore_description">Bu yedek dosyasını kullanarak ana ekranınızı ve uygulamaları geri yükleyin. Bu işlem uygulama verilerini cihazınızda yüklenmiş olan yinelenen uygulamaların üzerine yazacaktır. Yedek dosyasında yer almayan uygulamalar kullanılan en son ana ekrana taşınır</string>
     <string name="query_restore_summary">Bu cihaz için bir Xiaomi bulut yedeği bulundu. Ana ekran uygulamalarını ve ayarlarını geri yükle veya eski Xiaomi bulut yedeklerini silerek cihazı yeni bir cihaz olarak kullanılsın mı?</string>
     <string name="recover_home_settings">Ana ekran ayarlarını geri yükle</string>

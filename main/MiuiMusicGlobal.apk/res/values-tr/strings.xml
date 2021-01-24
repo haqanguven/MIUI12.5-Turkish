@@ -66,6 +66,7 @@
     <string name="ad_setting">Ek ayarlar</string>
     <string name="add_music">Şarkı ekle</string>
     <string name="add_to_last_of_playlist">Çalma listesinin sonuna ekle</string>
+    <string name="add_to_playlist">Sıraya ekle</string>
     <string name="add_to_playlist_successful">Başarıyla eklendi</string>
     <string name="added_next_play">Çalma sırasına eklendi</string>
     <string name="afternoon">ÖS</string>
@@ -132,6 +133,7 @@
     <string name="banner_op">Mi müzik</string>
     <string name="bluetooth_device">Bluetooth ses cihazı</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
+    <string name="btn_text_edit">Düzenle</string>
     <string name="buffering">Çözümleniyor</string>
     <string name="button_cancel_download">İptal et</string>
     <string name="button_download_now">Şimdi indir</string>
@@ -259,8 +261,10 @@
     <string name="connect_now">Bağlan</string>
     <string name="connecting_apk">Bağlanılıyor</string>
     <string name="copy">Kopyala</string>
-    <string name="count_format">%2$1.1fK</string>
-    <string name="count_million_format">%2$1.2fM</string>
+    <string name="count_format">%2$1.0fK</string>
+    <string name="count_format_float">%2$1.1fK</string>
+    <string name="count_million_format">%2$1.0fM</string>
+    <string name="count_million_format_float">%2$1.1fM</string>
     <string name="create_playlist">Oynatma listesi oluştur</string>
     <string name="create_playlist_failure">Liste oluşturulamadı</string>
     <string name="create_playlist_input_hint">Oynatma listesi adını girin</string>
@@ -308,6 +312,7 @@
     <string name="dialog_insufficient_space_on_cache">İndirme işlemi bitmedi. Dahili indirme depolama biriminde yeterli alan yok</string>
     <string name="dialog_insufficient_space_on_external">İndirme işlemi bitmedi.Harici depolama biriminde yeterli alan yok</string>
     <string name="dialog_media_not_found">İndirilemiyor. Dış ortam mevcut değildir</string>
+    <string name="dialog_message_unfollow">Bu kişinin takibi bırakılsın mı?</string>
     <string name="dialog_my_playlist_online_changed_merge">Tut</string>
     <string name="dialog_my_playlist_online_changed_message">Bu çalma listesi değişmiş gibi görünüyor. Yeni sürümle değiştirebilir veya eskisini koruyabilirsiniz</string>
     <string name="dialog_my_playlist_online_changed_replace">Değiştir</string>
@@ -335,6 +340,7 @@
     <string name="dialog_song_view_type_artist">Artiste göre</string>
     <string name="dialog_song_view_type_folder">Dizine göre</string>
     <string name="dialog_song_view_type_song">Şarkıya göre</string>
+    <string name="dialog_subtitle_make_playlist_public">Herkese açık oynatma listeleri diğer kişiler tarafından kullanılabilir. Özel oynatma listelerini yalnızca senkronize edilmiş tüm cihazlarda görebilirsiniz</string>
     <string name="dialog_title_clearlist_tracks">Çalma sırasından kaldır</string>
     <string name="dialog_title_delete_tracks">Sil</string>
     <string name="dialog_title_name_playlist">Çalma Listesi adı</string>
@@ -464,6 +470,8 @@
     <string name="equalizer">Ekolayzer</string>
     <string name="eras_ad">AD</string>
     <string name="eras_bc">BC</string>
+    <string name="error_message_no_internet_connection">İnternete bağlanılamadı. Lütfen internet bağlantınızı kontrol edin ve tekrar deneyin</string>
+    <string name="error_message_something_went_wrong">Bir şeyler ters gitti lütfen tekrar deneyin.</string>
     <string name="error_not_support">Desteklenmiyor</string>
     <string name="evening">ÖS</string>
     <string name="exo_controls_fastforward_description">İleri sar</string>
@@ -519,11 +527,13 @@
     <string name="fail_to_play">Şarkı oynatılamıyor</string>
     <string name="failed_not_access_sd_card">Önce SD karta erişim izni ver</string>
     <string name="failed_obtain_permissions">İzin alınamadı</string>
+    <string name="fans">Takipçiler</string>
     <string name="fav_login_msg">Şarkı indirmek için Mi hesabınızda oturum açın</string>
     <string name="favorite_canceled">Favorilerden kaldırıldı</string>
     <string name="favorite_playlist">Favoriler</string>
     <string name="favorite_singer">Favori şarkıcılar</string>
     <string name="favorite_succeed">Favorilere eklendi</string>
+    <string name="favorite_to_playlist">Oynatma listesine ekle</string>
     <string name="favorite_tracks">Favoriler</string>
     <string name="favorites">Favoriler</string>
     <string name="fcm_fallback_notification_channel_label">Çeşitli</string>
@@ -698,6 +708,7 @@
     <string name="input_hint_prefix">Lütfen %1$s girin</string>
     <string name="installing_apk">Yükleniyor</string>
     <string name="insufficient_space">Cihazınızın dahili depolama alanında yeterli alan yok</string>
+    <string name="invalid_number">Numara geçersiz</string>
     <string name="is_latest_version">Müzik uygulaması güncel</string>
     <string name="is_scanning">Depolama denetleniyor</string>
     <string name="is_scanning_support_online">"Depolama denetleniyor
@@ -765,6 +776,7 @@
     <string name="list_item_play_all_tracks">Tümünü oynat</string>
     <string name="load_shuffle">Yükleniyor</string>
     <string name="loadercontainer_loading">Yükleniyor</string>
+    <string name="loading">Yükleniyor</string>
     <string name="loading_hint">Yükleniyor</string>
     <string name="loading_reached_the_bottom">Şimdilik bu kadar</string>
     <string name="local_header_title">Yerel müzik</string>
@@ -821,6 +833,12 @@
     <string name="modify_progress_helper">Şarkı sözünü düzenleme işlemi için yukarı veya aşağı kaydırın</string>
     <string name="modify_song_info">Şarkı bilgilerini düzenle</string>
     <string name="modify_song_info_success">Şarkı bilgileri güncellendi</string>
+    <string name="moe_inbox_name">Notification Center</string>
+    <string name="moe_message_to_register">Entegrasyon Doğrulamasına kaydolmak için kayıt düğmesine tıklayın</string>
+    <string name="moe_message_to_unregister">Cihaz entegrasyon doğrulaması için kaydedildi. Kaydı silmek için düğmeye tıklayın</string>
+    <string name="moe_notification_center_empty">Bildirim merkezi boş</string>
+    <string name="moe_register">REGISTER</string>
+    <string name="moe_unregister">UNREGISTER</string>
     <string name="monday">Pazartesi</string>
     <string name="monday_short">Pazartesi</string>
     <string name="monday_shortest">P</string>
@@ -895,8 +913,10 @@
     <string name="no_album_info">Albüm bilgisi yok</string>
     <string name="no_artist_info">Sanatçı bilgisi yok</string>
     <string name="no_downloads">İndirilen yok</string>
+    <string name="no_fans_empty_title">Henüz takipçiniz yok</string>
     <string name="no_favorites_songs">Boş</string>
-    <string name="no_file_picker_find">Telefonda dosya yönetim uygulaması kurulu değil</string>
+    <string name="no_file_picker_find">Telefonda dosyalar uygulaması kurulu değil</string>
+    <string name="no_follow_empty_title">Henüz kimseyi takip etmiyorsun</string>
     <string name="no_local_songs">Boş</string>
     <string name="no_local_songs_selected">Müzikler indirilmediğinden gönderilemiyor</string>
     <string name="no_local_source_find">Şarkı bulunamadı</string>
@@ -1148,6 +1168,7 @@ mutlu ol"</string>
     <string name="share_end_note">Mi müzik sunar</string>
     <string name="share_failed">Paylaşılamadı</string>
     <string name="share_image_error">İndirilen resmin hatalı olmasından dolayı resim paylaşılamadı</string>
+    <string name="share_song">Paylaş</string>
     <string name="share_text_list">"Mi müzik çalma listesi: "</string>
     <string name="share_text_song">"Mi müzikteki şarkı: "</string>
     <string name="show_float_first_hint">Oynatıcıyı küçült</string>
@@ -1311,11 +1332,14 @@ mutlu ol"</string>
     <string name="title_online_recommend">Önerilen liste</string>
     <string name="title_search_history">Arama geçmişi</string>
     <string name="title_search_hot">Popüler</string>
+    <string name="toast_cant_collect_mine_playlist">Kendi oynatma listelerinizi favorilere ekleyemezsiniz</string>
     <string name="toast_cant_commit_without_title">Şarkı başlığı girin</string>
     <string name="toast_download_error_by_count_limit">Bu ay için indirme kotanız kadar kullanmış</string>
     <string name="toast_download_error_by_not_login">Mi hesabına oturum açıp yeniden deneyin</string>
     <string name="toast_download_error_by_vip_required">Bu şarkıyı ayrıcalıklı şarkı paketinden al</string>
     <string name="toast_download_in_process">İndirme durumu</string>
+    <string name="toast_favorite_has_been_added">Oynatma listesine başarıyla eklendi</string>
+    <string name="toast_follow_success">Başarıyla takip edildi</string>
     <string name="toast_is_pro">Sen zaten bir Pro üyesisin</string>
     <string name="toast_my_playlist_illegal_name">Bu oynatma listesinin başlığı geçerli değil. Bu oynatma listesini yeniden adlandırın</string>
     <string name="toast_my_playlist_set_to_private">Bu oynatma listesi şimdi özel. Diğer insanlar göremez</string>
@@ -1326,6 +1350,9 @@ mutlu ol"</string>
     <string name="toast_normal_songs_for_download">Standart kalite ayarında indiriliyor</string>
     <string name="toast_normal_songs_for_stream">Standart kalite seti indiriliyor</string>
     <string name="toast_not_pro">Bu özellik yalnızca Pro üyeleri tarafından kullanılabilir</string>
+    <string name="toast_playlist_has_been_added">Sıraya başarıyla eklendi</string>
+    <string name="toast_playlist_has_been_private">Bu oynatma listesi özeldir</string>
+    <string name="toast_playlist_has_been_public">Bu oynatma listesi herkese açıktır</string>
     <string name="toast_playmode_loop_playback">Mevcut oynatma listesi döngülü</string>
     <string name="toast_playmode_shuffle_play">Oynatma karışık</string>
     <string name="toast_playmode_single_cycle">Mevcut şarkı döngülü</string>
@@ -1358,11 +1385,15 @@ mutlu ol"</string>
     <string name="upload_playlist_to_hungama_toast">Çevrimiçi şarkılar Hungama ile senkronize edilecek</string>
     <string name="user_agreement">Kullanıcı sözleşmesi</string>
     <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=en</string>
+    <string name="user_playlist_plaza">Oynatma listeleri</string>
     <string name="user_privacy_dialog_negative_text">İptal et</string>
     <string name="user_privacy_dialog_positive_count_down_text">Geri al (%s saniye)</string>
     <string name="user_privacy_dialog_positive_text">Geri al</string>
     <string name="user_privacy_setting_group_title">Yetki</string>
     <string name="user_privacy_setting_title">Yetkilendirmenizi vermek veya iptal etmek için anahtarı değiştirin</string>
+    <string name="user_profile_created_playlist_title">Özel oynatma listeleri</string>
+    <string name="user_profile_fans_count">Takipçiler: %s</string>
+    <string name="user_profile_follow_count">Takip edilen: %s</string>
     <string name="v7_preference_off">Kapalı</string>
     <string name="v7_preference_on">Açık</string>
     <string name="version_info">Sürüm</string>

@@ -40,6 +40,10 @@
         <item quantity="other">%d not</item>
         <item quantity="one">%d not</item>
     </plurals>
+    <plurals name="dirty_note_count_v2">
+        <item quantity="other">%d not</item>
+        <item quantity="one">%d not</item>
+    </plurals>
     <plurals name="dirty_personalAssistant_count">
         <item quantity="other">%d akıllı yardımcı öğesi</item>
         <item quantity="one">%d akıllı yardımcı öğesi</item>

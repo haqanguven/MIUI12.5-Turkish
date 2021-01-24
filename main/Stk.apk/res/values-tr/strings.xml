@@ -30,5 +30,7 @@
     <string name="stk_dialog_accept">Evet</string>
     <string name="stk_dialog_reject">Hayır</string>
     <string name="stk_dialog_title">Sim kart</string>
+    <string name="stk_ic_remove_content">Ana ekran kısayolunu kaldırdıktan sonra USim araç setini ayarlar uygulaması aracılığıyla kullanmaya devam edebilirsiniz</string>
+    <string name="stk_ic_remove_title">USim araç seti ana ekrandan kaldırılsın mı?</string>
     <string name="stk_no_service">Kullanılabilir servis yok</string>
 </resources>

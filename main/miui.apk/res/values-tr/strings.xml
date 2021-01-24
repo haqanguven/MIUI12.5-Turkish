@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="label">Miui Sdk</string>
+    <string name="label">MIUI Sdk</string>
     <string name="send">Gönder</string>
     <string name="close">Kapat</string>
     <string name="date_picker_label_year" />
@@ -614,6 +614,8 @@
     <string name="com_miui_compass">Pusula</string>
     <string name="com_miui_calculator">Hesaplayıcı</string>
     <string name="com_miui_health">Xiaomi sağlık</string>
+    <string name="com_xiaomi_vipaccount">Mi topluluk</string>
+    <string name="com_miui_virtualsim">Mi dolaşım</string>
     <string name="system_restore">Geri yükleme</string>
     <string name="after_reset_need_restore_system_app">Fabrika ayarlarına sıfırlama yaptığınız anlaşılıyor. MIUI yazılımını normal şekilde kullanabilmek için ağa bağlanın ve sistem öğelerini geri yükleyin</string>
     <string name="system_app_is_restore">Sistem öğeleri geri yükleniyor</string>
@@ -629,4 +631,7 @@
     <string name="mobile_data_remind">Veri kullanımı uyarısı</string>
     <string name="mobile_data_consume">Öğelerin şimdi indirilmesi için %1$s MB mobil veri kullanılması gerekiyor. Yinede indirilsin mi?</string>
     <string name="download_right_now">İndir</string>
+    <string name="experience_new_system_app">Yeni özelliklere göz atın</string>
+    <string name="tap_to_update_system_app">Sistem uygulamalarını güncellemek için dokunun</string>
+    <string name="wait_for_wlan_china">Wifi için bekleyin</string>
 </resources>

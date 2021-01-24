@@ -1016,7 +1016,6 @@ Başka bir Sim kart için kablosuz servis sağlayıcınıza başvurun"</string>
     <string name="kg_sim_pin_instructions">Sim Pin kodunu Girin</string>
     <string name="kg_sim_pin_instructions_multi">%1$s için Sim Pin kodunu girin</string>
     <string name="kg_sim_unlock_progress_dialog_message">Sim kartı kilidi açılıyor</string>
-    <string name="kg_too_many_failed_attempts_countdown">%d saniye içinde tekrar deneyin</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message">"Şifrenizi %1$d kez yanlış yazdınız
 
 %2$d saniye içinde tekrar deneyin"</string>

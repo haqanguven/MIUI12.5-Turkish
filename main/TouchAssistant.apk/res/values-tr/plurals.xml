@@ -16,7 +16,7 @@
         <item quantity="other">Yarım saat içinde</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
-        <item quantity="other">Hemen</item>
+        <item quantity="other">Şimdi</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">%d dakika içinde</item>
@@ -39,14 +39,18 @@
         <item quantity="other">Yarım saat içinde</item>
     </plurals>
     <plurals name="in_less_than_one_minute">
-        <item quantity="other">Hemen</item>
+        <item quantity="other">Şimdi</item>
     </plurals>
     <plurals name="in_num_minutes">
         <item quantity="other">%d dakika içinde</item>
         <item quantity="one">1 dakika içinde</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="other">Şu anda</item>
+        <item quantity="other">Şimdi</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d öğe seçildi</item>
+        <item quantity="one">%d öğe seçildi</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d dakika önce</item>

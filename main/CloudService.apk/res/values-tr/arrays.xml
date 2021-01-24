@@ -35,7 +35,19 @@
         <item>Cihazınızı kaybettiğiniz zaman uzaktan kolayca kilitleyin</item>
     </string-array>
     <string-array name="micloud_entrance_subtitleArray_china">
-        <item>Rehberinizi, mesajlarınızı, notlarınızı, takviminizi ve daha fazlasını senkronize edin</item>
+        <item>Kişilerinizi, mesajlarınızı, notlarınızı, takviminizi ve daha fazlasını senkronize edin</item>
+        <item>Uygulamalarınızı, ana ekran düzeninizi ve duvar kağıtlarınızı yedekleyin</item>
+        <item>Wifi ve ekran da dahil olmak üzere önemli ayarları yedekleyin</item>
+        <item>Cihazınızı kaybettiğiniz zaman uzaktan kolayca kilitleyin</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china_v2">
+        <item>Kişilerinizi, mesajlarınızı, notlarınızı, takviminizi ve daha fazlasını senkronize edin</item>
+        <item>Uygulamalarınızı, ana ekran düzeninizi ve duvar kağıtlarınızı yedekleyin</item>
+        <item>Wifi ve ekran da dahil olmak üzere önemli ayarları yedekleyin</item>
+        <item>Cihazınızı kaybettiğiniz zaman uzaktan kolayca kilitleyin</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_v2">
+        <item>Kişilerinizi, mesajlarınızı, notlarınızı, takviminizi ve daha fazlasını senkronize edin</item>
         <item>Uygulamalarınızı, ana ekran düzeninizi ve duvar kağıtlarınızı yedekleyin</item>
         <item>Wifi ve ekran da dahil olmak üzere önemli ayarları yedekleyin</item>
         <item>Cihazınızı kaybettiğiniz zaman uzaktan kolayca kilitleyin</item>
@@ -121,6 +133,11 @@
         <item>Müzik;Bulut;Senkronize;Bulut hizmetleri;Mi bulut</item>
     </string-array>
     <string-array name="settings_search_notes">
+        <item>Notları Mi bulut ile senkronize et</item>
+        <item>Senkronizasyonu aç</item>
+        <item>Notlar;Bulut;Senkronize;Bulut hizmetleri;Mi bulut</item>
+    </string-array>
+    <string-array name="settings_search_notes_v2">
         <item>Notları Mi bulut ile senkronize et</item>
         <item>Senkronizasyonu aç</item>
         <item>Notlar;Bulut;Senkronize;Bulut hizmetleri;Mi bulut</item>

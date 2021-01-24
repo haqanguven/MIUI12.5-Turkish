@@ -178,6 +178,7 @@ Profiliniz %s hesabınızdaki bilgiler doğrultusunda güncellendi"</string>
     <string name="diagnosis_log_sent_format">"Kayıt günlüğü başarıyla gönderildi
 Kimlik: %s
 Bu kodu amirinize gönderin"</string>
+    <string name="download_file">%s indiriliyor</string>
     <string name="empty_device_list_notice">Cihaz yok</string>
     <string name="ep_unsupported">Cihazınız Xiaomi hesabına giriş yapmayı desteklemiyor</string>
     <string name="error_dup_binded_email">Bu e-posta adresi zaten başka bir Mi hesabı ile ilişkilendirilmiş durumda</string>
@@ -408,6 +409,8 @@ Bu kodu amirinize gönderin"</string>
     <string name="passport_login_instead_reg">Bu numarayı kullan</string>
     <string name="passport_login_instead_reg_with_email">Bu e-posta adresini kullan</string>
     <string name="passport_login_other_account">Diğer hesaplar</string>
+    <string name="passport_login_other_phone">Başka bir hesap kullan</string>
+    <string name="passport_login_other_way">Oturum açmanın diğer yolları</string>
     <string name="passport_login_prompt">Tek bir Mi hesabı. Tüm Mi hizmetleri</string>
     <string name="passport_login_recycle_account_no">Hayır</string>
     <string name="passport_login_recycle_account_yes">Evet</string>
@@ -425,6 +428,10 @@ Bu kodu amirinize gönderin"</string>
     <string name="passport_prev">Önceki</string>
     <string name="passport_privacy_policy">Gizlilik politikasını</string>
     <string name="passport_privacy_policy_required">Gizlilik politikası (Zorunlu)</string>
+    <string name="passport_provision_activator_phone_summary_sim1_prefix">Sim <xliff id="sim1" refersto="1">%1$d</xliff> %2$s</string>
+    <string name="passport_provision_activator_phone_summary_sim2_prefix">Sim <xliff id="sim2" refersto="2">%1$d</xliff> %2$s</string>
+    <string name="passport_provision_input_email_register_prompt">Kişisel verileriniz seçtiğiniz bölgenin yasa ve yönetmeliklerine uygun olarak saklanacaktır</string>
+    <string name="passport_provision_password_req_notice">Şu türlerden en az <xliff id="min_pwd_len" refersto="8">%1$d</xliff>-<xliff id="max_pwd_len" refersto="16">%2$d</xliff> en az karakter <xliff id="min_pwd_type" refersto="2">%3$d</xliff> : Harfler, rakamlar ve özel semboller</string>
     <string name="passport_pwd_generate_failure">Şifre oluşturulamadı</string>
     <string name="passport_pwd_generating">Oluşturuluyor</string>
     <string name="passport_querying_phone_info">Hesap bilgileri isteniyor</string>
@@ -461,6 +468,7 @@ Bu kodu amirinize gönderin"</string>
     <string name="passport_register_restricted_title">Bu telefon numarası kullanılamıyor</string>
     <string name="passport_register_using_other_ways">Diğer kayıt olma yolları</string>
     <string name="passport_registered_phone_num">Telefon: %s</string>
+    <string name="passport_registered_phone_num_v2">Telefon numarası</string>
     <string name="passport_registered_phone_user_ID">Kullanıcı kimliği: %s</string>
     <string name="passport_registered_phone_user_name">Kullanıcı adı: %s</string>
     <string name="passport_reject_recycle_account">Hayır</string>
@@ -507,14 +515,14 @@ Bu kodu amirinize gönderin"</string>
     <string name="passport_trust_device">Bu cihazı onaylı cihazlara ekle</string>
     <string name="passport_trying_read_verify_code_sms">Doğrulama kodu alınıyor</string>
     <string name="passport_uplink_reg">Telefon numarası kullan</string>
-    <string name="passport_uplink_send_sms_hint">Oluşturulmuş bir mesajla sayfaya yeniden yönlendirildikten sonra göndere dokunun</string>
+    <string name="passport_uplink_send_sms_hint">Oluşturulmuş bir mesajın bulunduğu sayfaya yeniden yönlendirildikten sonra gönder düğmesine dokunun</string>
     <string name="passport_uplink_slot1_reg">"Sim 1'i kullan"</string>
     <string name="passport_uplink_slot2_reg">"Sim 2'yi kullan"</string>
-    <string name="passport_uplink_sms_send_cancel">Yukarıdaki bağlantı mesajı gönderimi iptal etti</string>
+    <string name="passport_uplink_sms_send_cancel">Yukarı bağlantı mesaj gönderimi iptal edildi</string>
     <string name="passport_uplink_sms_send_confirm">Gönder</string>
-    <string name="passport_uplink_sms_send_failed">Yukarıdaki bağlantı mesajı doğrulanamadı</string>
+    <string name="passport_uplink_sms_send_failed">Yukarı bağlantı mesajı doğrulanamadı</string>
     <string name="passport_uplink_sms_sending">Ücretli mesaj gönderiliyor</string>
-    <string name="passport_uplink_suggest_dialog_msg">Kod alınamadı. Bunun yerine ücretli bağlantı mesajı kullanılsın mı?</string>
+    <string name="passport_uplink_suggest_dialog_msg">Kod alınamadı. Bunun yerine ücretli bir yukarı bağlantı mesajı gönderilsin mi?</string>
     <string name="passport_uplink_suggest_dialog_title">Dikkat</string>
     <string name="passport_use_generated_pwd_message">Şifrenizi hatırladığınızdan emin olun. Şifrenizi diğer Mi hizmetlerinde oturum açmak için kullanabilirsiniz</string>
     <string name="passport_use_generated_pwd_title">Şifrenizi hatırlayın</string>
@@ -538,6 +546,8 @@ Bu kodu amirinize gönderin"</string>
     <string name="passport_wx_bind_account_limit">Şimdi hesap oluşturulamıyor. Diğer oturum açma yöntemlerini deneyin</string>
     <string name="passport_yes">Evet</string>
     <string name="password_toggle_content_description">Şifreyi göster</string>
+    <string name="password_view_hide_password">Şifreyi gizle</string>
+    <string name="password_view_show_password">Şifreyi göster</string>
     <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
     <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
@@ -549,6 +559,9 @@ Bu kodu amirinize gönderin"</string>
     <string name="phone_num_use_for">Telefon numarası aşağıdakiler için kullanılır:</string>
     <string name="photoPickerNotFoundText">Kullanılabilir fotoğraf yok</string>
     <string name="preference_copied">%1$s panoya kopyalandı</string>
+    <string name="provision_back">Geri</string>
+    <string name="provision_next">Sonraki</string>
+    <string name="provision_skip_underline">Atla</string>
     <string name="push_notification_content">Doğrulama kodu al</string>
     <string name="push_notification_title">Mi hesabınızda bilinmeyen bir cihazda oturum açtınız</string>
     <string name="push_notify_dialog_message">Mi hesabınızda oturum açmak için bilinmeyen bir cihaz kullanıldı. Bu doğrulama kodunu cihazda girin. Girişi yapan siz değilseniz Mi hesap şifrenizi en kısa sürede değiştirin. Doğrulama koduna başkalarının erişimine izin vermeyin</string>
@@ -635,5 +648,6 @@ Bu kodu amirinize gönderin"</string>
     <string name="vip_account_settings">Vip ayarları</string>
     <string name="vip_settings_info">Vip ayarları</string>
     <string name="weixin">WeChat</string>
+    <string name="weixin_login">WeChat ile oturum açın</string>
     <string name="xiao_mi_vip">Mi vip</string>
 </resources>

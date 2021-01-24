@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 saat önce</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 saat önce</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Yarım saat önce</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">1 saat içerisinde</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Yarım saat içerisinde</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Hemen</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d dakika içerisinde</item>
+        <item quantity="one">1 dakika içerisinde</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Şimdi</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d dakika önce</item>
+        <item quantity="one">1 dakika önce</item>
+    </plurals>
     <plurals name="add_game_notification_title">
         <item quantity="other">%d oyun eklendi</item>
         <item quantity="one">%d oyun eklendi</item>
@@ -81,8 +110,8 @@
         <item quantity="one">%d yıl önce kullanıldı</item>
     </plurals>
     <plurals name="applock_app_suggest_lock">
-        <item quantity="other">"+ %1$s uygulamaya, uygulama kilidi ayarlayabilirsiniz"</item>
-        <item quantity="one">"+ %1$s uygulamaya, uygulama kilidi ayarlayabilirsiniz"</item>
+        <item quantity="other">+ %1$s uygulamaya, uygulama kilidi ayarlayabilirsiniz</item>
+        <item quantity="one">+ %1$s uygulamaya, uygulama kilidi ayarlayabilirsiniz</item>
     </plurals>
     <plurals name="applock_guide_app_count_tips">
         <item quantity="other">En az %s uygulamayı koruyabilirsiniz</item>
@@ -188,6 +217,10 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
         <item quantity="other">Üst üste %d gün içinde kontrol edildi</item>
         <item quantity="one">%d zaman içinde kontrol edildi</item>
     </plurals>
+    <plurals name="gb_voice_changer_toast_tips_window_bubble">
+        <item quantity="other">"Ses değiştiriciyi şimdi deneyin
+%d günlük ücretsiz deneme için"</item>
+    </plurals>
     <plurals name="gb_voice_changer_trial_gain_fail">
         <item quantity="other">%d günlük ücretsiz deneme alınamadı</item>
         <item quantity="one">%d günlük ücretsiz deneme alınamadı</item>
@@ -209,6 +242,13 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
     <plurals name="gb_voice_changer_user_tips_info">
         <item quantity="other">%d günlük ücretsiz deneme edinin</item>
         <item quantity="one">%d günlük ücretsiz deneme edinin</item>
+    </plurals>
+    <plurals name="gtb_spring_festival_colored_egg">
+        <item quantity="other">Tebrikler! %S Paskalya yumurtasının kilidini açtınız</item>
+        <item quantity="one">Tebrikler! %S Paskalya yumurtasının kilidini açtınız</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Yarım saat önce</item>
     </plurals>
     <plurals name="hide_txt_hint_with_blank_2">
         <item quantity="other">    +%1$d daha fazla karakter</item>
@@ -282,6 +322,19 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
         <item quantity="other">%d fotoğrafı sil</item>
         <item quantity="one">%d fotoğrafı sil</item>
     </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1 saat içerisinde</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Yarım saat içerisinde</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Hemen</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d dakika içerisinde</item>
+        <item quantity="one">1 dakika içerisinde</item>
+    </plurals>
     <plurals name="install_game_count_title">
         <item quantity="other">%d oyun eklendi</item>
         <item quantity="one">%d oyun eklendi</item>
@@ -298,9 +351,16 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
         <item quantity="other">%s dakika</item>
         <item quantity="one">%s dakika</item>
     </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Şimdi</item>
+    </plurals>
     <plurals name="lockpattern_recording_incorrect_too_short">
         <item quantity="other">En az %d noktayı bağlayın</item>
         <item quantity="one">En az %d noktayı bağlayın</item>
+    </plurals>
+    <plurals name="lockpattern_recording_intro_header_new">
+        <item quantity="other">En az %s noktayı birleştirin</item>
+        <item quantity="one">En az %s noktayı birleştirin</item>
     </plurals>
     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
         <item quantity="other">"%d saniye bekledikten sonra yeniden deneyin. "</item>
@@ -330,6 +390,10 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
         <item quantity="other">%d güncelleme mevcut</item>
         <item quantity="one">%d güncelleme mevcut</item>
     </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d items selected</item>
+        <item quantity="one">%d item selected</item>
+    </plurals>
     <plurals name="mixed_recording_incorrect_too_short">
         <item quantity="other">En az %d karakter girin</item>
         <item quantity="one">En az %d karakter girin</item>
@@ -341,6 +405,10 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
     <plurals name="network_restrict_count">
         <item quantity="other">"&lt;font color='#ff0000'>%d uygulamanın ağ erişimi kısıtlandı"</item>
         <item quantity="one">"&lt;font color='#ff0000'>%d uygulamanın ağ erişimi kısıtlandı"</item>
+    </plurals>
+    <plurals name="notification_antivirus_title">
+        <item quantity="other">Güvenlik taraması olmadan %d gün</item>
+        <item quantity="one">Güvenlik taraması olmadan %d gün</item>
     </plurals>
     <plurals name="notification_battery_consume_abnormal_summary">
         <item quantity="other">Son %1$d dakika boyunca pilin %%%2$d boşaldı</item>
@@ -354,6 +422,10 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
         <item quantity="other">%d yükleme paketini sil</item>
         <item quantity="one">%d yükleme paketini sil</item>
     </plurals>
+    <plurals name="notification_link_cleaner_2006">
+        <item quantity="other">"%d kalan Apk'yı silin"</item>
+        <item quantity="one">"%d kalan Apk'yı silin"</item>
+    </plurals>
     <plurals name="notification_power_consume_issue">
         <item quantity="other">%d pil kullanım sorunu</item>
         <item quantity="one">%d pil kullanım sorunu</item>
@@ -365,6 +437,10 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
     <plurals name="notification_title_cmcc_app_check">
         <item quantity="other">Son kontrolden beri %d gün</item>
         <item quantity="one">Son kontrolden beri %d gün</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d dakika önce</item>
+        <item quantity="one">1 dakika önce</item>
     </plurals>
     <plurals name="number_locked">
         <item quantity="other">%d uygulama kilitlendi</item>
@@ -493,10 +569,6 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
     <plurals name="power_center_battery_duration_min_time_format">
         <item quantity="other">" dakika"</item>
         <item quantity="one">" dakika"</item>
-    </plurals>
-    <plurals name="power_center_battery_health_summary">
-        <item quantity="other">Doğru istatistikler almak için cihazınızı en az %2$d kez tam olarak şarj edin</item>
-        <item quantity="one">Doğru istatistikler almak için cihazınızı en az %2$d kez tam olarak şarj edin</item>
     </plurals>
     <plurals name="power_center_battery_hour">
         <item quantity="other">"%d saat "</item>
@@ -722,9 +794,23 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
         <item quantity="other">%d oyun henüz eklenmedi</item>
         <item quantity="one">%d oyun henüz eklenmedi</item>
     </plurals>
+    <plurals name="unlock_set_unlock_pattern_summary_new">
+        <item quantity="other">En az %s noktayı birleştirin</item>
+        <item quantity="one">En az %s noktayı birleştirin</item>
+    </plurals>
+    <plurals name="unlock_set_unlock_pin_summary_new">
+        <item quantity="other">%s basamak girin</item>
+        <item quantity="one">%s basamak girin</item>
+    </plurals>
     <plurals name="videobox_settings_manager_apps_count">
         <item quantity="other">%d uygulama</item>
         <item quantity="one">%d uygulama</item>
+    </plurals>
+    <plurals name="videobox_settings_timing_bubble">
+        <item quantity="other">"Zaten %d saattir video izliyorsunuz
+Bir ara verin"</item>
+        <item quantity="one">"Zaten %d saattir video izliyorsunuz
+Bir ara verin"</item>
     </plurals>
     <plurals name="view_num">
         <item quantity="other">%1$d görüntülenme</item>

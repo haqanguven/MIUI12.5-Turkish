@@ -352,7 +352,7 @@
         <item>@string/month_december_shortest</item>
     </string-array>
     <string-array name="notification_style_entries">
-        <item>Miui</item>
+        <item>MIUI</item>
         <item>Android</item>
     </string-array>
     <string-array name="notification_style_values">

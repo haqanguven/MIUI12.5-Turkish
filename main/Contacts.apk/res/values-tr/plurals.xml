@@ -58,8 +58,8 @@
         <item quantity="one">%d telefon numarası</item>
     </plurals>
     <plurals name="call_remove_exception_numbers_confirm">
-        <item quantity="other">%d telefon numarasını sil?</item>
-        <item quantity="one">%d telefon numarasını sil?</item>
+        <item quantity="other">%d telefon numarası silinsin mi?</item>
+        <item quantity="one">%d telefon numarası silinsin mi?</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
         <item quantity="other">%1$d kişi veya fotoğraf henüz senkronize edilmedi</item>
@@ -72,6 +72,14 @@
     <plurals name="contacts_count">
         <item quantity="other">%1$d kişi</item>
         <item quantity="one">%1$d kişi</item>
+    </plurals>
+    <plurals name="contacts_trash_delete_dialog_respond">
+        <item quantity="other">Deleted %d contacts permanently</item>
+        <item quantity="one">Deleted %d contact permanently</item>
+    </plurals>
+    <plurals name="contacts_trash_restore_respond">
+        <item quantity="other">%d kişi geri yüklendi</item>
+        <item quantity="one">%d kişi geri yüklendi</item>
     </plurals>
     <plurals name="device_import_done_toast">
         <item quantity="other">%1$d kişi içe aktarıldı</item>

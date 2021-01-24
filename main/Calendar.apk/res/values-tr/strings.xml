@@ -84,11 +84,11 @@
     <string name="address">Adres</string>
     <string name="afternoon">PM</string>
     <string name="agenda_month_empty_hint">Bugün etkinlik yok</string>
-    <string name="agenda_not_today_empty_hint">No events here yet. Tap to create one.</string>
+    <string name="agenda_not_today_empty_hint">Burada henüz etkinlik yok. Bir tane oluşturmak için dokunun</string>
     <string name="agenda_tomorrow">Yarın, %1$s</string>
     <string name="agenda_view">Etkinlikler</string>
     <string name="alarm_label">Anladım</string>
-    <string name="alarm_open_reminder">Set alarm</string>
+    <string name="alarm_open_reminder">Alarm ayarla</string>
     <string name="alarm_reminder_already">Alarm başarıyla kuruldu</string>
     <string name="alert_reminder_divider">|</string>
     <string name="alert_reminder_expired">Süresi doldu</string>
@@ -294,7 +294,7 @@
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
-    <string name="date_picker_lunar">Ay takvimi</string>
+    <string name="date_picker_lunar">Çin geleneceksel takvim</string>
     <string name="date_time_fmt">%1$s, %2$s</string>
     <string name="date_today">" (Bugün)"</string>
     <string name="day_view_new_event_hint">+ Yeni etkinlik</string>

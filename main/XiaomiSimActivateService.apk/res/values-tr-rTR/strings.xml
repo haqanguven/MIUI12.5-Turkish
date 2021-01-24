@@ -146,9 +146,9 @@ Yeniden etkinleştirme işlemi için yeni Sim kartınız (%s) ile bağlantılı 
     <string name="error_no_send_sms_permission">Xiaomi Sim etkinleştirme servisi mesaj göndermek için izin gerektiriyor</string>
     <string name="error_sim_not_in_service">Sim kart etkinleştirilemiyor. Bakiyenizin yeterli olduğundan emin olun</string>
     <string name="error_sim_not_in_service_tip">"Sim %d ağa bağlanamıyor. Sim kartın düzgün çalıştığından emin olun ve tekrar deneyin"</string>
-    <string name="explain_activate_feature_server_title">Activate %s</string>
-    <string name="explain_activate_register_xiaomi_account_title">Create Mi Account</string>
-    <string name="explain_activate_send_sms_permission_msg">To activate %s, your device needs permissions to send activation SMS. Your carrier will charge you for this message.</string>
+    <string name="explain_activate_feature_server_title">%s etkinleştir</string>
+    <string name="explain_activate_register_xiaomi_account_title">Mi hesabı oluşturun</string>
+    <string name="explain_activate_send_sms_permission_msg">"%s'i etkinleştirmek için cihazınızın aktivasyon mesajı gönderme iznine ihtiyacı var. Operatörünüz bu mesaj için sizden ücret alacaktır"</string>
     <string name="explain_send_sms_permission_button">Doğrula</string>
     <string name="explain_send_sms_permission_msg">%s hizmetini etkinleştirmek için Xiaomi hizmet çerçevesi telefon numaranızı doğrulamak amacıyla bir mesaj gönderecektir. Operatörünüz tarafından yurtiçi mesaj ücreti alınacaktır</string>
     <string name="explain_send_sms_permission_title">Telefon numaranızı doğrulayın</string>

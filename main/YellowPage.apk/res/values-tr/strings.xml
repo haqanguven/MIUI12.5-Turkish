@@ -402,6 +402,7 @@ Sık yapılan sorgulardan kaçınmak için bakiye verileri günde bir kez günce
     <string name="miuix_search_history_clear">Arama geçmişini temizle</string>
     <string name="miuix_search_history_default_title">Arama geçmişi</string>
     <string name="miuix_search_recommendation_default_title">Bunlarla ilgileniyor olabilirsiniz</string>
+    <string name="miuix_search_recommendation_item_del_des">Sil</string>
     <string name="monday">Pazartesi</string>
     <string name="monday_short">Pazartesi</string>
     <string name="monday_shortest">P</string>

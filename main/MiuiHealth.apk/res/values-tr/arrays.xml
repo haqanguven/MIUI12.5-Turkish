@@ -12,6 +12,11 @@
         <item>1.5x</item>
         <item>2x</item>
     </string-array>
+    <string-array name="ShareTabTitle">
+        <item>Fotoğraf</item>
+        <item>Rota</item>
+        <item>Kart</item>
+    </string-array>
     <string-array name="SportTabTitle">
         <item>Koşu</item>
         <item>Yürüme</item>

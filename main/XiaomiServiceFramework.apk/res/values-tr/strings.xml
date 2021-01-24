@@ -10,6 +10,7 @@ Cihaz kimliği geçerli bir İmei numarası veya Mac adresi olmalıdır. Cihaz k
     <string name="explain_send_sms_permission_title">Telefon numaranızı doğrulayın</string>
     <string name="pop_up_allow_notify_dialog">Kabul et</string>
     <string name="pop_up_deny_notify_dialog">Reddet</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sync_notification_title_format">Şu anda senkronize edilen öğe: %1$s</string>
     <string name="xiaomi_cloud_service">Mi bulut</string>
     <string name="xmsf_activate_info">Xiaomi hizmet çerçevesi etkinleştirme bilgisi</string>

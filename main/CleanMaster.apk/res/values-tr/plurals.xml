@@ -27,28 +27,28 @@
         <item quantity="one">%2$s boşaltmak için %1$d adım atın</item>
     </plurals>
     <plurals name="dc_item_summary_apk">
-        <item quantity="other">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> kurulum paketini silebilirsiniz&lt;/Data></item>
-        <item quantity="one">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> kurulum paketini silebilirsiniz&lt;/Data></item>
+        <item quantity="other">&lt;font color="#0097FF">%d&lt;/font> kurulum paketini silebilirsiniz</item>
+        <item quantity="one">&lt;font color="#0097FF">%d&lt;/font> kurulum paketini silebilirsiniz</item>
     </plurals>
     <plurals name="dc_item_summary_app_data">
-        <item quantity="other">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> uygulama için verileri temizleyebilirsiniz&lt;/Data></item>
-        <item quantity="one">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> uygulama için verileri temizleyebilirsiniz&lt;/Data></item>
+        <item quantity="other">&lt;font color="#0097FF">%d&lt;/font> uygulama için verileri temizleyebilirsiniz</item>
+        <item quantity="one">&lt;font color="#0097FF">%d&lt;/font> uygulama için verileri temizleyebilirsiniz</item>
     </plurals>
     <plurals name="dc_item_summary_image">
-        <item quantity="other">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> gereksiz fotoğrafı silebilirsiniz&lt;/Data></item>
-        <item quantity="one">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> gereksiz fotoğrafı silebilirsiniz&lt;/Data></item>
+        <item quantity="other">&lt;font color="#0097FF">%d&lt;/font> gereksiz fotoğrafı silebilirsiniz</item>
+        <item quantity="one">&lt;font color="#0097FF">%d&lt;/font> gereksiz fotoğrafı silebilirsiniz</item>
     </plurals>
     <plurals name="dc_item_summary_large_file">
-        <item quantity="other">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> büyük boyutlu dosyayı silebilirsiniz&lt;/Data></item>
-        <item quantity="one">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> büyük boyutlu dosyayı silebilirsiniz&lt;/Data></item>
+        <item quantity="other">&lt;font color="#0097FF">%d&lt;/font> büyük boyutlu dosyayı silebilirsiniz</item>
+        <item quantity="one">&lt;font color="#0097FF">%d&lt;/font> büyük boyutlu dosyayı silebilirsiniz</item>
     </plurals>
     <plurals name="dc_item_summary_uninstall_app">
-        <item quantity="other">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> uygulamayı kaldırabilirsiniz&lt;/Data></item>
-        <item quantity="one">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> uygulamayı kaldırabilirsiniz&lt;/Data></item>
+        <item quantity="other">&lt;font color="#0097FF">%d&lt;/font> uygulamayı kaldırabilirsiniz</item>
+        <item quantity="one">&lt;font color="#0097FF">%d&lt;/font> uygulamayı kaldırabilirsiniz</item>
     </plurals>
     <plurals name="dc_item_summary_video">
-        <item quantity="other">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> videoyu silebilirsiniz&lt;/Data></item>
-        <item quantity="one">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> videoyu silebilirsiniz&lt;/Data></item>
+        <item quantity="other">&lt;font color="#0097FF">%d&lt;/font> videoyu silebilirsiniz</item>
+        <item quantity="one">&lt;font color="#0097FF">%d&lt;/font> videoyu silebilirsiniz</item>
     </plurals>
     <plurals name="deepclean_apk_summary">
         <item quantity="other">%d Apk bulundu. Gereksiz olanları silebilirsiniz</item>
@@ -87,12 +87,12 @@
         <item quantity="one">%1$s fotoğraf tüm cihazlardan silinsin mi?</item>
     </plurals>
     <plurals name="global_wa_clean_finish_audio">
-        <item quantity="other">&lt;Data>&lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> boşaltıldı (&lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> şarkı için yeterli)&lt;/Data></item>
-        <item quantity="one">&lt;Data>&lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> boşaltıldı (&lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> şarkı için yeterli)&lt;/Data></item>
+        <item quantity="other">&lt;font color="#01BB00">&lt;big>&lt;big>%1$s boşaltıldı (&lt;font color="#01BB00">&lt;big>&lt;big>%2$d şarkı için yeterli)</item>
+        <item quantity="one">&lt;font color="#01BB00">&lt;big>&lt;big>%1$s boşaltıldı (&lt;font color="#01BB00">&lt;big>&lt;big>%2$d şarkı için yeterli)</item>
     </plurals>
     <plurals name="global_wa_clean_finish_picture">
-        <item quantity="other">&lt;Data>&lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> boşaltıldı (&lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> fotoğraf için yeterli)&lt;/Data></item>
-        <item quantity="one">&lt;Data>&lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> boşaltıldı (&lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> fotoğraf için yeterli)&lt;/Data></item>
+        <item quantity="other">&lt;font color="#01BB00">&lt;big>&lt;big>%1$s boşaltıldı (&lt;font color="#01BB00">&lt;big>&lt;big>%2$d fotoğraf için yeterli)</item>
+        <item quantity="one">&lt;font color="#01BB00">&lt;big>&lt;big>%1$s boşaltıldı (&lt;font color="#01BB00">&lt;big>&lt;big>%2$d fotoğraf için yeterli)</item>
     </plurals>
     <plurals name="global_wa_image">
         <item quantity="other">%1$d öğe</item>
@@ -103,8 +103,8 @@
         <item quantity="one">%1$d öğe</item>
     </plurals>
     <plurals name="global_wa_voice">
-        <item quantity="other">&lt;Data>&lt;big>&lt;big>&lt;font size=20 color=#FF9000 >%1$d&lt;/font>&lt;/big>&lt;/big> sesli mesaj bulundu&lt;/Data></item>
-        <item quantity="one">&lt;Data>&lt;big>&lt;big>&lt;font size=20 color=#FF9000 >%1$d&lt;/font>&lt;/big>&lt;/big> sesli mesaj bulundu&lt;/Data></item>
+        <item quantity="other">&lt;font size="20" color="#FF9000">&lt;big>&lt;big>%1$d sesli mesaj bulundu</item>
+        <item quantity="one">&lt;font size="20" color="#FF9000">&lt;big>&lt;big>%1$d sesli mesaj bulundu</item>
     </plurals>
     <plurals name="hint_similar_image_header_left">
         <item quantity="other">%d grup</item>
@@ -139,12 +139,16 @@
         <item quantity="one">%1$d kişi tarafından indirildi</item>
     </plurals>
     <plurals name="resutl_function_install_app_summary">
-        <item quantity="other">&lt;Data>"&lt;font color=#ff0000 >%d&lt;/font> uygulama uzun zamandır kullanılmıyor&lt;/Data></item>
-        <item quantity="one">&lt;Data>"&lt;font color=#ff0000 >%d&lt;/font> uygulama uzun zamandır kullanılmıyor&lt;/Data></item>
+        <item quantity="other">&lt;font color="#ff0000">%d&lt;/font> uygulama uzun zamandır kullanılmıyor</item>
+        <item quantity="one">&lt;font color="#ff0000">%d&lt;/font> uygulama uzun zamandır kullanılmıyor</item>
     </plurals>
     <plurals name="second">
         <item quantity="other">%1$d saniye</item>
         <item quantity="one">%1$d saniye</item>
+    </plurals>
+    <plurals name="video_clean_scan_app_result">
+        <item quantity="other">Önbelleğe alınmış videoları olan %d uygulama</item>
+        <item quantity="one">Önbelleğe alınmış videoları olan %d uygulama</item>
     </plurals>
     <plurals name="view_num">
         <item quantity="other">%1$s görüntülenme</item>

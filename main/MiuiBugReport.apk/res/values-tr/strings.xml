@@ -194,6 +194,7 @@
     <string name="choose_to_signin">Evet</string>
     <string name="choose_to_signup">Hayır. Yeni bir hesap oluşturacağım</string>
     <string name="clearable_edittext_clear_description">Temizle</string>
+    <string name="close">Kapat</string>
     <string name="close_feedback_main">Gizle</string>
     <string name="collect_diagnosis_log">Günlükleri topla</string>
     <string name="confirm_activate_email">Doğrulandı</string>
@@ -212,7 +213,8 @@
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
-    <string name="date_picker_lunar">Çin Geleneksel Takvimi</string>
+    <string name="date_picker_lunar">Çin geleneksel takvimi</string>
+    <string name="date_time_picker_dialog_title">Tarih ve saati ayarla</string>
     <string name="description">Sorunu açıklayın</string>
     <string name="diagnosis_log_send_failed">Kayıtlar gönderilemedi. Tekrar deneyin</string>
     <string name="diagnosis_log_sent_format">"Kayıtlar başarıyla gönderildi
@@ -506,10 +508,13 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="miuix_appcompat_cancel_description">İptal</string>
     <string name="miuix_appcompat_confirm_description">Onayla</string>
     <string name="miuix_appcompat_delete_description">Sil</string>
+    <string name="miuix_appcompat_deselect_all">Seçimi kaldır</string>
     <string name="miuix_appcompat_deselect_all_description">Tüm seçimleri kaldır</string>
     <string name="miuix_appcompat_search_action_mode_cancel">İptal</string>
     <string name="miuix_appcompat_search_input_description">Ara</string>
+    <string name="miuix_appcompat_select_all">Tümünü seç</string>
     <string name="miuix_appcompat_select_all_description">Tümünü seç</string>
+    <string name="miuix_appcompat_select_item">Öğeleri seç</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için çek</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Yenileme tamamlandı</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor</string>
