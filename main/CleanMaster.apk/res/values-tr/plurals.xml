@@ -142,6 +142,14 @@
         <item quantity="other">&lt;font color="#ff0000">%d&lt;/font> uygulama uzun zamandır kullanılmıyor</item>
         <item quantity="one">&lt;font color="#ff0000">%d&lt;/font> uygulama uzun zamandır kullanılmıyor</item>
     </plurals>
+    <plurals name="rs_clean_size_hint_image">
+        <item quantity="other">%d fotoğraf için yeterli</item>
+        <item quantity="one">%d fotoğraf için yeterli</item>
+    </plurals>
+    <plurals name="rs_clean_size_hint_song">
+        <item quantity="other">%d şarkı için yeterli</item>
+        <item quantity="one">%d şarkı için yeterli</item>
+    </plurals>
     <plurals name="second">
         <item quantity="other">%1$d saniye</item>
         <item quantity="one">%1$d saniye</item>

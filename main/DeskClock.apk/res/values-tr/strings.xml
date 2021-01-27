@@ -778,6 +778,7 @@
     <string name="v7_preference_on">Açık</string>
     <string name="vibrate_pref_summary">Alarm çaldığında titret</string>
     <string name="vibrate_when_ringing">Çalarken titret</string>
+    <string name="voice_add_alarm">Sesli komut kullanarak alarm ekle</string>
     <string name="volume_button_setting_desc">Güç ve ses +/- tuşlarına işlev ata</string>
     <string name="volume_button_setting_summary">Alarm sırasında ses tuşlarının fonkisyonunu belirleyin</string>
     <string name="volume_button_setting_title">Ses tuşları</string>

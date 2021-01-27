@@ -809,6 +809,7 @@ Yedeklemeler Xiaomi bulutta saklanır ve kablosuz olarak erişilebilir. Bu yönt
     <string name="battery_details_title">Pil kullanımı</string>
     <string name="battery_footer_summary">Pil kullanımı verileri yaklaşık değerlerdir ve kullanıma dayalı olarak değişebilir</string>
     <string name="battery_full_charge_last">Tam şarjla yaklaşık kullanım süresi:</string>
+    <string name="battery_header_title_alternate">^1<small> <font size="20">%</font></small></string>
     <string name="battery_indicator_style">Pil göstergesi</string>
     <string name="battery_indicator_title">Pil göstergesi</string>
     <string name="battery_info_awake_battery">Pille uyanık kalınan süre:</string>
@@ -6714,6 +6715,8 @@ Bu ^1 birimi sadece bu cihazda çalışacak şekilde biçimlendirilmiştir. Baş
     <string name="storage_settings_for_app">Depolama alanı &amp; önbellek</string>
     <string name="storage_settings_summary">USB belleğin bağlantısını kes, kullanılabilir depolama alanını görüntüle</string>
     <string name="storage_settings_title">Depolama ayarları</string>
+    <string name="storage_size_large">^1<small><small> ^2</string>
+    <string name="storage_size_large_alternate">^1<small> <font size="20">^2</font></string>
     <string name="storage_summary">%1$s kullanılıyor - %2$s boş</string>
     <string name="storage_summary_format">%1$s kullanılıyor (%2$s)</string>
     <string name="storage_summary_with_sdcard">Dahili depolama alanı: %1$s kullanılıyor - %2$s boş</string>

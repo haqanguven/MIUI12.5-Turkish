@@ -136,6 +136,8 @@
     <string name="auto_clean_time_three_day">Her 3 günde bir</string>
     <string name="auto_cleaner_open">Aç</string>
     <string name="back">Geri</string>
+    <string name="browser_scan_history_desc">Tarayıcı geçmişi</string>
+    <string name="browser_search_history_desc">Aranan öğeler</string>
     <string name="btn_text_done">Tamamlandı</string>
     <string name="btn_text_quick_cleanup">Temizle</string>
     <string name="btn_text_quick_cleanup_apk">"Seçili Apk'lari sil: %1$s"</string>
@@ -180,6 +182,7 @@
     <string name="cache_title_empty_folder2">Boş klasör</string>
     <string name="cache_title_system_cache">Sistem önbelleği</string>
     <string name="cached_garbage">Önbellek</string>
+    <string name="call_log">Arama kayıtları</string>
     <string name="cancel">İptal et</string>
     <string name="cd_back">Geri</string>
     <string name="cd_check_box_checked">Kontrol edildi</string>
@@ -209,6 +212,8 @@
     <string name="clear_bigfiles">Büyük boyutlu dosyaları, çoklu fotoğrafları ve diğer kullanılmayan öğeleri sil</string>
     <string name="clear_immediately">Şimdi temizle</string>
     <string name="clear_safe_notify">Bildirim çubuğu aracı</string>
+    <string name="clip_board_history_desc">Kopyalanan veya kesilen içerik</string>
+    <string name="clipboard">Pano</string>
     <string name="close">Kapat</string>
     <string name="confirm_auto_cleaner">Tamam</string>
     <string name="conn_of_function_safe">Güvenlik uygulaması ağ bağlantısı</string>
@@ -275,8 +280,6 @@
     <string name="delete_confirm">Sil</string>
     <string name="delete_confirm_msg">Tüm dosyalar kalıcı olarak silinsin mi?</string>
     <string name="desc_image">İmaj</string>
-    <string name="dialog_button_negative">İptal et</string>
-    <string name="dialog_button_positive">Onayla</string>
     <string name="dialog_content_checkbox_delete_cloud_image">Fotoğrafları Mi bulut üzerindende sil</string>
     <string name="dialog_content_select_all_confirm">Bu fotoğrafın bir kopyası saklansın mı?</string>
     <string name="dialog_msg_add_white_list_error">Bu dosya istisnalara eklenemiyor</string>
@@ -284,7 +287,6 @@
     <string name="dialog_msg_check_all">%2$d öğeyi içeren %1$s uygulamasını seçmek için onaylayın</string>
     <string name="dialog_msg_esc_cleanmaster">Devam eden temizleme taraması durdurulsun mu?</string>
     <string name="dialog_msg_load_cleanup_engine_error">Temizleme motoru zarar görmüş durumda</string>
-    <string name="dialog_msg_permission_desc">"Çöp temizlemenin dahili beta sürümüne erişim elde ettiğiniz için tebrikler! Kullanıcı deneyimini optimize etmek için Xiaomi'nin temizleme kurallarını iyileştirmek için bazı anonim verilerinizi toplaması ve yüklemesi gerekir. Tamam'a tıklamak yukarıdaki içeriği kabul ettiğiniz anlamına gelir"</string>
     <string name="dialog_msg_stop_scan">Devam eden temizleme taraması durdurulsun mu?</string>
     <string name="dialog_msg_uninstall_apps">Bu uygulamala kaldırılsın mı?</string>
     <string name="dialog_msg_uninstall_apps_xspace">Bu uygulamaları çift uygulamalar ile birlikte kaldırılsın mı?</string>
@@ -295,7 +297,6 @@
     <string name="dialog_title_delete_image">Seçili resimleri sil</string>
     <string name="dialog_title_esc_cleanmaster">Temizleyiciden çık</string>
     <string name="dialog_title_load_cleanup_engine_error">Bir şeyler ters gitti</string>
-    <string name="dialog_title_permission_desc">Çöp temizleme</string>
     <string name="dialog_title_stop_scan">Taramayı durdur</string>
     <string name="dialog_title_uninstall_apps">Kaldır</string>
     <string name="download">İndir</string>
@@ -333,6 +334,8 @@
     <string name="function_app_lock_title">%d uygulama güvenliklik riski taşıyor</string>
     <string name="garbage_clean_detail">Detaylar</string>
     <string name="garbage_month">Bu ay %s temizlendi</string>
+    <string name="gb_global_icon_ad_card_btn">Al</string>
+    <string name="gb_global_icon_ad_card_title">Sizin için önerildi</string>
     <string name="gigabyteShort">GB</string>
     <string name="global_wa_audio">Ses</string>
     <string name="global_wa_audio_item_title">Sesli mesaj</string>
@@ -341,7 +344,7 @@
     <string name="global_wa_clean_icon_text">WhatsApp temizleyici</string>
     <string name="global_wa_clean_now">Temizle</string>
     <string name="global_wa_document">Belgeler</string>
-    <string name="global_wa_gif">Gifler</string>
+    <string name="global_wa_gif">GIF</string>
     <string name="global_wa_group_advice">Önerilen</string>
     <string name="global_wa_group_clean_earlier">Daha erken</string>
     <string name="global_wa_group_clean_last_month">Geçen ay</string>
@@ -448,6 +451,7 @@
     <string name="hints_quick_cleanning">Temizleniyor</string>
     <string name="hints_quick_cleanuping">Optimize ediliyor</string>
     <string name="hints_quick_deep_clean">Şimdi temizle</string>
+    <string name="hints_quick_deep_clean2">%s yer açın</string>
     <string name="hints_quick_deep_scanning">Taranıyor</string>
     <string name="hints_quick_deep_uninstall">Şimdi sil</string>
     <string name="hints_quick_prepare">Hazırlanıyor</string>
@@ -465,7 +469,6 @@
     <string name="hot">Popüler</string>
     <string name="hot_today">Bugün popüler</string>
     <string name="information_setting">Öneriler</string>
-    <string name="install">Yükle</string>
     <string name="install_sucess">%s başarıyla yüklendi</string>
     <string name="install_time_format">dd/MM/yyyy</string>
     <string name="install_time_invalid">--</string>
@@ -640,6 +643,8 @@
     <string name="notification_memory_clean_used_size">%s bellek dolu</string>
     <string name="notification_qq_clean_hint">Çöp kutusu cihazınızı yavaşlatır</string>
     <string name="notification_qq_clean_text">"QQ'nun çöp kutusunu temizleyin"</string>
+    <string name="notification_size_1.5_GB">%.1f</string>
+    <string name="notification_size_1_GB">%d</string>
     <string name="notification_summary_after_auto_cleanup">%s temizlendi</string>
     <string name="notification_uninstall_clean_hint">Depolama alanını boşaltmak için çöp kutusunu temizleyin</string>
     <string name="notification_uninstall_clean_text">Kaldırılan uygulamalar cihazınızda çöp kutusu bırakır</string>
@@ -673,7 +678,12 @@
     <string name="optimizecenter_data_support_cm">" "</string>
     <string name="optimizecenter_data_support_tc">" "</string>
     <string name="output_videos">Videoları dışa aktar</string>
+    <string name="permission_dialog_storage_btn1">Ayarlar</string>
+    <string name="permission_dialog_storage_btn2">İptal et</string>
+    <string name="permission_dialog_storage_content">Temizleyicinin normal çalışabilmesi ve dahili depolamaya erişmek için izne ihtiyacı var. Depolama izinlerini yönetmek için ayarlara dokunun</string>
+    <string name="permission_dialog_storage_title">İzinler gerekli</string>
     <string name="petabyteShort">PB</string>
+    <string name="phone_search">Google arama</string>
     <string name="positive_confirm">Tamam</string>
     <string name="powerful_acceleration">Birleştir</string>
     <string name="powerful_acceleration_after">Sonra</string>
@@ -764,6 +774,7 @@
     <string name="privacy_app_desc_message">Hesap, şifre ve mesajlar</string>
     <string name="privacy_app_desc_search">Hesap, şifre ve arama geçmişi</string>
     <string name="privacy_app_desc_setting">Hesap, şifre ve ayarlar</string>
+    <string name="privacy_appdata_chrome_history_des">Ziyaret edilen internet siteleri</string>
     <string name="privacy_browser_desc">Aranan öğeler</string>
     <string name="privacy_cache_desc">Hesap, şifre, geçmiş, ayarlar ve daha fazlası</string>
     <string name="privacy_cache_empty">Özel veri yok</string>
@@ -794,9 +805,13 @@
     <string name="resutl_function_deep_clean_summary"><font color="#ff0000">%1$s</font> daha fazla dosya temizlenebilir. Daha fazla alan boşaltın</string>
     <string name="resutl_function_qq_clean_summary">QQ tarafından oluşturulan <font color="#ff0000">%1$s</font> önbelleği temizleyebilirsiniz</string>
     <string name="resutl_function_wechat_clean_summary"><font color="#ff0000">%1$s</font> WeChat önbelleği. Daha fazla alan boşaltın</string>
+    <string name="rs_clean_size_free_space">%s yer açın</string>
+    <string name="rs_clean_size_storage_size">%1$s/%2$s dolu</string>
+    <string name="rs_clean_size_storage_title">Depolama</string>
     <string name="sc_allow_network_dialog_button">İzin ver</string>
     <string name="sc_allow_network_dialog_message">Bu uygulamanın güncelleme dosyalarını almak amacıyla internete bağlanmasına izin verilsin mi?</string>
     <string name="scanning">Taranıyor</string>
+    <string name="search_history">Arama geçmişi</string>
     <string name="search_menu_title">Ara</string>
     <string name="security_center_slogan">Cihazınızı hızlı ve güvenli tutun</string>
     <string name="see_more">Daha fazla</string>
@@ -807,6 +822,7 @@
     <string name="similar_image_empty">Çoklu resim bulunamadı</string>
     <string name="similar_image_scaning">Kontrol ediliyor</string>
     <string name="similar_image_title">Fotoğraflar</string>
+    <string name="sms">Mesaj veya Multimedya</string>
     <string name="sponsored">Sponsorlu</string>
     <string name="start_downloading_app">İndirme işlemine başlanıyor: %1$s</string>
     <string name="start_install">Şimdi yükle</string>
@@ -883,7 +899,6 @@
     <string name="update_date_format">dd/MM/yyyy</string>
     <string name="v7_preference_off">Kapalı</string>
     <string name="v7_preference_on">Açık</string>
-    <string name="version_update_title">Yeni sürüm bulundu</string>
     <string name="video_clean">Önbelleğe alınmış videoları temizle</string>
     <string name="video_clean_auto_clean">Otomatik temizle</string>
     <string name="video_clean_auto_clean_summary">Taradıktan sonra önbelleğe alınmış videoları otomatik olarak temizleyin</string>
@@ -956,15 +971,15 @@
     <string name="whatsapp_delete_done">Hepsi tamam</string>
     <string name="whatsapp_file_show_order">Bugün</string>
     <string name="whatsapp_function_summery">WhatsApp önemsiz dosyayı temizle</string>
-    <string name="whatsapp_function_title">Whatsapp için temizle</string>
-    <string name="whatsapp_group_audio">Ses</string>
-    <string name="whatsapp_group_document">Doküman</string>
-    <string name="whatsapp_group_gif">Gif</string>
-    <string name="whatsapp_group_image">Fotoğraf</string>
-    <string name="whatsapp_group_video">Video</string>
-    <string name="whatsapp_group_voice">Ses</string>
-    <string name="whatsapp_group_wallpaper">Duvar kağıdı</string>
-    <string name="whatsapp_title">Whatsapp için temizle</string>
+    <string name="whatsapp_function_title">WhatsApp için temizle</string>
+    <string name="whatsapp_group_audio">Ses dosyaları</string>
+    <string name="whatsapp_group_document">Belgeler</string>
+    <string name="whatsapp_group_gif">GIF</string>
+    <string name="whatsapp_group_image">Fotoğraflar</string>
+    <string name="whatsapp_group_video">Videolar</string>
+    <string name="whatsapp_group_voice">Sesli mesajlar</string>
+    <string name="whatsapp_group_wallpaper">Duvar kağıtları</string>
+    <string name="whatsapp_title">WhatsApp için temizle</string>
     <string name="white_list_ad_header">Kullanılmayan dosyalar: %d</string>
     <string name="white_list_apk_header">Yükleme paketleri: %d</string>
     <string name="white_list_cache_header">Önbellek dosyaları: %d</string>

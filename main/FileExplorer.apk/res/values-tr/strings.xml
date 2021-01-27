@@ -27,6 +27,8 @@
     <string name="abc_shareactionprovider_share_with">Şununla paylaş</string>
     <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
     <string name="abc_toolbar_collapse_description">Daralt</string>
+    <string name="access_limit">Erişim kısıtlamaları</string>
+    <string name="access_tips">Öğelere erişilemiyor. Bunun yerine Android depolama erişim çerçevesi kullanmayı deneyin</string>
     <string name="action_mode_deselect_all">Tüm seçimi kaldır</string>
     <string name="action_mode_select_all">Tümünü seç</string>
     <string name="actionbar_button_up_description">Back</string>
@@ -165,7 +167,8 @@
     <string name="clearable_edittext_clear_description">Temizle</string>
     <string name="click_to_switch_volume">Dahili depolama alanı ve SD kart arasında geçiş yapmak için dokunun</string>
     <string name="click_to_switch_volume_pad">Dahili depolama alanı ve SD kart arasında geçiş yapmak için dokunun</string>
-    <string name="clock_in">Yer bildirimi yapılıyor</string>
+    <string name="clock_in">Giriş yapılıyor</string>
+    <string name="close">Kapalı</string>
     <string name="compress_fail">Sıkıştırılamadı. Aynı ada sahip bir dosya zaten mevcut</string>
     <string name="compress_fail_unknown">Sıkıştırılamadı. Depolama alanı dolu veya bilinmeyen bir hata meydana geldi</string>
     <string name="compress_message">Sıkıştır</string>
@@ -372,6 +375,7 @@
     <string name="gbk_summary">Basitleştirilmiş Çince Windows varsayılan kodlaması</string>
     <string name="gbk_title">GBK</string>
     <string name="gigabyteShort">GB</string>
+    <string name="go_ahead">Aç</string>
     <string name="grid_mode">Tablo görünümü</string>
     <string name="group_title">%1$s kaynağından %2$s</string>
     <string name="group_title_extra_backup">Yedekler</string>
@@ -449,6 +453,9 @@
     <string name="mirror_can_not_drag_mask">Mi paylaşmayı kullanmak için sürükleyin</string>
     <string name="mirror_new_name">Klasör oluştur (%s)</string>
     <string name="mirror_new_name_first">Klasör oluştur</string>
+    <string name="mirror_no_recommended_app">Önerilen uygulama yok</string>
+    <string name="mirror_open_mode_error">Öğeler yüklenemedi</string>
+    <string name="mirror_open_mode_loading">Yükleniyor</string>
     <string name="mirror_paste_no_file">Bu dosya mevcut değil</string>
     <string name="mirror_progress_copy">Kopyalanıyor</string>
     <string name="mirror_side_bar_tab_app_name">Uygulamalar</string>
@@ -613,6 +620,7 @@
     <string name="operation_moving">Taşınıyor</string>
     <string name="operation_new_folder">Klasör oluştur</string>
     <string name="operation_open">Aç</string>
+    <string name="operation_open_mode">Bununla aç</string>
     <string name="operation_other_apps">Farklı uygulamada aç</string>
     <string name="operation_paste">Yapıştır</string>
     <string name="operation_paste_to_folder">Klasöre yapıştır</string>
@@ -677,6 +685,8 @@
     <string name="promot_enctypt_password">Cihaz kilidini açmak için kullandığınız şifreyi girin</string>
     <string name="pull_to_enter_private">Özel klasörü açmak için aşağı çekin</string>
     <string name="pull_to_refresh">Yenilemek için aşağıya çek</string>
+    <string name="qq_msg">Android 11 kısıtlamaları nedeniyle dosyalar QQ belgelerine erişemez ve bunları görüntüleyemez</string>
+    <string name="qq_title">WeChat belgelerine erişilemiyor</string>
     <string name="refresh_fail">Yenileme başarısız oldu</string>
     <string name="refresh_success">Yenileme tamamlandı</string>
     <string name="refreshing">Yenileniyor</string>
@@ -728,12 +738,14 @@
     <string name="select_music">Ses dosyaları</string>
     <string name="select_video">Video dosyaları</string>
     <string name="select_volume">Birim seçin</string>
+    <string name="send">Gönder</string>
     <string name="server_control_advanced_settings">FTP ayarları</string>
     <string name="server_control_charset">Aktarım kodlaması</string>
     <string name="server_control_settings">Ayarlar</string>
     <string name="set_pattern">Şifre güncellendi</string>
     <string name="set_pattern_btn">Ayarla</string>
     <string name="set_pattern_msg">Şifrenizi yeniden belirleyin. Gizlilik koruma parolası aynı zamanda fotoğraf ve mesajlar içinde geçerlidir</string>
+    <string name="settings">@string/server_control_settings</string>
     <string name="sign_percent">%</string>
     <string name="sk">3qy6ngTb0P+etx</string>
     <string name="skip">Atla</string>
@@ -877,6 +889,8 @@
     <string name="v7_preference_off">Açık</string>
     <string name="v7_preference_on">Kapalı</string>
     <string name="view_type">Görüntüle</string>
+    <string name="wechat_msg">"Android 11 kısıtlamaları nedeniyle dosyalar WeChat'te önizlenen belgelere erişemez ve bunları görüntüleyemez. Belgeleri burada görünmelerini sağlamak için WeChat'te açın ve kaydedin"</string>
+    <string name="wechat_title">WeChat belgelerine erişilemiyor</string>
     <string name="wechat_video">Video konumu: %s</string>
     <string name="wednesday">Çarşamba</string>
     <string name="wednesday_short">Çarşamba</string>
