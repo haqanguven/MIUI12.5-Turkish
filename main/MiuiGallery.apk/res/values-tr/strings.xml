@@ -1649,6 +1649,7 @@ erişimine ihtiyaç duyuyor. İzinler menüsüne gitmek için ayarla seçeneğin
     <string name="magic_matting_module_failed">@string/error_install_connect_fail</string>
     <string name="magic_matting_module_finish">Sihir eklentisi başarıyla indirildi</string>
     <string name="magic_matting_module_loading">Sihir eklentisi indiriliyor</string>
+    <string name="magic_max_px">Bu resim çok büyük</string>
     <string name="magic_metered_network_msg">Görünüşe göre cihazınız ücretli bir ağa bağlı. Orijinal dosyaların indirilmesi ek ücretlere neden olabilir. Yinede indirilsin mi?</string>
     <string name="magic_metered_network_title">Ücretli ağ</string>
     <string name="magic_mix_px">Görüntü çok küçük</string>
@@ -1969,6 +1970,8 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="operation_replace_album_cover">Albüm kapağını değiştir</string>
     <string name="operation_replace_album_cover_custom_mode">Özel</string>
     <string name="operation_replace_album_cover_default_mode">Varsayılan</string>
+    <string name="operation_replace_album_cover_status_default_mode_success">Varsayılan albüm kapağı başarıyla geri yüklendi</string>
+    <string name="operation_replace_album_cover_status_success">Albüm kapağı başarıyla değiştirildi</string>
     <string name="operation_save">Kaydet</string>
     <string name="operation_send">Paylaş</string>
     <string name="operation_set_contact_photo">Kişi fotoğrafı olarak ayarla</string>
@@ -2060,6 +2063,7 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="photo_editor_navigator_cancel">İptal et</string>
     <string name="photo_editor_navigator_download_network_metered_msg">%s ögesini indirme işlemi 4MB civarı mobil veri kullanımı gerektirir. Şimdi indirilsin mi?</string>
     <string name="photo_editor_navigator_download_network_metered_title">Veri kullanım uyarısı</string>
+    <string name="photo_editor_navigator_download_title">Yükleniyor</string>
     <string name="photo_editor_navigator_export">Kaydet</string>
     <string name="photo_editor_navigator_module_download_failed">%s indirilemedi</string>
     <string name="photo_editor_navigator_module_download_now">İndir</string>
@@ -2067,6 +2071,11 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="photo_editor_navigator_module_download_wait_wlan">Wifi bağlantısı bekle</string>
     <string name="photo_editor_navigator_module_downloading">%s indiriliyor</string>
     <string name="photo_editor_navigator_need_download">%s indirmek için internete bağlanın</string>
+    <string name="photo_editor_navigator_sticker_download_failed">İndirilemedi. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
+    <string name="photo_editor_navigator_sticker_download_success">Başarıyla indirildi</string>
+    <string name="photo_editor_navigator_sticker_download_without_wifi_msg">"Görünüşe göre wifi ağına bağlı değilsiniz. Eklentiyi indirmek için %1$d MB mobil veri kullanılsın mı?"</string>
+    <string name="photo_editor_navigator_sticker_download_without_wifi_msg_china">"Görünüşe göre wifi ağına bağlı değilsiniz. Eklentiyi indirmek için %1$d MB mobil veri kullanılsın mı?"</string>
+    <string name="photo_editor_navigator_sticker_download_without_wifi_title">Eklentiyi indir</string>
     <string name="photo_editor_remove_watermark">Filigranı kaldır</string>
     <string name="photo_editor_remove_watermark_on">Filigran ekle</string>
     <string name="photo_editor_remover">Sil</string>
@@ -2846,7 +2855,6 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="video_editor_res_download_failed_tips">İndirilemedi. Ağ ayarlarınızı kontrol ettikten sonra yeniden deneyin</string>
     <string name="video_editor_res_download_mobil_network_confirm_msg">Film müziklerini mobil veri kullanarak indir?</string>
     <string name="video_editor_res_download_mobil_network_confirm_title">Mobil veri kullanımı</string>
-    <string name="video_editor_res_not_load_dialog_msg">"Bu özelliği kullanmak için film müziklerini indirin (20MB'den fazladır)"</string>
     <string name="video_editor_return">Geri</string>
     <string name="video_editor_save">Kaydet</string>
     <string name="video_editor_smart_effect_beat">Vuruşlar</string>
@@ -3042,6 +3050,11 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="vlog_save_failed">Video kaydedilemedi</string>
     <string name="vlog_save_stop_tips">Kaydetmeyi iptal etmek için tekrar dokunun</string>
     <string name="vlog_saving">Video dışa aktarılıyor</string>
+    <string name="vlog_speed_double">2.0X</string>
+    <string name="vlog_speed_half">0.5X</string>
+    <string name="vlog_speed_normal">1.0X</string>
+    <string name="vlog_speed_quarter">0.25X</string>
+    <string name="vlog_speed_treble">3.0X</string>
     <string name="vlog_support_max_duration">Bir proje %1$d saate kadar sürebilir</string>
     <string name="vlog_support_max_number">"Bir projeye %1$d'ye kadar video ekleyebilirsiniz"</string>
     <string name="vlog_template_baobao">Çocuk</string>

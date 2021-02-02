@@ -493,8 +493,7 @@ Ekspres teslimatı teslimat şirketlerinin resmi internet sitelerinden de takip 
     <string name="app_health_setting_music_name_rain">Yağmur</string>
     <string name="app_health_setting_text_default_duration">Varsayılan oynatma süresi</string>
     <string name="app_health_setting_text_download_alert_message">Şu anda mobil ağda bu indirme işlemine devam etmemek için %1$s mobil veri tüketecektir</string>
-    <string name="app_health_setting_text_select_duration_dialog_title">Lütfen oynatma süresini seçin</string>
-    <string name="app_health_setting_text_sleep_aid_settings">Uyku yardımı ayarları</string>
+    <string name="app_health_setting_text_sleep_aid_settings">Uyku</string>
     <string name="app_health_setting_text_title">Sağlık yönetimi</string>
     <string name="app_health_setting_value_default_duration">10</string>
     <string name="app_label">Uygulama kasası</string>
@@ -676,12 +675,14 @@ Ekspres teslimatı teslimat şirketlerinin resmi internet sitelerinden de takip 
     <string name="app_sports_fav_add">Ekle</string>
     <string name="app_sports_fav_cancel_club">Bu kulübü kaldır</string>
     <string name="app_sports_fav_cancel_league">Bu ligi kaldır</string>
+    <string name="app_sports_fav_cancel_multi_league_content" formatted="false">"Kulübün %s ve %s'deki programı artık size gönderilmeyecek"</string>
     <string name="app_sports_fav_club">Endişe kulübü</string>
     <string name="app_sports_fav_league">Endişe ligi</string>
     <string name="app_sports_fav_title">Endişem</string>
     <string name="app_sports_more_match">Daha fazla</string>
     <string name="app_sports_title">Sporlar</string>
     <string name="app_sports_title_all_leagues">Tüm maçlar</string>
+    <string name="app_sports_title_tip">Üçüncü tarafça sağlanan ilgili verileri eşleştirin</string>
     <string name="app_stock_more_add_stock">Ekle</string>
     <string name="app_stock_name_hszs">Hang Sen</string>
     <string name="app_stock_name_nsdk">Nasdaq</string>
@@ -2062,7 +2063,6 @@ Rezervasyon yok, unuttunuz ya da telefon numarasını devre dışı bıraktıysa
     <string name="night">Akşam</string>
     <string name="no_connect">Bağlantı yok</string>
     <string name="no_install">Yüklenmedi</string>
-    <string name="no_more_manual_edit">El ile girmek istemiyor musunuz?</string>
     <string name="no_more_result">Başka öğe yok</string>
     <string name="no_settings">Ayarlanmadı</string>
     <string name="noon">Gün ortası</string>
@@ -2088,9 +2088,6 @@ Rezervasyon yok, unuttunuz ya da telefon numarasını devre dışı bıraktıysa
     <string name="notification_title_success">Ödeme eklendi</string>
     <string name="numbers">0123456789</string>
     <string name="ok">Tamam</string>
-    <string name="open">Aç</string>
-    <string name="open_alipay_fill_str">"Alipay'i açın ve otomatik olarak doldurun"</string>
-    <string name="open_alipay_fill_str_no_blank">"Otomatik olarak doldurmak için Alipay'i açın"</string>
     <string name="open_bluetooth">Aç</string>
     <string name="open_bluetooth_now">Bluetooth aç</string>
     <string name="open_bluetooth_tips">Lütfen bağlantıya izin vermek için bluetoothu açın</string>

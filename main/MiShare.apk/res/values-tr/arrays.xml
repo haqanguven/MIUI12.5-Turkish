@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="permissions">
+        <item>android.permission-group.STORAGE</item>
+        <item>android.permission-group.LOCATION</item>
+    </string-array>
+    <string-array name="permissions_desc">
+        <item>Fotoğraf, uygulama ve diğer dosyalara erişmek, kaydetmek ve aktarmak için</item>
+        <item>Bluetooth ve wifi kullanarak dosya aktarma</item>
+    </string-array>
+    <string-array name="permissions_desc_china">
+        <item>Fotoğraf, uygulama ve diğer dosyalara erişmek, kaydetmek ve aktarmak için</item>
+        <item>Bluetooth ve wifi ağını kullanarak dosya aktarmak için</item>
+    </string-array>
+    <string-array name="permissions_desc_v12">
+        <item>Dosya göndermek ve almak için</item>
+        <item>Bluetooth ve wifi kullanarak dosya aktarmak için</item>
+        <item>Bluetooth kullanarak yakınlardaki kullanılabilir cihazları bulmak için</item>
+        <item>Wifi kullanarak yakınlardaki kullanılabilir cihazları bulmak ve dosya aktarmak için</item>
+    </string-array>
+    <string-array name="permissions_desc_v12_china">
+        <item>Dosya göndermek ve almak için</item>
+        <item>Bluetooth ve wifi kullanarak dosya aktarmak için</item>
+        <item>Bluetooth kullanarak yakınlardaki kullanılabilir cihazları bulmak için</item>
+        <item>Wifi kullanarak yakınlardaki kullanılabilir cihazları bulmak ve dosya aktarmak için</item>
+    </string-array>
+    <string-array name="permissions_v12">
+        <item>android.permission-group.STORAGE</item>
+        <item>android.permission-group.LOCATION</item>
+        <item>android.permission.BLUETOOTH_ADMIN</item>
+        <item>android.permission.CHANGE_WIFI_STATE</item>
+    </string-array>
+</resources>

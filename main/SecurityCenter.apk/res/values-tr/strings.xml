@@ -1056,6 +1056,7 @@ Mobil veriyi tekrar açtığınızda operatörünüz size ek ücretler talep ede
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Çin geleneksel takvimi</string>
+    <string name="date_time_picker_dialog_title">Tarih ve saati ayarla</string>
     <string name="day_overflow_tips">Günlük trafik uyarı eşiğini aşıyor</string>
     <string name="debug_open_final_tip">USB hata ayıklama açılsın mı?</string>
     <string name="debug_open_title">Bu özellik geliştiriciler içindir ve genel kullanıcılar için uygun olmayabilir. USB hata ayıklamayı açmak aşağıdaki değişiklikleri getirebilir:</string>
@@ -1952,8 +1953,20 @@ ve ses değiştiricimizi keşfedin"</string>
     <string name="gtb_setting_item_summary_smart_wlan_speed" formatted="false">Mi veya Redmi yönlendiricilerine bağlandığında bağlantı hızını %10-%20 artırın</string>
     <string name="gtb_setting_item_title_smart_5g">5G ağ optimizasyonu</string>
     <string name="gtb_setting_item_title_smart_wlan_speed">Mi wifi hız artışı</string>
-    <string name="gtb_spring_festival_back_game">Back to game</string>
-    <string name="gtb_spring_festival_goto_gameturbo">View</string>
+    <string name="gtb_spring_festival_back_game">Oyuna dön</string>
+    <string name="gtb_spring_festival_egg_obtain_fail">Ağa bağlanılamadı</string>
+    <string name="gtb_spring_festival_goto_gameturbo">Görüntüle</string>
+    <string name="gtb_spring_festival_guide">"Yumurta avımıza katılmak için
+manzara moduna geçin"</string>
+    <string name="gtb_spring_festival_guide_know">Anladım</string>
+    <string name="gtb_spring_festival_push_active_desc">Telefonlar, akıllı cihazlar ve kuponlar kazanın</string>
+    <string name="gtb_spring_festival_push_active_title">Paskalya yumurtası avı başladı</string>
+    <string name="gtb_spring_festival_push_desc">Ödüller kazanmak için yumurta avımıza katılın</string>
+    <string name="gtb_spring_festival_push_egg_title">Bir paskalya yumurtası aldınız</string>
+    <string name="gtb_spring_festival_push_gift_title">Yumurta avı ödülleri geliyor</string>
+    <string name="gtb_spring_festival_push_join">Katıl</string>
+    <string name="gtb_spring_festival_push_see">Görüntüle</string>
+    <string name="gtb_spring_festival_shortcut_create">Ana ekran kısayolu oluştur</string>
     <string name="gtb_wlan_speed_tips">Mi wifi kullanılıyor</string>
     <string name="guide_get_operator_error"><font color="'#33b4ff'">Yanlış taşıyıcı mı?</font></string>
     <string name="guide_operator_text">"Operatörünüz: "</string>
@@ -3675,6 +3688,7 @@ Kalibrasyon işlemi sırasında MIUI kalibrasyon şablonunu almak amacıyla bir 
     <string name="see_detail">Ayrıntılar</string>
     <string name="see_more_content">Daha fazla öne çıkanları görmek için oyunlar uygulamasını güncelleyin</string>
     <string name="select_province_and_city">Lütfen bir il seçin</string>
+    <string name="send">Gönder</string>
     <string name="send_msg_to_query">Kontrol etmek için ücretsiz olarak mesaj göndermenize yardımcı olun</string>
     <string name="set_applock_password">Şifre oluşturun</string>
     <string name="set_complete">Kur</string>

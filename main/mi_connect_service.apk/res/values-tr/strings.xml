@@ -201,8 +201,9 @@ aynı wifi ağına bağlayın ve tekrar deneyin"</string>
     <string name="inputmethod_dialog_PositiveButtonText">Tamam</string>
     <string name="inputmethod_dialog_title">Giriş yöntemi ayarı</string>
     <string name="inputmethod_focusStatus_text">Giriş ddağını kaybet</string>
-    <string name="inputmethod_notification_content_text">xiaomidianshi</string>
-    <string name="inputmethod_notification_content_title">xiaomidianshi</string>
+    <string name="inputmethod_notification_content_text">"Bu cihazı kullanarak
+Mi TV'ye metin girin"</string>
+    <string name="inputmethod_notification_content_title">Mi TV klavye</string>
     <string name="inputmethod_text_warning">Metin sınırlı. Lütfen yeniden girin</string>
     <string name="midnight">ÖS</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Seçimi kaldır</string>

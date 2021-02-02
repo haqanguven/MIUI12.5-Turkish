@@ -409,14 +409,17 @@
     </string-array>
     <string-array name="magic_effects_video_titles">
         <item></item>
-        <item>Renkli anahat</item>
-        <item>Kesikli anahat</item>
+        <item>Renkli çerçeve</item>
+        <item>Kesikli çerçeve</item>
         <item>Floresan çerçeve</item>
         <item>Renkli gölge</item>
         <item>Elektrik dalgası</item>
         <item>Akım</item>
+        <item>Dalgalar</item>
+        <item>Parçacıklar</item>
         <item>Metin</item>
         <item>Kanatlar</item>
+        <item>Melek</item>
     </string-array>
     <string-array name="magic_id_photo_edit_hint_mm_array">
         <item>10-120</item>
