@@ -172,6 +172,7 @@
     <string name="downloads_operating">Çalışıyor</string>
     <string name="dredge_xunlei_account">Xunlei hesabı oluşturun</string>
     <string name="edit_hint">Http, torrent veya eMule adresi girin</string>
+    <string name="edit_hint2">HTTP, FTP, magnet veya ed2k bağlantısı girin</string>
     <string name="editmode_menu_delete">Sil</string>
     <string name="editmode_menu_share">Paylaş</string>
     <string name="engine_open">Açık</string>
@@ -259,6 +260,7 @@
     <string name="network_error">Ağ bağlantısı kurulamıyor</string>
     <string name="new_add">Yeni</string>
     <string name="new_add_bt">Torrent ekle</string>
+    <string name="new_add_bt2">Torrent görevi ekle</string>
     <string name="no_downloads">Dosya yok</string>
     <string name="no_file_hint">Bu dosya için indirme görevi zaten mevcut</string>
     <string name="no_net">Ağa bağlanılamadı</string>
@@ -467,6 +469,7 @@ indirme işlemlerini hızlandırın"</string>
     <string name="subbt_wait">Bekleniyor</string>
     <string name="subfile_list">Dosyalar</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="task_add">Görev ekleniyor</string>
     <string name="task_detail">Görevler</string>
     <string name="task_detail_notfound_confirm">Tamam</string>
     <string name="task_fail">Başarısız oldu</string>

@@ -400,6 +400,7 @@
     <string name="app_course_switch_to_weekly">Hafta görünümü</string>
     <string name="app_course_title_default">Sınıf programı</string>
     <string name="app_course_version_remind">"Daha fazla bilgi görüntülemek için Mi AI'yi güncelleyin"</string>
+    <string name="app_covid_card_title">Salgın servisi</string>
     <string name="app_debug_settings">Uygulama hata ayıklama ayarları</string>
     <string name="app_debug_settings_copied_to_clipboard">Panoya kopyalandı</string>
     <string name="app_debug_settings_host_title">Ana bilgisayar ortam anahtarı</string>
@@ -561,6 +562,8 @@ Ekspres teslimatı teslimat şirketlerinin resmi internet sitelerinden de takip 
     <string name="app_pa_setting_service_china_vip_summary">Mijin puanları toplayın ve üyelik avantajlarından yararlanın</string>
     <string name="app_pa_setting_service_commute">Değiştir</string>
     <string name="app_pa_setting_service_commute_summary">Navigasyon rotaları oluşturmak ve araba selamlama hizmetleri sunmak için</string>
+    <string name="app_pa_setting_service_covid">COVID-19 bilgisi</string>
+    <string name="app_pa_setting_service_covid_summry">COVID-19 ile ilgili en son bilgileri görüntüleyin</string>
     <string name="app_pa_setting_service_forecast">Akıllı öneriler</string>
     <string name="app_pa_setting_service_forecast_summary">Kullanmanız muhtemel uygulamalar ve özellikler hakkında öneriler alın</string>
     <string name="app_pa_setting_service_key_commute">key_service_commute</string>
@@ -2063,6 +2066,7 @@ Rezervasyon yok, unuttunuz ya da telefon numarasını devre dışı bıraktıysa
     <string name="night">Akşam</string>
     <string name="no_connect">Bağlantı yok</string>
     <string name="no_install">Yüklenmedi</string>
+    <string name="no_more_manual_edit">Manuel olarak girmek istemiyor musunuz?</string>
     <string name="no_more_result">Başka öğe yok</string>
     <string name="no_settings">Ayarlanmadı</string>
     <string name="noon">Gün ortası</string>
@@ -2088,6 +2092,9 @@ Rezervasyon yok, unuttunuz ya da telefon numarasını devre dışı bıraktıysa
     <string name="notification_title_success">Ödeme eklendi</string>
     <string name="numbers">0123456789</string>
     <string name="ok">Tamam</string>
+    <string name="open">Aç</string>
+    <string name="open_alipay_fill_str">"Alipay'i açın ve otomatik olarak doldurun"</string>
+    <string name="open_alipay_fill_str_no_blank">"Otomatik olarak doldurmak için Alipay'i açın"</string>
     <string name="open_bluetooth">Aç</string>
     <string name="open_bluetooth_now">Bluetooth aç</string>
     <string name="open_bluetooth_tips">Lütfen bağlantıya izin vermek için bluetoothu açın</string>

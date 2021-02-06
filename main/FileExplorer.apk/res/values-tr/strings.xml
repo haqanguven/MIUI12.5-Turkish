@@ -90,6 +90,8 @@
     <string name="category_type_other">Diğer</string>
     <string name="category_video">Videolar</string>
     <string name="category_zip">Arşivler</string>
+    <string name="cdd_message">Android 11 kısıtlamaları nedeniyle üçüncü taraf uygulamalarda oluşturulan bazı dosyaları dosyalarda görüntüleyemeyeceksiniz</string>
+    <string name="cdd_title">Dikkat</string>
     <string name="character_counter_content_description">Karakter %1$d/%2$d arasında girildi</string>
     <string name="character_counter_overflowed_content_description">"Karakter sınırı %1$d/%2$d'yi aştı"</string>
     <string name="character_counter_pattern">%1$d/%2$d</string>
@@ -451,6 +453,7 @@
     <string name="midrop_msg_2">Mi drop açık olduğunda, çevrenizdeki cihazları arayabilir ve dosya gönderebilirsiniz</string>
     <string name="midrop_send_files">Paylaşılacak dosyaları seçin</string>
     <string name="mirror_can_not_drag_mask">Mi paylaşmayı kullanmak için sürükleyin</string>
+    <string name="mirror_can_not_drag_mask_new">Öğeleri %s içine sürükleyin</string>
     <string name="mirror_new_name">Klasör oluştur (%s)</string>
     <string name="mirror_new_name_first">Klasör oluştur</string>
     <string name="mirror_no_recommended_app">Önerilen uygulama yok</string>
@@ -462,6 +465,7 @@
     <string name="mirror_side_bar_tab_mine_name">Mi paylaşma</string>
     <string name="mirror_side_bar_tab_phone_name">Cep telefonu depolama alanı</string>
     <string name="mirror_side_bar_tab_recent_name">Son</string>
+    <string name="mirror_side_bar_tab_tranfer_name">Aktarmalar &amp; indirmeler</string>
     <string name="mirror_side_bar_tab_type_name">Dosyalar</string>
     <string name="mirror_storage_internal_desc">Cep telefonu depolama alanı</string>
     <string name="mirror_tip_add_file">Klasör oluştur</string>
@@ -865,8 +869,10 @@
     <string name="today">Bugün</string>
     <string name="tomorrow">Yarın</string>
     <string name="tools">Araçlar</string>
+    <string name="transfer">Aktarmalar &amp; indirmeler</string>
     <string name="transfer_done">Dosyalar başarıyla taşındı</string>
     <string name="transfer_private_data">Gizli klasörler SD karttan taşınıyor</string>
+    <string name="transfer_summary">Mi paylaşım ile aktarılan indirmeler ve öğeler</string>
     <string name="tuesday">Salı</string>
     <string name="tuesday_short">Salı</string>
     <string name="tuesday_shortest">S</string>
