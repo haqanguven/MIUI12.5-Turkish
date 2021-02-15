@@ -253,7 +253,7 @@
     <string name="service_name_game">Oyun eklentileri</string>
     <string name="service_name_google_service">Google hizmetlerine ilişkin açıklama</string>
     <string name="service_name_location">Konum tabanlı hizmetler</string>
-    <string name="service_name_lockscreen">Duvar kağıdı döngüsü duvar kağıdı</string>
+    <string name="service_name_lockscreen">Duvar kağıdı döngüsü</string>
     <string name="service_name_note">Notlar</string>
     <string name="service_name_recorder">Ses kaydedici</string>
     <string name="service_name_screen_recording">Ekran kaydedici</string>

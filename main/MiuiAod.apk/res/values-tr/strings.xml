@@ -34,6 +34,12 @@
     <string name="add_custom_image">Özel resim</string>
     <string name="add_from_album">Galeriden ekle</string>
     <string name="afternoon">Öğleden sonra</string>
+    <string name="align_center_horizontally">Yatay ve ortaya hizalanmış</string>
+    <string name="align_center_vertically">Yığınlanmış ve ortaya hizalanmış</string>
+    <string name="align_left_horizontally">Yatay ve sola hizalanmış</string>
+    <string name="align_left_vertically">Yığınlanmış ve sola hizalanmış</string>
+    <string name="align_right_horizontally">Yatay ve sağa hizalanmış</string>
+    <string name="align_right_vertically">Yığınlanmış ve sağa hizalanmış</string>
     <string name="align_type">Hizalama</string>
     <string name="always_style">Her zaman</string>
     <string name="always_style_symmary">Daha fazla güç tüketir</string>

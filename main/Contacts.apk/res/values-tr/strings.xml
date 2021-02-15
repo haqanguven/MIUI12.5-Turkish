@@ -1051,7 +1051,7 @@ Neden: %s"</string>
     <string name="preference_display_contact">Görüntüleme seçenekleri</string>
     <string name="preference_export">Dışa aktar</string>
     <string name="preference_import">İçe aktar</string>
-    <string name="preference_import_export">İçe/Dışa aktar</string>
+    <string name="preference_import_export">İçe veya dışa aktar</string>
     <string name="preference_import_export_title">Kişileri içe veya dışa aktar</string>
     <string name="preference_key_trash_bin_title">Kişileri kurtar</string>
     <string name="preference_other">Diğer</string>

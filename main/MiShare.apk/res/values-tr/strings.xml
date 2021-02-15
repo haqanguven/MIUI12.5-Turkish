@@ -83,7 +83,7 @@
     <string name="error_receive_file_no_enough_space">Alınamıyor. Yeterli depolama alanı yok</string>
     <string name="error_receive_file_service_disabled">Gelen aktarmalar iptal edildi</string>
     <string name="error_receive_user_cancel">Aktarma iptal edildi</string>
-    <string name="error_receive_user_interrupted">Diğer kişi transferi iptal etti</string>
+    <string name="error_receive_user_interrupted">Diğer kişi aktarmayı iptal etti</string>
     <string name="error_refuse_receive">Aktarma iptal edildi</string>
     <string name="error_remote_busy">Diğer cihaz meşgul gibi görünüyor. Bir iki dakika bekleyin ve tekrar deneyin</string>
     <string name="error_remote_mirror_working">Ekran paylaşımı sırasında diğer cihaz ögeleri kabul edemez</string>
@@ -112,9 +112,9 @@
     <string name="file_transfer_progress_title">Devam ediyor</string>
     <string name="functions_are_being_developed">Bu özellik yakında hazır olacak. Bizi izlemeye devam edin</string>
     <string name="go_to_settings">Ayarlar</string>
-    <string name="guide_summary_1">Diğer kişi Bildirim çubuğunda anahtara dokunabilir</string>
-    <string name="guide_summary_2">Ögeleri göndermek istediğiniz cihazı seçin ve simgeye dokunun</string>
-    <string name="guide_title_1">"Her iki cihazda da Mi Share'i açın"</string>
+    <string name="guide_summary_1">Diğer kişi bildirim çubuğunda anahtara dokunabilir</string>
+    <string name="guide_summary_2">Öğeleri göndermek istediğiniz cihazı seçin ve simgeye dokunun</string>
+    <string name="guide_title_1">Her iki cihazda da dosya paylaşımını açın</string>
     <string name="guide_title_2">Paylaşılacak cihazı seçin</string>
     <string name="help">Yardımı görüntüle</string>
     <string name="help_content">İhtiyacınız olan cihazı bulamıyorsanız diğer kişiden Mi paylaşımı açmasını isteyin</string>
@@ -137,7 +137,7 @@
     <string name="mishare_settings_summary_international">"Yakındaki cihazlara öğe göndermek için dosya paylaşımı kullanabilirsiniz
 Dosya paylaşımı Mi ve Redmi telefonlarıyla uyumludur
 Oppo, vivo, realme ve diğer markalar yakında dosya paylaşımı ile de uyumlu olacak. Uyumlu cihazların listesini internet sitemizden kontrol edebilirsiniz"</string>
-    <string name="mishare_state_protection">Dosya paylaşımı otomatik olarak aç</string>
+    <string name="mishare_state_protection">Dosya paylaşımını otomatik aç</string>
     <string name="mishare_state_protection_summary">Bluetooth veya wifi açıldığında dosya paylaşımı otomatik olarak başlatır</string>
     <string name="mishare_state_protection_summary_china">Bluetooth veya wifi açıldığında Mi paylaşımı otomatik olarak başlat</string>
     <string name="mishare_transefer_channel_desc">Dosya paylaşımı tarafından gönderilen ve alınan öğelerle ilgili bildirimler</string>
