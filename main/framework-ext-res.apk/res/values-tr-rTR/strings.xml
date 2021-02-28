@@ -6,6 +6,13 @@
     <string name="all_call_livetalk_remain_mins">Kalan dakikalar: %1$s yurtiçi veya %2$s uluslararası</string>
     <string name="always">Her zaman</string>
     <string name="alwaysUsePrompt">Seçimimi hatırla</string>
+    <string name="application_cannot_open_alipay_health_code">Alipay sağlık kodu açılamadı</string>
+    <string name="application_cannot_open_alipay_payment_code">Alipay ödeme kodu açılamadı</string>
+    <string name="application_cannot_open_alipay_scanner">Alipay barkod okuyucu açılamadı</string>
+    <string name="application_cannot_open_weixin_health_code">WeChat sağlık kodu açılamadı</string>
+    <string name="application_cannot_open_weixin_payment_code">WeChat ödeme kodu açılamadı</string>
+    <string name="application_cannot_open_weixin_scanner">WeChat barkod okuyucu açılamadı</string>
+    <string name="application_not_install_content">Görünüşe göre bu eylemi gerçekleştiren uygulama cihazınızda yüklü değil. Bu uygulamayı yükleyebilir veya bu harekete farklı bir eylem atayabilirsiniz</string>
     <string name="apply_password_action">Tamam</string>
     <string name="apply_password_confirm_dlg_msg">%s ayarlarına erişmek için kilit ekranı şifrenizi kullanın</string>
     <string name="apply_password_confirm_dlg_title">%s şifresi</string>
