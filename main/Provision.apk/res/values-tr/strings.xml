@@ -104,9 +104,12 @@
     <string name="input_method_category">Mesaj yazma, not yazma ve diğer alanlarda kullanmak üzere varsayılan klavyenizi seçin. Dilediğiniz zaman üçüncü parti klavye uygulamalarını yükleyebileceğinizi unutmayın</string>
     <string name="input_method_setting">Klavye seçin</string>
     <string name="install_preinstall_app">Uygulamalar yükleniyor</string>
+    <string name="item_contents_wwarning">Cihazınız kaybolursa, ekran kilidi ayarlamadığınız sürece başkalarının onu kullanmasını ve verilerinize erişmesini engelleyemezsiniz</string>
     <string name="item_fingerprint">Parmak izi</string>
     <string name="item_lock_screen_password">Yalnızca ekran kilidi</string>
     <string name="item_lock_screen_password_only">Ekran kilidi</string>
+    <string name="item_return">Ayarla</string>
+    <string name="item_skip">Atla</string>
     <string name="ktlocation_U">(KT servis acentesi)</string>
     <string name="ktposition_header">Konum bilgisini acil durum kurtarma kurumlarıyla paylaş</string>
     <string name="language_picker_other_languages_title">Daha fazla dil</string>
@@ -169,6 +172,7 @@
     <string name="other_settings_user_experience">Kullanıcı deneyimi geliştirme programı</string>
     <string name="other_settings_user_experience_summary">Anonim kullanım verileri göndererek cihaz ve ürünlerimizi geliştirmemize yardımcı olun</string>
     <string name="other_settings_user_experience_summary_index">Detaylar</string>
+    <string name="permission_MIUIDaemon_introduction">MIUI arka plan programı ekranı hasar gördüğünde cihazınızdan veri aktarmanıza izin verir</string>
     <string name="permission_account">Cihazınızdaki hesaplara erişin:</string>
     <string name="permission_account_introduction">Mi hesabı ile giriş yapmak için</string>
     <string name="permission_application_package_introduction">Kurulum paketlerini ayrıştırma ve tarama ve depolamaya erişmek için</string>
@@ -201,6 +205,10 @@
     <string name="permission_picture_introduction">Fotoğrafları ve videoları kaydetmek, düzenlemek ve senkronize etmek için</string>
     <string name="permission_read_call_records">Arama geçmişini düzenle:</string>
     <string name="permission_read_call_records_introduction">Arama geçmişine öğe eklemek ve engellenen aramaları silmek için</string>
+    <string name="permission_read_contacts">Kişilere erişim</string>
+    <string name="permission_read_contacts_introduction">Kimliğinizi doğrulamak içindir</string>
+    <string name="permission_read_message">Metin mesajlarına erişim</string>
+    <string name="permission_read_message_introduction">Cihazınızın sahipliğini doğrulamak içindir</string>
     <string name="permission_read_note_introduction">Notlara ve eklere erişmek için</string>
     <string name="permission_read_write_file">Cihazınızdaki dosyalara ve fotoğraflara erişin ve kaydedin:</string>
     <string name="permission_read_write_file_introduction">Cihazınızdaki öğelere erişmek, kaydetmek ve önbelleklemek için</string>
@@ -238,6 +246,7 @@
     <string name="security_introduction">Cihazınızdaki çöpleri temizlemek, virüsleri bulmak, oyun performansını artırmak, pil tasarrufu yapmak, uygulamaları yönetmek ve daha fazlasını yapmak için bu uygulamayı kullanabilirsiniz</string>
     <string name="security_mobile_account_introduction">Oturum açmak ve sistem hesaplarını yönetmek için</string>
     <string name="service_agreement">Şartlar ve koşulları okudum ve kabul ediyorum</string>
+    <string name="service_name_MIUIDaemon">MIUI arka plan programı</string>
     <string name="service_name_album">Galeri</string>
     <string name="service_name_application_package">Paket yükleyici</string>
     <string name="service_name_backup">Yedekler</string>
@@ -313,6 +322,7 @@ Bu özelliği kullanmadan önce Mint klavyesinin gizlilik politikasını kabul e
     <string name="terms_privacy_policy_input_method_facemoji">Facemoji klavye gizlilik politikası</string>
     <string name="terms_privacy_policy_input_method_kika">Kika klavye gizlilik politikası</string>
     <string name="title_fingerprint">Şifre oluştur</string>
+    <string name="title_set_fingerprint">Ekran kilidi</string>
     <string name="user_agreement">Hizmet şartları</string>
     <string name="user_agreement_declare">"Miui'yi kullanmadan önce kullanıcı sözleşmemizi ve gizlilik politikamızı okumanız ve kabul etmeniz gerekir. Cihazınız aktif durumdayken Mi Sim etkinleştirme servisi, ana ekran, sık kullanılan ifadeler, çeviri servisi, Miui şeytan ve güncelleyici şebekeye bağlanacaktır. Ayrıca MSA ağa bağlanır ve konumunuza erişir"</string>
     <string name="voice_assist_advice">Mi AI ses kontrollerini kullanmanıza izin verir ancak daha fazla güç tüketir (Her saat +1%)</string>

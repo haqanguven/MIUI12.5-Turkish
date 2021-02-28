@@ -937,6 +937,7 @@ Mi mesajı etkinleştirmek için giden bir mesaj gerekir. Bu mesaj için operat�
     <string name="rcs_chat_bot_subject">Sahip: %1$s</string>
     <string name="rcs_chatbot_a2p_message">Bir A2P mesajı aldınız. Ayrıntıları görüntülemek için dokunun</string>
     <string name="rcs_chatbot_audio_message">Bir sesli mesaj aldınız. Ayrıntıları görüntülemek için dokunun</string>
+    <string name="rcs_chatbot_blocked_tip">Bu mini uygulama engellendi. Sohbet başlatılamıyor</string>
     <string name="rcs_chatbot_card_message">Bir kart aldınız. Ayrıntıları görüntülemek için dokunun</string>
     <string name="rcs_chatbot_file_message">Bir dosya aldınız. Ayrıntıları görüntülemek için dokunun</string>
     <string name="rcs_chatbot_geo_message">Bir konum bilgisi aldınız. Ayrıntıları görüntülemek için dokunun</string>

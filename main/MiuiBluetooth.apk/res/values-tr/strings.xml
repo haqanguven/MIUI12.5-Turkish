@@ -382,6 +382,10 @@ Daha hızlı bağlantı protokolü"</string>
     <string name="mi_key_summary_open_camera">Kamerayı açmak için Mi tuşuna çift tıklayın</string>
     <string name="mi_key_summary_take_photo">Fotoğraf çekmek için Mi tuşuna tıklayın</string>
     <string name="mi_key_take_photo">Fotoğraf çek</string>
+    <string name="miheadset_notification_Box">Kutu</string>
+    <string name="miheadset_notification_Disconnect">Bağlantıyı kes</string>
+    <string name="miheadset_notification_LeftEar">Sol</string>
+    <string name="miheadset_notification_RightEar">Sağ</string>
     <string name="mihome_app_download">Şimdi kur</string>
     <string name="mihome_app_update">Şimdi güncelle</string>
     <string name="mihome_download_tips">Mi ev uygulamasını yükleyin, oturum açın ve telefonunuzu cihaza yakın tutun</string>

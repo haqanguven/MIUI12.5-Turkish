@@ -1182,4 +1182,25 @@ Not: Yalnızca Ubuntu 8.04 için geçerlidir"</item>
         <item>5x</item>
         <item>10x</item>
     </string-array>
+	<string-array name="statusbar_style_entries">
+		<item>Varsayılan</item>
+		<item>Merkezi saat</item>
+		<item>Aosp</item>
+	</string-array>
+	<string-array name="switch_control_panel_entries">
+		<item>Sağ</item>
+		<item>Sol</item>
+	</string-array>
+	<string-array name="text_lines_entries">
+		<item>Varsayılan</item>
+		<item>Tek satır</item>
+		<item>Çift satır</item>
+		<item>Slayt</item>
+	</string-array>
+	<string-array name="notification_icon_position_entries">
+		<item>Sağ üst</item>
+		<item>Sol üst</item>
+		<item>Sol alt</item>
+		<item>Sağ alt</item>
+	</string-array>
 </resources>

@@ -29,6 +29,7 @@
     <string name="Setting_lock">Ayarlar</string>
     <string name="Settings_title_anti_spam">Engelli listesi ayarları</string>
     <string name="Settings_title_anti_virus">Güvenlik taraması ayarları</string>
+    <string name="Settings_title_anti_virus_kddi">Güvenlik taraması ayarları</string>
     <string name="Settings_title_garbage_cleanup">Temizleyici ayarları</string>
     <string name="Settings_title_network_assistants">Veri kullanım ayarları</string>
     <string name="Settings_title_power_center">Pil ayarları</string>
@@ -100,6 +101,7 @@
     <string name="actionbar_button_up_description">Geri</string>
     <string name="activity_title_antispam">Engelli listesi</string>
     <string name="activity_title_antivirus">Güvenlik taraması</string>
+    <string name="activity_title_antivirus_kddi">Güvenlik taraması</string>
     <string name="activity_title_apps_manager">Uygulamalar</string>
     <string name="activity_title_auto_start_manager">Otomatik başlatma</string>
     <string name="activity_title_create_shortcut">Kısayolları yönet</string>
@@ -189,10 +191,13 @@
     <string name="antivirus_privacy_dialog_cloudscan">Uygulama adlarını ve detaylarını karşıya yükle</string>
     <string name="antivirus_privacy_dialog_cloudscan_description">Uygulama isimlerini ve ayrıntıları yükle ve çevrimiçi virüs veritabanını kullanarak tara</string>
     <string name="antivirus_privacy_dialog_ok">Tamam</string>
-    <string name="antivirus_privacy_dialog_summary">Bu özellik üçüncü taraf bir antivirüs motoru tarafından desteklenmektedir. Daha fazla bilgi edinmek için üçüncü tarafça sağlanan <a href="%1$s">Lisans sözleşmesini</a> okuyun</string>
+    <string name="antivirus_privacy_dialog_summary"><Data>Bu özellik üçüncü taraf bir antivirüs motoru tarafından desteklenmektedir. Daha fazla bilgi edinmek için üçüncü tarafça sağlanan &lt;a href=\"%1$s\">Lisans sözleşmesini&lt;/a> okuyun</Data></string>
+    <string name="antivirus_privacy_dialog_summary_kddi"><Data>"When you're performing a security scan, your device model and scan results will be uploaded to %1$s servers and used in accordance with the corresponding &lt;a href=\"%2$s\">terms and conditions&lt;/a>.&lt;br/>&lt;br/>Read and agree to %3$s's terms and conditions before performing security scans.&lt;br/>&lt;br/>If you don't agree to upload data to %4$s servers, you can still use the virus definitions stored locally on your device."</Data></string>
     <string name="antivirus_privacy_dialog_summary_link">Gizlilik politikası</string>
     <string name="antivirus_privacy_dialog_title">Gizlilik politikası</string>
+    <string name="antivirus_privacy_dialog_title_kddi">Şartlar ve koşullar</string>
     <string name="antivirus_sec_network_unavailable">Güvenlik uygulaması internet erişimini kısıtlamış olduğunuzdan dolayı güncellenemiyor. Güvenlik uygulamasının internete bağlanmasına izin verilsin mi?</string>
+    <string name="antivirus_third_privacy_title">Üçüncü taraf gizlilik politikaları</string>
     <string name="antivirus_toast_already_update">Güncel</string>
     <string name="antivirus_toast_network_unavailable">Ağa bağlanılamadı</string>
     <string name="antivirus_toast_update_failed">Güncellenemedi</string>
@@ -2319,7 +2324,8 @@ Cihazınız şimdi %%%d daha hızlı"</string>
     <string name="menu_summary_power_manager_4">Tam olarak: %s</string>
     <string name="menu_text_antispam">Engelli listesi</string>
     <string name="menu_text_antivirus">Güvenlik taraması</string>
-    <string name="menu_text_deepclean_summary" formatted="false">%1s/%2s dolu</string>
+    <string name="menu_text_antivirus_kddi">Güvenlik taraması</string>
+    <string name="menu_text_deepclean_summary">%1$s/%2$s dolu</string>
     <string name="menu_text_garbage_cleanup">Temizleyici</string>
     <string name="menu_text_garbage_cleanup_danger">%s</string>
     <string name="menu_text_license_manager">İzinler</string>
@@ -3270,6 +3276,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="preference_key_about_privacy">key_about_privacy</string>
     <string name="preference_key_about_version">key_about_version</string>
     <string name="preference_key_antivirus_choose_engine">key_antivirus_choose_engine</string>
+    <string name="preference_key_antivirus_third_paryty_privacy">key_antivirus_third_party_privacy</string>
     <string name="preference_key_app_permission_control">key_app_permission_control</string>
     <string name="preference_key_app_permission_install_debug">key_app_permission_install_debug</string>
     <string name="preference_key_category_check_item">key_category_check_item</string>

@@ -67,11 +67,12 @@ Tekrar deneyin"</string>
     <string name="btn_continue">Devam et</string>
     <string name="btn_restore_abort">İptal et</string>
     <string name="btn_restore_cancel">İptal et</string>
+    <string name="btn_restore_cancel_app_app">"WeChat verileri geri yüklenemiyor"</string>
     <string name="btn_restore_continue">Yine de geri yükle</string>
     <string name="btn_restore_resume">Devam et</string>
     <string name="btn_restore_retry">Tekrar dene</string>
-    <string name="btn_restore_wait">Wifi ağı bekleniyor</string>
-    <string name="btn_restore_wait_china">Wifi ağı bekleniyor</string>
+    <string name="btn_restore_wait">Wifi ağı bekleniliyor</string>
+    <string name="btn_restore_wait_china">Wifi ağı bekleniliyor</string>
     <string name="btn_retry">Tekrar kontrol et</string>
     <string name="btn_skip">Bu adımı atla</string>
     <string name="button_cancel">İptal et</string>
@@ -118,6 +119,8 @@ Not: Yüklemiş olduğunuz uygulamara ait veriler Xiaomi bulut alanınıza yedek
     <string name="cloud_back_up_task">Yedekleniyor</string>
     <string name="cloud_backup">Bulut yedekleri</string>
     <string name="cloud_backup_derail_size_summary">Boyut: %s</string>
+    <string name="cloud_backup_detail_app_data">WeChat verilerini yedekleyin</string>
+    <string name="cloud_backup_detail_app_data_summary">Sohbet geçmişini, dosyaları ve diğer öğeleri yedekleyin</string>
     <string name="cloud_backup_detail_frequence">Zamanlı yedekleme</string>
     <string name="cloud_backup_detail_frequence_every_7_day">Her %d günde bir yedekleyin</string>
     <string name="cloud_backup_detail_frequence_every_day">Her gün yedekleyin</string>
@@ -138,6 +141,8 @@ Not: Yüklemiş olduğunuz uygulamara ait veriler Xiaomi bulut alanınıza yedek
     <string name="confirm_cancel_restore_positive">Devam et</string>
     <string name="confirm_cancel_restore_title">Geri yükleme iptal edilsin mi?</string>
     <string name="confirm_restore">Geri yükle</string>
+    <string name="confirm_restore_app_data">Uygulama verilerinin üzerine yaz</string>
+    <string name="confirm_restore_app_data_summary">WeChat verilerini geri yüklemek bu cihazdaki uygulama verilerinin mevcut sürümünün üzerine yazacaktır. Yine de geri yüklensin mi?</string>
     <string name="confirm_restore_summary">Wifi ağına bağlanıldığında ana ekran yeniden başlatılacak ve uygulamalar otomatik olarak indirilecektir</string>
     <string name="confirm_restore_title">Geri yükle</string>
     <string name="copy">Kopyala</string>
@@ -150,14 +155,17 @@ Not: Yüklemiş olduğunuz uygulamara ait veriler Xiaomi bulut alanınıza yedek
     <string name="desktop_wait_network">Bekleniyor</string>
     <string name="desktop_waiting">Bekleniyor</string>
     <string name="device_delete_prompt">%s yedeği silinsin mi?</string>
+    <string name="dialog_backup_failed">Yedeklenemedi</string>
     <string name="dialog_btn_cancel_backup">İptal et</string>
     <string name="dialog_btn_next">İleri</string>
     <string name="dialog_btn_overwrite_backup">Üzerine yaz</string>
     <string name="dialog_btn_restore_skip">Daha sonra geri yükle</string>
+    <string name="dialog_buy_cloud_space">Yükselt</string>
     <string name="dialog_cancel_backup_cancel">İptal et</string>
     <string name="dialog_cancel_backup_confirm">Tamam</string>
     <string name="dialog_cancel_backup_msg">Anahtarı değiştirmeniz devam eden yedekleme işlemlerini sona erdirecektir</string>
     <string name="dialog_cancel_backup_title">Devam eden yedekleme işlemi iptal edilsin mi?</string>
+    <string name="dialog_cloud_space_not_enough">Bu yedekleme %1$s ücretsiz bulut depolama alanı gerektiriyor. Öğeleri yedeklemek için depolama planınızı yükseltin</string>
     <string name="dialog_msg_overwrite_backup">Yerel yedekleme Xiaomi buluttakinden farklı. Devam ederseniz geçerli yedekleme öncekinin üzerine yazacaktır</string>
     <string name="dialog_msg_restore_require_wlan">Yedekleri geri yüklemek için wifi ağına bağlanmayı gerektirir</string>
     <string name="dialog_msg_restore_require_wlan_china">Yedekleri geri yüklemek için wifi ağına bağlanmayı gerektirir</string>
@@ -250,6 +258,8 @@ Ağ ayarlarınızı kontrol edin ve tekrar deneyin"</string>
     <string name="restore_app_order_title">Geri yüklenen öğelere öncelik ver</string>
     <string name="restore_cloud_backup_to_phone">Öğeleri buluttan geri yükle</string>
     <string name="restore_data_title">Veri geri yükleme</string>
+    <string name="restore_detail_category_app_data">WeChat veri</string>
+    <string name="restore_detail_category_app_data_summary">Sohbet geçmişi, dosyalar ve diğer öğeler (%s)</string>
     <string name="restore_detail_category_apps">Ana ekran düzeni &amp; uygulamalar</string>
     <string name="restore_detail_category_settings">Ayarlar</string>
     <string name="restore_detail_more">Daha fazla</string>
@@ -270,6 +280,7 @@ Ağ ayarlarınızı kontrol edin ve tekrar deneyin"</string>
     <string name="restore_task_in_process">Geri yükleniyor</string>
     <string name="restore_task_unfinished">Geri yüklenemedi</string>
     <string name="restore_unfinished">Geri yükleniyor. Daha sonra tekrar deneyin</string>
+    <string name="restoring_app_data_title_no_progress">WeChat verileri geri yükleniyor</string>
     <string name="restoring_data">Veriler geri yükleniyor</string>
     <string name="restoring_file_title_no_progress">Dosyalar geri yükleniyor</string>
     <string name="restoring_home_screen_apps">Xiaomi buluttan geri yükleniyor</string>

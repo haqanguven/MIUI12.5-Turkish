@@ -223,6 +223,7 @@
     <string name="authorize_watch_on_tv_failed">"TV'de görüntüleme yetkisi alınamadı"</string>
     <string name="auto_backup_introduce">Fotoğraf ve videoları otomatik olarak yedekleyin (Mi hesabı gerekmektedir)</string>
     <string name="auto_download_media_title">Fotoğrafları Mi bulut alanından otomatik indir</string>
+    <string name="auto_download_title">Görüntü kalitesini seçin</string>
     <string name="auto_update_face">Fotoğrafları otomatik olarak ekle</string>
     <string name="auto_update_face_summary">Fotoğrafları otomatik olarak eşleştir ve bebek albümüne ekle</string>
     <string name="auto_update_off">Kapat</string>
@@ -292,6 +293,8 @@
     <string name="backup_pause_dialog_title">Senkronizasyonu duraklat</string>
     <string name="backup_pause_title">%s içerisinde yedekle</string>
     <string name="backup_pending">Otomatik olarak yedeklenecektir</string>
+    <string name="backup_settings">Bulut ile senkronize edin</string>
+    <string name="backup_settings_more">Ek ayarlar</string>
     <string name="backup_stop">Yedeklemeyi durdur</string>
     <string name="backup_sync_dialog_confirm">Aç</string>
     <string name="backup_sync_dialog_tips">Yedek dosyaları ayarlarını değiştirmek için Mi bulut ile senkronizasyon özelliğini açın</string>
@@ -906,11 +909,21 @@
     <string name="close_dialog_desc">İletişim kutusunu kapat</string>
     <string name="cloud_authorize_to_share_to_device">Mi hesabınızla ilişkili televizyonları görüntülemeye izin verin</string>
     <string name="cloud_authorizing_to_device">Yetkilendiriliyor</string>
+    <string name="cloud_backup_enable_title">Senkronize</string>
+    <string name="cloud_backup_open_button">Aç</string>
+    <string name="cloud_backup_space">Bulut depolama</string>
+    <string name="cloud_backup_status_disable">Kapalı</string>
+    <string name="cloud_backup_status_eneble">Aç</string>
+    <string name="cloud_backup_title">Bulut ile senkronize edin</string>
+    <string name="cloud_bacup_disable_button">Senkronizasyonu kapat</string>
+    <string name="cloud_bacup_disable_processing">İşleniyor</string>
     <string name="cloud_camera_display_name">Kamera fotoğrafları</string>
     <string name="cloud_cancel_authorizing_to_device">Yetki iptal ediliyor</string>
     <string name="cloud_guide_auto_backup_title">Yedeklenecek albümleri seçin</string>
     <string name="cloud_guide_login_title">Fotoğraf ve videoları otomatik olarak yedekleyin</string>
     <string name="cloud_guide_welcome_title">Mi bulut</string>
+    <string name="cloud_login_ok">Anladım</string>
+    <string name="cloud_login_settings_title">Senkronizasyon ayarları</string>
     <string name="cloud_privacy_with_ai_album">Otomatik yedekleme ve görüntü işleme ile ilgili gizlilik beyanı</string>
     <string name="cloud_privacy_with_face">Otomatik yedekleme ve yüz tanıma ile ilgili gizlilik bildirimi</string>
     <string name="cloud_screenshots_display_name">Ekran görüntüleri</string>
@@ -1560,7 +1573,7 @@ erişimine ihtiyaç duyuyor. İzinler menüsüne gitmek için ayarla seçeneğin
     <string name="load_complete">Burada daha fazla öge yok</string>
     <string name="load_failed">Bilgi yüklenemedi. Yeniden denemek için dokunun</string>
     <string name="load_relations">Yükleniyor</string>
-    <string name="loading">Yalnızca bir saniye</string>
+    <string name="loading">Yükleniyor</string>
     <string name="loading_dots">Yükleniyor</string>
     <string name="loading_dual_tip">Çift fotoğraf yükleniyor</string>
     <string name="loading_fail">İndirilemedi</string>
@@ -1724,7 +1737,8 @@ yüzünüzle fotoğrafları seçin"</string>
     <string name="mi_9_lite">Mi 9 Lite</string>
     <string name="mi_9t">Mi 9T</string>
     <string name="mi_9t_pro">Mi 9T Pro</string>
-    <string name="mi_drop">Mi paylaşım</string>
+    <string name="mi_drop">Mi paylaş</string>
+    <string name="mi_mover_working_desc">Öğeler aktarılıyor</string>
     <string name="mi_note_10">Mi Note 10</string>
     <string name="micloud_introduce">Fotoğraf ve videoları otomatik olarak yedekleyin (Mi hesabı gerekmektedir)</string>
     <string name="midnight">Gece</string>
@@ -2151,6 +2165,7 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="photo_purge_dialog_message_image">Öğeleri silerseniz geri yükleyemezsiniz. Yine de silinsin mi?</string>
     <string name="photo_purge_dialog_message_video">Öğeleri silerseniz geri yükleyemezsiniz. Yine de silinsin mi?</string>
     <string name="photo_save_to_msg">%s kaydedildi</string>
+    <string name="photo_size_not_support">Bu çözünürlük desteklenmiyor</string>
     <string name="photo_vlog_menu_loading">@string/photo_print_menu_loading</string>
     <string name="photo_vlog_module_failed">@string/error_install_connect_fail</string>
     <string name="photo_vlog_module_finish">Video düzenleyici başarıyla indirildi</string>
@@ -2239,7 +2254,7 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="recommanded_face_abandon_tip">Önerilenlerden kaldırıldı</string>
     <string name="recommanded_face_added_tip">%s adlı kişiye eklendi</string>
     <string name="recommend_category_title">Galerinin seçtikleri</string>
-    <string name="recommend_page_label">Önerilen</string>
+    <string name="recommend_page_label">Önerilenler</string>
     <string name="recovery_merge">Birleştir</string>
     <string name="recovery_merge_or_rename">Albümleri birleştir</string>
     <string name="recovery_merge_or_rename_message">Bu ada sahip başka bir albüm mevcut. Şimdi birleştirilsin mi?</string>
@@ -2435,6 +2450,7 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="security_share_subtitle_hide">Konum bilgisi kaldırıldı</string>
     <string name="security_share_subtitle_no_hide">Konum bilgisi içerir</string>
     <string name="see_ignore_faces">Yok saydığınız kişiler</string>
+    <string name="see_more_settings">Ek ayarlar</string>
     <string name="select_all">Tümünü seç</string>
     <string name="select_image_operation">Fotoğraf ekleniyor</string>
     <string name="select_item_face">Bu %s adlı kişi mi?</string>
@@ -2603,6 +2619,11 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="support_single_image">Bir fotoğraf seçin</string>
     <string name="support_single_video">Bir video seçin</string>
     <string name="sync_album_in_proecess">Albüm senkronize ediliyor</string>
+    <string name="sync_backup_disable_confirm_message_downloading">Senkronizasyonu şimdi kapatırsanız bulutta depolanan orijinal dosyaların devam eden indirmeleri kesintiye uğrayacaktır. Bu cihazda depolanan yüksek kaliteli görüntüler de artık kullanılamayacak. Yine de kapatılsın mı?</string>
+    <string name="sync_backup_disable_confirm_message_wait">Bu cihazda depolanan yüksek kaliteli görüntüler senkronizasyonu kapatmanızın ardından artık kullanılamayacak. Orijinal dosyaları buluttan indirebilir ve bundan sonra senkronizasyonu kapatabilirsiniz</string>
+    <string name="sync_backup_disable_confirm_title">Senkronizasyonu kapat</string>
+    <string name="sync_backup_enable_confirm_message">Bulut ile senkronizasyon açıkken bu cihazdaki öğeler yüklenecek ve bulutta depolanan öğelerle birleştirilecektir</string>
+    <string name="sync_backup_enable_confirm_title">Senkronize edilmiş öğeleri birleştirin</string>
     <string name="sync_battery_low">Düşük pil</string>
     <string name="sync_cloud_space_full">Mi bulutda yeterli boş alan yok</string>
     <string name="sync_diabled_toast">Senkronizasyon kapalı</string>
@@ -3012,6 +3033,8 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="vlog_filter_lanmei">Yaban mersini</string>
     <string name="vlog_filter_liulan">Sis</string>
     <string name="vlog_filter_luoma">Roma</string>
+    <string name="vlog_filter_master_close">Kaldırılan video efektleri</string>
+    <string name="vlog_filter_master_open">Uygulanan video efektleri</string>
     <string name="vlog_filter_no_support_nums">Düzenlemeyi desteklemeyen atlanan videolar (%1$d)</string>
     <string name="vlog_filter_nuanyang">Gunes ışığı</string>
     <string name="vlog_filter_origin">Hiçbiri</string>

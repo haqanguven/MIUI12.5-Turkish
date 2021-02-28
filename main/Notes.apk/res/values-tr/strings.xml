@@ -137,8 +137,6 @@
     <string name="chinese_symbol_animals_snake">Yılan</string>
     <string name="chinese_symbol_animals_tiger">Kaplan</string>
     <string name="clearable_edittext_clear_description">Temizle</string>
-    <string name="cloud_service_state_open_reminder">Notları senkronize etmek için Mi bulut ile senkronizasyonu açın</string>
-    <string name="cloud_service_state_open_reminder_note_and_todo">Bulut ile senkronizasyonu aç</string>
     <string name="cloud_trash_bin_title">Mi buluttaki notları sil</string>
     <string name="confirm_cancel">Reddet</string>
     <string name="confirm_ok">Kabul et</string>
@@ -154,8 +152,8 @@
     <string name="cta_v2_agree_desc">Bu uygulamanın internete bağlanmasına ve yukarıda listelenen zorunlu izinleri vermesine izin verin</string>
     <string name="cta_v2_app_purpose">Not oluşturma, görüntüleme ve yönetme</string>
     <string name="cta_v2_app_purpose_v12">"Notlar'a hoş geldiniz! Bu uygulamayı metin, görüntü ve ses içeren görevler ve notlar oluşturmak için kullanabilirsiniz."</string>
-    <string name="data_empty_note">Burada henüz not yok</string>
-    <string name="data_empty_todo">Burada henüz görev yok</string>
+    <string name="data_empty_note">Henüz not yok</string>
+    <string name="data_empty_todo">Henüz görev yok</string>
     <string name="date_calculate_today">0 gün</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -249,7 +247,7 @@
     <string name="edit_note_hint_title">Başlık</string>
     <string name="empty" />
     <string name="empty_folder_import_notes">Notları içe aktar</string>
-    <string name="empty_folder_no_notes">Burada not yok</string>
+    <string name="empty_folder_no_notes">Not yok</string>
     <string name="enable_sync">Senkronize et</string>
     <string name="enable_sync_desc">Notlarınızı Mi hesabınızla (%1$s) senkronize etmek istiyor musunuz?</string>
     <string name="eras_ad">AD</string>
@@ -272,8 +270,8 @@
     <string name="excerpted_to_note">"Alıntı Notlar'a kaydedildi"</string>
     <string name="excerpting">Bir alıntı oluşturuluyor</string>
     <string name="expand_button_title">Gelişmiş</string>
-    <string name="first_enter_custom_folder_hint">Burada klasörleri yeniden adlandırabilir veya silebilirsiniz</string>
-    <string name="float_note_empty">Burada not yok</string>
+    <string name="first_enter_custom_folder_hint">Klasörleri yeniden adlandırabilir veya silebilirsiniz</string>
+    <string name="float_note_empty">Not yok</string>
     <string name="float_note_title">Notlar</string>
     <string name="float_todo_guide_cancel">İptal et</string>
     <string name="float_todo_guide_message">Ana ekran kısayolu görevleri görüntülemek ve oluşturmak için ekran kenarından kaydırmanızı sağlar. Şimdi kısayol oluşturulsun mu?</string>
@@ -477,7 +475,7 @@
     <string name="new_audio_create_done_talkback_des">Oluşturuldu</string>
     <string name="new_audio_create_guide_tip">Bir sesli not oluşturmak için basın ve basılı tutun</string>
     <string name="new_audio_create_talkback_des">Bir metin notu oluşturmak için dokunun. Bir sesli not oluşturmak için basın ve basılı tutun. Kaydı durdurmak ve notu oluşturmak için tuşu bırakın veya iptal etmek için kaydırın</string>
-    <string name="new_data_empty_note">Burada henüz öğe yok</string>
+    <string name="new_data_empty_note">Henüz öğe yok</string>
     <string name="night">ÖS</string>
     <string name="noon">ÖS</string>
     <string name="not_now">Şimdi değil</string>
@@ -571,8 +569,8 @@
     <string name="pref_title_excerpt_remind">Alıntı hatırlatıcıları</string>
     <string name="pref_title_font_size">Yazı tipi boyutu</string>
     <string name="pref_title_note_style">Stil</string>
-    <string name="pref_title_quick_note">Çabuk notlar</string>
-    <string name="pref_title_show_root_folder_in_homepage">Başlangıç sayfasında yalnızca çabuk notları görüntüle</string>
+    <string name="pref_title_quick_note">Hızlı notlar</string>
+    <string name="pref_title_show_root_folder_in_homepage">Başlangıç sayfasında yalnızca hızlı notları görüntüle</string>
     <string name="pref_title_skip_confirm_for_quick_delete">Hareket ile sil</string>
     <string name="pref_title_todo_float_mode">Görev araç kutusunu kullan</string>
     <string name="pref_title_todo_shorcut">Araç kutusu</string>
@@ -581,7 +579,7 @@
     <string name="private_entry_available">Özel klasörü açmak için bırakın</string>
     <string name="private_entry_default">Özel klasörü açmak için aşağı çekin</string>
     <string name="quick_note_link_default_text">Bağlantı</string>
-    <string name="quick_note_new_user_guide">Çabuk notlar, not ve alıntı oluşturmanızı sağlar</string>
+    <string name="quick_note_new_user_guide">Hızlı notlar, not ve alıntı oluşturmanızı sağlar</string>
     <string name="recover_notes_hint">Bir hata oluştu. Notları geri yüklemek için i.mi.com adresine gidin</string>
     <string name="redo">İleri al</string>
     <string name="refuse_to_open_as_pic_because_of_loading">Not yüklenene kadar bekleyin ve tekrar deneyin</string>
@@ -692,7 +690,11 @@
     <string name="sunday">Pazar</string>
     <string name="sunday_short">Pazar</string>
     <string name="sunday_shortest">P</string>
-    <string name="sync_all_terms">%1$s, %2$s, ve %3$s</string>
+    <string name="sync_all_terms">%1$s, %2$s ve %3$s</string>
+    <string name="sync_desc_state_complete">Bulut ile senkronize edildi</string>
+    <string name="sync_desc_state_complete_china">Tüm %1$s senkronize edildi</string>
+    <string name="sync_desc_state_disable">Bulut ile senkronizasyonu açın</string>
+    <string name="sync_desc_state_running">Bulut ile senkronize ediliyor</string>
     <string name="sync_folder_todo">%1$s ve %2$s</string>
     <string name="sync_note_folder">%1$s ve %2$s</string>
     <string name="sync_note_todo">%1$s ve %2$s</string>
@@ -765,7 +767,7 @@
     <string name="time_picker_label_minute">Dakika</string>
     <string name="toast_cancel_to_insert_image">Resim eklenemedi</string>
     <string name="toast_excerpt_end">Alıntı başarıyla oluşturuldu</string>
-    <string name="toast_excerpt_no_content">Burada alıntı yok</string>
+    <string name="toast_excerpt_no_content">Alıntı yok</string>
     <string name="toast_excerpt_open_note">Alıntılı not açıldı</string>
     <string name="toast_excerpt_saved">"Alıntı Notlar'a kaydediliyor…"</string>
     <string name="toast_message_add_image_fail">Resim eklenemedi</string>

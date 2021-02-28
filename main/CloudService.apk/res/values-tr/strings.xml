@@ -83,6 +83,14 @@
     <string name="data_merge_dialog_title">Öğeleri birleştir</string>
     <string name="data_protection_title">Verileri koru</string>
     <string name="detect_sim_card">Sim kartı ara</string>
+    <string name="device_activation_card_cannot_get_yet">Bilgi alınamadı. 3-5 gün içinde tekrar deneyin</string>
+    <string name="device_activation_card_description">"İlk aktivasyon bir cihaz ağa ilk kez bağlandığında kaydedilir. Normalde ilk etkinleştirmenin kaydedilmesi biraz zaman alır. Bu nedenle ağa bağlandıktan sonra etkinleştirme durumunu kontrol etmeden önce 3-5 gün beklemek daha iyidir.&lt;br>&lt;br>Cihaz aktivasyonu uzatılmış garantimizin geçerlilik süresini belirlemede ana faktördür. Daha fazla ayrıntı için &lt;a href=%1$s>iade, değiştirme ve onarım politikamıza&lt;/a> bakın.&lt;br>&lt;br> Herhangi bir sorunuz varsa müşteri destek hattımızı aramaktan çekinmeyin: 400-100-5678"</string>
+    <string name="device_activation_card_description_china">"İlk aktivasyon bir cihaz ağa ilk kez bağlandığında kaydedilir. Normalde ilk etkinleştirmenin kaydedilmesi biraz zaman alır. Bu nedenle ağa bağlandıktan sonra etkinleştirme durumunu kontrol etmeden önce 3-5 gün beklemek daha iyidir.&lt;br>&lt;br>Cihaz aktivasyonu uzatılmış garantimizin geçerlilik süresini belirlemede ana faktördür. Daha fazla ayrıntı için &lt;a href=%1$s>iade, değiştirme ve onarım politikamıza&lt;/a> bakın.&lt;br>&lt;br> Herhangi bir sorunuz varsa müşteri destek hattımızı aramaktan çekinmeyin: 400-100-5678"</string>
+    <string name="device_activation_card_device_not_support">Bu cihazda desteklenmiyor</string>
+    <string name="device_activation_card_local_service_error">Bilgi alınamadı. Bir veya iki dakika bekleyin ve tekrar deneyin</string>
+    <string name="device_activation_card_no_network_error">Ağa bağlanılamadı. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
+    <string name="device_activation_card_title">İlk aktivasyon</string>
+    <string name="device_activation_page_title">Cihaz aktivasyonu</string>
     <string name="disable_find_device_error">Cihaz bulma servisi kapatılamıyor. %1$s</string>
     <string name="do_not_merge">İptal et</string>
     <string name="enable_find_device_error">Cihaz bulma servisi açılamıyor. %1$s</string>
@@ -393,6 +401,7 @@ Kayıp olması durumunda cihazınızı bulun ve kilitleyin"</string>
     <string name="micloud_request_permission_title">Xiaomi bulut izine ihtiyaç duyuyor</string>
     <string name="micloud_request_sync_too_frequent">Çok fazla istek var. Bir iki dakika bekleyin ve tekrar deneyin</string>
     <string name="micloud_setting_antispam_summary">İstisnalar ve engelli telefon numaraları</string>
+    <string name="micloud_setting_bluetooth_summary">Eşleştirilmiş cihazlarınız hakkındaki bilgileri bulut ile senkronize edin</string>
     <string name="micloud_setting_browser_summary">Yer imleri, geçmiş ve sekmeler</string>
     <string name="micloud_setting_calendar_summary">Etkinlikler</string>
     <string name="micloud_setting_calllog_summary">Arama geçmişi</string>
@@ -532,8 +541,16 @@ Ağ bağlantısı zayıf olduğunda konum bilgisi bildirilmeyebilir"</string>
     <string name="provision_next">İleri</string>
     <string name="provision_skip_underline">Atla</string>
     <string name="provision_sync_items_loading">Öğeleri senkronize etmeye hazırlanıyor</string>
+    <string name="quick_service_after_sale_policy_title">Gizlilik</string>
+    <string name="quick_service_after_sale_service_title">Hizmetler</string>
+    <string name="quick_service_authenticity_check_title">Doğrulama</string>
+    <string name="quick_service_maintenance_price_title">Onarım</string>
+    <string name="quick_service_title">Hızlı hizmetler</string>
     <string name="reading_status">Durum yükleniyor</string>
     <string name="reading_status_failure">Durum yüklenemedi</string>
+    <string name="recommend_service_cloudservice_description">Sistem uygulama verilerini senkronize edin, ayarları yedekleyin, ana ekran düzeni ve daha fazlasını yapın</string>
+    <string name="recommend_service_sharelocation_description">Kayıp cihazlardaki verileri bulun, kilitleyin ve silin. Konumunuzu arkadaşlarınızla ve ailenizle paylaşın</string>
+    <string name="recommend_service_title">Önerilen hizmetler</string>
     <string name="retain_data_high_quality_photo_waring_message">Yüksek kaliteli resimler çıkış yaptıktan sonra galerinizden silinecek. İlgili orijinal dosyalar yine de bulutta saklanacaktır. Ayrıca çıkış yapmadan önce orijinal dosyaları da indirebilirsiniz</string>
     <string name="retain_data_high_quality_photo_waring_title">"Yüksek kaliteli resimler kullanılamayacak"</string>
     <string name="search_menu_title">Ara</string>
@@ -696,7 +713,12 @@ Ağ bağlantısı zayıf olduğunda konum bilgisi bildirilmeyebilir"</string>
     <string name="sync_off_confirm_content">Şifre yöneticisini kapattıktan sonra yeni şifreleri senkronize edemezsiniz</string>
     <string name="sync_off_confirm_title">Dikkat</string>
     <string name="sync_on">Açık</string>
+    <string name="sync_page_autofill_login">Parola yöneticisini kullanmak için Mi hesabında oturum açın</string>
     <string name="sync_page_autofill_title">Parola yöneticisi</string>
+    <string name="sync_page_route_message">Parola yöneticisi parolalarınızı şifrelemenize ve bulutta depolamanıza olanak tanır. Parola yöneticisi şimdi açılsın mı?</string>
+    <string name="sync_page_route_not_now">Hayır</string>
+    <string name="sync_page_route_ok">Aç</string>
+    <string name="sync_page_route_remember">Bir daha gösterme</string>
     <string name="sync_setting_title">Senkronize ayarları</string>
     <string name="sync_sub_1_intl_sms">Bu hizmeti etkinleştirmek için bir uluslararası mesaj gönderilmesi gerekebilir. Operatörünüz sizi bu mesaj için ücretlendirir</string>
     <string name="sync_sub_1_sms">Bu hizmeti etkinleştirmek için bir mesaj gönderilmesi gerekebilir. Operatörünüz sizi bu mesaj için ücretlendirir</string>

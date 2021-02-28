@@ -92,6 +92,8 @@
     <string name="am">ÖÖ</string>
     <string name="app_bugly_id">e5f6fa4ff3</string>
     <string name="app_code">MYPLAY-ANDROID-MIMUSIC</string>
+    <string name="app_description_content">Müzik bir ses oynatıcı içeren ve ses dosyalarını yönetmenize izin veren bir sistem uygulamasıdır. Ana ekran kısayolunu kaldırdıktan sonra ses dosyalarını çalmaya devam edebileceksiniz</string>
+    <string name="app_description_title">Müzikler ana ekrandan kaldırılsın mı?</string>
     <string name="app_label">İndirmeler</string>
     <string name="app_name">sdk</string>
     <string name="app_permission_confirm">Anladım</string>
@@ -837,8 +839,8 @@
     <string name="moe_message_to_register">Entegrasyon Doğrulamasına kaydolmak için kayıt düğmesine tıklayın</string>
     <string name="moe_message_to_unregister">Cihaz entegrasyon doğrulaması için kaydedildi. Kaydı silmek için düğmeye tıklayın</string>
     <string name="moe_notification_center_empty">Bildirim merkezi boş</string>
-    <string name="moe_register">REGISTER</string>
-    <string name="moe_unregister">UNREGISTER</string>
+    <string name="moe_register">Kayıtlı</string>
+    <string name="moe_unregister">Kayıtsız</string>
     <string name="monday">Pazartesi</string>
     <string name="monday_short">Pazartesi</string>
     <string name="monday_shortest">P</string>

@@ -855,7 +855,7 @@ Neden: %s"</string>
     <string name="menu_new_group_action_bar">Yeni</string>
     <string name="menu_not_redirect_calls_to_vm">Sesli mesaj kullanımda değil</string>
     <string name="menu_redirect_calls_to_vm">Tüm aramaları sesli mesaja yönlendir</string>
-    <string name="menu_removeStar">Favorilerden çıkar</string>
+    <string name="menu_removeStar">Favorilerden kaldır</string>
     <string name="menu_settings">Ayarlar</string>
     <string name="menu_share">Paylaş</string>
     <string name="menu_share_qrcode">QR kod</string>

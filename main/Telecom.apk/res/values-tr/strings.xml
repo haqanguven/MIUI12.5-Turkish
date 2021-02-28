@@ -263,6 +263,7 @@ Devam etmek için sil ve dönüştür seçeneğine basın"</string>
     <string name="dial_conference_fail_prompt">Mevcut ağ VoLTE özelliğini desteklemediğinden doğrudan konferans araması yapılamıyor</string>
     <string name="dial_vt_fail_prompt">Mevcut sürüm VoLTE özelliğini desteklemiyor. Normal sesli aramaya geçilsin mi?</string>
     <string name="dialer_default_class">com.android.contacts.activities.TwelveKeyDialer</string>
+    <string name="dialog_voicemail_not_ready_message">"Sesli mesajı ayarlamak için Menü > Ayarlar'a gidin"</string>
     <string name="direct_boot_unaware_dialog_message">Not: Yeniden başlatma sonrasında, telefonunuzun kilidi açılıncaya kadar bu uygulama başlatılamaz</string>
     <string name="disable_overlays">Donanım katmanlarını devre dışı bırak</string>
     <string name="disable_overlays_summary">"Ekran oluştururken her zaman GPU'yu kullan"</string>

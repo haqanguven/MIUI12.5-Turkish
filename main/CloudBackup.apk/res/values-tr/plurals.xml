@@ -16,8 +16,4 @@
         <item quantity="other">Yüksek öncelik: %d öğe</item>
         <item quantity="one">Yüksek öncelik: %d öğe</item>
     </plurals>
-    <plurals name="restoring_file_tile">
-        <item quantity="other">%d dosya geri yükleniyor</item>
-        <item quantity="one">%d dosya geri yükleniyor</item>
-    </plurals>
 </resources>
