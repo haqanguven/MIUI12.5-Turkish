@@ -388,7 +388,8 @@ Sağlık verilerinizi saklamayı seçtikten sonra silmeye karar verirseniz Sağl
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
-    <string name="date_picker_lunar">Çin takvimi</string>
+    <string name="date_picker_lunar">Çin geleneksel takvim</string>
+    <string name="date_time_picker_dialog_title">Tarih ve saati ayarlayın</string>
     <string name="date_week_index">"yyyy 'W'ww"</string>
     <string name="day">Gün</string>
     <string name="deep_light_detection_open_prompt">Bir sonraki yatışınızda uyku döngünüz analiz edilecek</string>
@@ -1035,10 +1036,13 @@ Baştan başla"</string>
     <string name="miuix_appcompat_cloud_state_syncing">Bulut ile senkronize et</string>
     <string name="miuix_appcompat_confirm_description">Onayla</string>
     <string name="miuix_appcompat_delete_description">Sil</string>
+    <string name="miuix_appcompat_deselect_all">Seçimi kaldır</string>
     <string name="miuix_appcompat_deselect_all_description">Tüm seçimi kaldır</string>
     <string name="miuix_appcompat_search_action_mode_cancel">İptal et</string>
     <string name="miuix_appcompat_search_input_description">Ara</string>
+    <string name="miuix_appcompat_select_all">Tümünü seç</string>
     <string name="miuix_appcompat_select_all_description">Tümünü seç</string>
+    <string name="miuix_appcompat_select_item">Öğeleri seç</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için çek</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Yenileme tamamlandı</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor</string>
@@ -1326,6 +1330,7 @@ Baştan başla"</string>
     <string name="select_recog_question">Eylem seç</string>
     <string name="select_swim_posture">Stil seç</string>
     <string name="select_target">Hedef seçin</string>
+    <string name="send">Gönder</string>
     <string name="send_diagnosis_log">Kayıt günlüğünü gönder</string>
     <string name="sending">Gönderiliyor</string>
     <string name="set_emergency_contact">Acil durum kişisi</string>

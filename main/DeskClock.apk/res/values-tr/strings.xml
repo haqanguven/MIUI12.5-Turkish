@@ -204,6 +204,7 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Çince geleneksel takvim</string>
+    <string name="date_time_picker_dialog_title">Tarih ve saati ayarlayın</string>
     <string name="day_concat">", "</string>
     <string name="default_alarm_alert">Varsayılan alarm zil sesi</string>
     <string name="default_alarm_title">Varsayılan zil sesi</string>
@@ -402,10 +403,13 @@
     <string name="miuix_appcompat_cancel_description">İptal et</string>
     <string name="miuix_appcompat_confirm_description">Onayla</string>
     <string name="miuix_appcompat_delete_description">Sil</string>
+    <string name="miuix_appcompat_deselect_all">Seçimi kaldır</string>
     <string name="miuix_appcompat_deselect_all_description">Tüm seçimi kaldır</string>
     <string name="miuix_appcompat_search_action_mode_cancel">İptal et</string>
     <string name="miuix_appcompat_search_input_description">Ara</string>
+    <string name="miuix_appcompat_select_all">Tümünü seç</string>
     <string name="miuix_appcompat_select_all_description">Tümünü seç</string>
+    <string name="miuix_appcompat_select_item">Öğeleri seç</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için çek</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Yenileme tamamlandı</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor</string>
@@ -557,6 +561,7 @@
     <string name="search_timer_keywords">Zamanlayıcı</string>
     <string name="search_worldclock">@string/worldclock_title</string>
     <string name="search_worldclock_keywords">Zaman;Dünya saati;Saat</string>
+    <string name="send">Gönder</string>
     <string name="set_alarm">Zaman seçin</string>
     <string name="set_alarm_choose_ringtone">Zil sesi seçin</string>
     <string name="set_alarm_done">Bitti</string>

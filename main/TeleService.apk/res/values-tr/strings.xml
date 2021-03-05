@@ -2230,8 +2230,8 @@ Bir sonraki dönem %2$d gün içerisinde başlayacaktır (%3$s)"</string>
     <string name="verify_apps_over_usb_title">"USB'den yüklenen uygulamaları doğrula"</string>
     <string name="vice_card_data_in_use_alert">Ek veri ücreti oluşturulabilir</string>
     <string name="vice_slot_volte_data_switch_prompt">Cihazınız VoLTE aramları sırasında ikinci Sim kartı kullanarak bir mobil veri ağına bağlanacaktır. Bu özellik ek veri ücretlerine neden olabilir. Tarife detaylarınız için yerel operatörünüzle iletişime geçin</string>
-    <string name="vice_slot_volte_data_switch_summary">VoLTE aramaları sırasında cihaz ikinci Sim kartı kullanarak bir mobil veri ağına bağlanır</string>
-    <string name="vice_slot_volte_data_switch_title">İkinci Sim kartta VoLTE aramaları yapılırken mobil veri kullan</string>
+    <string name="vice_slot_volte_data_switch_summary">VoLTE aramaları sırasında cihaz ikinci Sim kartı kullanarak mobil veri ağına bağlanabilir</string>
+    <string name="vice_slot_volte_data_switch_title">Çift VoLTE</string>
     <string name="video_calling_settings_title">Taşıyıcı görüntülü arama</string>
     <string name="vm_change_failed">"Sesli mesaj numarası değiştirilemedi
 Sorunun devam etmesi halinde operatörünüz ile iletişime geçin"</string>

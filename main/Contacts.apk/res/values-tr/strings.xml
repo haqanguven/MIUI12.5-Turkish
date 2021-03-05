@@ -90,6 +90,7 @@
     <string name="bh_buy_now">Satın al</string>
     <string name="bh_call_used">Kullanılan dakikalar</string>
     <string name="bh_cancel">İptal et</string>
+    <string name="bh_cannot_action">%1$s kullanılamadı. Önce ilgili uygulamayı yükleyin</string>
     <string name="bh_cannot_fetch_num">Bilinmeyen telefon numarası</string>
     <string name="bh_cannot_login_miacount">Mi hesabında oturum açılamadı</string>
     <string name="bh_charge_confirm">%1$s için %2$s CNY eklensin mi?</string>

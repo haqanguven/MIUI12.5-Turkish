@@ -97,6 +97,14 @@
         <item quantity="other">%d kez</item>
         <item quantity="one">%d kez</item>
     </plurals>
+    <plurals name="app_manager_uninstall_notify_summary">
+        <item quantity="other">%d uygulamayı kaldır</item>
+        <item quantity="one">%d uygulamayı kaldır</item>
+    </plurals>
+    <plurals name="app_manager_updater_notify_title">
+        <item quantity="other">%d uygulama için güncellemeler mevcut</item>
+        <item quantity="one">%d uygulama için güncellemeler mevcut</item>
+    </plurals>
     <plurals name="app_usage_day">
         <item quantity="other">%d gün önce kullanıldı</item>
         <item quantity="one">%d gün önce kullanıldı</item>
@@ -132,6 +140,10 @@
     <plurals name="cache_check_content">
         <item quantity="other">%d uygulama korunuyor</item>
         <item quantity="one">%d uygulama korunuyor</item>
+    </plurals>
+    <plurals name="card_uninstall_title">
+        <item quantity="other">&lt;Data>&lt;font color=#F22424>%d&lt;/font> uygulamayı kaldırabilirsiniz&lt;/Data></item>
+        <item quantity="one">&lt;Data>&lt;font color=#F22424>%d&lt;/font> uygulamayı kaldırabilirsiniz&lt;/Data></item>
     </plurals>
     <plurals name="daily_sim_over_limit_dialog_message">
         <item quantity="other">"Günlük veri limitinizden %s kullandınız
@@ -391,8 +403,8 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
         <item quantity="one">%d güncelleme mevcut</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
-        <item quantity="other">%d items selected</item>
-        <item quantity="one">%d item selected</item>
+        <item quantity="other">%d öğe seçildi</item>
+        <item quantity="one">%d öğe seçildi</item>
     </plurals>
     <plurals name="mixed_recording_incorrect_too_short">
         <item quantity="other">En az %d karakter girin</item>
@@ -781,6 +793,10 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
     <plurals name="system_check_content">
         <item quantity="other">%1$d öğe güvenli</item>
         <item quantity="one">%1$d öğe güvenli</item>
+    </plurals>
+    <plurals name="title_app_update_cn">
+        <item quantity="other">&lt;Data>Update &lt;font color=#F22424>%d&lt;/font> apps&lt;/Data></item>
+        <item quantity="one">&lt;Data>Update &lt;font color=#F22424>%d&lt;/font> app&lt;/Data></item>
     </plurals>
     <plurals name="title_virus_clean">
         <item quantity="other">%d virüs temizlendi</item>

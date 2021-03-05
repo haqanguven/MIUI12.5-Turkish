@@ -74,8 +74,8 @@
         <item quantity="one">%1$d kişi</item>
     </plurals>
     <plurals name="contacts_trash_delete_dialog_respond">
-        <item quantity="other">Deleted %d contacts permanently</item>
-        <item quantity="one">Deleted %d contact permanently</item>
+        <item quantity="other">%d kişi kalıcı olarak silindi</item>
+        <item quantity="one">%d kişi kalıcı olarak silindi</item>
     </plurals>
     <plurals name="contacts_trash_restore_respond">
         <item quantity="other">%d kişi geri yüklendi</item>

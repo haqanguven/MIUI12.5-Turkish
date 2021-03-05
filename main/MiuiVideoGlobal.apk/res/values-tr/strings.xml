@@ -104,6 +104,8 @@
     <string name="alert_dialog_download_progress">"Uygulama indiriliyor: "</string>
     <string name="all">Tümünü göster</string>
     <string name="app_code">MOVIE-ANDROID-MIVIDEO</string>
+    <string name="app_description_content">Videolar yerel bir video oynatıcı içeren bir sistem uygulamasıdır. Ana ekran kısayolunu kaldırdıktan sonra da video dosyalarını oynatabileceksiniz</string>
+    <string name="app_description_title">Videolar ana ekrandan kaldırılsın mı?"</string>
     <string name="app_name">Videolar</string>
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="auth_again">Kabul et</string>
@@ -114,6 +116,10 @@
     <string name="before_yestoday">2 gün önce</string>
     <string name="bind_sign_in_title">Hesap ekle</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
+    <string name="brvah_app_name">Kütüphane</string>
+    <string name="brvah_load_end">Daha fazla veri yok</string>
+    <string name="brvah_load_failed">Yükleme başarısız oldu. Tekrar denemek için lütfen beni tıklayın</string>
+    <string name="brvah_loading">Yükleniyor</string>
     <string name="cancel">İptal et</string>
     <string name="cancel_choose">Seçimi kaldır</string>
     <string name="cancel_subscribe_tips">Takip sonlandırılsın mı?</string>
@@ -274,6 +280,13 @@ Kimlik:%s
 Bu kodu gönderin"</string>
     <string name="dialog_privacy_info_new2">Hizmetleri kullanabilmek için, kişisel bilgilerinizin %1$s tarafından toplanılacağını, işleneceğini ve kullanılacağını kabul etmeniz gerekmektedir. Kabul et seçeneğine dokunduğunuzda <a href="%2$s">Gizlilik politikasını</a> okuyup kabul etmiş sayılırsınız</string>
     <string name="dialog_privacy_info_new3">"Bu hizmeti kullanabilmek için %1$s uygulamasının, Gizlilik Politikasına göre kişisel bilgilerinizi toplamasına, işlemesine ve kullanmasına izin vermeniz gerekir. Aşağıdaki kabul et yazısına dokunarak Xiaomi'nin "<a href="%2$s">Gizlilik politikası</a> ve <a href="%3$s">Kullanıcı sözleşmesini</a> onaylıyorsunuz</string>
+    <string name="dialog_privacy_revoke_cancel">İptal</string>
+    <string name="dialog_privacy_revoke_count_down">Geri çek (%1$d saniye)</string>
+    <string name="dialog_privacy_revoke_description">"Anahtarı kapatarak videolar uygulamasının Gizlilik Politikası'na verdiğiniz izni geri çekiyorsunuz. Kişisel bilgilerinizi toplamaya son vereceğiz. Halihazırda toplanan ve saklanan kişisel veriler, uygulanabilir yasaların gerektirdiği gibi belirli bir süre içinde silinecektir. Gizlilik Politikası'na verdiğiniz izni geri çekmeniz, toplanan kişisel bilgilere dayanan çevrim içi hizmetleri kabul etmeyi reddetmeniz olarak kabul edilecektir"</string>
+    <string name="dialog_privacy_revoke_fail">İznin geri çekilebilmesi için cihazınızın ağa bağlanması gerekir. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
+    <string name="dialog_privacy_revoke_ok">Geri çek</string>
+    <string name="dialog_privacy_revoke_success">Başarıyla geri çekildi</string>
+    <string name="dialog_privacy_revoking">İzin geri çekiliyor</string>
     <string name="dialog_privacy_title">Yetkilendirme</string>
     <string name="dialog_revoke_privacy_info_new2">Yetkilendirmeyi kaldırdıktan sonra uygulama veri toplamayı durdurur ve tüm ilgili veriler sunucularımızdan silinir. Bu işlem uygulamayı kullanılamaz hale getirebilir. Yetki yine de kaldırılsın mı?</string>
     <string name="dialog_revoke_privacy_title">Yetkilendirme geri alınıyor</string>
@@ -728,6 +741,7 @@ tercih ettiğiniz dili seçin"</string>
     <string name="next_step">Sonraki</string>
     <string name="nick_name">İsim</string>
     <string name="no_account">Oturum açılmadı</string>
+    <string name="no_history">Burada öğe yok</string>
     <string name="no_longer_prompt">Tekrar gösterme</string>
     <string name="no_more_content">Şimdilik bu kadar</string>
     <string name="no_network_tips">Bu özellik şu anda kullanılamıyor. Ağ erişimi kısıtlı</string>
@@ -1099,6 +1113,8 @@ Hesap güvenliğinin arttırılması"</string>
     <string name="plus_sort_type_time">Süre</string>
     <string name="plus_tab_gallery">Klasörler</string>
     <string name="plus_tab_time">Zaman tüneli</string>
+    <string name="privacy_revoke_setting">"Anahtarı kapatarak videolar uygulamasının Gizlilik Politikası'na verdiğiniz izni geri çekersiniz"</string>
+    <string name="privacy_revoke_title">İznin geri çekilmesi</string>
     <string name="progressbar_title">Güvenlik sorunları kontrol ediliyor</string>
     <string name="project_id">global-video-5cd70</string>
     <string name="psw_hint">Şifre</string>
@@ -1167,6 +1183,7 @@ Hesap güvenliğinin arttırılması"</string>
     <string name="screenrecord_cancel">Uyumluluk sorunları</string>
     <string name="screenrecord_nosupport_record">Ekran kaydedici bu cihazda desteklenmiyor</string>
     <string name="search">Ara</string>
+    <string name="search_bar_hint">Video ara</string>
     <string name="search_choose_language">Dil seçin</string>
     <string name="search_choose_voice_language">Sesli arama için kullanılacak dili seçin</string>
     <string name="search_hot_words">Popüler</string>
@@ -1373,4 +1390,12 @@ Delta güncelleme boyutu: %2$s"</string>
     <string name="xiaomi_update_sdk_megabytes_unit">%1$sMB</string>
     <string name="year">yıl</string>
     <string name="yesterday">Dün</string>
+    <string name="ytb_account">Hesaplar</string>
+    <string name="ytb_author_video">Videolar</string>
+    <string name="ytb_login">Oturum aç</string>
+    <string name="ytb_login_btn">Oturum aç</string>
+    <string name="ytb_login_hint">YouTube aboneliklerinizi görüntülemek için oturum açın</string>
+    <string name="ytb_logout">Oturumu kapat</string>
+    <string name="ytb_play_next">Sonraki</string>
+    <string name="ytb_subscribed">Abonelikler</string>
 </resources>
