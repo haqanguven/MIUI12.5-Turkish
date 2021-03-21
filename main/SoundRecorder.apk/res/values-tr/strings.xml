@@ -296,9 +296,9 @@ Metne kaydetme şu anda yalnızca mandarin aktarımını desteklemektedir. Aktar
     <string name="midnight">Gece</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Seçimi kaldır</string>
     <string name="miuix_appcompat_action_mode_select_all">Tümünü seç</string>
-    <string name="miuix_appcompat_action_mode_title_empty">Ögeleri seç</string>
+    <string name="miuix_appcompat_action_mode_title_empty">Öğeleri seç</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Daha fazla</string>
-    <string name="miuix_appcompat_cancel_description">İptal</string>
+    <string name="miuix_appcompat_cancel_description">İptal et</string>
     <string name="miuix_appcompat_cloud_state_disabled">Bulut ile senkronizasyon kapalı</string>
     <string name="miuix_appcompat_cloud_state_finished">Bulut ile senkronize edildi</string>
     <string name="miuix_appcompat_cloud_state_syncing">Bulut ile senkronize et</string>
@@ -375,6 +375,7 @@ Metne kaydetme şu anda yalnızca mandarin aktarımını desteklemektedir. Aktar
     <string name="notification_playback">Oynatılıyor</string>
     <string name="notification_recording">Kayıt ediliyor</string>
     <string name="notification_recording_ticker">Telefon sessiz moda alındı</string>
+    <string name="notification_save_as_complete">Başarıyla kaydedildi</string>
     <string name="notification_stopped">Kayıt durduruldu</string>
     <string name="notification_title_all_paused">İndirme işlemi duraklatıldı</string>
     <string name="offline_recognize_progress">Yazıya dökme hizmeti çevrimdışı: %s</string>
@@ -546,6 +547,7 @@ Metin ses servisinden daha iyi yararlanmak için aşağıdakileri de bilmeniz ge
     <string name="saturday">Cumartesi</string>
     <string name="saturday_short">Cumartesi</string>
     <string name="saturday_shortest">C</string>
+    <string name="save_as">Farklı kaydet</string>
     <string name="save_record_dialog_title">Kaydı kaydet</string>
     <string name="search_app">Ses kaydedici</string>
     <string name="search_empty">Sonuç bulunamadı</string>

@@ -2,6 +2,7 @@
 <resources>
     <string name="ai_assistant">AI arama yardımcısı</string>
     <string name="ai_assistant_not_installed">Önce AI arama yardımcısını yükleyin</string>
+    <string name="ai_dial">AI arama</string>
     <string name="ai_mode_auto">Otomatik</string>
     <string name="ai_mode_manual">El ile</string>
     <string name="ai_mode_subtitles">Altyazılar</string>

@@ -790,9 +790,13 @@ indirme işlemlerini hızlandırın"</string>
     <string name="time_picker_dialog_title">Zamanı ayarla</string>
     <string name="time_picker_label_hour">S</string>
     <string name="time_picker_label_minute">D</string>
+    <string name="tip_download_icon_restore">İndirmeler ana ekran simgesi kaldırıldı. Geri yüklemek için tıklayın</string>
+    <string name="tip_download_icon_retry">İndirmeler ana ekran simgesi geri yüklenemedi. Tekrar denemek için tıklayın</string>
     <string name="title_homepage_infoflow">Son güncellemeler</string>
     <string name="title_tips">Uyarı</string>
     <string name="title_unbind_xunlei">Xunlei hesabını sil</string>
+    <string name="toast_download_icon_restore_fail">Ana ekran simgesini geri yükleme başarısız oldu</string>
+    <string name="toast_download_icon_restore_success">Ana ekran simgesi geri yüklendi</string>
     <string name="toast_only_wifi_download">Bu ögeyi indirmek için wifi ağına bağlanın</string>
     <string name="toast_update_data_limit_fail">Ayarlanamadı</string>
     <string name="toast_xunlei_engine_open">Xunlei indirme hızlandırıcı açıldı</string>

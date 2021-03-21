@@ -350,6 +350,11 @@
     <string name="notification_aggregate_title">Bildirim toplayıcı</string>
     <string name="notification_display_setting">Bildirim çubuğu</string>
     <string name="notification_display_style">Bildirim türü</string>
+    <string name="notification_fold_description1">Bu özellik önemsiz bildirimleri filtreler ve bunları ayrı bir klasöre yerleştirir</string>
+    <string name="notification_fold_description2">MIUI hangi bildirimlere dokunduğunuzu hatırlayacak ve ardından önemli olup olmadıklarını belirlemek için birden çok kriter kullanacaktır</string>
+    <string name="notification_fold_description3">Önemli olduğunu düşündüğünüz bildirimler yine de bildirimler klasörüne düşüyorsa bu tür sorunları bize bildirdiğinizden emin olun. Geri bildiriminiz için minnettarız</string>
+    <string name="notification_fold_footer_icon_summary">Önemsiz bildirimler gruplandığında uygulama simgelerini göster</string>
+    <string name="notification_fold_footer_icon_title">Uygulama simgeleri</string>
     <string name="notification_fold_summary">Önemsiz bildirimleri otomatik olarak gruplar</string>
     <string name="notification_fold_title">Bildirimler klasörü</string>
     <string name="notification_keyguard_hide_content">Bildirimleri göster ancak içeriği gizle</string>

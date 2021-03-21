@@ -46,7 +46,7 @@
     <string name="act_weather_find_city_net_no_good">Ağa bağlanılamıyor</string>
     <string name="act_weather_find_city_no_result">Sonuç yok</string>
     <string name="act_weather_find_city_searching">Aranıyor</string>
-    <string name="actionbar_button_up_description">Back</string>
+    <string name="actionbar_button_up_description">Geri</string>
     <string name="activity_alert_detail_title" />
     <string name="activity_find_city_dialog_cancel">İptal et</string>
     <string name="activity_find_city_dialog_message">Hava durumu uygulamasının konumunuza erişimine izin ver</string>
@@ -69,7 +69,7 @@
     <string name="alert_weather_enable_settings_summary">Resmi hava durumu uyarılarını alın</string>
     <string name="alert_weather_enable_settings_title">Hava durumu uyarıları</string>
     <string name="already_voted_toast">Bugün zaten oy verdiniz</string>
-    <string name="am">AM</string>
+    <string name="am">ÖÖ</string>
     <string name="app_name">Hava durumu</string>
     <string name="aqi_15_days_desc">15 günlük hava kalitesi tahmini</string>
     <string name="aqi_24_hours_desc">24 saatlik hava kalitesi tahmini</string>
@@ -196,7 +196,7 @@
     <string name="chinese_symbol_animals_tiger">Kaplan</string>
     <string name="city_exceeded_warning">10 şehire kadar ekleyebilirsiniz</string>
     <string name="clear_net_mock_success">Temizlendi</string>
-    <string name="clearable_edittext_clear_description">Clear</string>
+    <string name="clearable_edittext_clear_description">Temizle</string>
     <string name="common_loading_text">Yükleniyor</string>
     <string name="connect_fail">Ağa bağlanılamadı. Tekrar deneyin</string>
     <string name="content_desc_activity_main_add_city">Şehir ekle</string>
@@ -514,7 +514,7 @@ Konumu el ile değiştirmek veya şehir seçmek için dokunun"</string>
     <string name="no_network_btn">Yeniden dene</string>
     <string name="no_vote_ratio">Tekrar: %%%1$s</string>
     <string name="non_wifi_environment">Wifi ağına bağlı olunmadığından yağmur sesi kaynakları indirilemiyor</string>
-    <string name="noon">Midday</string>
+    <string name="noon">Öğlen</string>
     <string name="not_set">Ayarlanmadı</string>
     <string name="open">Şimdi aç</string>
     <string name="open_browser">Tarayıcıda aç</string>
@@ -756,6 +756,6 @@ Konumu el ile değiştirmek veya şehir seçmek için dokunun"</string>
     <string name="xiaomi_weather_description_content">Hava durumu uygulaması size mümkün olan en doğru hava durumu bilgilerini sunar. Bu uygulama olmadan durum çubuğu ve ana ekranınızdaki hava durumu aracı düzgün çalışmayacaktır. Uygulamayı kaldırmadan önce uygulamaya gerçekten ihtiyacınız olmadığından emin olun</string>
     <string name="xiaomi_weather_description_title">Hava durumu hakkında</string>
     <string name="yes_vote_ratio">%%%1$s için</string>
-    <string name="yesterday">Yesterday</string>
+    <string name="yesterday">Dün</string>
     <string name="your_location">Konumunuz</string>
 </resources>

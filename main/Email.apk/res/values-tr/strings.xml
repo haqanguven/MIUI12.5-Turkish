@@ -320,6 +320,7 @@
     <string name="chat_item_msg_user_etc">vb.</string>
     <string name="check_setup_data">"    Sunucu ayarları doğrulanıyor"</string>
     <string name="choose_an_office365_international">Uluslararası sürüm</string>
+    <string name="choose_an_office365_provider">Office365 servis sağlayıcısı seçin</string>
     <string name="choose_an_office365_sj">21Vianet sürümü</string>
     <string name="choosertitle_sharevia">Şunu kullanarak paylaş</string>
     <string name="clear">Temizle</string>
@@ -400,6 +401,7 @@
     <string name="conversation_quick_button_disapprove">İptal et</string>
     <string name="conversation_quick_button_received">Alındı</string>
     <string name="conversation_report_spam">Spam bildir</string>
+    <string name="conversation_report_un_spam">Spam değil</string>
     <string name="conversation_spam_dig_msg">"Bu mesaj spam olarak işaretlensin mi? Mesaj ''Spam'' dosyasından taşınacak ve gönderici engellenenler listesine eklenecek"</string>
     <string name="conversation_spam_tips">Bu mesaj spam olarak işaretlensin mi?</string>
     <string name="copied">Kopyalandı</string>
@@ -485,6 +487,7 @@
     <string name="elided_padding_token"> </string>
     <string name="email_feedback_uri" />
     <string name="email_netease">NetEase posta</string>
+    <string name="email_no_snippet">[Bu mesajın gövde metni yok]</string>
     <string name="email_package_name">com.android.email</string>
     <string name="email_qq">QQ posta</string>
     <string name="email_sina">Sina posta</string>
@@ -618,6 +621,8 @@
     <string name="general_preference_text_zoom_normal">Normal</string>
     <string name="general_preference_text_zoom_small">Küçük</string>
     <string name="general_preference_text_zoom_tiny">Çok küçük</string>
+    <string name="general_preference_trash_contact">Spam tarama</string>
+    <string name="general_preference_trash_contact_sum">Çok sayıda rapor edilmiş gönderenlerden gelen mektupları işleme</string>
     <string name="generic_attachment_problem">Dosya eklenemiyor</string>
     <string name="get_database_exception">Ayarlar > Sistem ayarları menüsünde uygulamanın verilerini temizleyin ve ardından tekrar deneyin</string>
     <string name="get_oauth_code">Kod al</string>
@@ -750,25 +755,48 @@ Lütfen uygulama şifresinin açık olup olmadığını onaylayın. Eğer açık
     <string name="me_subject_pronun">ben</string>
     <string name="meeting_accepted">"
         Kabul edildi:
-%s
-"</string>
+        %s
+    "</string>
+    <string name="meeting_allday">"
+        Ne zaman:
+        %s
+        (Tüm gün)
+    "</string>
+    <string name="meeting_allday_recurring">"
+        Ne zaman:
+        %s
+        (Tüm gün. Yinelenen)
+    "</string>
     <string name="meeting_canceled">"
         İptal edildi:
-%s
-"</string>
+        %s
+    "</string>
     <string name="meeting_declined">"
         Reddedildi:
-%s
-"</string>
-    <string name="meeting_responded_failed">Yanıt yok</string>
+        %s
+    "</string>
+    <string name="meeting_recurring">"
+        Ne zaman:
+        %s
+        (Yinelenen)
+    "</string>
+    <string name="meeting_responded_failed">Cevap yok</string>
     <string name="meeting_tentative">"
         Geçici:
-%s
-"</string>
+        %s
+    "</string>
     <string name="meeting_updated">"
         Güncellendi:
-%s
-"</string>
+        %s
+    "</string>
+    <string name="meeting_when">"
+        Ne zaman:
+        %s
+    "</string>
+    <string name="meeting_where">"
+        Nerede:
+        %s
+    "</string>
     <string name="megabytes">%s MB</string>
     <string name="menu_att_mgr">Eklentiler</string>
     <string name="menu_att_mgr_order_default">Yakınlarda görüntülenen</string>
@@ -855,6 +883,7 @@ Farklı bir e-posta hesabı kullanmayı deneyin"</string>
     <string name="notification_action_undo_archive">Arşivlendi</string>
     <string name="notification_action_undo_delete">Silindi</string>
     <string name="notification_action_undo_remove_label">Etiket kaldırıldı</string>
+    <string name="notification_exchange_calendar_added">Exchange takvimi eklendi</string>
     <string name="notify_channel_new_mail">Yeni mesajları bildir</string>
     <string name="notify_channel_no_disterb">Rahatsız etme modu</string>
     <string name="notify_channel_permission_notice">İzin gerekli</string>
@@ -865,6 +894,7 @@ Farklı bir e-posta hesabı kullanmayı deneyin"</string>
     <string name="ntes_do_not_sms_uplink">"İlişkili telefon numarasından bir mesaj gönderin ve ''Mesaj gönderildi'' seçeneğine dokunun"</string>
     <string name="ntes_had_send">Mesaj gönderildi</string>
     <string name="ntes_had_send_to_content">"İlişkili telefon numarasından zaten bir mesaj gönderildiyse devam etmek için ''Mesaj gönderildi'' seçeneğine dokunun"</string>
+    <string name="ntes_login_auth_too_much">"Doğrulama kodlarınızın sayısı üst sınır olan 5'e ulaştı. Lütfen kullanılmayan doğrulama kodlarını silmek için NetEase posta kutunuza giriş yapmak için internet sayfasını kullanın"</string>
     <string name="ntes_login_error_message" formatted="false">Bilgi alınamıyor (Hata %s). %s</string>
     <string name="ntes_password_error_hint">Şifrenizi girerken bir hata oluşursa bu sayfayı kapatın ve tekrar açın</string>
     <string name="ntes_phone_send">Bağlantılı telefon numarasından bir metin mesajı gönderin</string>
@@ -1203,6 +1233,7 @@ Tamamen senkronize edilmesini bekleyin veya mesajı bilgisayarınızda görünt�
     <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
     <string name="single_new_message_notification_title">%1$s: %2$s</string>
+    <string name="sms_not_found_tip">Sistem mesaj uygulaması başlatılamıyor. Lütfen mesaj uygulamasını manuel olarak başlatın ve bir doğrulama mesajı gönderin</string>
     <string name="smtp_password_error">Giden posta sunucusu şifresi yanlış</string>
     <string name="snip_pic">%1$s</string>
     <string name="sort_attachment">Sırala</string>
@@ -1347,10 +1378,12 @@ Hesap kaldırılsın mı?"</string>
 Postayı bir kez senkronize etmek için <b>şimdi senkronize et</b> veya bu hesabı postayı otomatik olarak senkronize edilecek şekilde ayarlamak için <b>senkronizasyon ayarlarını değiştire</b> dokunun"</string>
     <string name="wait_for_sync_title">Senkronizasyon için bekleniyor</string>
     <string name="wait_help_context">Bekleyin</string>
-    <string name="wait_while_update_db">Veri tabanı yükseltme işlemi sırasında bir dakika bekleyin lütfen</string>
+    <string name="wait_while_update_db">Veri tabanı yükseltiliyor</string>
+    <string name="web_view_load_error_tip">"Bazı sorunlar meydana geldi ve bu e-postanın gövdesi düzgün görüntülenemiyor. Bu sorunla karşılaşırsanız bize geri bildirimde bulunmak için lütfen QQ grubu 952315061'i ekleyin"</string>
     <string name="webview_logout">Tekrar oturum açmayı deneyebilirsiniz</string>
     <string name="webview_logout_cancel">Şimdi değil</string>
     <string name="webview_logout_sure">Yeniden deneyin</string>
+    <string name="webview_not_found">İnternet görünümü bileşeni bulunamadığından sayfa açılamıyor</string>
     <string name="webview_sslerror_handle_cancel">İptal et</string>
     <string name="webview_sslerror_handle_continue">Devam et</string>
     <string name="webview_sslerror_handle_hitmessage">Bir sertifika hatası meydana geldi. Yine de devam edilsin mi?</string>

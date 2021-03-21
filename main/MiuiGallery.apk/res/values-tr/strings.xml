@@ -223,7 +223,6 @@
     <string name="authorize_watch_on_tv_failed">"TV'de görüntüleme yetkisi alınamadı"</string>
     <string name="auto_backup_introduce">Fotoğraf ve videoları otomatik olarak yedekleyin (Mi hesabı gerekmektedir)</string>
     <string name="auto_download_media_title">Fotoğrafları Mi bulut alanından otomatik indir</string>
-    <string name="auto_download_title">Görüntü kalitesini seçin</string>
     <string name="auto_update_face">Fotoğrafları otomatik olarak ekle</string>
     <string name="auto_update_face_summary">Fotoğrafları otomatik olarak eşleştir ve bebek albümüne ekle</string>
     <string name="auto_update_off">Kapat</string>
@@ -293,8 +292,6 @@
     <string name="backup_pause_dialog_title">Senkronizasyonu duraklat</string>
     <string name="backup_pause_title">%s içerisinde yedekle</string>
     <string name="backup_pending">Otomatik olarak yedeklenecektir</string>
-    <string name="backup_settings">Bulut ile senkronize edin</string>
-    <string name="backup_settings_more">Ek ayarlar</string>
     <string name="backup_stop">Yedeklemeyi durdur</string>
     <string name="backup_sync_dialog_confirm">Aç</string>
     <string name="backup_sync_dialog_tips">Yedek dosyaları ayarlarını değiştirmek için Mi bulut ile senkronizasyon özelliğini açın</string>
@@ -909,21 +906,11 @@
     <string name="close_dialog_desc">İletişim kutusunu kapat</string>
     <string name="cloud_authorize_to_share_to_device">Mi hesabınızla ilişkili televizyonları görüntülemeye izin verin</string>
     <string name="cloud_authorizing_to_device">Yetkilendiriliyor</string>
-    <string name="cloud_backup_enable_title">Senkronize</string>
-    <string name="cloud_backup_open_button">Aç</string>
-    <string name="cloud_backup_space">Bulut depolama</string>
-    <string name="cloud_backup_status_disable">Kapalı</string>
-    <string name="cloud_backup_status_eneble">Aç</string>
-    <string name="cloud_backup_title">Bulut ile senkronize edin</string>
-    <string name="cloud_bacup_disable_button">Senkronizasyonu kapat</string>
-    <string name="cloud_bacup_disable_processing">İşleniyor</string>
     <string name="cloud_camera_display_name">Kamera fotoğrafları</string>
     <string name="cloud_cancel_authorizing_to_device">Yetki iptal ediliyor</string>
     <string name="cloud_guide_auto_backup_title">Yedeklenecek albümleri seçin</string>
     <string name="cloud_guide_login_title">Fotoğraf ve videoları otomatik olarak yedekleyin</string>
     <string name="cloud_guide_welcome_title">Mi bulut</string>
-    <string name="cloud_login_ok">Anladım</string>
-    <string name="cloud_login_settings_title">Senkronizasyon ayarları</string>
     <string name="cloud_privacy_with_ai_album">Otomatik yedekleme ve görüntü işleme ile ilgili gizlilik beyanı</string>
     <string name="cloud_privacy_with_face">Otomatik yedekleme ve yüz tanıma ile ilgili gizlilik bildirimi</string>
     <string name="cloud_screenshots_display_name">Ekran görüntüleri</string>
@@ -1376,7 +1363,11 @@ Arkadaşlarınızın daha fazla fotoğraflarını çekin"</string>
     <string name="filter_sky_glow">Parıltı</string>
     <string name="filter_sky_haoyue">Ay</string>
     <string name="filter_sky_hint">Gökyüzü</string>
+    <string name="filter_sky_hongxi">Kızıl</string>
+    <string name="filter_sky_huanxia">Rüya</string>
+    <string name="filter_sky_jiyun">Kümülüs</string>
     <string name="filter_sky_nimbus">Yağmur bulutu</string>
+    <string name="filter_sky_nuanyang">Sıcaklık</string>
     <string name="filter_sky_qixia">Şafak</string>
     <string name="filter_sky_rainbow">Gökkuşağı</string>
     <string name="filter_sky_random_download_failed">"İndirilemedi. Hata kodu: "</string>
@@ -1388,6 +1379,9 @@ Arkadaşlarınızın daha fazla fotoğraflarını çekin"</string>
     <string name="filter_sky_sunset">Gün batımı</string>
     <string name="filter_sky_text_yanhua">Metin</string>
     <string name="filter_sky_twilight">Alaca karanlık</string>
+    <string name="filter_sky_xiaying">Kızıl</string>
+    <string name="filter_sky_xieyang">Akşam üzeri</string>
+    <string name="filter_sky_xiguang">Işınlar</string>
     <string name="filter_sky_xingchen">Yıldızlar</string>
     <string name="filter_sky_xinggui">Yörüngeler</string>
     <string name="filter_sky_xinghe">Galaksi</string>
@@ -1399,6 +1393,8 @@ Arkadaşlarınızın daha fazla fotoğraflarını çekin"</string>
     <string name="filter_sky_yingyue">Dolunay</string>
     <string name="filter_sky_yinhe">Samanyolu</string>
     <string name="filter_sky_yuhui">Solan ışık</string>
+    <string name="filter_sky_yunbo">Dalgalar</string>
+    <string name="filter_sky_yunmeng">Fantezi</string>
     <string name="filter_sky_yunxu">Saçak bulut</string>
     <string name="filter_texture_shadow">Alacakaranlık</string>
     <string name="finish_create_baby_album_toast">Mi bulutda %s için albüm oluşturuldu</string>
@@ -1611,6 +1607,7 @@ erişimine ihtiyaç duyuyor. İzinler menüsüne gitmek için ayarla seçeneğin
     <string name="macarons_select_video">Sihirli vinyet oluşturmak için videolar kullanılamaz</string>
     <string name="magic_add_full">%1$d kişiye kadar ekleyebilirsiniz</string>
     <string name="magic_background">Arka plan</string>
+    <string name="magic_bitmap_damaged">Görüntü dosyası bozulmuş</string>
     <string name="magic_brush">Fırça</string>
     <string name="magic_camera">Kamera</string>
     <string name="magic_cancel">İptal et</string>
@@ -1657,6 +1654,7 @@ erişimine ihtiyaç duyuyor. İzinler menüsüne gitmek için ayarla seçeneğin
     <string name="magic_matting_download_sdk_without_wifi_title">Sihir eklentisini indir</string>
     <string name="magic_matting_download_with_metered_network_msg">Görünüşe göre cihazınız ücretli bir ağa bağlı. Orijinal dosyaların indirilmesi ek ücretlere neden olabilir. Yinede indirilsin mi?</string>
     <string name="magic_matting_download_with_metered_network_title">Ücretli ağ</string>
+    <string name="magic_matting_error_px">Görsel boyutu desteklenmiyor</string>
     <string name="magic_matting_face_fail">Yüz işlenemedi</string>
     <string name="magic_matting_load_data_fail">Veriler yüklenemedi</string>
     <string name="magic_matting_module_failed">@string/error_install_connect_fail</string>
@@ -1687,6 +1685,8 @@ erişimine ihtiyaç duyuyor. İzinler menüsüne gitmek için ayarla seçeneğin
     <string name="magic_stroke">Anahat</string>
     <string name="magic_typesetting_n">Düzen</string>
     <string name="magic_value_exceed">Girdiğiniz değer sınırı aştı</string>
+    <string name="magic_video_cut_frame">İşleniyor</string>
+    <string name="magic_video_cut_frame_back">İptal etmek için tekrar dokunun</string>
     <string name="magic_video_cut_max">En çok %1$d saniye seçin</string>
     <string name="magic_video_cut_min">En az %1$d saniye seçin</string>
     <string name="magic_video_long_press">Eklemek için basın &amp; basılı tutun</string>
@@ -1886,6 +1886,8 @@ yüzünüzle fotoğrafları seçin"</string>
     <string name="need_to_turn_on_sync_first">Öncelikle Mi bulut ile senkronizasyon özelliğini açın</string>
     <string name="need_to_turn_on_wlan">Öncelikle Wifi ağına bağlanın</string>
     <string name="network_connected_rescan">Ağa bağlanılamıyor</string>
+    <string name="network_message">Bu özelliğin normal çalışması için ağa bağlanması gerekir. Görünüşe göre bu cihaz kablosuz ağa bağlı değil. Devam etmek için mobil veri kullanılsın mı? Mobil verileri kullanmak ek operatör ücretleri oluşturabilir"</string>
+    <string name="network_title">Ağa bağlanın</string>
     <string name="new_album_invalid_byte">Bu isim çok uzun</string>
     <string name="new_album_invalid_char">İsimler %s karakterini içermemelidir. Bir harf veya rakam girin</string>
     <string name="new_album_invalid_name">%s albümü sistem albümüdür. Lütfen yeniden adlandırın</string>
@@ -1963,6 +1965,7 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="operation_failed">İşlem tamamlanamadı</string>
     <string name="operation_favorites">Favoriler</string>
     <string name="operation_force_top">İğnele</string>
+    <string name="operation_google_lens">Google Lens</string>
     <string name="operation_hide">Gizle</string>
     <string name="operation_hide_time">Tarihi gizle</string>
     <string name="operation_in_process">İşleniyor</string>
@@ -2450,7 +2453,6 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="security_share_subtitle_hide">Konum bilgisi kaldırıldı</string>
     <string name="security_share_subtitle_no_hide">Konum bilgisi içerir</string>
     <string name="see_ignore_faces">Yok saydığınız kişiler</string>
-    <string name="see_more_settings">Ek ayarlar</string>
     <string name="select_all">Tümünü seç</string>
     <string name="select_image_operation">Fotoğraf ekleniyor</string>
     <string name="select_item_face">Bu %s adlı kişi mi?</string>
@@ -2619,11 +2621,6 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="support_single_image">Bir fotoğraf seçin</string>
     <string name="support_single_video">Bir video seçin</string>
     <string name="sync_album_in_proecess">Albüm senkronize ediliyor</string>
-    <string name="sync_backup_disable_confirm_message_downloading">Senkronizasyonu şimdi kapatırsanız bulutta depolanan orijinal dosyaların devam eden indirmeleri kesintiye uğrayacaktır. Bu cihazda depolanan yüksek kaliteli görüntüler de artık kullanılamayacak. Yine de kapatılsın mı?</string>
-    <string name="sync_backup_disable_confirm_message_wait">Bu cihazda depolanan yüksek kaliteli görüntüler senkronizasyonu kapatmanızın ardından artık kullanılamayacak. Orijinal dosyaları buluttan indirebilir ve bundan sonra senkronizasyonu kapatabilirsiniz</string>
-    <string name="sync_backup_disable_confirm_title">Senkronizasyonu kapat</string>
-    <string name="sync_backup_enable_confirm_message">Bulut ile senkronizasyon açıkken bu cihazdaki öğeler yüklenecek ve bulutta depolanan öğelerle birleştirilecektir</string>
-    <string name="sync_backup_enable_confirm_title">Senkronize edilmiş öğeleri birleştirin</string>
     <string name="sync_battery_low">Düşük pil</string>
     <string name="sync_cloud_space_full">Mi bulutda yeterli boş alan yok</string>
     <string name="sync_diabled_toast">Senkronizasyon kapalı</string>

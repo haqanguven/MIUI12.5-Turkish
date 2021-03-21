@@ -739,6 +739,7 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="search_menu_title">Ara</string>
     <string name="section_description">Açıklama</string>
     <string name="section_screenshot">Ekran görüntüsü</string>
+    <string name="send">Gönder</string>
     <string name="send_diagnosis_log">Kayıtları gönder</string>
     <string name="send_email_activate_message">Doğrulama e-postası başarıyla gönderildi</string>
     <string name="sending">Gönderiliyor</string>

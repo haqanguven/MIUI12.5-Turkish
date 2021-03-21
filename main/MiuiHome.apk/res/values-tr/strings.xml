@@ -222,6 +222,7 @@
     <string name="delete_category_dialog_title">Bu kategori silinsin mi?</string>
     <string name="delete_screen">Ekranı sil</string>
     <string name="delete_wallpaper_message">%1$d duvar kağıdı silinsin mi?</string>
+    <string name="deleted_system_applications">Kaldırılan sistem uygulamaları</string>
     <string name="deselect_all">Tüm seçimleri kaldır</string>
     <string name="dialog_work_profile_button_1">Sonraki</string>
     <string name="dialog_work_profile_button_2">Anladım</string>
@@ -266,7 +267,7 @@
     <string name="failed_to_delete_temporary">Kaldırılamıyor</string>
     <string name="failed_to_drop">Taşınamıyor</string>
     <string name="failed_to_drop_widget_invalid">Araç geçersiz</string>
-    <string name="failed_to_load_image">Resim yüklenemiyor</string>
+    <string name="failed_to_load_image">Fotoğraf yüklenemiyor</string>
     <string name="folder_name">Klasör</string>
     <string name="frame_load_failed">Çerçeve yüklenemiyor</string>
     <string name="free_style_apps_title">Uygulama seçin</string>
@@ -299,10 +300,10 @@
     <string name="gadget_load_error">Yükleniyor</string>
     <string name="gadget_mtz_label">Küçük araçlar</string>
     <string name="gadget_notes_label">Notlar</string>
-    <string name="gadget_photo_22_label">Resim 2x2</string>
-    <string name="gadget_photo_24_label">Resim 4x2</string>
-    <string name="gadget_photo_44_label">Resim 4x4</string>
-    <string name="gadget_photo_label">Resim</string>
+    <string name="gadget_photo_22_label">Fotoğraf 2x2</string>
+    <string name="gadget_photo_24_label">Fotoğraf 4x2</string>
+    <string name="gadget_photo_44_label">Fotoğraf 4x4</string>
+    <string name="gadget_photo_label">Fotoğraf</string>
     <string name="gadget_power_clear_button_label">Derin temizlik</string>
     <string name="gadget_search_label">Ara</string>
     <string name="gadget_weather_app_not_installed">Miui hava durumu uygulamasını indirmek için dokunun</string>
@@ -440,6 +441,7 @@
     <string name="navigation_type_title_synonyms_3">Tam ekran hareketleri</string>
     <string name="navigation_type_title_synonyms_4">Gezinme tuşu</string>
     <string name="navigation_type_virtual_key">Tuşlar</string>
+    <string name="network_error">Ağa bağlanılamadı. Tekrar deneyin</string>
     <string name="no_detail_page">Ayrıntı sayfası yok</string>
     <string name="no_space_toast">Yeterli boş alan yok</string>
     <string name="no_space_toast_when_click_widget">Bu sayfada yeterli alan yok. Bu öğeyi farklı bir sayfaya sürüklemeyi deneyin</string>
@@ -538,6 +540,8 @@
     <string name="remove_dialog_message">Uygulama sistemin gerekli işlevlerini içerir ve yalnızca masaüstü simgelerini kaldırmayı destekler</string>
     <string name="remove_dialog_title_format">%s kaldırsın mı?</string>
     <string name="remove_invalidate_gadget_tips">Kullandığınız araçlardan biri artık mevcut değil. Başka bir tane ekleyebilirsiniz</string>
+    <string name="remove_sys_app_content">Ayarlar > Uygulamalar > Ana ekran kısayolunu yönet menüsünde tekrar ana ekran kısayolunu ekleyebileceksiniz. Şimdi kaldırılsın mı?</string>
+    <string name="remove_sys_app_title">Ana ekran kısayolu kaldırılsın mı?</string>
     <string name="reset_cate_tip_content">Varsayılan uygulama grupları geri yüklenecek. Devam edilsin mi?</string>
     <string name="reset_cate_tip_title">Varsayılan grupları geri yükle</string>
     <string name="reset_description_first_time">Düzeni %1$s kaynağından 2 saat içinde geri yükleyebilirsiniz</string>
@@ -548,6 +552,7 @@
     <string name="resource_canary_leak_tip">Sızıntı var</string>
     <string name="resource_canary_wait_for_heapdump_message">Yığın boyutu boşaltılıyor</string>
     <string name="restore_icon_successful">Eklendi</string>
+    <string name="russia_preinstall_folder_name">Rusya</string>
     <string name="screen_cells_config_title">Ana ekran düzeni</string>
     <string name="screen_locked_toast">Ana ekran düzeni kilitli</string>
     <string name="screen_number">%d. ekran</string>
@@ -556,7 +561,8 @@
     <string name="search_no_result">Sonuç bulunamadı</string>
     <string name="select_all">Tümünü seç</string>
     <string name="select_frame">Çerçeve</string>
-    <string name="select_photo">Resim</string>
+    <string name="select_photo">Fotoğraf</string>
+    <string name="server_error">Bir sunucu hatası oluştu. Bir veya iki dakika bekleyin ve tekrar deneyin</string>
     <string name="setting_wallpaper_tip">Düzenlemek için sürükleyin veya kaydırın</string>
     <string name="settings">Ayarlar</string>
     <string name="settings_shortcut">Ayarlar</string>

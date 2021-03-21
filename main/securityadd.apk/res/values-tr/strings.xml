@@ -71,7 +71,7 @@
     <string name="can_not_enter_kid_space_in_phone_toast">Görüşme sırasında çocuk alanı yok</string>
     <string name="can_not_exist_kid_space_in_phone_toast">Bir arama sırasında çocuk alanı geri alınamaz</string>
     <string name="can_not_switch_when_green_kid_active">Aile koruyucusunda avatar değiştirmek yasaktır</string>
-    <string name="cancel">İptal</string>
+    <string name="cancel">İptal et</string>
     <string name="cancel_button">İptal et</string>
     <string name="character_counter_content_description">Karakter %1$d/%2$d arasında girildi</string>
     <string name="character_counter_overflowed_content_description">"Karakter sınırı %1$d/%2$d'yi aştı"</string>
@@ -221,6 +221,7 @@
     <string name="ew_detail_receive_time_title">Başlangıç zamanı</string>
     <string name="ew_detail_receive_warn_time_message">%s saniye</string>
     <string name="ew_detail_receive_warn_time_title">Başlangıçtan önceki zaman</string>
+    <string name="ew_save_title">Kaydet</string>
     <string name="ew_share_logo_title">Deprem uyarısı</string>
     <string name="ew_share_save_tips">%s konumuna kaydedildi</string>
     <string name="ew_share_title">Paylaş</string>
@@ -374,6 +375,7 @@
     <string name="gb_gpu_tips_graph">GPU performansını hızlandırmak ve güç tasarrufu yapmak için grafikleri optimize edin. Bu özellik seçili oyunlar tarafından desteklenmektedir</string>
     <string name="gb_gpu_tips_resolution">Varsayılan çözüm belirli oyun tarafından tanımlanır. Bazı oyunlar çözünürlüğü ayarlamaya izin vermez</string>
     <string name="gb_gpu_tips_texture">Performans veya görüntü kalitesini öncelikli hale getirin</string>
+    <string name="gb_not_support_on_device">Bu uygulama dış ekranda kullanılamaz</string>
     <string name="gb_pannel_control_mode_balance">Dengeli</string>
     <string name="gb_pannel_control_mode_custom">Özel</string>
     <string name="gb_pannel_control_mode_high_quality">Yüksek kalite</string>

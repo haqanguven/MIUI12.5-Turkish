@@ -137,8 +137,10 @@
     <string name="book_card_rating_text">%1$s yorum</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="calendar_account_settings">Hesap ayarları</string>
-    <string name="calendar_import_source">Yol kaynağı</string>
+    <string name="calendar_import_source">Kaynak</string>
+    <string name="calendar_privacy_policy">Gizlilik politikası</string>
     <string name="calendar_subscription_group_title">Takvim abonelikleri</string>
+    <string name="calendar_user_agreement">Kullanıcı sözleşmesi</string>
     <string name="can_not_create_long_event">Etkinlik adı çok uzun</string>
     <string name="can_not_modify_allday_event">Tüm gün etkinliği değiştirilemiyor</string>
     <string name="can_not_modify_event">Etkinlik değiştirilemiyor</string>
@@ -259,6 +261,7 @@
     <string name="cold_dews">Soğuk çığ</string>
     <string name="cold_dews_tradition">Soğuk çığ</string>
     <string name="content_confirm_close_chinese_calendar">Bu özelliği kapattıktan sonra geleneksel Çin takvimine göre tüm etkinlikleriniz miladi takvimine dönüştürülür. Miladi takviminin yılları ve ayları tekrarlanan etkinlikler için kullanılacak</string>
+    <string name="copy">Kopyala</string>
     <string name="copy_email">E-posta adresini kopyala</string>
     <string name="copy_number">Telefon numarasını kopyala</string>
     <string name="countdown_event_title">Geri sayım: %1$s</string>
@@ -415,7 +418,8 @@
     <string name="event_reminder_value_zero">Etkinlikten önce</string>
     <string name="event_title">Başlık</string>
     <string name="event_view">Etkinliği görüntüle</string>
-    <string name="every_weekday">Hafta içi (Pazartesi–Cuma)</string>
+    <string name="every_weekday">Pazartesiden cumaya</string>
+    <string name="expand_button_title">Gelişmiş</string>
     <string name="exposed_dropdown_menu_content_description">Açılır menüyü göster</string>
     <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
     <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
@@ -490,6 +494,9 @@
     <string name="fools_day_tradition">Nisan şakası günü</string>
     <string name="fortune_birthday">Doğum günü</string>
     <string name="fortune_card_caiwei">Finansal pozisyon:</string>
+    <string name="fortune_card_comprehensive">Genel servet:</string>
+    <string name="fortune_card_financial">Şans şansı:</string>
+    <string name="fortune_card_love">Servet aşkı:</string>
     <string name="fortune_card_set_bazi">Doğum günü karakterini ayarla</string>
     <string name="fortune_card_set_bazi_simple">Doğum gününü ayarla</string>
     <string name="fortune_card_taohua">Şeftali çiçeği:</string>
@@ -497,6 +504,7 @@
     <string name="fortune_card_zhengchong">Rekabet:</string>
     <string name="fortune_gender">Cinsiyet</string>
     <string name="fortune_label">Günlük servet</string>
+    <string name="fortune_love">Aşk durumu</string>
     <string name="fortune_name">Ad</string>
     <string name="fortune_name_hint">Lütfen girin</string>
     <string name="fortune_no_name">Lütfen başlığı doldurunuz</string>
@@ -575,6 +583,7 @@
     <string name="import_action">İçe aktar</string>
     <string name="import_birthday">Doğum günü içe aktar</string>
     <string name="import_help">Yardım</string>
+    <string name="import_lark_failed">İçe aktarma başarısız oldu</string>
     <string name="import_text">İçe aktar</string>
     <string name="imported">İçe aktarıldı</string>
     <string name="insects_awaken">Böcekler</string>
@@ -750,18 +759,21 @@
     <string name="miuix_appcompat_cancel_description">İptal et</string>
     <string name="miuix_appcompat_confirm_description">Onayla</string>
     <string name="miuix_appcompat_delete_description">Sil</string>
-    <string name="miuix_appcompat_deselect_all_description">Tüm seçimi kaldır</string>
+    <string name="miuix_appcompat_deselect_all">Seçimi kaldır</string>
+    <string name="miuix_appcompat_deselect_all_description">Tüm seçimleri kaldır</string>
     <string name="miuix_appcompat_search_action_mode_cancel">İptal et</string>
     <string name="miuix_appcompat_search_input_description">Ara</string>
+    <string name="miuix_appcompat_select_all">Tümünü seç</string>
     <string name="miuix_appcompat_select_all_description">Tümünü seç</string>
-    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için çek</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Yenileme tamamlandı</string>
+    <string name="miuix_appcompat_select_item">Öğeleri seç</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için aşağı çekin</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Başarıyla yenilendi</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor</string>
-    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Yenilemek için serbest bırak</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Veri yok</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">Bunu yapma</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Yenileniyor</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Hata</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Yenilemek için bırakın</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Şimdilik bu kadar</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">Şimdilik bu kadar</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Yükleniyor</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Öğeler yüklenemedi</string>
     <string name="miuix_search_action_mode_cancel">İptal et</string>
     <string name="miuix_search_history_clear">Arama geçmişini temizle</string>
     <string name="miuix_search_history_default_title">Arama geçmişi</string>
@@ -894,6 +906,7 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin"</string>
     <string name="no_visiable_calendar_select_account">Hesap ekle</string>
     <string name="no_visiable_calendar_title">Hesap ekle</string>
     <string name="noon">ÖS</string>
+    <string name="not_set">Ayarlanmadı</string>
     <string name="notification_channel_description" />
     <string name="notification_channel_name">Takvim hatırlatıcıları</string>
     <string name="notification_channel_name_no_sound">Susturulmuş hatırlatmalar</string>
@@ -936,6 +949,7 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin"</string>
     <string name="pref_reminder_time">Hatırlatıcı zamanı</string>
     <string name="pref_title_alarm_remind">Alarm ile hatırlat</string>
     <string name="pref_title_no_remind">Hatırlatıcı yok</string>
+    <string name="preference_copied">%1$s panoya kopyalandı</string>
     <string name="preferences_alarm_default_event_title">Bir alarm hatırlatması ayarla</string>
     <string name="preferences_alarms_category_title">Alarm hatırlatıcıları</string>
     <string name="preferences_alarms_default_event">Etkinlikler seç</string>
@@ -969,6 +983,7 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin"</string>
     <string name="preferences_week_start_day_default">-1</string>
     <string name="preferences_week_start_day_dialog">Haftanın başlangıcı</string>
     <string name="preferences_week_start_day_title">Haftanın başlangıcı</string>
+    <string name="prefsx_notify_sound_none">Sessiz</string>
     <string name="premission_description_agree">Bu uygulamanın internete bağlanmasına ve yukarıda listelenen zorunlu izinleri vermesine izin verin</string>
     <string name="premission_description_calendar">Etkinliklerinizi eklemek ve görüntülemek için</string>
     <string name="premission_description_contact">Kişilerinizin doğum günlerini görüntülemek için</string>
@@ -1206,8 +1221,10 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin"</string>
     <string name="subscribing_card">Abone olunuyor</string>
     <string name="subscription_service">Servis abonelikleri</string>
     <string name="subscription_service_unsupported">Ağ erişimini kabul etmiyor. Abonelik servisi kullanılamıyor</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_import_by_caldav">İCloud lark hesabından içe aktarma etkinliklerini destekleyin</string>
     <string name="summary_import_by_email">Outlook, QQ hesabı vb. destekleyin</string>
+    <string name="summary_import_by_feishu">Uçan kitap programının tek tuşla senkronizasyonunu destekleyin</string>
     <string name="summary_import_by_local">ICS takvim dosyasını destekleyin</string>
     <string name="summary_import_by_url">Bağlantıya göre abone takvimi desteği</string>
     <string name="summer_begins">Yaz başlangıcı</string>
@@ -1314,6 +1331,7 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin"</string>
     <string name="title_confirm_close_chinese_calendar">Çin takvimini kapat</string>
     <string name="title_import_by_caldav">CalDav hesabıyla içe aktar</string>
     <string name="title_import_by_email">E-posta hesabıyla içe aktar</string>
+    <string name="title_import_by_feishu">Uçan kitap içe aktarma</string>
     <string name="title_import_by_local">Yerel olarak içe aktar</string>
     <string name="title_import_by_url">Bağlantı ile içe aktar</string>
     <string name="toast_block_by_other_work">Mevcut görev tamamlanana kadar bekleyin ve tekrar deneyin</string>
@@ -1417,6 +1435,8 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin"</string>
     <string name="user_notice_button_ok">Tamam</string>
     <string name="user_notice_message">"Bu ürünü kullanarak Xiaomi'nin %1$s ve %2$s sözleşmelerini kabul etmiş sayılıyorsunuz. Bazı özellikler normal olarak çalışabilmeleri için internet bağlantısı, konum, kişiler ve kısa mesajlara erişime ihtiyaç duyar"</string>
     <string name="user_notice_title">Uyarı</string>
+    <string name="v7_preference_off">Kapalı</string>
+    <string name="v7_preference_on">Açık</string>
     <string name="valentines_day">Sevgililer günü</string>
     <string name="valentines_day_tradition">Sevgililer günü</string>
     <string name="vernal_equinox">Bahar</string>

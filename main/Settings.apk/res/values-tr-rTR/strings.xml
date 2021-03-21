@@ -2046,7 +2046,7 @@ Veri kullanımı telefonunuz tarafından ölçülür ve operatörünüz kullanı
     <string name="debug_app_not_set">Hata ayıklama uygulama seti yok</string>
     <string name="debug_app_set">Hata ayıklama uygulaması: %1$s</string>
     <string name="debug_applications_category">Uygulamalar</string>
-    <string name="debug_autofill_category">Oto. doldur</string>
+    <string name="debug_autofill_category">Otomatik doldur</string>
     <string name="debug_debugging_category">Hata ayıklama</string>
     <string name="debug_drawing_category">Çizim</string>
     <string name="debug_hw_drawing_category">Donanım hızlandırmaları</string>
@@ -8774,8 +8774,6 @@ Ayarları şu şekilde güncelle:
 	<string name="time_setting_sound_title">Zaman ayarı sesi</string>
 	<string name="lockscreen_powermenu_options_title">Güç menüsü seçenekleri</string>
 	<string name="lockscreen_powermenu_options_summary">Kilit ekranında güç menüsü kullanımını değiştirir</string>
-	<string name="unread_notifications_title">Okunmamış bildirimler</string>
-	<string name="unread_notifications_summary">Kilit ekranında okunmamış bildirimleri her zaman gösterir</string>
 	<string name="unlocking_fingerprint_title">Parmak izi ile kilidi aç</string>
 	<string name="unlocking_fingerprint_summary">Yeniden başlattıktan sonra şifreyi veya deseni girmek yerine parmak izi ile kilidi açmanıza izin verir</string>
 	<string name="secure_screenshot_disable_title">Her yerde ekran resmi al</string>
