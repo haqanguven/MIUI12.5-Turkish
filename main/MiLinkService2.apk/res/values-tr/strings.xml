@@ -124,6 +124,8 @@
     <string name="debug_mode_list_title">Cihaz listesi ayrıntılı verileri gösterir</string>
     <string name="debug_mode_log_desc">Hassas verileri varsayılan olarak koruyun (IP ve MAC)</string>
     <string name="debug_mode_log_title">Günlük yazdırma ayrıntıları</string>
+    <string name="debug_mode_merge_support">Uygulama birleştirmeyi destekleyip desteklemeyeceği</string>
+    <string name="debug_mode_milink_version">Mi Bbağlantı sürümü</string>
     <string name="debug_mode_miplay_limit_desc">Varsayılan AndroidP veya üstü &amp;&amp;Qualcomm çip&amp;&amp;eksiksiz gizlilik uyarlaması&amp;&amp;eksiksiz gizlilik uyarlaması gerektirir</string>
     <string name="debug_mode_miplay_limit_title">Mi oynatma sürüm koşulları</string>
     <string name="debug_mode_miplay_support">Mi oynatma projeksiyon desteği</string>
@@ -168,6 +170,8 @@ Eğer bağlantı sorunu yaşıyorsanız yardım için görüntüleyin"</string>
 2. Bazı TV modellerinde bu özellik yalnızca ekran yansıtma açık olduğunda mevcuttur. Daha fazla bilgi için yardımı görüntüleyin"</string>
     <string name="dialog_scanning_device">Yakınlardaki cihazlar aranıyor…</string>
     <string name="dialog_scanning_precondition">Kablosuz ekranı kullanmak için telefonunuzdaki wifi veya Bluetooth bağlantısını açın</string>
+    <string name="dialog_scanning_precondition_new_china">Yansıtmayı kullanabilmek için wifi, bluetooth ve konum hizmetlerini açın. Şimdi açılsın mı?</string>
+    <string name="dialog_scanning_precondition_new_global">Yansıtmayı kullanabilmek için wifi, bluetooth ve konum hizmetlerini açın. Şimdi açılsın mı?</string>
     <string name="dialog_select_tv">Cihaz seçin (%d)</string>
     <string name="dialog_show_help">Yardım</string>
     <string name="disconnect">Yansıtmayı durdur</string>

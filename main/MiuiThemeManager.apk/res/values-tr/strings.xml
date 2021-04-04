@@ -532,7 +532,7 @@ Bu özelliği kapatmak için Ayarlar > ses &amp; titreşim > Profil videosu ayar
     <string name="incall_show_remove_success">Profil videosu başarıyla kaldırıldı</string>
     <string name="incall_show_title">Profil videoları</string>
     <string name="incompatible_dialog_cancel">Uygulama</string>
-    <string name="incompatible_dialog_message">"Bu tema cihazınızda kurulu olan Miui sürümü ile uyumlu değil. Bu temayı uyguladığınız takdirde Miui'nin bazı kısımları düzgün çalışmayabilir"</string>
+    <string name="incompatible_dialog_message">"Bu tema cihazınızda kurulu olan MIUI sürümü ile uyumlu değil. Bu temayı uyguladığınız takdirde MIUI'nin bazı kısımları düzgün çalışmayabilir"</string>
     <string name="incompatible_dialog_ok">Anladım</string>
     <string name="incompatible_dialog_title">Uyumluluk sorunları</string>
     <string name="install_failed">Yüklenemedi</string>
@@ -571,7 +571,7 @@ Bu özelliği kapatmak için Ayarlar > ses &amp; titreşim > Profil videosu ayar
     <string name="marketSdkVersion">3.2.4</string>
     <string name="material_slider_range_end">Aralık sonu,</string>
     <string name="material_slider_range_start">Aralık başlangıcı,</string>
-    <string name="mi_wallpaper">Miui duvar kağıtları</string>
+    <string name="mi_wallpaper">MIUI duvar kağıtları</string>
     <string name="midnight">ÖÖ</string>
     <string name="mine_tab_not_login">"Öğeleri görüntülemek için oturum açın
 Şimdi oturum açmak için buraya dokunun"</string>
@@ -604,7 +604,7 @@ mm"</string>
     <string name="miuishare_account_login_ok">Oturum aç</string>
     <string name="miuishare_account_need_activate">"Weibo'da paylaşım yapmak için Mi hesabınızla ilişkilendirilmiş bir Weibo hesabı gereklidir. Devam etmek için Mi hesabınızı etkinleştirin"</string>
     <string name="miuishare_account_need_login">"Weibo'da paylaşım yapmak için Mi hesabınızla ilişkilendirilmiş bir Weibo hesabı gereklidir. Devam etmek için Mi hesabınızı oturum açın"</string>
-    <string name="miuishare_app_name">Miui Paylaşım</string>
+    <string name="miuishare_app_name">MIUI Paylaşım</string>
     <string name="miuishare_mini_program_title">Bulduğum duvar kağıdına bir göz at</string>
     <string name="miuishare_no_network">Ağa bağlanamadı</string>
     <string name="miuishare_please_retry">Bilgiler alınamadı. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
@@ -903,8 +903,8 @@ mm"</string>
     <string name="resource_exchange_has_used">Girmiş olduğunuz kod daha önce kullanıldı</string>
     <string name="resource_exchange_hint">Hediye kodunuzu girin</string>
     <string name="resource_exchange_purchase_unkown_error">Ups! Bilinmeyen bir hata oluştu. Ödeme durumunuzu görüntülemek için http://market.xiaomi.com adresinde oturum açın</string>
-    <string name="resource_exchange_share_code_content">Miui Tema Mağazasında %1$s teması için bir hediye kodu aldınız (%2$s). Kullanmak için %3$s seçeneğine dokunun</string>
-    <string name="resource_exchange_share_code_dlg_content">%1$s için hediye kodu: %2$s. Bu kodu diğer bir Miui kullanıcısına gönderdiğinizde kodu göndermiş olduğunuz kullanıcı kodu bu temayı indirmek için kullanabilir</string>
+    <string name="resource_exchange_share_code_content">MIUI Tema Mağazasında %1$s teması için bir hediye kodu aldınız (%2$s). Kullanmak için %3$s seçeneğine dokunun</string>
+    <string name="resource_exchange_share_code_dlg_content">%1$s için hediye kodu: %2$s. Bu kodu diğer bir MIUI kullanıcısına gönderdiğinizde kodu göndermiş olduğunuz kullanıcı kodu bu temayı indirmek için kullanabilir</string>
     <string name="resource_exchange_share_code_dlg_title">Gönderiliyor</string>
     <string name="resource_exchange_success">Tadını çıkarın! :)</string>
     <string name="resource_exchange_unavailable">Girmiş olduğunuz kod ile ilişkilendirilmiş olan tema kullanılabilir durumda değil</string>
@@ -1007,8 +1007,8 @@ mm"</string>
     <string name="resource_title_rank">Popüler listeler</string>
     <string name="resource_title_select_ringtone">Tonu seçin</string>
     <string name="resource_title_subject">Öne çıkanlar</string>
-    <string name="resource_trial_days">(Deneme: %1$dg)</string>
-    <string name="resource_trial_days_hours">(Deneme: %1$dg %2$ds)</string>
+    <string name="resource_trial_days">(Deneme: %1$d gün)</string>
+    <string name="resource_trial_days_hours">(Deneme: %1$d gün %2$d saat)</string>
     <string name="resource_trial_end_get_mibi">Mi kredisi alın</string>
     <string name="resource_trial_end_jump_hint">Yönlendiriliyor</string>
     <string name="resource_trial_end_message">%1$s deneme süresi sona erdi. Temayı beğendiyseniz satın alın</string>
@@ -1030,8 +1030,10 @@ mm"</string>
     <string name="resource_waiting_download">Bekleniyor</string>
     <string name="resource_waiting_pause">Duraklat</string>
     <string name="resource_wallpaper_download">Duvar kağıdı indir</string>
-    <string name="restore_home_icon_text">Add a Home screen shortcut</string>
-    <string name="restore_icon_later">You can add the Home screen shortcut in the Settings again</string>
+    <string name="restore_home_icon_text">Ana ekran kısayolu ekle</string>
+    <string name="restore_icon_later">Ana ekran kısayolunu ayarlardan tekrar ekleyebilirsiniz</string>
+    <string name="ringtone_confirm_dialog_message">Bu zil sesinin süresi uzundur. Yine de kullanılsın mı?</string>
+    <string name="ringtone_confirm_dialog_title">Dikkat</string>
     <string name="ringtone_set_success">Başarıyla ayarlandı</string>
     <string name="saturday">Cumartesi</string>
     <string name="saturday_short">Cumartesi</string>
@@ -1060,8 +1062,7 @@ mm"</string>
     <string name="set_as_colorring">Özel zil sesi olarak ayarla</string>
     <string name="set_color_ring_back_tone">Özel zil sesi ayarla</string>
     <string name="set_home_wallpaper_failed">%s. Ana ekran duvar kağıdı uygulanamıyor</string>
-    <string name="set_wallpaper_group_success">"%1$s uygulandı
-Her saat yeni bir resim göreceksiniz"</string>
+    <string name="set_wallpaper_group_success">%1$s duvar kağıdı başarıyla uygulandı</string>
     <string name="setting_font_online">Çevrimiçi yazı tipleri</string>
     <string name="settings">Ayarlar</string>
     <string name="settings_search_keyword_font_free">Ücretsiz yazı tipleri</string>

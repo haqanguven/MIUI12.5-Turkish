@@ -606,6 +606,7 @@ Cihazı yerleştirmek için lütfen resimdeki açıya bakın ve tekrar deneyin"<
     <string name="phone_can_not_be_empty">Telefon numarası boş olamaz</string>
     <string name="phone_number">Telefon numarası</string>
     <string name="phone_storage">Telefon hafızası</string>
+    <string name="picture">Galeri</string>
     <string name="picture_all_audio">Tüm ses</string>
     <string name="picture_audio">Sistem kayıt iznine erişim reddedildi</string>
     <string name="picture_audio_empty">Ses kaydetmek için sistem kaydını kullanabilirsiniz</string>
@@ -862,6 +863,7 @@ Cihazı yerleştirmek için lütfen resimdeki açıya bakın ve tekrar deneyin"<
     <string name="translate_dest_lang">Hedef dil</string>
     <string name="translate_fail">Tercüme edilemedi</string>
     <string name="translate_loading">Tercüme ediliyor</string>
+    <string name="translate_overtime">Hizmet zaman aşımı</string>
     <string name="translate_parallel_2_lines">Metnin ekrandaki satırlara paralel olduğundan emin olun</string>
     <string name="translate_save_fail">Not kaydedilemedi</string>
     <string name="translate_src_lang">Kaynak dil</string>

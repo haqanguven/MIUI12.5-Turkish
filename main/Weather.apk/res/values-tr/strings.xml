@@ -378,14 +378,22 @@ Yenilemek için aşağı doğru çekin veya ağ ayarlarınızı kontrol edin"</s
     <string name="hourly_forecast_title_24_hours_desc">24 saatlik hava tahmini</string>
     <string name="hourly_forecast_title_hourly_desc">saatlik hava tahmini</string>
     <string name="index_item_download_pause">İndirmeye devam et</string>
+    <string name="index_item_download_pause_type_e">"İndirmeye
+devam et"</string>
     <string name="index_item_downloading">İndiriliyor</string>
+    <string name="index_item_downloading_type_e">"İndiriliyor
+"</string>
     <string name="index_item_experience_now">Şimdi yükle</string>
+    <string name="index_item_experience_now_type_e">"Şimdi
+yükle"</string>
     <string name="index_item_install_dialog">%1$s başarıyla indirildi ve kuruldu. Hemen denemek ister misiniz?</string>
     <string name="index_item_install_dialog_cancel" />
     <string name="index_item_install_dialog_open" />
     <string name="index_item_install_now">Şimdi yükle</string>
     <string name="index_item_installing">Yükleniyor</string>
     <string name="index_item_installing2">Yükleniyor</string>
+    <string name="index_item_installing2_type_e">"Yükleniyor
+"</string>
     <string name="indices_desc_humidity">Nem %%%1$s</string>
     <string name="indices_desc_humidity_without_pic">%%%1$s</string>
     <string name="indices_desc_pressure">%1$smb</string>
@@ -516,9 +524,11 @@ Konumu el ile değiştirmek veya şehir seçmek için dokunun"</string>
     <string name="non_wifi_environment">Wifi ağına bağlı olunmadığından yağmur sesi kaynakları indirilemiyor</string>
     <string name="noon">Öğlen</string>
     <string name="not_set">Ayarlanmadı</string>
-    <string name="open">Şimdi aç</string>
+    <string name="open">Aç</string>
     <string name="open_browser">Tarayıcıda aç</string>
-    <string name="open_now">Aç</string>
+    <string name="open_now">Şimdi aç</string>
+    <string name="open_type_e">"Şimdi
+aç"</string>
     <string name="other_settings">Diğer ayarlar</string>
     <string name="other_warning_settings">Diğer uyarılar</string>
     <string name="particulate_matter_exceeded">Yüksek</string>

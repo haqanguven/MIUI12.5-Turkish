@@ -755,7 +755,6 @@
     <string name="preference_key_video_clean_remind_size">key_video_clean_remind_size</string>
     <string name="preference_key_video_clean_remind_size_value">key_video_clean_remind_size_value</string>
     <string name="preference_key_video_clean_remind_state">key_video_clean_remind_state</string>
-    <string name="preference_key_wechat_garbage_clean_alert">key_wechat_clean_switch_state</string>
     <string name="preference_key_wechat_garbage_clean_alert12">key_wechat_clean_switch_state_drop</string>
     <string name="preference_key_wechat_garbage_cleanup_auto_check_size">key_wechat_timed_auto_scan_notify_size</string>
     <string name="preference_key_wechat_garbage_cleanup_auto_check_size12">key_wechat_timed_auto_scan_notify_size_drop</string>
@@ -895,6 +894,8 @@
     <string name="toast_updater_open_4g_text">Uygulamalar mobil veriler kullanılarak güncellenecektir (4G)</string>
     <string name="total_clean">Toplam temizlenen: %s</string>
     <string name="total_clean_text">Temizle</string>
+    <string name="unit_gb">%s GB</string>
+    <string name="unit_mb">%s MB</string>
     <string name="unlike">Hayır</string>
     <string name="update_date_format">dd/MM/yyyy</string>
     <string name="v7_preference_off">Kapalı</string>
@@ -960,6 +961,7 @@
     <string name="wechat_qq_deep_clean_button_text">Derin temizlik</string>
     <string name="wechat_video_time">%1$s:%2$s</string>
     <string name="whatsapp_btn_quick_cleanup">Seçili öğeleri sil (%s)</string>
+    <string name="whatsapp_cache_clear">Önbellek temizleniyor</string>
     <string name="whatsapp_clean_exit_confirm_cancel">İptal et</string>
     <string name="whatsapp_clean_exit_confirm_msg">Taramayı durdur</string>
     <string name="whatsapp_clean_exit_confirm_ok">Tamam</string>
@@ -968,7 +970,11 @@
     <string name="whatsapp_delete_confirm_cancel">İptal et</string>
     <string name="whatsapp_delete_confirm_message">Silinsin mi?</string>
     <string name="whatsapp_delete_confirm_ok">Tamam</string>
-    <string name="whatsapp_delete_done">Hepsi tamam</string>
+    <string name="whatsapp_delete_done">Bitti</string>
+    <string name="whatsapp_detail_cache_result">%s temizlendi</string>
+    <string name="whatsapp_detail_sort_created">Tarihe göre sırala</string>
+    <string name="whatsapp_file_recv">Alındı</string>
+    <string name="whatsapp_file_send">Gönder</string>
     <string name="whatsapp_file_show_order">Bugün</string>
     <string name="whatsapp_function_summery">WhatsApp önemsiz dosyayı temizle</string>
     <string name="whatsapp_function_title">WhatsApp için temizle</string>

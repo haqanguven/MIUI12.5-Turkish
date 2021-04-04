@@ -48,7 +48,7 @@
     <string name="cloud_russion_addr">Rus sunucu verilerini güncelle</string>
     <string name="cloud_staging_addr">Hazırlama sunucusunun adresini güncelle</string>
     <string name="config_classify">Uygulama ayarlarına göre sırala</string>
-    <string name="config_description">Miui uygulamaların belirli arkaplan işlemlerini belirler ve önemli arkaplan verilerini etkilemeyecek şekilde pil tasarrufu amacıyla optimize eder</string>
+    <string name="config_description">MIUI uygulamaların belirli arkaplan işlemlerini belirler ve önemli arkaplan verilerini etkilemeyecek şekilde pil tasarrufu amacıyla optimize eder</string>
     <string name="config_mode_title">Arka plan ayarları</string>
     <string name="config_no_restrict_description">Pil tasarrufu uygulamaların etkinliklerini kısıtlamıyor</string>
     <string name="config_no_restrict_title">Kısıtlama yok</string>
@@ -97,7 +97,7 @@ Pil tasarrufu özelliği önemli uygulamaları özel olarak ele alır ve işlem 
     <string name="miuix_sbl_tracking_progress_labe_up_none">Bunu yapma</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Yenileniyor</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Hata</string>
-    <string name="nonui_mode_config_description">Miui cihazınızı kullanmadığınızı tespit ettiğinde bildirimler için ekran ışığı yakılmaz. Bildirim ışığı, parmak izi sensörü ve dokunma kontrolleri pil tasarrufu amacıyla kapatılır</string>
+    <string name="nonui_mode_config_description">MIUI cihazınızı kullanmadığınızı tespit ettiğinde bildirimler için ekran ışığını yakmaz. Bildirim ışığı, parmak izi sensörü ve dokunma kontrolleri pil tasarrufu amacıyla kapatılır</string>
     <string name="nonui_mode_config_title">Etkileşimsiz mod</string>
     <string name="not_set">Ayarlanmadı</string>
     <string name="notification_exit_extreme_mode_text">"Pil %s'den fazla şarj edildi"</string>
@@ -115,8 +115,8 @@ Pil tasarrufu özelliği önemli uygulamaları özel olarak ele alır ve işlem 
     <string name="power_checker_mobile_radio_title">%1$s ağa sık sık erişiyor</string>
     <string name="power_checker_multi_apps_title">Fazla pil tüketen uygulamalar: %2$s</string>
     <string name="power_checker_notify_summary">Fazla pil tüketen uygulamaları optimize edin</string>
-    <string name="power_checker_partial_wakelock_multi_apps_title">%1$s Miui forum uygulamasının uyku moduna girmesini engelliyor</string>
-    <string name="power_checker_partial_wakelock_title">%1$s Miui forum uygulamasının uyku moduna girmesini engelliyor</string>
+    <string name="power_checker_partial_wakelock_multi_apps_title">%1$s MIUI forum uygulamasının uyku moduna girmesini engelliyor</string>
+    <string name="power_checker_partial_wakelock_title">%1$s MIUI forum uygulamasının uyku moduna girmesini engelliyor</string>
     <string name="power_checker_wakeup_alarm_multi_apps_title">%1$s sık sık açılıyor</string>
     <string name="power_checker_wakeup_alarm_title">%1$s sık sık açılıyor</string>
     <string name="power_checker_wifi_scan_multi_apps_title">%1$s sık sık wifi ağı arıyor</string>
@@ -139,8 +139,8 @@ Pil tasarrufu özelliği önemli uygulamaları özel olarak ele alır ve işlem 
     <string name="search_menu_title">Ara</string>
     <string name="search_result_text">Herhangi bir uygulama bulunamadı</string>
     <string name="show_system_app">Sistem uygulamalarını göster</string>
-    <string name="sleep_config_enhance_description">Miui uyuduğunuzu algıladığında arkaplan uygulamalarını kapatır. NFC, Bluetooth, GPS, mobil veri ve wifi kullanımını kısıtlar ve bildirimler için ekranı açmaz</string>
-    <string name="sleep_config_enhance_description_non_nfc">Miui uyuduğunuzu algıladığında arkaplan uygulamalarını kapatır. Bluetooth, GPS, mobil veri ve wifi kullanımını kısıtlar ve bildirimler için ekranı açmaz</string>
+    <string name="sleep_config_enhance_description">MIUI uyuduğunuzu algıladığında arkaplan uygulamalarını kapatır. NFC, Bluetooth, GPS, mobil veri ve wifi kullanımını kısıtlar ve bildirimler için ekranı açmaz</string>
+    <string name="sleep_config_enhance_description_non_nfc">MIUI uyuduğunuzu algıladığında arkaplan uygulamalarını kapatır. Bluetooth, GPS, mobil veri ve wifi kullanımını kısıtlar ve bildirimler için ekranı açmaz</string>
     <string name="sleep_config_enhance_title">Uyku modu</string>
     <string name="sleepmode_disclaimer_agree">Kabul et</string>
     <string name="sleepmode_disclaimer_cancel">İptal et</string>

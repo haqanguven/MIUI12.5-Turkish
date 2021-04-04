@@ -206,6 +206,7 @@
     <string name="defalut_launcher_title">Varsayılan başlatıcı</string>
     <string name="default_folder_title_claro">Claro</string>
     <string name="default_folder_title_game">Oyunlar</string>
+    <string name="default_folder_title_hot">Popüler uygulamalar</string>
     <string name="default_folder_title_meitu">Meitu uygulamaları</string>
     <string name="default_folder_title_microsoft">Microsoft</string>
     <string name="default_folder_title_other_apps">Diğer uygulamalar</string>
@@ -339,7 +340,7 @@
     <string name="icon_form">Simgeler</string>
     <string name="icon_reorganize_channel">Simgeleri düzenle</string>
     <string name="icon_size">Simge boyutu</string>
-    <string name="icon_style">Stil</string>
+    <string name="icon_style">Stiller</string>
     <string name="image_too_small_message">Orijinal resim yeterince büyük değil</string>
     <string name="install">Yükle</string>
     <string name="invalid_contact_shortcut">Geçersiz kişi</string>
@@ -559,6 +560,7 @@
     <string name="search_in_apps_store">%2$s içinde %1$s için arama yap</string>
     <string name="search_menu_title">Ara</string>
     <string name="search_no_result">Sonuç bulunamadı</string>
+    <string name="secret_key">q2cjp52h1an92s7j</string>
     <string name="select_all">Tümünü seç</string>
     <string name="select_frame">Çerçeve</string>
     <string name="select_photo">Fotoğraf</string>
@@ -578,6 +580,7 @@
     <string name="show_mem_info_title">Bellek durumu göstergesi</string>
     <string name="show_most_popular_apps_you_used">Çekmecede en sık kullanılan uygulamaları görüntülenir</string>
     <string name="show_recents_recommend_title">Kısayollar</string>
+    <string name="sign_secret_key">vha2n2sh808j7ni2p3af1mw58gxa9yrj</string>
     <string name="slide_to_open_newhome">İçerik merkezini açmak için yukarı kaydırın</string>
     <string name="small_window_button_complete">Bitti</string>
     <string name="small_window_edit_content">%d uygulamaya kadar ekleyebilirsiniz</string>

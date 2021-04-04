@@ -278,9 +278,14 @@
     <string name="diagnosis_log_sent_format">"Kayıtlar başarıyla gönderildi
 Kimlik:%s
 Bu kodu gönderin"</string>
-    <string name="dialog_privacy_info_new2">Hizmetleri kullanabilmek için, kişisel bilgilerinizin %1$s tarafından toplanılacağını, işleneceğini ve kullanılacağını kabul etmeniz gerekmektedir. Kabul et seçeneğine dokunduğunuzda <a href="%2$s">Gizlilik politikasını</a> okuyup kabul etmiş sayılırsınız</string>
+    <string name="dialog_disagree_privacychange_info">Gizlilik politikamızı kabul etmezseniz videolar uygulamasının çevrim içi yayın hizmetlerini kullanamayacaksınız. Geri gitmek için iptal et seçeneğine veya devam etmek için reddet seçeneğine dokunun ve videoları yalnızca yerel bir oynatıcı olarak kullanın</string>
+    <string name="dialog_disagree_privacychange_title">Reddedilsin mi?</string>
+    <string name="dialog_privacy_change_info">"Sunduğumuz hizmetlerdeki düzenlemelerden dolayı videolar gizlilik politikasını güncelledik. Bir kullanıcı olarak tüm haklarınızı ayrıca verilerinizi kullanma yöntemlerimizi anlamak için uygulamayı kullanmadan önce &lt;a href=%1$s>Kullanıcı sözleşmesi&lt;/a> ve &lt;a href=%2$s>Gizlilik politikamızı&lt;/a> okuyun ve kabul edin"</string>
+    <string name="dialog_privacy_change_title">Gizlilik politikası güncellemesi</string>
+    <string name="dialog_privacy_info_new2">Hizmetleri kullanabilmek için kişisel bilgilerinizin %1$s tarafından toplanılacağını, işleneceğini ve kullanılacağını kabul etmeniz gerekmektedir. Kabul et seçeneğine dokunduğunuzda <a href="%2$s">Gizlilik politikasını</a> okuyup kabul etmiş sayılırsınız</string>
     <string name="dialog_privacy_info_new3">"Bu hizmeti kullanabilmek için %1$s uygulamasının, Gizlilik Politikasına göre kişisel bilgilerinizi toplamasına, işlemesine ve kullanmasına izin vermeniz gerekir. Aşağıdaki kabul et yazısına dokunarak Xiaomi'nin "<a href="%2$s">Gizlilik politikası</a> ve <a href="%3$s">Kullanıcı sözleşmesini</a> onaylıyorsunuz</string>
-    <string name="dialog_privacy_revoke_cancel">İptal</string>
+    <string name="dialog_privacy_info_new4">"Videolar uygulamasına hoş geldiniz! Bu uygulama aşağıdaki hizmetleri sunmaktadır:&lt;br>&lt;/br> - Çevrim içi yayın hizmetleri&lt;br>&lt;/br>- Yerel bir video oynatıcı&lt;br>&lt;/br>Temel hizmetleri size sağlayabilmesi için videoların gerekli kişisel bilgileri toplaması gerekmektedir. Topladığımız bilgileri nasıl kullandığımızı Gizlilik politikamızdan öğrenebilirsiniz. İlgili ayarları Ayarlar > Şifreler &amp;amp; Güvenlik menüsünden değiştirebilirsiniz.&lt;br>&lt;/br>Videolar uygulamasını kullanmadan önce &lt;a href=%1$s>Kullanıcı sözleşmesi&lt;/a> ve &lt;a href=%2$s>Gizlilik politikası'nı&lt;/a> okuyun ve kabul edin"</string>
+    <string name="dialog_privacy_revoke_cancel">İptal et</string>
     <string name="dialog_privacy_revoke_count_down">Geri çek (%1$d saniye)</string>
     <string name="dialog_privacy_revoke_description">"Anahtarı kapatarak videolar uygulamasının Gizlilik Politikası'na verdiğiniz izni geri çekiyorsunuz. Kişisel bilgilerinizi toplamaya son vereceğiz. Halihazırda toplanan ve saklanan kişisel veriler, uygulanabilir yasaların gerektirdiği gibi belirli bir süre içinde silinecektir. Gizlilik Politikası'na verdiğiniz izni geri çekmeniz, toplanan kişisel bilgilere dayanan çevrim içi hizmetleri kabul etmeyi reddetmeniz olarak kabul edilecektir"</string>
     <string name="dialog_privacy_revoke_fail">İznin geri çekilebilmesi için cihazınızın ağa bağlanması gerekir. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
@@ -290,7 +295,8 @@ Bu kodu gönderin"</string>
     <string name="dialog_privacy_title">Yetkilendirme</string>
     <string name="dialog_revoke_privacy_info_new2">Yetkilendirmeyi kaldırdıktan sonra uygulama veri toplamayı durdurur ve tüm ilgili veriler sunucularımızdan silinir. Bu işlem uygulamayı kullanılamaz hale getirebilir. Yetki yine de kaldırılsın mı?</string>
     <string name="dialog_revoke_privacy_title">Yetkilendirme geri alınıyor</string>
-    <string name="diy_channels_tips">Artık kanal listenizi özelleştirebilirsiniz.</string>
+    <string name="disagree">Reddet</string>
+    <string name="diy_channels_tips">Artık kanal listenizi özelleştirebilirsiniz</string>
     <string name="do_not_show_again">Tekrar gösterme</string>
     <string name="download">İndir</string>
     <string name="download_checking_tip">İndirmeye hazırlanıyor</string>
@@ -1184,6 +1190,7 @@ Hesap güvenliğinin arttırılması"</string>
     <string name="screenrecord_nosupport_record">Ekran kaydedici bu cihazda desteklenmiyor</string>
     <string name="search">Ara</string>
     <string name="search_bar_hint">Video ara</string>
+    <string name="search_bar_video_download_hint">Ara veya bağlantı gir</string>
     <string name="search_choose_language">Dil seçin</string>
     <string name="search_choose_voice_language">Sesli arama için kullanılacak dili seçin</string>
     <string name="search_hot_words">Popüler</string>
@@ -1280,7 +1287,7 @@ Hiçbir şey göstermiyor"</string>
     <string name="tab_name_local">Yerel</string>
     <string name="tab_name_me">Profil</string>
     <string name="tab_name_moment">Anlar</string>
-    <string name="tab_name_trending">Yükselenler</string>
+    <string name="tab_name_trending">Çevrimiçi</string>
     <string name="tab_name_video">Videolar</string>
     <string name="tag_index">tag_index</string>
     <string name="tag_key">tag_key</string>
@@ -1351,7 +1358,19 @@ Hiçbir şey göstermiyor"</string>
     <string name="v_txt_login">Favorilerinizi senkronize etmek için oturum açın</string>
     <string name="v_update">Güncelle</string>
     <string name="video_already_download_tip">Bu ögeyi zaten indirdiniz</string>
+    <string name="video_download_btn">İndir</string>
     <string name="video_download_fail">Video indirilemedi</string>
+    <string name="video_download_fail_hint">İndirilemedi</string>
+    <string name="video_download_floating_guide">Videoları ücretsiz indirin</string>
+    <string name="video_download_forbidden">Bu internet sitesinden indirilemiyor</string>
+    <string name="video_download_network_error">Ağ hatası</string>
+    <string name="video_download_play_video_guide">Önce videoyu oynatın</string>
+    <string name="video_download_play_video_guide2">Sonra indirmek için tuşa dokunun</string>
+    <string name="video_download_site_search">Bağlantı</string>
+    <string name="video_download_source">İnternetten indirme</string>
+    <string name="video_download_start">İndiriliyor</string>
+    <string name="video_download_storage_error">Yeterli depolama alanı yok</string>
+    <string name="video_downloading">İndiriliyor</string>
     <string name="video_live_over">Bu oturum sona erdi</string>
     <string name="video_noyet_download_tip">Bu video hala indiriliyor</string>
     <string name="video_offline">Bu öge artık kullanılabilir değil</string>

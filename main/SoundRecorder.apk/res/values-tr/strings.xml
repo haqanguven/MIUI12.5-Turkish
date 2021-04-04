@@ -536,6 +536,8 @@ Metin ses servisinden daha iyi yararlanmak için aşağıdakileri de bilmeniz ge
     <string name="reg_error_server">Bir sunucu hatası meydana geldi. Hatayı bildirin ve tekrar deneyin</string>
     <string name="reg_error_upload_audio">Dosya karşıya yüklenemedi. Tekrar deneyin</string>
     <string name="reg_error_upload_order">Karşıya yüklenemedi. Tekrar deneyin</string>
+    <string name="remove_icon_description_content">Ses kaydedici bir sistem uygulamasıdır. Ana ekran kısayolunu kaldırdıktan sonra kayıtları yönetemeyeceksiniz</string>
+    <string name="remove_icon_description_title">Ses kaydedici ana ekrandan kaldırılsın mı?"</string>
     <string name="rename">Yeniden adlandır</string>
     <string name="rename_dialog_title">Kaydı yeniden adlandır</string>
     <string name="rename_duplicate">Aynı isime sahip başka bir kayıt zaten mevcut</string>

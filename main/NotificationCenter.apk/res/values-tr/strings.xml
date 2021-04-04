@@ -159,6 +159,8 @@
     <string name="feedback_tip_cancel">Bildirim verileriniz toplanmayacak</string>
     <string name="feedback_tip_msg">Bildirim sınıflandırmasının doğruluğunu artırmak için geri bildirim gönderdiğinizde uygulama adını, bildirim başlığını, açıklamasını, bildirimin kalibrasyonu ve optimizasyonu için gönderildiği zamanı toplamamız gerekir. Lütfen geri bildirim göndermeye devam edip etmediğinizi onaylayın</string>
     <string name="feedback_tip_title">Sınıflandırma problemi geri bildirimi</string>
+    <string name="float_notification_snooze_strategy">Geçici olarak gizle</string>
+    <string name="float_notification_snooze_summary">Yaklaşan bildirimleri geçici olarak gizlemek için yüzen bir bildirimi yukarı kaydırın</string>
     <string name="float_notifications">Kayan bildirimler</string>
     <string name="float_notifications_short">Yüzen</string>
     <string name="fmt_chinese_date">N/e</string>
@@ -251,6 +253,10 @@
     <string name="menu_setting_tip_unfold">Bu uygulamadan gelen tüm bildirimler önemli kabul edilecektir</string>
     <string name="menu_setting_unfold">Önemli</string>
     <string name="midnight">Gece</string>
+    <string name="miui_snooze_always_float">Gizleme</string>
+    <string name="miui_snooze_cancel">İptal et</string>
+    <string name="miui_snooze_default_time">%d dakika için</string>
+    <string name="miui_snooze_until_unlock_screen">Kilitlenene kadar</string>
     <string name="miuix_appcompat_cloud_state_disabled">Bulut ile senkronizasyon kapalı</string>
     <string name="miuix_appcompat_cloud_state_finished">Bulut ile senkronize edildi</string>
     <string name="miuix_appcompat_cloud_state_syncing">Bulut ile senkronize et</string>

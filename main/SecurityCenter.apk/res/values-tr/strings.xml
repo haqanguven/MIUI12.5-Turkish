@@ -514,6 +514,8 @@ Herhangi bir uygulama verisi kaybetmezsiniz"</string>
     <string name="app_permission_use_neccesary">Gerekli izinler</string>
     <string name="app_permission_use_no_neccesary">İsteğe bağlı izinler</string>
     <string name="app_permission_use_title">İzinler</string>
+    <string name="app_predict_widget_name_2x4">Uygulama önerisi (Küçük)</string>
+    <string name="app_predict_widget_name_2x5">Uygulama önerisi (Büyük)</string>
     <string name="app_right">Xiaomi tarafından üretildi</string>
     <string name="app_running_tip_dialog_negative">İptal et</string>
     <string name="app_running_tip_dialog_positive">Tamam</string>
@@ -882,6 +884,13 @@ Kişisel kırmızı zarfı destekleyin ve kırmızı zarfı gruplayın
     <string name="celcius_symbol">℃</string>
     <string name="cellular_data_auto_check">Otomatik olarak kontrol et</string>
     <string name="cellular_package_daily_input">Giriş</string>
+    <string name="cetus_invisible_mode">Gizli mod</string>
+    <string name="cetus_invisible_mode_description_card">İzinleri askıya alın</string>
+    <string name="cetus_invisible_mode_description_switch">Tüm uygulamalar için mikrofonu, kamerayı ve konumla ilgili izinleri askıya almak için açın</string>
+    <string name="cetus_invisible_mode_warn_all">Gizli moddasınız. Mikrofon, kamera ve konum izinleri askıya alınd"</string>
+    <string name="cetus_invisible_mode_warn_camera">Gizli moddasınız. Kamera izinleri askıya alındı</string>
+    <string name="cetus_invisible_mode_warn_location">Gizli moddasınız. Konum izinleri askıya alındı</string>
+    <string name="cetus_invisible_mode_warn_record_audio">Gizli moddasınız. Mikrofon izinleri askıya alındı</string>
     <string name="charger_detect_button_ok">Anladım</string>
     <string name="charger_detect_info1">Güç adaptörünün ve kablonun doğru şekilde bağlanıp bağlanmadığını kontrol edin</string>
     <string name="charger_detect_info2">Standart olmayan veya eski güç adaptörleri ve kabloları kullanıyorsanız şarj işlemi de yavaşlayabilir</string>
@@ -1715,6 +1724,7 @@ Bu özelliğin yalnızca referans olarak sağlandığını anlamalısınız. Ald
     <string name="gamebooster_network_dialog_title">Bazı özellikler kullanılabilir durumda değil</string>
     <string name="gamebox_app_not_find">İlk önce uygulamayı yükleyin</string>
     <string name="gamebox_browser_not_find">Önce Mi tarayıcıyı yükleyin</string>
+    <string name="gamebox_collimator">Görüş</string>
     <string name="gamebox_display_1">Yok</string>
     <string name="gamebox_display_2">Doygunluk</string>
     <string name="gamebox_display_3">Parlaklık</string>
@@ -1743,6 +1753,7 @@ Bu özelliğin yalnızca referans olarak sağlandığını anlamalısınız. Ald
     <string name="gamebox_qq_not_find">"QQ'yu yükleyin ve tekrar deneyin"</string>
     <string name="gamebox_recent_task_expand_fail">Kısayollarla çalışan uygulamalar yüklü değil</string>
     <string name="gamebox_simcard">Sim kartları değiştir</string>
+    <string name="gamebox_time">Zamanlayıcı</string>
     <string name="gamebox_type_close">Gösterme</string>
     <string name="gamebox_type_float">Sabit kısayol</string>
     <string name="gamebox_type_gesture">Göstermek için hızlıca kaydırın</string>
@@ -1794,6 +1805,10 @@ Bu özelliğin yalnızca referans olarak sağlandığını anlamalısınız. Ald
     <string name="gb_advance_settings_vibration_4d_summary2">Oyundaki öldürmeler sırasında titreşim</string>
     <string name="gb_audition_instruction">Kaydetmek icin basili tut (%1$s-%2$s saniye)</string>
     <string name="gb_audition_play_instruction">En iyi etki için kulaklık kullanın</string>
+    <string name="gb_collimator_color">Renk</string>
+    <string name="gb_collimator_size">Boyut</string>
+    <string name="gb_collimator_style">Tür</string>
+    <string name="gb_collimator_toast">Bir görüş nişan almayı çok daha kolay hale getirir</string>
     <string name="gb_create_icon_summary">Ana ekran kısayolu oluştur</string>
     <string name="gb_cutoff">|</string>
     <string name="gb_description_image_button_answer">Yanıtla</string>
@@ -1829,6 +1844,7 @@ Bu özelliğin yalnızca referans olarak sağlandığını anlamalısınız. Ald
     <string name="gb_game_macro_bubble_tips">Komboları deneyin</string>
     <string name="gb_game_macro_toast_tips">"Komboları deneyin
 Dizileri kaydedin ve istediğiniz zaman kullanı"</string>
+    <string name="gb_game_time_toast">Zamanlayıcı artık kullanılabilir</string>
     <string name="gb_game_video_bottom_tips">Oyunlarınızdaki oturumlarınızın kayıtlarını izleyin. Videolar varsayılan olarak 7 gün boyunca orada saklanır</string>
     <string name="gb_game_video_item_tag">Anahtar an</string>
     <string name="gb_game_video_page_delete_success">Başarıyla silindi</string>
@@ -1856,6 +1872,7 @@ Dizileri kaydedin ve istediğiniz zaman kullanı"</string>
     <string name="gb_msg_transparent_dispaly_summary">Şeffaf</string>
     <string name="gb_network_status_bad">Bir bağlantı hatası oluştu</string>
     <string name="gb_new_feature">Yeni özellik</string>
+    <string name="gb_not_support_on_device">Bu uygulama dış ekranda kullanılamaz</string>
     <string name="gb_operat_frequently">Çok hızlı değil</string>
     <string name="gb_shortcut_pref_title">Ana ekran kısayolu</string>
     <string name="gb_sign_gift">Ödül kazanmak için yer bildirimi yapın</string>
@@ -3010,6 +3027,11 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="power_center_list_item_wake_notification">Bildirimler için ekranı uyandırma</string>
     <string name="power_center_list_item_wake_notification_summary">Gelen bildirimler yalnızca ekranı açtığınızda görüntülenecektir</string>
     <string name="power_center_main_percent_formatted">%%%s</string>
+    <string name="power_center_night_charge_noti_subtitle">Pil %s tarafından tamamen şarj edilecek</string>
+    <string name="power_center_night_charge_noti_title">Optimize edilmiş şarj açık</string>
+    <string name="power_center_night_charge_protection">Optimize edilmiş şarj</string>
+    <string name="power_center_night_charge_protection_setting">Güvenlik > Pil bölümünde daha fazla seçenek görüntüleyin</string>
+    <string name="power_center_night_charge_protection_summary">Pilin eskimesini azaltmak için MIUI günlük şarj rutininizden öğrenir</string>
     <string name="power_center_one_key_save">Optimize et</string>
     <string name="power_center_ontime_boot">Açılış zamanı</string>
     <string name="power_center_ontime_shutdown">Kapanış zamanı</string>
@@ -3049,6 +3071,8 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="power_consume_rank_title">Pil kullanımı</string>
     <string name="power_consume_software_total_format">Uygulamalar: %s</string>
     <string name="power_customize_giveup_change">Değişiklikler yoksayılsın mı?</string>
+    <string name="power_dailog_night_charge_protection_done">Anladım</string>
+    <string name="power_dailog_night_charge_protection_summary">Görünüşe göre piliniz çoğu zaman tamamen dolu ve bu da eskimesini hızlandırabilir. MIUI bu tür sorunlardan kaçınmanız için optimize edilmiş şarjı açtı</string>
     <string name="power_dialog_cancel">İptal et</string>
     <string name="power_dialog_ok">Tamam</string>
     <string name="power_dialog_super_save_msg">Ultra pil tasarrufu güç tüketen özelliklerin çoğunu kısıtlar ve temel işlevselliklerin mümkün olduğunca uzun süre kullanılabilmesi için cihazınızın performansını azaltır. Ultra pil tasarrufu açılsın mı?</string>
@@ -4125,7 +4149,13 @@ Kalibrasyon işlemi sırasında MIUI kalibrasyon şablonunu almak amacıyla bir 
     <string name="storage_app_uninstall_app_dialog_title">Uygulamanın yüklemesini kaldırma</string>
     <string name="storage_available_total_size">%2$s üzerinden %1$s kullanılabilir</string>
     <string name="storage_available_total_size1">Dolu: %1$s | Toplam: %2$s</string>
-    <string name="storage_category_title">Additional options</string>
+    <string name="storage_category_title">Ek seçenekler</string>
+    <string name="storage_clear_available_total_size">%1$s/%3$s dolu | %2$s kullanılabilir</string>
+    <string name="storage_clear_cache">%s yer açın</string>
+    <string name="storage_clear_cache_deep">Depolama alanını boşaltın</string>
+    <string name="storage_clear_cache_large">%s yer açın</string>
+    <string name="storage_clear_more_tools">Daha fazla temizlik aracı</string>
+    <string name="storage_clear_video">Video önbelleğini temizle</string>
     <string name="storage_deepclean_entry">Derin temizlik</string>
     <string name="storage_dialog_unmountable">"Bu ^1 bozuk
 
@@ -4653,6 +4683,7 @@ Kalan veri miktarı geçen aydan kalan veri miktarınıda içerir"</string>
     <string name="vb_quick_func_screen_record">Kayıt</string>
     <string name="vb_quick_func_screening">Yayınla</string>
     <string name="vb_settings">Ayarlar</string>
+    <string name="vb_ve_settings_ai_stronger">AI</string>
     <string name="vb_ve_settings_display_style_tips">* Bu efektler tüm ekrana uygulanır</string>
     <string name="vb_ve_settings_pic_border_stronger">Geliştirilmiş konturlar</string>
     <string name="vb_ve_settings_picture_stronger">Geliştirilmiş animasyonlar</string>
@@ -4711,6 +4742,7 @@ Bu özellik hareket yumuşatma ile çalışmaz
     <string name="virus_wait_network_dialog_message">"Telefonunuz artık wifi'e bağlı değil. Mobil veri kullanmanız ek veri kullanım ücretlerine neden olabilir. Devam edilsin mi?"</string>
     <string name="voltage_symbol">V</string>
     <string name="vtb_func_desc">Bu özellik hakkında</string>
+    <string name="vtb_func_display_style_desc0">AI videolarda yer alan insanları, hayvanları, bitkileri, gökyüzünü, binaları ve diğer nesneleri tanıyabilir vede bunları dinamik olarak geliştirebilir</string>
     <string name="vtb_func_display_style_desc1">Seçilen efektler HDR videolara uygulanmaz</string>
     <string name="vtb_func_display_style_desc2">Bu efektler ekran görüntülerine uygulanamaz</string>
     <string name="vtb_func_frc_desc0">Hareket yumuşatma bulanıklığı azaltır ve hareketli nesnelere ayrıntı ekler. Bu özelliğin kullanılması güç tüketimini artırır</string>

@@ -781,6 +781,9 @@
     <string name="user_agreement">Kullanıcı sözleşmesi</string>
     <string name="v7_preference_off">Kapalı</string>
     <string name="v7_preference_on">Açık</string>
+    <string name="version_update_dialog_negative_desc">Şimdi değil</string>
+    <string name="version_update_dialog_positive_desc">Güncelle</string>
+    <string name="version_update_dialog_title">Bir güncelleme mevcut</string>
     <string name="vibrate_pref_summary">Alarm çaldığında titret</string>
     <string name="vibrate_when_ringing">Çalarken titret</string>
     <string name="voice_add_alarm">Sesli komut kullanarak alarm ekle</string>
