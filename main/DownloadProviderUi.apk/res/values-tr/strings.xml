@@ -71,7 +71,7 @@
     <string name="byteShort">B</string>
     <string name="cancel">İptal et</string>
     <string name="cancel_running_download">İptal et</string>
-    <string name="cancle">İptal</string>
+    <string name="cancle">İptal et</string>
     <string name="chinese_day_1">1. gün</string>
     <string name="chinese_day_10">10. gün</string>
     <string name="chinese_day_11">11. gün</string>
@@ -176,6 +176,8 @@
     <string name="dialog_content_limit0">İndirmeleri kısıtla</string>
     <string name="dialog_content_limit_max">Sınırsız</string>
     <string name="dialog_delete_positive">Sil</string>
+    <string name="dialog_download_dir_content" formatted="false">"İndirmeleriniz için varsayılan hedef klasör %s yerine %s/DLManager\ olarak değiştirildi"</string>
+    <string name="dialog_download_dir_title">Yeni hedef klasör</string>
     <string name="dialog_failed_body">Bu dosyayı daha sonra indirmeyi dene ve indirme sırasından dosya kaldırılsın mı?</string>
     <string name="dialog_file_already_exists">Bu dosya zaten mevcut</string>
     <string name="dialog_file_missing_body">Dosya bulunamadı. Silinmiş gibi görünüyor</string>

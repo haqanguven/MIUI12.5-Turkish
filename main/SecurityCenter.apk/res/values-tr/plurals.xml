@@ -638,6 +638,10 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
         <item quantity="other">öğe</item>
         <item quantity="one">öğe</item>
     </plurals>
+    <plurals name="power_center_unoffical_battery_dialog_negative">
+        <item quantity="other">İptal et (%d saniye)</item>
+        <item quantity="one">İptal et (%d saniye)</item>
+    </plurals>
     <plurals name="power_main_battery_last_day">
         <item quantity="other">%s gün kaldı</item>
         <item quantity="one">%s gün kaldı</item>

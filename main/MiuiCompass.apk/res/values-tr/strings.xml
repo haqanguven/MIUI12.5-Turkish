@@ -327,6 +327,8 @@
     <string name="pressure">%.1f</string>
     <string name="pressure_title">Basınç</string>
     <string name="pressure_unit">hPa</string>
+    <string name="remove_icon_description_content">Pusula bir sistem uygulamasıdır. Ana ekran kısayolunu kaldırdıktan sonra yönleri, koordinatları, atmosfer basıncını ve mevcut rakımı kontrol etmek için pusulayı kullanamayacaksınız</string>
+    <string name="remove_icon_description_title">Pusula ana ekrandan kaldırılsın mı?"</string>
     <string name="saturday">Cumartesi</string>
     <string name="saturday_short">Cts</string>
     <string name="saturday_shortest">Cts</string>

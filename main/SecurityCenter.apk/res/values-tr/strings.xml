@@ -113,9 +113,9 @@
     <string name="activity_title_permissions_manager">İzinler</string>
     <string name="activity_title_power_manager">Pil kullanımı</string>
     <string name="activity_title_risk_app_install_manager">Riskli uygulamalar</string>
-    <string name="activity_title_root_acquired">Kök erişimi</string>
-    <string name="activity_title_root_manager">Kök erişimi</string>
-    <string name="activity_title_root_note">Kök erişimi hakkında</string>
+    <string name="activity_title_root_acquired">Root erişimi</string>
+    <string name="activity_title_root_manager">Root erişimi</string>
+    <string name="activity_title_root_note">Root erişimi hakkında</string>
     <string name="activity_title_settings">Ayarlar</string>
     <string name="activity_title_virus">Virüs</string>
     <string name="activity_title_virus_settings">Ayarlar</string>
@@ -598,7 +598,7 @@ Kişisel kırmızı zarfı destekleyin ve kırmızı zarfı gruplayın
     <string name="apps_item_sms_reset_button_text">Varsayılan ayarlara sıfırla</string>
     <string name="apps_item_sms_title">Varsayılan mesajlaşma ayarları</string>
     <string name="apps_item_summary_sms">%s uygulamasının mesajlarınıza erişim izni var. Bu durum güvenlik problemleri oluşturabilir</string>
-    <string name="apps_item_summary_system_rooted">Kök erişimine izin verildi. Güvenlik risklerinden kaçınmak için varsayılan ayarlara geri dönün</string>
+    <string name="apps_item_summary_system_rooted">Root erişimine izin verildi. Güvenlik risklerinden kaçınmak için varsayılan ayarlara geri dönün</string>
     <string name="apps_item_summary_system_update">Ödeme işlemlerini daha güvenli hale getirebilmek için yeni sürümde bazı hatalar düzeltildi</string>
     <string name="apps_item_title_system">Sistem güncelleme</string>
     <string name="apps_item_virus_cleanup_success">Başarıyla temizlendi</string>
@@ -1243,7 +1243,7 @@ arama geçmişine geri yüklensin mi?"</string>
     <string name="empty_title_manual_item_white_list">İstisna yok</string>
     <string name="empty_title_perm_apps">Bu izne sahip uygulama yok</string>
     <string name="empty_title_permission_apps_list">Uygulama yok</string>
-    <string name="empty_title_root_apps">Kök erişimi olan uygulama yok</string>
+    <string name="empty_title_root_apps">Root erişimi olan uygulama yok</string>
     <string name="enable_extreme_power_save_mode">Aşırı pil tasarrufu</string>
     <string name="enable_network">Öncelikle veri bağlantısını açın</string>
     <string name="enter">Devam et</string>
@@ -1552,8 +1552,8 @@ Bu özelliğin yalnızca referans olarak sağlandığını anlamalısınız. Ald
     <string name="first_aid_card_kadun_summary3">Çok fazla erişilebilirlik özelliği aynı anda çalışıyor. Bu durum cihazınızı yavaşlatabilir</string>
     <string name="first_aid_card_kadun_title">Cihaz yavaşlıyor</string>
     <string name="first_aid_card_system_root_button">Kısıtla</string>
-    <string name="first_aid_card_system_root_summary">Güvenlik risklerinden kaçınmak için kök erişimini kısıtlayın</string>
-    <string name="first_aid_card_system_root_title">Kök erişimine izin verdiniz</string>
+    <string name="first_aid_card_system_root_summary">Güvenlik risklerinden kaçınmak için root erişimini kısıtlayın</string>
+    <string name="first_aid_card_system_root_title">Root erişimine izin verdiniz</string>
     <string name="first_aid_card_unable_install_button">Alan boşalt</string>
     <string name="first_aid_card_unable_install_summary">Yalnızca %s depolama alanı kullanılabilir. Uygulamaları yükleyebilmek için yer açın</string>
     <string name="first_aid_card_unable_install_title">Uygulamalar yüklenemiyor</string>
@@ -2236,7 +2236,7 @@ Hatırlatıcıları engellenen grupları desteklemez ve yazılımın rahatsız e
     <string name="lucky_sound_warn">Kırmızı zarf sesli uyarı</string>
     <string name="lucky_str_yuan">%s yuan</string>
     <string name="lucky_warning_count_title">"WeChat'den"</string>
-    <string name="main_activity_content_summary_root">Kök erişimi</string>
+    <string name="main_activity_content_summary_root">Root erişimi</string>
     <string name="main_activity_content_summary_update">Sistem güncelleme</string>
     <string name="main_alert_message_no_imsi">Sim kart bulunamadı</string>
     <string name="main_alert_message_open_traffic_ctrl">Veri kullanımını kısıtlamanızı öneriyoruz</string>
@@ -2963,8 +2963,8 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="pm_auto_start_proc_is_running">Çalışıyor</string>
     <string name="pm_newfeature_sub_text">Yeni</string>
     <string name="pm_remember_choice">Tercihimi hatırla</string>
-    <string name="pm_root_success_notification_infomation">Kök erişimi ile birlikte gelen güvenlik risklerini anlamış olduğunuzdan emin olun</string>
-    <string name="pm_root_success_notification_title">Kök erişimine izin verildi</string>
+    <string name="pm_root_success_notification_infomation">Root erişimi ile birlikte gelen güvenlik risklerini anlamış olduğunuzdan emin olun</string>
+    <string name="pm_root_success_notification_title">Root erişimine izin verildi</string>
     <string name="power_ambient_display">Ortam göstergesi</string>
     <string name="power_analysis_consume_title">Pil kullanımı</string>
     <string name="power_analysis_suggestion_need_optimize">Pil kullanım sorunları algılandı</string>
@@ -3696,11 +3696,11 @@ Kalibrasyon işlemi sırasında MIUI kalibrasyon şablonunu almak amacıyla bir 
     <string name="roaming_start_body">Veri dolaşım istisnalarını görüntülemek için dokunun</string>
     <string name="roaming_start_title">Veri dolaşımı</string>
     <string name="root">Root erişimi</string>
-    <string name="root_apply_step_1">%s uygulamasına kök erişimi verilsin mi?</string>
-    <string name="root_apply_step_2">Uygulamalara kök erişimi vermek cihazınızın düzgün çalışmamasına neden olabilir</string>
-    <string name="root_apply_step_3">Verileriniz kök erişimi olan uygulamalardan gelen saldırılara karşı daha savunmasızdır</string>
-    <string name="root_apply_step_4">Uygulamalara kök erişimi izni vermek kendi sorumluluğunuzdadır</string>
-    <string name="root_apply_step_5">%s uygulamasına kök erişimi verilsin mi?</string>
+    <string name="root_apply_step_1">%s uygulamasına root erişimi verilsin mi?</string>
+    <string name="root_apply_step_2">Uygulamalara root erişimi vermek cihazınızın düzgün çalışmamasına neden olabilir</string>
+    <string name="root_apply_step_3">Verileriniz root erişimi olan uygulamalardan gelen saldırılara karşı daha savunmasızdır</string>
+    <string name="root_apply_step_4">Uygulamalara root erişimi izni vermek kendi sorumluluğunuzdadır</string>
+    <string name="root_apply_step_5">%s uygulamasına root erişimi verilsin mi?</string>
     <string name="root_apply_title">Önemli uyarı</string>
     <string name="safe_result_header_info_protecting">Korunuyor</string>
     <string name="safe_result_item_button_monitor">Takip ayarları</string>
@@ -3711,7 +3711,7 @@ Kalibrasyon işlemi sırasında MIUI kalibrasyon şablonunu almak amacıyla bir 
     <string name="safe_result_item_info_sms_default">Varsayılan mesajlaşma uygulamasına geç</string>
     <string name="safe_result_item_info_sms_url">Kötü niyetli kısa mesaj bağlantı adreslerinden korunma</string>
     <string name="safe_result_item_info_system_antivirus">Kimlik avı virüsünden korunma</string>
-    <string name="safe_result_item_info_system_root">Kök güvenli</string>
+    <string name="safe_result_item_info_system_root">Root güvenli</string>
     <string name="safe_result_item_info_system_scan">Ödeme takibi açık</string>
     <string name="safe_result_item_info_system_version">MIUI güncel</string>
     <string name="safepay_alert_dialog_button_continue">Devam et</string>
@@ -3880,7 +3880,7 @@ Kalibrasyon işlemi sırasında MIUI kalibrasyon şablonunu almak amacıyla bir 
     <string name="sp_background_risk_dialog_title">Uyarı</string>
     <string name="sp_background_risk_dialog_title_wifi_approve">Genel wifi uyarı</string>
     <string name="sp_background_risk_type_messaging">Sistem mesajlaşma uygulaması değiştirildi</string>
-    <string name="sp_background_risk_type_root">Sisteme kök erişimi sağlandı</string>
+    <string name="sp_background_risk_type_root">Sisteme root erişimi sağlandı</string>
     <string name="sp_background_risk_type_sign">Resmi olmayan uygulama çalışıyor</string>
     <string name="sp_background_risk_type_virus">Arka planda virüs çalışıyor</string>
     <string name="sp_background_risk_type_wifi">Bu wifi ağı tehlikeli</string>
@@ -3894,7 +3894,7 @@ Kalibrasyon işlemi sırasında MIUI kalibrasyon şablonunu almak amacıyla bir 
     <string name="sp_scan_item_url_antispam">Kötü niyetli bağlantı adreslerinden korunma</string>
     <string name="sp_settings_check_item_summary_sign_exception">İmza istisnalarını yönet</string>
     <string name="sp_settings_check_item_summary_virus_exception">Virüs istisnalarını yönet</string>
-    <string name="sp_settings_check_item_title_root">Kök</string>
+    <string name="sp_settings_check_item_title_root">Root</string>
     <string name="sp_settings_check_item_title_sign_exception">İmza istisnaları</string>
     <string name="sp_settings_check_item_title_update">Sistem güncellemeleri</string>
     <string name="sp_settings_check_item_title_virus_exception">Virüs istisnaları</string>
@@ -4234,7 +4234,7 @@ Biçimlendirme ^2 üzerindeki mevcut içeriği silecektir. İçerik kaybını ö
     <string name="summary_password_manager">Password manager allows you to encrypt your passwords and store them in the cloud</string>
     <string name="summary_payment_risk">Ödeme ortamı güvenli değil gibi görünüyor</string>
     <string name="summary_permission">İstenmeyen ödeme işlemlerinden kaçının ve kişisel verilerinizi koruyun</string>
-    <string name="summary_permission_root">Bu cihazın kök erişimi açık gibi görünüyor. Bu durumu cihaz güvenliğine zarar verebilir</string>
+    <string name="summary_permission_root">Bu cihazın root erişimi açık gibi görünüyor. Bu durumu cihaz güvenliğine zarar verebilir</string>
     <string name="summary_power_optimizer">Pil azaldığında cihazınızın performansını düşürür</string>
     <string name="summary_realname_verify">Ödeme işlemlerini daha güvenli hale getirmek için kimliğinizi doğrulayın</string>
     <string name="summary_restrict_data_usage">Bu uygulama için veri kullanımını kısıtladınız. Düzeltmek için dokunun</string>
@@ -4465,7 +4465,7 @@ kırmızı zarf alarmını açın"</string>
     <string name="title_dev_model_off">Geliştirici seçenekleri kapalı</string>
     <string name="title_dev_no">Geliştirici seçenekleri açık</string>
     <string name="title_dev_yes">Geliştirici seçenekleri kapalı</string>
-    <string name="title_device_not_root">Kök erişimi sağlanmadı</string>
+    <string name="title_device_not_root">Root erişimi sağlanmadı</string>
     <string name="title_do_not_disturb">Zil sesini duymuyor musunuz?</string>
     <string name="title_eye_shield">Ekran rengi doğru görünmüyor mu?</string>
     <string name="title_find_device">Cihazı bul</string>
@@ -4495,7 +4495,7 @@ kırmızı zarf alarmını açın"</string>
     <string name="title_payment_protection">Ödeme işlemleri güvenli</string>
     <string name="title_payment_risk">Ödeme tehlikesi bulundu</string>
     <string name="title_permission_no">İzin yöneticisi devre dışı</string>
-    <string name="title_permission_root">Kök erişimi</string>
+    <string name="title_permission_root">Root erişimi</string>
     <string name="title_permission_yes">İzin yöneticisi etkin</string>
     <string name="title_power_optimizer">Pil tasarrufu</string>
     <string name="title_realname_verify">Kimlik doğrulama</string>
@@ -4526,8 +4526,8 @@ kırmızı zarf alarmını açın"</string>
     <string name="toast_network_switch">Bu uygulama internete bağlanabilir</string>
     <string name="toast_reject_sms_read_permission_success">Başarıyla ayarlandı</string>
     <string name="toast_removed_from_virus_white_list">İstisnalardan kaldırıldı. Öğe bir sonraki tarama işleminde taranacaktır</string>
-    <string name="toast_root_apply_accept">%s uygulamasına kök erişimi sağlandı</string>
-    <string name="toast_root_apply_reject">%s uygulamasının kök erişimi engellendi</string>
+    <string name="toast_root_apply_accept">%s uygulamasına root erişimi sağlandı</string>
+    <string name="toast_root_apply_reject">%s uygulamasının root erişimi engellendi</string>
     <string name="toast_set_success">Başarıyla açıldı</string>
     <string name="toast_show_notification">Bildirim çubuğuna sabitlendi</string>
     <string name="toast_update_fail">Güncellenemedi</string>
