@@ -142,6 +142,7 @@
     <string name="bh_option_agree_dec">Mi taşıyıcı hizmetleri uygulamayı kullanmadan önce internete bağlanmasına ve gerekli izinleri vermesine izin verin</string>
     <string name="bh_order_id">Sipariş Kimliği</string>
     <string name="bh_order_loading">Yükleniyor</string>
+    <string name="bh_order_pay">Ödeme</string>
     <string name="bh_order_time">İşlem süresi</string>
     <string name="bh_other_charge">Diğer telefon numarası</string>
     <string name="bh_other_operator">Diğer operatörler</string>

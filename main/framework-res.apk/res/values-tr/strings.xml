@@ -7,8 +7,8 @@
     <string name="defaultVoiceMailAlphaTag">Sesli Mesaj</string>
     <string name="defaultMsisdnAlphaTag">MSISDN1</string>
     <string name="emptyPhoneNumber">(Telefon numarası yok)</string>
-    <string name="httpErrorBadUrl">URL geçersiz olduğundan sayfa açılamıyor.</string>
-    <string name="httpErrorUnsupportedScheme">Protokol desteklenmiyor.</string>
+    <string name="httpErrorBadUrl">URL geçersiz olduğundan sayfa açılamıyor</string>
+    <string name="httpErrorUnsupportedScheme">Protokol desteklenmiyor</string>
     <string name="no">İptal</string>
     <string name="ok">Tamam</string>
     <string name="paste">Yapıştır</string>

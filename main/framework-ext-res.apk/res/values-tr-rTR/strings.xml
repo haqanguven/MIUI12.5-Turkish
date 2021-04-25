@@ -87,8 +87,8 @@
     <string name="enable_livetalk_summary">Arama ücretlerinde %70 oranında tasarruf sağlayın</string>
     <string name="enable_livetalk_title">Bakiye paketini aç</string>
     <string name="enable_midrop">Aç</string>
-    <string name="enable_nfc">No longer charging. NFC is back on.</string>
-    <string name="enable_nfc_reverse">No longer reverse charging. NFC is back on.</string>
+    <string name="enable_nfc">Artık şarj etmiyor. NFC tekrar açıldı</string>
+    <string name="enable_nfc_reverse">Artık ters şarj yok. NFC tekrar açıldı</string>
     <string name="fc_dialog_body">"Analiz edilmek üzere Mi'ye bir hata raporu gönderilsin mi? Bu rapor kişisel kimlik bilgilerinizi içerebilir. Raporunuz bu hatayı düzeltmeye yardımcı olmak amacıyla kullanılacak olup herhangi bir reklam içeriğiyle hiçbir zaman paylaşılmayacaktır"</string>
     <string name="fc_dialog_jump_to_preview">Özeti görüntüle</string>
     <string name="file_cannot_print">Bu öğe yazdırılamıyor</string>
@@ -164,7 +164,8 @@
     <string name="miui_m_com_tencent_tmgp_pubgmhd">Barış seçkinleri</string>
     <string name="miui_m_com_tencent_tmgp_sgame">Zafer kralı</string>
     <string name="miui_m_com_tencent_tmgp_speedmobile">QQ Speed ​​mobil oyunlar</string>
-    <string name="miui_screen_ratio_hint">En boy oranı sorunları</string>
+    <string name="miui_multiwindow_not_support_small_window">%1$s yüzen pencereleri desteklemiyor</string>																											 
+    <string name="miui_screen_ratio_hint">En boy oranı sorunları</string>											  
     <string name="miui_screen_ratio_hint_dont_show_again">Tekrar gösterme</string>
     <string name="miui_screen_ratio_hint_go_to_settings">Ayarlara git</string>
     <string name="miui_screen_ratio_hint_message">Bu uygulama görüntülenme sorunlarına yol açabilecek olan tam ekran modunda çalışma iznine sahip. Bu ayarı Ayarlar > Ek ayarlar > Tuşlar menüsünde değiştirebilirsiniz</string>
@@ -316,7 +317,7 @@
     <string name="throwing_screen">Yayınla</string>
     <string name="tips_prompt_enable_midrop">Dosyaları yakındaki cihazlarla paylaşın</string>
     <string name="total">Rahatsız etme</string>
-    <string name="total_description">Alarm harici tüm ögeleri sustur ve titreşimi kapat</string>
+    <string name="total_description">Alarm harici tüm öğeleri sustur ve titreşimi kapat</string>
     <string name="total_title">Rahatsız etme</string>
     <string name="translation_more">Daha fazla</string>
     <string name="translation_query_error">Sonuçlar bulunamadı</string>

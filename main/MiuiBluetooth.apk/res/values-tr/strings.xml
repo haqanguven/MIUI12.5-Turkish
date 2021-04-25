@@ -309,6 +309,7 @@ Daha hızlı bağlantı protokolü"</string>
     <string name="headset_device_error_box_close">Şarj kutusu kapalı</string>
     <string name="headset_device_error_disconnect">Her iki kulağın bağlantısı kesildi. Lütfen kapağı kapatın ve tekrar yükseltmek için kapağı açın</string>
     <string name="headset_device_error_failed">Başarısız oldu</string>
+    <string name="headset_device_error_multconnect">Birden çok cihaz bağlandığında güncellenemez</string>
     <string name="headset_device_error_no_device">Şarj kutusunda cihaz veya tek cihaz yok</string>
     <string name="headset_device_error_single_device">Tek kulak modu yükseltilemez. Lütfen yeniden eşleştirin</string>
     <string name="headset_device_sync_donot_move_device">Senkronizasyon sırasında cihazı çalıştırmayın</string>

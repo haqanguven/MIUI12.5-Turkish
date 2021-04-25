@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 saat önce</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 saat önce</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Yarım saat önce</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">1 saat içerisinde</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Yarım saat içerisinde</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Hemen</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d dakika içerisinde</item>
+        <item quantity="one">1 dakika içerisinde</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Şimdi</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d dakika önce</item>
+        <item quantity="one">1 dakika önce</item>
+    </plurals>
     <plurals name="cloud_space_full_gallery_notification_content_title">
         <item quantity="other">%s öğe senkronize edilemiyor</item>
         <item quantity="one">%s öğe senkronize edilemiyor</item>
@@ -72,6 +101,22 @@
         <item quantity="other">%d saniye içinde tekrar deneyin</item>
         <item quantity="one">%d saniye içinde tekrar deneyin</item>
     </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Yarım saat önce</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1 saat içerisinde</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Yarım saat içerisinde</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Hemen</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d dakika içerisinde</item>
+        <item quantity="one">1 dakika içerisinde</item>
+    </plurals>
     <plurals name="items_unsynced">
         <item quantity="other">Senkronizasyon için bekleyen öğeler: %d</item>
         <item quantity="one">Senkronizasyon için bekleyen öğeler: %d</item>
@@ -84,9 +129,20 @@
         <item quantity="other">%s dakika önce</item>
         <item quantity="one">%s dakika önce</item>
     </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Şimdi</item>
+    </plurals>
     <plurals name="micloud_manual_pause_and_resume">
         <item quantity="other">%d dakika içinde senkronizasyona devam ediliyor</item>
         <item quantity="one">%d dakika içinde senkronizasyona devam ediliyor</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d öge seçildi</item>
+        <item quantity="one">%d öge seçildi</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d dakika önce</item>
+        <item quantity="one">1 dakika önce</item>
     </plurals>
     <plurals name="provision_sync_items_status_title">
         <item quantity="other">%s hizmeti Mi bulut ile senkronize edilecek</item>

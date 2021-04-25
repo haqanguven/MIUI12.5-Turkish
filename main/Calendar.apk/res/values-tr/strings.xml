@@ -64,6 +64,8 @@
     <string name="action_label">Geri dön</string>
     <string name="action_text_card_manager">İptal et</string>
     <string name="actionbar_button_up_description">Geri</string>
+    <string name="ad_card_app_size_text">%dM</string>
+    <string name="ad_card_down">Şimdi indir</string>
     <string name="ad_card_download_count">%1$d kişi indirdi</string>
     <string name="ad_card_download_count_million">%1$d milyon indirdi</string>
     <string name="ad_card_download_use_count">%1$d kişi kullanıyor</string>
@@ -76,6 +78,7 @@
     <string name="ad_card_paused">İndirmeye devam et</string>
     <string name="ad_card_spread">Reklam</string>
     <string name="ad_card_try">Şimdi deneyimleyin</string>
+    <string name="ad_download_number_text_1">İndirilenler: %1$d milyon</string>
     <string name="add_account_success">Eklendi</string>
     <string name="add_anniversary">Yıl dönümü ekle</string>
     <string name="add_caldav_account">Caldav hesabı ekle</string>
@@ -1129,11 +1132,13 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin"</string>
     <string name="share_by_wechat_friends_original">Arkadaş çevresine gönder</string>
     <string name="share_by_wechat_original">Arkadaşlarına gönder</string>
     <string name="share_cancel">İptal et</string>
+    <string name="share_card">Kartı paylaş</string>
     <string name="share_fail">Paylaşılamadı</string>
     <string name="share_not_install_wechat">"Lütfen wechat'i kurun"</string>
     <string name="share_not_install_weibo">"Lütfen weibo'yu kurun"</string>
     <string name="share_success">Paylaşıldı</string>
     <string name="share_title">Paylaş</string>
+    <string name="sharing_tips">Resmi paylaşmak için tıklayın</string>
     <string name="shift_card_edit_reminder">Hatırlatıcıyı ayarla</string>
     <string name="shift_card_reminder_day">İlk %1$d günün ilk turu</string>
     <string name="shift_card_set_reminder">Vites hatırlatıcısını ayarlamak için tıklayın</string>

@@ -397,6 +397,7 @@ Yöneticiniz ağ etkinliği ve cihazınızın konum bilgileri de dahil olmak üz
     <string name="allow_sound_title">Seslere izin ver</string>
     <string name="allow_vibrate_title">Titreşime izin ver</string>
     <string name="alpha_build">Alfa</string>
+    <string name="already_delete_system_app">Kaldırılan sistem uygulamaları</string>
     <string name="always">Her zaman</string>
     <string name="always_allow_bind_appwidgets_text">Bu uygulamanın araç oluşturmasına ve oluşturulan araçların verilerine erişmesine izin vermeyi seçtiniz</string>
     <string name="always_running">Her zaman çalışıyor (%s)</string>
@@ -1111,6 +1112,11 @@ Sorun şunlar olabilir:
     <string name="bluetooth_max_connected_audio_devices_dialog_title">Maksimum sayıda bağlı bluetooth ses cihazı seç</string>
     <string name="bluetooth_max_connected_audio_devices_string">Maksimum sayıda bağlı bluetooth ses cihazı</string>
     <string name="bluetooth_menu_advanced">Gelişmiş</string>
+    <string name="bluetooth_message_access_dialog_content">"Güvenilmeyen bir Bluetooth cihazı %1$s mesajlarınıza erişmek istiyor
+
+Daha önce %2$s ile bağlantı kurmadınız"</string>
+    <string name="bluetooth_message_access_dialog_title">Mesajlara erişme izin verilsin mi?</string>
+    <string name="bluetooth_message_access_notification_content">Güvenilmeyen cihaz mesajlarınıza erişmek istiyor. Ayrıntılar için dokunun</string>
     <string name="bluetooth_message_move_out_of_blacklist">Şimdi %1$s engellemesini kaldırılsın mı?</string>
     <string name="bluetooth_mi_fast_connect">Mi bağlantı</string>
     <string name="bluetooth_mi_fast_connect_summary">Yakındaki bluetooth cihazlarına bağlan</string>
@@ -1155,6 +1161,11 @@ Sorun şunlar olabilir:
     <string name="bluetooth_pan_user_profile_summary_connected">İnternet erişimi için cihaza bağlanıldı</string>
     <string name="bluetooth_pb_acceptance_dialog_text">%1$s kişilerinize ve arama geçmişinize erişmek istiyor. %2$s cihazına erişim verilsin mi?</string>
     <string name="bluetooth_pb_remember_choice">Tekrar sorma</string>
+    <string name="bluetooth_phonebook_access_dialog_content">"Güvenilmeyen bir Bluetooth cihazı %1$s kişilerinize ve arama günlüğünüze erişmek istiyor. Bu gelen ve giden aramalarla ilgili verileri içerir
+
+Daha önce %2$s ile bağlantı kurmadınız"</string>
+    <string name="bluetooth_phonebook_access_dialog_title">Kişilere ve arama kaydına erişme izin verilsin mi?</string>
+    <string name="bluetooth_phonebook_access_notification_content">Güvenilmeyen cihaz kişilerinize ve arama günlüğünüze erişmek istiyor. Ayrıntılar için dokunun</string>
     <string name="bluetooth_phonebook_request">Telefon defterine erişim isteği</string>
     <string name="bluetooth_pin_values_hint">Genellikle 0000 veya 1234</string>
     <string name="bluetooth_pin_values_hint_16_digits">18 basamaklı olmalıdır</string>
@@ -1994,10 +2005,10 @@ Veri kullanımı telefonunuz tarafından ölçülür ve operatörünüz kullanı
     <string name="data_usage_restrict_denied_dialog">Arka plan verilerini sınırlama özelliği, yalnızca mobil ağ veri sınırı ayarladığınızda kullanılabilir</string>
     <string name="data_usage_summary_format">%1$s veri kullanıldı</string>
     <string name="data_usage_summary_title">Veri kullanımı</string>
-    <string name="data_usage_sweep_limit"><font size="18">^1</font> <font size="9">^2</font>"\"
-\""<font size="12">sınır</font></string>
-    <string name="data_usage_sweep_warning"><font size="18">^1</font> <font size="9">^2</font>"\"
-\""<font size="12">uyarısı</font></string>
+    <string name="data_usage_sweep_limit"><font size="18">^1</font> <font size="9">^2</font>"
+"<font size="12">limit</font></string>
+    <string name="data_usage_sweep_warning"><font size="18">^1</font> <font size="9">^2</font>"
+"<font size="12">warning</font></string>
     <string name="data_usage_tab_3g">2G-3G</string>
     <string name="data_usage_tab_4g">4G</string>
     <string name="data_usage_tab_ethernet">Ethernet</string>
@@ -2123,6 +2134,7 @@ Veri kullanımı telefonunuz tarafından ölçülür ve operatörünüz kullanı
     <string name="development_settings_summary">Uygulama geliştirme için seçenekleri belirleyin</string>
     <string name="development_settings_title">Geliştirici seçenekleri</string>
     <string name="device_actionbar_title">Mi</string>
+    <string name="device_activation_info">Cihaz aktivasyonu</string>
     <string name="device_admin_add_title">Cihaz yönetimi</string>
     <string name="device_admin_settings_title">Cihaz yöneticisi ayarları</string>
     <string name="device_admin_status">Bu yönetim uygulaması etkin ve %1$s uygulamasının aşağıdaki işlemleri gerçekleştirmesine izin veriyor:</string>
@@ -3660,7 +3672,7 @@ Xiaomi bulutu açın ve oradan öğeleri geri yükleyin"</string>
     <string name="location_agps_supl_server_addr">Sunucu adresi</string>
     <string name="location_agps_supl_server_port">Sunucu bağlantı noktası</string>
     <string name="location_agps_supl_settings">SUPL ayarları</string>
-    <string name="location_app_level_permissions">Uygulama düzeyinde izinler</string>
+    <string name="location_app_level_permissions">Uygulama izinleri</string>
     <string name="location_app_permission_summary_location_off">Konum özelliği kapalı</string>
     <string name="location_category_location_services">Konum hizmetleri</string>
     <string name="location_category_recent_location_access">Son konum erişimi</string>
@@ -4245,6 +4257,9 @@ Ek ayarlara erişmeye devam edin"</string>
     <string name="miui_sos_menu_add">Ekle</string>
     <string name="miui_sos_menu_edit">Düzenle</string>
     <string name="miui_sos_msg_call_log_prefix">Son bir saatlik arama geçmişim burada:</string>
+    <string name="miui_sos_pa_title">Acil konum</string>
+    <string name="miui_sos_pa_turn_off">Kapalı</string>
+    <string name="miui_sos_pa_turn_on">Açık</string>
     <string name="miui_sos_play_voice">Acil durum mesajını oynat</string>
     <string name="miui_sos_remind_add">Ekle</string>
     <string name="miui_sos_remind_close">Acil durum modu açık. İlgili tüm işlevlerle birlikte kapatılsın mı?</string>
@@ -5125,6 +5140,23 @@ Bu hizmeti kullanmadan önce %s bölümünü okuyun ve kabul edin"</string>
     <string name="power_usage_summary_title">Pil &amp; performans</string>
     <string name="power_usage_summary_title_new">Pil &amp; performans</string>
     <string name="power_wifi">Wifi</string>
+    <string name="pre_install_app_browser">Tarayıcı</string>
+    <string name="pre_install_app_camera">Kamera</string>
+    <string name="pre_install_app_gallery">Galeri</string>
+    <string name="pre_install_app_other">Önceden ayarlanmış ayrıntılı uygulama bilgilerini çevrimiçi görüntüleyin</string>
+    <string name="pre_install_app_phone">Telefon hizmeti</string>
+    <string name="pre_install_app_sms">Mesajlar</string>
+    <string name="pre_install_app_weather">Hava durumu</string>
+    <string name="pre_install_application">Önceden oluşturulmuş uygulamalar</string>
+    <string name="pre_install_category_appname">Uygulama adı</string>
+    <string name="pre_install_category_question">Ortak sorun</string>
+    <string name="pre_install_network_unavailable">Şu anda bağlı değil. Lütfen önce çevrimiçi olun</string>
+    <string name="pre_install_question_disable_summary">Bazı sistem uygulamaları için uygulamanın ayarlarından uygulamanın bazı genişletilmiş işlevlerini devre dışı bırakabilirsiniz. Bu genişletilmiş işlevleri geri yüklemeniz gerekirse yeniden etkinleştirmek için ayarlara tekrar gidebilirsiniz</string>
+    <string name="pre_install_question_disable_title">İşlev nasıl devre dışı bırakılır?</string>
+    <string name="pre_install_question_query_summary">"Ayarlar - Diğer - Uygulamalar'a gidebilir, görüntülemek istediğiniz uygulamayı seçebilir ve yazılımın gerektirdiği izinleri görüntülemek için uygulama bilgilerinde izin ayrıntılarını görüntüleye tıklayabilirsiniz. Ayrıca masaüstündeki menü düğmesine basabilir ve ardından uygulama bilgileri sayfasına hızlı bir şekilde girmek için uygulamaya uzun süre basabilir ve ardından doğrudan izin ayrıntılarını görüntülemek için tıklayabilirsiniz. Ayrıca kullanıcının önyükleme kılavuzu sayfasında tüm yazılım kurulumunu ve gerekli izin listesi bilgilerini hızlı bir şekilde görüntüleyebilirsiniz"</string>
+    <string name="pre_install_question_query_title">Yazılım kurulumu ve çalışması için gerekli izinlerin listesi nasıl sorgulanır?</string>
+    <string name="pre_install_question_uninstall_summary">"Ayarlar - Diğer - Uygulamalar'a gidebilir, kaldırmayı destekleyen bir uygulama seçebilir ve Kaldır'a tıklayabilirsiniz. Sistemin önceden ayarlanmış bileşenlerinin kaldırılması bazı sistem işlevlerinin başarısız olmasına veya anormal şekilde çalışmasına neden olabilir.Dikkatli çalıştırmanız önerilir. Kaldırılabilen üçüncü taraf uygulamalar için masaüstündeki simgeye uzun süre basabilir ve ardından uygulamayı kaldırmak için ekranın üst kısmındaki çöp kutusuna sürükleyebilirsiniz"</string>
+    <string name="pre_install_question_uninstall_title">Uygulama nasıl kaldırılır?</string>
     <string name="pre_installed_application">Ön-yüklü uygulamalar</string>
     <string name="pref_bg_network_title">Arkaplan ağ bağlantısı</string>
     <string name="pref_button_light">Tuş ışıkları</string>

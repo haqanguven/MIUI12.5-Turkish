@@ -71,8 +71,7 @@
         <item>AAC</item>
         <item>Qualcomm® aptX™ ses</item>
         <item>Qualcomm® aptX™ HD ses</item>
-        <item>LDAC</item>
-        <item>Qualcomm® aptX™ uyarlanabilir ses</item>
+        <item>Qualcomm® aptX™ adaptif ses</item>
         <item>Qualcomm® aptX™ TWS+ ses</item>
         <item>İsteğe bağlı kodekleri etkinleştir</item>
         <item>İsteğe bağlı kodekleri devre dışı bırak</item>
@@ -83,17 +82,16 @@
         <item>AAC</item>
         <item>Qualcomm® aptX™ ses</item>
         <item>Qualcomm® aptX™ HD ses</item>
-        <item>LDAC</item>
-        <item>Qualcomm® aptX™ uyarlanabilir ses</item>
+        <item>Qualcomm® aptX™ adaptif ses</item>
         <item>Qualcomm® aptX™ TWS+ ses</item>
         <item>İsteğe bağlı kodekleri etkinleştir</item>
         <item>İsteğe bağlı kodekleri devre dışı bırak</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
-        <item>, aktif</item>
-        <item>, aktif (Medya)</item>
-        <item>, aktif (Telefon)</item>
+        <item>, active</item>
+        <item>, active (Medya)</item>
+        <item>, active (Telefon)</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (Varsayılan)</item>

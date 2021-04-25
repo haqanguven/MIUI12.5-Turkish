@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Yüzen pencere</string>
+    <string name="bottom_bar_smallwindow_text">Sabitlemek için bırakın</string>
     <string name="contentDescription">Pencereyi taşıma</string>
     <string name="freeform_demo_back">Geri</string>
     <string name="freeform_demo_final_over">Bitti</string>
@@ -9,6 +10,10 @@
     <string name="freeform_demo_go_on">İleri</string>
     <string name="freeform_demo_title_finish">Güzel</string>
     <string name="freeform_demo_title_skip">Atla</string>
+    <string name="freeform_slide_to_small_freeform">Serbest biçimli slayttan küçük serbest biçime</string>
+    <string name="freeform_slide_to_small_freeform_summary">Sağ üst köşeye kayan bir pencerenin işlem çubuğuna basın ve kaydırın</string>
+    <string name="fullscreen_slide_to_small_freeform">Serbest biçime tam ekran slayt</string>
+    <string name="fullscreen_slide_to_small_freeform_summary">Ekranın altından ekranın sağ üst köşesine kaydırın</string>
     <string name="how_to_close_or_fullscreen_freeform">Yüzen pencereleri kapat veya tam ekran moduna geç</string>
     <string name="how_to_drop_down_to_fullscreen">Tam ekran moduna geç</string>
     <string name="how_to_drop_down_to_fullscreen_summary">Basın ve basılı tutun. Ardından kayan bir pencerenin eylem çubuğunu aşağı çekin</string>

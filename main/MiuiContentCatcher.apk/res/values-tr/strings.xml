@@ -19,6 +19,7 @@
     <string name="autofill_password_activity_label">Doğrulama kodları</string>
     <string name="autofill_service_label">Parolaları yönetin</string>
     <string name="autofill_setting_activity_label">Parolaları yönetin</string>
+    <string name="back_button_label">Geri</string>
     <string name="cancel">İptal et</string>
     <string name="change_passwork_dialog_content">Bu hesap için zaten bir şifre kaydettiniz. Şifre şimdi güncellensin mi?</string>
     <string name="change_passwork_dialog_title">Şifre güncellensin mi?</string>

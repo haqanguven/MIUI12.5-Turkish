@@ -31,7 +31,10 @@
     <string name="afternoon">ÖS</string>
     <string name="am">ÖÖ</string>
     <string name="app_name">Ekran kaydedici</string>
+    <string name="app_notification_channel_record_complete">Tamamlanmış kayıtlar hakkındaki bildirimler</string>
     <string name="app_notification_info">Ekran kaydedici arkaplanda çalışıyor</string>
+    <string name="app_notification_record_complete">"Ekran kaydı galeriye kaydedildi
+Görüntülemek için dokunun"</string>
     <string name="app_notification_title">Ekran kaydedici</string>
     <string name="auto_stop_title">Video başarıyla kaydedildi</string>
     <string name="battery_not_allowed" formatted="false">Pil seviyesi %3 seviyesinden düşük olduğunda kayıt yapılamıyor. Pilin en az %20 seviyesinde olduğundan emin olun</string>

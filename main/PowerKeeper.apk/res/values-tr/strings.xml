@@ -42,6 +42,8 @@
     <string name="atrace_saving">İzleme günlüğü kaydediliyor</string>
     <string name="atrace_start">İzleme günlüğü kaydediliyor</string>
     <string name="base_info">Temel bilgi</string>
+    <string name="checking_intranet">İntranet bağlantısı kontrol ediliyor. Lütfen bekleyin</string>
+    <string name="clear_temperature">Clr_Temp</string>
     <string name="cloud_addr_info">Bulut bilgileri</string>
     <string name="cloud_china_addr">Çin sunucusu verilerini güncelle</string>
     <string name="cloud_international_addr">Uluslararası sunucu verilerini güncelle</string>
@@ -62,8 +64,10 @@
 Pil tasarrufu özelliği önemli uygulamaları özel olarak ele alır ve işlem yapar"</string>
     <string name="config_suggest_suffix_title">Pil tasarrufu (Önerilir)</string>
     <string name="confirm">Tamam</string>
+    <string name="connect_intranet_hint">Lütfen intranete bağlanın</string>
     <string name="copy">Kopyala</string>
     <string name="current_cloud_addr_is">Bulut kontrol sunucusu adresi:</string>
+    <string name="delete_data_confirm">Bu verileri silmeyi onaylayın</string>
     <string name="empty_title_apps_container_list">Uygulama yok</string>
     <string name="enable_sleep_mode">Geceleri pil kullanımını optimize etmek için uyku modunu açın</string>
     <string name="error_filename_too_long">Girmiş olduğunuz dosya adı çok uzun</string>
@@ -86,6 +90,7 @@ Pil tasarrufu özelliği önemli uygulamaları özel olarak ele alır ve işlem 
     <string name="high_temp_state_message">Cihazınız aşırı ısınıyor. Mobil veri, wifi noktaları, Gps ve kamera kısıtlanacaktır</string>
     <string name="hints_loading_text">Yükleniyor</string>
     <string name="important_warning">Uyarı</string>
+    <string name="insert_data">Veri ekle</string>
     <string name="lasttime_applist_cloud">Güncellenen uygulamalar:</string>
     <string name="lasttime_feature_cloud">Güncellenen özellikler:</string>
     <string name="message_i_know">Anladım</string>
@@ -97,6 +102,7 @@ Pil tasarrufu özelliği önemli uygulamaları özel olarak ele alır ve işlem 
     <string name="miuix_sbl_tracking_progress_labe_up_none">Bunu yapma</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Yenileniyor</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Hata</string>
+    <string name="modify_data">Verileri değiştir</string>
     <string name="nonui_mode_config_description">MIUI cihazınızı kullanmadığınızı tespit ettiğinde bildirimler için ekran ışığını yakmaz. Bildirim ışığı, parmak izi sensörü ve dokunma kontrolleri pil tasarrufu amacıyla kapatılır</string>
     <string name="nonui_mode_config_title">Etkileşimsiz mod</string>
     <string name="not_set">Ayarlanmadı</string>
@@ -132,10 +138,13 @@ Pil tasarrufu özelliği önemli uygulamaları özel olarak ele alır ve işlem 
     <string name="pref_config_title">Performans optimizasyonu</string>
     <string name="preference_copied">%1$s panoya kopyalandı</string>
     <string name="privacy">Gizlilik politikası</string>
+    <string name="save_data">Veri kaydet</string>
     <string name="scenario_policies_summary">Farklı senaryolar için farklı pil tasarruf stratejileri uygulanır</string>
     <string name="scenario_policies_title">Akıllı senaryolar</string>
     <string name="scenario_policies_warmcontrol">Sıcaklık kontrolü</string>
-    <string name="search_input_txt_na"><font color="'#ff0000'">%s</font></string>
+    <string name="screen_off_current">Off_Cur</string>
+    <string name="screen_on_current">On_Cur</string>
+    <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
     <string name="search_menu_title">Ara</string>
     <string name="search_result_text">Herhangi bir uygulama bulunamadı</string>
     <string name="show_system_app">Sistem uygulamalarını göster</string>
@@ -150,6 +159,9 @@ Pil tasarrufu özelliği önemli uygulamaları özel olarak ele alır ve işlem 
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sucess">Tamamlandı</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="thermal_cancel">Hayır</string>
+    <string name="thermal_confirm">Yes</string>
+    <string name="trig_temperature">Trig_Temp</string>
     <string name="update_profile_failture_not_connect_wifi">Güncellenemedi. Wifi ağına bağlanın ve tekrar deneyin</string>
     <string name="update_profile_sucess">Sunucudan başarıyla güncellendi</string>
     <string name="v7_preference_off">Kapalı</string>

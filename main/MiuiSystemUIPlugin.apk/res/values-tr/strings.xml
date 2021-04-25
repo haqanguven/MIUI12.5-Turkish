@@ -170,6 +170,7 @@
     <string name="disabled">Mevcut değil</string>
     <string name="dnd_popup_close_message">Anladım</string>
     <string name="dnd_popup_message">Medya seslerini kapatmadan aramaları ve bildirimleri sessize almak için rahatsız etme modunu açabilirsiniz.</string>
+    <string name="dolby_atoms_sound_effect_label">Dolby Atmos</string>
     <string name="early_morning">ÖÖ</string>
     <string name="earthly_branches_chen">15</string>
     <string name="earthly_branches_chou">12</string>

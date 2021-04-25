@@ -981,6 +981,7 @@ Ekspres teslimatı teslimat şirketlerinin resmi internet sitelerinden de takip 
     <string name="cleanup_power">Derin temizlik</string>
     <string name="clear">Temizle</string>
     <string name="clearable_edittext_clear_description">Temizle</string>
+    <string name="close">Kapat</string>
     <string name="closed">Kapalı</string>
     <string name="collect_diagnosis_log">Teşhis günlüğünü toplayın</string>
     <string name="commute">Harita önerileri</string>
@@ -1056,6 +1057,7 @@ Ekspres teslimatı teslimat şirketlerinin resmi internet sitelerinden de takip 
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Çin geleneksel takvimi</string>
+    <string name="date_time_picker_dialog_title">Tarih ve saati ayarlayın</string>
     <string name="debug_card_brief">Hata ayıklama ayarları ve araçları</string>
     <string name="debug_card_detail">Hata ayıklama ayarları ve araçları</string>
     <string name="debug_card_title">Hata ayıklama</string>
@@ -1876,10 +1878,13 @@ Takip numaranızı kontrol edin"</string>
     <string name="miuix_appcompat_cancel_description">İptal et</string>
     <string name="miuix_appcompat_confirm_description">Onayla</string>
     <string name="miuix_appcompat_delete_description">Sil</string>
+    <string name="miuix_appcompat_deselect_all">Seçimi kaldır</string>
     <string name="miuix_appcompat_deselect_all_description">Tüm seçimleri kaldır</string>
     <string name="miuix_appcompat_search_action_mode_cancel">İptal et</string>
     <string name="miuix_appcompat_search_input_description">Ara</string>
+    <string name="miuix_appcompat_select_all">Tümünü seç</string>
     <string name="miuix_appcompat_select_all_description">Tümünü seç</string>
+    <string name="miuix_appcompat_select_item">Öğeleri seç</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için aşağı çekin</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Başarıyla yenilendi</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor</string>
@@ -2260,6 +2265,7 @@ Rezervasyon yok, unuttunuz ya da telefon numarasını devre dışı bıraktıysa
     <string name="search_category_video">Videolar</string>
     <string name="search_change_header">Kapağı değiştir</string>
     <string name="search_clear_header">Kapağı kaldır</string>
+    <string name="search_header_dialog_title">Arka planı değiştir</string>
     <string name="search_hint">Favorilerde ara</string>
     <string name="search_label">Aranıyor</string>
     <string name="search_menu_title">Ara</string>
@@ -2269,6 +2275,7 @@ Rezervasyon yok, unuttunuz ya da telefon numarasını devre dışı bıraktıysa
     <string name="select_team_close">Kapat</string>
     <string name="select_team_confirm">Onayla</string>
     <string name="selected_shortcuts_title">Özellikler</string>
+    <string name="send">Gönder</string>
     <string name="send_action_title">Favorilere ekle</string>
     <string name="send_diagnosis_log">Teşhis günlüğünü gönder</string>
     <string name="send_express">Hızlı teslimat</string>
