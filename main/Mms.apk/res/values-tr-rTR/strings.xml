@@ -272,6 +272,7 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Çince geleneksel takvim</string>
+    <string name="date_time_picker_dialog_title">Tarih ve saati ayarlayın</string>
     <string name="debug_about_mms">Hakkında</string>
     <string name="debug_category_db">Veri tabanı</string>
     <string name="debug_category_others">Diğer</string>
@@ -582,7 +583,10 @@ Sim kartınızı kontrol edin"</string>
     <string name="message_too_big_for_audio">Mesaj çok büyük</string>
     <string name="message_too_big_for_video">Mesaj boyutu video eklemek için çok büyük</string>
     <string name="message_type_label">"Tür: "</string>
+    <string name="message_unread">Okunmamış</string>
     <string name="messagelist_sender_self">Ben</string>
+    <string name="messages_installed_notification_text_xiaomi">Sohbet başlatmak için dokunun</string>
+    <string name="messages_installed_notification_title_xiaomi">Mesajlar yüklendi</string>
     <string name="messaging">Mesajlaşma</string>
     <string name="mi_message_title">Mi mesaj</string>
     <string name="midnight">Gece</string>
@@ -597,10 +601,13 @@ Sim kartınızı kontrol edin"</string>
     <string name="miuix_appcompat_cloud_state_syncing">Bulut ile senkronize et</string>
     <string name="miuix_appcompat_confirm_description">Onayla</string>
     <string name="miuix_appcompat_delete_description">Sil</string>
+    <string name="miuix_appcompat_deselect_all">Seçimi kaldır</string>
     <string name="miuix_appcompat_deselect_all_description">Tüm seçimi kaldır</string>
     <string name="miuix_appcompat_search_action_mode_cancel">İptal et</string>
     <string name="miuix_appcompat_search_input_description">Ara</string>
+    <string name="miuix_appcompat_select_all">Tümünü seç</string>
     <string name="miuix_appcompat_select_all_description">Tümünü seç</string>
+    <string name="miuix_appcompat_select_item">Öğeleri seç</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için çek</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Yenileme tamamlandı</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor</string>
@@ -764,6 +771,7 @@ Mi mesajı etkinleştirmek için giden bir mesaj gerekir. Bu mesaj için operat�
     <string name="notification_add_todo_content">Alış kodu: %s</string>
     <string name="notification_channel_msg_description">Mesajlarla ilgili bildirimler</string>
     <string name="notification_channel_msg_name">Mesajlar</string>
+    <string name="notification_channel_name_xiaomi">Uygulama yükseltme bildirimleri</string>
     <string name="notification_channel_other_description">Diğer bildirimler</string>
     <string name="notification_channel_other_name">Diğer</string>
     <string name="notification_channel_sim1_description">Sim1 mesajları ile ilgili bildirimler</string>
@@ -901,6 +909,9 @@ Mi mesajı etkinleştirmek için giden bir mesaj gerekir. Bu mesaj için operat�
     <string name="privacy_password_title3">Şifrenizi güncelleyin</string>
     <string name="privacy_password_title4">Şifre güncellendi</string>
     <string name="privacy_policy">Gizlilik politikası</string>
+    <string name="privacy_revoke_nonetwork_msg">Onayınızı geri çekebilmeniz için cihazınızın ağa bağlanması gerekir. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
+    <string name="privacy_revoke_nonetwork_ok">Anladım</string>
+    <string name="privacy_revoke_nonetwork_title">Ağa bağlanamıyorum</string>
     <string name="privacy_state_revoked_cancel">İptal et</string>
     <string name="privacy_state_revoked_content">Anahtarı kapatarak mesajlaşma gizlilik politikasına olan onayınızı geri almış olursunuz. Kişisel bilgilerinizi toplamaya son vereceğiz. Halihazırda toplanan ve saklanan kişisel bilgiler geçerli yasaların gerektirdiği belirli süre içinde silinecektir. Mesajlaşma tarafından sağlanan Mi mesaj ve akıllı mesajlaşma size temel hizmetleri sağlamak için gerekli kişisel bilgileri toplamalıdır. Mesajlaşma gizlilik politikasına verdiğiniz onayı Mi mesaj ve akıllı mesaj tarafından sağlanan toplanan kişisel bilgilere dayalı olarak hizmetleri kabul etmeyi reddetmeniz olarak kabul edilecektir</string>
     <string name="privacy_state_revoked_dialog_title">Onayın geri alınması</string>
@@ -915,6 +926,21 @@ Mi mesajı etkinleştirmek için giden bir mesaj gerekir. Bu mesaj için operat�
     <string name="private_protect">Şifreler</string>
     <string name="private_settings">Özel mesaj ayarları</string>
     <string name="processing">Çalışıyor</string>
+    <string name="promo_back_btn_text_xiaomi">Mi mesaja dön</string>
+    <string name="promo_install_btn_text">Sonraki</string>
+    <string name="promo_install_bullet_1_xiaomi">"Metinler &amp; görevler için Google Asistan'ı kullanın"</string>
+    <string name="promo_install_bullet_2_xiaomi">Mevcut konuşmalarınızı &amp; medyanızı saklayın</string>
+    <string name="promo_install_bullet_3_xiaomi">Paylaşılan mesajları &amp; medyayı kolayca bulun</string>
+    <string name="promo_install_bullet_4_xiaomi">Mesajlarları varsayılan mesaj uygulamanız olarak kullanın</string>
+    <string name="promo_install_learn_more_xiaomi"><a href="https://support.google.com/messages/answer/6089066">Daha fazla bilgi edin</a></string>
+    <string name="promo_install_subtitle_xiaomi">"Wifi veya mobil veri üzerinden daha zengin ve daha kaliteli sohbet edin. Mesajlar'ı yükleyin &amp; varsayılan mesaj uygulamanız olarak kullanın. <a href="https://support.google.com/messages/answer/6089066">Daha fazla bilgi edin</a>"</string>
+    <string name="promo_install_title_xiaomi">"Xiaomi Google'dan mesajlar uygulamasını yükseltmenizi önerir"</string>
+    <string name="promo_launch_messages_btn_text">Mesajları aç</string>
+    <string name="promo_no_thanks_btn_text_xiaomi">Hayır</string>
+    <string name="promo_post_install_animation_alt_text_xiaomi">"Google'dan mesajlar artık varsayılan mesaj uygulamanız. Google mesajlarını ana ekrana favori olarak yerleştirmek için, Mi mesaj'a uzun basın ve favorilerden taşıyın, ardından mesajlar'a uzun basın ve favorilere taşıyın"</string>
+    <string name="promo_post_install_title_no_default_xiaomi">"Mi mesajı Google'dan daha yüksek kaliteli mesajlarla değiştirin"</string>
+    <string name="promo_post_install_title_with_default_xiaomi">"Google'dan mesajlar ile şimdi daha yüksek kaliteli kısa mesaj göndermeye başlayın"</string>
+    <string name="promo_use_messages_btn_text">Mesajları kullan</string>
     <string name="prompt_area_code">+90</string>
     <string name="prompt_otp">Kod</string>
     <string name="prompt_phone">Telefon numarası</string>
@@ -1215,6 +1241,7 @@ Mobil veriyi açın ve bu sayfayı tekrar açın"</string>
     <string name="slide_show_part">Bölüm %1$d/%2$d</string>
     <string name="slide_up_to_cancel">İptal etmek için yukarı doğru kaydırın</string>
     <string name="slideshow_activity">Slayt gösterisi</string>
+    <string name="small_window_log_text">Kamera çoklu pencere modunda kullanılamaz</string>
     <string name="smart_message_title">Akıllı mesajlaşma</string>
     <string name="smart_message_upgrade_title">Akıllı mesajlaşma gizlilik politikası güncellemesi</string>
     <string name="smart_messages_network_allow_message">Mi mesaj hizmetlerinin normal şekilde çalışması için internete bağlanması gerekir. Şimdi izin verilsin mi?</string>

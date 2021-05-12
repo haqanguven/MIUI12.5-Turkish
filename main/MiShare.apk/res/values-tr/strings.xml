@@ -300,8 +300,7 @@
     <string name="mishare_folder_in_file_explorer">Dosya yöneticisi > Dosya paylaşımı</string>
     <string name="mishare_service_channel_desc">Dosya paylaşımı işlemleri hakkında bildirimler</string>
     <string name="mishare_settings_summary_international">"Yakındaki cihazlara öğe göndermek için dosya paylaşımı kullanabilirsiniz
-Dosya paylaşımı Mi ve Redmi telefonlarıyla uyumludur
-Oppo, vivo, realme ve diğer markalar yakında dosya paylaşımı ile de uyumlu olacak. Uyumlu cihazların listesini internet sitemizden kontrol edebilirsiniz"</string>
+Dosya paylaşımı Mi ve Redmi telefonlarıyla uyumludur. Oppo, vivo, realme ve diğer markalar yakında dosya paylaşımı ile de uyumlu olacak. Uyumlu cihazların listesini internet sitemizden kontrol edebilirsiniz"</string>
     <string name="mishare_state_protection">Dosya paylaşımını otomatik aç</string>
     <string name="mishare_state_protection_summary">Bluetooth veya wifi açıldığında dosya paylaşımı otomatik olarak başlatır</string>
     <string name="mishare_state_protection_summary_china">Bluetooth veya wifi açıldığında Mi paylaşımı otomatik olarak başlat</string>

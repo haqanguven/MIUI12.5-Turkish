@@ -166,6 +166,7 @@
     <string name="evening">Öğleden sonra</string>
     <string name="expand_button_title">Gelişmiş</string>
     <string name="first_using_dialog_message">Pusulanın düzgün çalışabilmek için cihazınızın ağ bağlantısı, kamera ve konum hizmetlerini kullanması gerekmektedir</string>
+    <string name="first_using_dialog_message_no_camera">Pusulanın normal çalışabilmesi için internete bağlanması ve konum bilgisine erişmesi gerekmektedir. Kabul ediyor musunuz?</string>
     <string name="first_using_dialog_title">Erişim izni</string>
     <string name="fmt_chinese_date">N/e</string>
     <string name="fmt_date">D</string>
@@ -317,11 +318,12 @@
     <string name="noon">Gün ortası</string>
     <string name="not_set">Ayarlanmamış</string>
     <string name="open_perm_msg">Pusula konum bilgisine ve kameraya erişim iznine ihtiyaç duyar. Bu durum koordinatların belirlenmesi ve canlı ön izlemelerin sağlanması için gereklidir. İzin verilsin mi?</string>
+    <string name="open_perm_msg_no_camera">Pusulanın koordinatları belirleyebilmesi için konum bilgisine erişmesi gerekmektedir. İzin verilsin mi?</string>
     <string name="open_perm_title">İzin gerekli</string>
     <string name="permission_camera_desc">Su terazisi kullanılıyor</string>
     <string name="permission_location_desc">Koordinatlar ve atmosfer basıncı görüntüleniyor</string>
     <string name="pm">ÖS</string>
-    <string name="preference_copied">%1$s panoya kopyalandı.</string>
+    <string name="preference_copied">%1$s panoya kopyalandı</string>
     <string name="preference_other">Diğer</string>
     <string name="preference_privacy_title">Gizlilik politikası</string>
     <string name="pressure">%.1f</string>

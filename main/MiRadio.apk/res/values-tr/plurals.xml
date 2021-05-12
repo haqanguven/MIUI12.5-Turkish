@@ -128,16 +128,16 @@
         <item quantity="one">Delete %d song from Xiaomi Cloud? It will be deleted from local playlists as well.</item>
     </plurals>
     <plurals name="download_finished">
-        <item quantity="other">&lt;font color=\"red\">%d songs&lt;/font> downloaded</item>
-        <item quantity="one">&lt;font color==\"red\">%d song&lt;/font> downloaded</item>
+        <item quantity="other">&lt;font color="red">%d songs&lt;/font> downloaded</item>
+        <item quantity="one">&lt;font color="=red">%d song&lt;/font> downloaded</item>
     </plurals>
     <plurals name="download_info_count_deleted_tasks">
         <item quantity="other">%d downloads removed</item>
         <item quantity="one">%d download removed</item>
     </plurals>
     <plurals name="download_running">
-        <item quantity="other">&lt;font color=\"red\">%d songs&lt;/font> downloading</item>
-        <item quantity="one">&lt;font color==\"red\">%d song&lt;/font> downloading</item>
+        <item quantity="other">&lt;font color="red">%d songs&lt;/font> downloading</item>
+        <item quantity="one">&lt;font color="=red">%d song&lt;/font> downloading</item>
     </plurals>
     <plurals name="fm_download_fm_count">
         <item quantity="other">Downloaded %1$d episodes</item>

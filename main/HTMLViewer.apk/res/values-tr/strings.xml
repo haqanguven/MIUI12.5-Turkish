@@ -105,6 +105,7 @@
     <string name="chinese_symbol_animals_snake">Yılan</string>
     <string name="chinese_symbol_animals_tiger">Kaplan</string>
     <string name="clearable_edittext_clear_description">Temizle</string>
+    <string name="close">Kapat</string>
     <string name="copyright">Telif hakkı</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -283,6 +284,7 @@ başka bir bağlı cihazda %s adresine gidin"</string>
     <string name="saturday_short">Cumartesi</string>
     <string name="saturday_shortest">C</string>
     <string name="search_menu_title">Ara</string>
+    <string name="send">Gönder</string>
     <string name="settings_ad_loading">Yükleniyor</string>
     <string name="settings_ad_loading_unavailable">Bilgi yüklenemedi</string>
     <string name="settings_license_activity_loading">Yükleniyor</string>

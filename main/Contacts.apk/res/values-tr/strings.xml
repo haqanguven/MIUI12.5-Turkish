@@ -395,6 +395,7 @@
     <string name="clear_default">Varsayılanları temizle</string>
     <string name="clear_digits">Telefon numarasını sil</string>
     <string name="clearable_edittext_clear_description">Temizle</string>
+    <string name="close">Kapat</string>
     <string name="close_dial_pad_description">Tuş takımını kapat</string>
     <string name="cloud_antispam_mark">İşaretle</string>
     <string name="cloud_antispam_marked">İşaretli</string>
@@ -492,6 +493,7 @@ Mi dolaşımın normal şekilde çalışması için internete bağlanması ve ko
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Çince geleneksel takvim</string>
+    <string name="date_time_picker_dialog_title">Tarih ve saati ayarla</string>
     <string name="date_year_toggle">Yıl girin</string>
     <string name="default_ringtone">Varsayılan zil sesi</string>
     <string name="deleteCloudConfirmationDetail">%s kişi bilgileri hem buluttan hem de bu cihazdan silinsin mi?</string>
@@ -884,10 +886,13 @@ Neden: %s"</string>
     <string name="miuix_appcompat_cloud_state_syncing">Bulut ile senkronize ediliyor</string>
     <string name="miuix_appcompat_confirm_description">Onayla</string>
     <string name="miuix_appcompat_delete_description">Sil</string>
-    <string name="miuix_appcompat_deselect_all_description">Tüm seçimi kaldır</string>
+    <string name="miuix_appcompat_deselect_all">Seçimi kaldır</string>
+    <string name="miuix_appcompat_deselect_all_description">Tüm seçimleri kaldır</string>
     <string name="miuix_appcompat_search_action_mode_cancel">İptal et</string>
     <string name="miuix_appcompat_search_input_description">Ara</string>
+    <string name="miuix_appcompat_select_all">Tümünü seç</string>
     <string name="miuix_appcompat_select_all_description">Tümünü seç</string>
+    <string name="miuix_appcompat_select_item">Öüeleri seç</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için çek</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Yenileme tamamlandı</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor</string>
@@ -1160,6 +1165,7 @@ Başlamak için ekranınızın altındaki birleştir simgesine dokunun"</string>
     <string name="select_all">Tümünü seç</string>
     <string name="select_groups">Grupları seçin</string>
     <string name="select_vcard_title">vKart dosyası seçin</string>
+    <string name="send">Gönder</string>
     <string name="send_contact_shortcut_todesktop_duplicate">Bu kısayol zaten var</string>
     <string name="send_contact_shortcut_todesktop_failed">Ana ekrana kısayol yerleştirilemedi</string>
     <string name="send_contact_shortcut_todesktop_overflow">Ana ekrana daha fazla kısayol yerleştirilemiyor</string>

@@ -72,6 +72,8 @@
     <string name="add_data_type_datasource">Veri kaynağı ekleyin (%1$s)</string>
     <string name="add_model_card">"Kart eklemek için
 sol üst köşedeki düğmeye dokunun"</string>
+    <string name="add_model_card2">"Kart eklemek için yukarıdaki düğmeye dokunun
+Egzersizlerinizi ve aktivitenizi takip edebileceksiniz"</string>
     <string name="add_owned_device">Kullanılabilir cihazlar</string>
     <string name="add_record">Ekle</string>
     <string name="added_data_source">Eklenen kaynaklar</string>
@@ -460,6 +462,7 @@ Mi sağlık yalnızca önemli ögeler hakkında bildirim gönderir"</string>
     <string name="dialog_delete_record_confirm">Kayıt silinsin mi?</string>
     <string name="dialog_exercise_purpose">Mi sağlığa hoşgeldiniz. Adım sayıcı gün boyunca kaç adım attığınızı görmenizi sağlamakla birlikte etkinlik hedeflerinizi ayarlamanıza ve yönetmenize olanak sağlar. İlgili tüm veriler yerel olarak cihazınızda saklanır. Bu da verileri kolayca yönetmenize izin verir</string>
     <string name="dialog_exit">Çıkış</string>
+    <string name="dialog_exit_use">Çıkış</string>
     <string name="dialog_feedback_content">Bu izinleri vermeyi kabul etmiyorsanız bu uygulamanın bazı özelliklerini kullanamazsınız. Ancak temel işlevselliği yine de sizin için mevcut olacak. Ayarlarda izinleri her zaman kısıtlayabilir veya yetkilendirmenizi iptal edebilirsiniz</string>
     <string name="dialog_feedback_purpose">Mi sağlık geri bildirimde bulunmak için depolamaya erişmelidir</string>
     <string name="dialog_feedback_purpose2">Geri bildirim göndermek için</string>
@@ -496,6 +499,8 @@ Mi sağlık yalnızca önemli ögeler hakkında bildirim gönderir"</string>
     <string name="divider_format2">%1$s-%2$s</string>
     <string name="divider_format3">%1$s~%2$s</string>
     <string name="dot">.</string>
+    <string name="download_apk">%s indiriliyor</string>
+    <string name="download_background">İndir</string>
     <string name="drag_sort">Yeniden düzenle</string>
     <string name="dream_talk">%1$s konuşuyor</string>
     <string name="dream_talk_record">Uykunuz sırasında konuştuğunuzda kaydedildiniz</string>

@@ -142,6 +142,10 @@ Not: Dosya cihazdan da silinecektir"</item>
         <item quantity="other">%d kişi talip ediyor</item>
         <item quantity="one">%d kişi talip ediyor</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d yeni bildirim</item>
+        <item quantity="one">%d yeni bildirim</item>
+    </plurals>
     <plurals name="multichoice_title">
         <item quantity="other">%d öğe seçildi</item>
         <item quantity="one">%d öğe seçildi</item>

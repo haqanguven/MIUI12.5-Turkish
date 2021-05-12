@@ -4,6 +4,14 @@
         <item quantity="other">%1$d tane daha</item>
         <item quantity="one">%1$d tane daha</item>
     </plurals>
+    <plurals name="auto_revoke_permission_notification_content_count">
+        <item quantity="other">%1$d uygulama birkaç aydır kullanılmadı. İncelemek için dokunun</item>
+        <item quantity="one">%1$d uygulama birkaç aydır kullanılmadı. İncelemek için dokunun</item>
+    </plurals>
+    <plurals name="auto_revoke_setting_subtitle_count">
+        <item quantity="other">%1$d uygulama birkaç aydır kullanılmadı</item>
+        <item quantity="one">%1$d uygulama birkaç aydır kullanılmadı</item>
+    </plurals>
     <plurals name="days">
         <item quantity="other">%s gün</item>
         <item quantity="one">1 gün</item>
@@ -15,14 +23,6 @@
     <plurals name="minutes">
         <item quantity="other">%s dakika</item>
         <item quantity="one">1 dakika</item>
-    </plurals>
-    <plurals name="permission_usage_bar_label">
-        <item quantity="other">%s uygulama</item>
-        <item quantity="one">1 uygulama</item>
-    </plurals>
-    <plurals name="permission_usage_permission_filter_subtitle">
-        <item quantity="other">%s uygulama</item>
-        <item quantity="one">1 uygulama</item>
     </plurals>
     <plurals name="seconds">
         <item quantity="other">%s saniye</item>

@@ -33,6 +33,14 @@
         <item quantity="other">%d oyun eklendi</item>
         <item quantity="one">%d oyun eklendi</item>
     </plurals>
+    <plurals name="app_behavior_dashboard_title_desc">
+        <item quantity="other">%d uygulama</item>
+        <item quantity="one">%d uygulama</item>
+    </plurals>
+    <plurals name="app_behavior_dashboard_total_usage_item">
+        <item quantity="other">%d uygulama</item>
+        <item quantity="one">%d uygulama</item>
+    </plurals>
     <plurals name="app_behavior_desc_allow">
         <item quantity="other">%1$s-%2$s sırasında %3$d kez izin verildi</item>
         <item quantity="one">%1$s-%2$s sırasında %3$d kez izin verildi</item>
@@ -100,10 +108,6 @@
     <plurals name="app_manager_uninstall_notify_summary">
         <item quantity="other">%d uygulamayı kaldır</item>
         <item quantity="one">%d uygulamayı kaldır</item>
-    </plurals>
-    <plurals name="app_manager_updater_notify_title">
-        <item quantity="other">%d uygulama için güncellemeler mevcut</item>
-        <item quantity="one">%d uygulama için güncellemeler mevcut</item>
     </plurals>
     <plurals name="app_usage_day">
         <item quantity="other">%d gün önce kullanıldı</item>

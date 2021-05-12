@@ -268,6 +268,10 @@
         <item quantity="other">%1$d video yedeklemeyi bekliyor</item>
         <item quantity="one">1 video yedeklemeyi bekliyor</item>
     </plurals>
+    <plurals name="photo_count">
+        <item quantity="other">%d fotoğraf</item>
+        <item quantity="one">%d fotoğraf</item>
+    </plurals>
     <plurals name="photo_count_format">
         <item quantity="other">Toplam %1$d öğe</item>
         <item quantity="one">Toplam %1$d öğe</item>
@@ -488,6 +492,14 @@
         <item quantity="other">%d öğe</item>
         <item quantity="one">%d öğe</item>
     </plurals>
+    <plurals name="synced_photo_count">
+        <item quantity="other">%d fotoğraf senkronize edildi</item>
+        <item quantity="one">%d fotoğraf senkronize edildi</item>
+    </plurals>
+    <plurals name="synced_videos_count">
+        <item quantity="other">%d video senkronize edildi</item>
+        <item quantity="one">%d video senkronize edildi</item>
+    </plurals>
     <plurals name="trash_purge_dialog_message_image">
         <item quantity="other">%d seçili öğelerini silerseniz geri yükleyemezsiniz. Yine de silinsin mi?</item>
         <item quantity="one">%d seçili öğelerini silerseniz geri yükleyemezsiniz. Yine de silinsin mi?</item>
@@ -511,5 +523,9 @@
     <plurals name="video_count_format">
         <item quantity="other">%1$d dosya</item>
         <item quantity="one">%1$d dosya</item>
+    </plurals>
+    <plurals name="videos_count">
+        <item quantity="other">%d video</item>
+        <item quantity="one">%d video</item>
     </plurals>
 </resources>

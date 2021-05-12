@@ -512,6 +512,9 @@ Uzun süre yüksek sese maruz kalmak işitme sorunlarına yol açabilir"</string
     <string name="wednesday_short">Çrş</string>
     <string name="wednesday_shortest">Çrş</string>
     <string name="wireless_charging_connected_message">Cihazınız kablosuz şarj olurken ters kablosuz şarj kullanılamaz</string>
+    <string name="wireless_charging_fg_control_cancel">İptal et</string>
+    <string name="wireless_charging_fg_control_messgae">"Pilin %%%d'inden az kaldığı için ters kablosuz şarj kapatıldı. Ters kablosuz şarjın daha uzun süre çalışmasını sağlamak için ayarları yapabilirsiniz"</string>
+    <string name="wireless_charging_fg_control_ok">Ayarla</string>
     <string name="wireless_charging_low_battery_level_message">Pil seviyesi %%%d oranından az olduğunda ters kablosuz şarj kullanılamaz</string>
     <string name="wireless_charging_ok">Anladım</string>
     <string name="wireless_charging_saver_cancel">Kapat</string>

@@ -87,8 +87,6 @@
         <item>LHDC V3</item>
         <item>LHDC V2</item>
         <item>LHDC V1</item>
-        <item>İsteğe bağlı kodekleri etkinleştir</item>
-        <item>İsteğe bağlı kodekleri devre dışı bırak</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>Sistem seçimini kullan (Varsayılan)</item>

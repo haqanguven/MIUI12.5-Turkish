@@ -365,18 +365,18 @@ Not: Yüklemiş olduğunuz uygulamara ait veriler Xiaomi bulut alanınıza yedek
     <string name="miui_device_name">Android</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Seçimi kaldır</string>
     <string name="miuix_appcompat_action_mode_select_all">Tümünü seç</string>
-    <string name="miuix_appcompat_action_mode_title_empty">Ögeleri seç</string>
+    <string name="miuix_appcompat_action_mode_title_empty">Öğeleri seç</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Daha fazla</string>
-    <string name="miuix_appcompat_cancel_description">İptal</string>
+    <string name="miuix_appcompat_cancel_description">İptal et</string>
     <string name="miuix_appcompat_confirm_description">Onayla</string>
     <string name="miuix_appcompat_delete_description">Sil</string>
     <string name="miuix_appcompat_deselect_all">Seçimi kaldır</string>
     <string name="miuix_appcompat_deselect_all_description">Tüm seçimleri kaldır</string>
-    <string name="miuix_appcompat_search_action_mode_cancel">İptal</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">İptal et</string>
     <string name="miuix_appcompat_search_input_description">Ara</string>
     <string name="miuix_appcompat_select_all">Tümünü seç</string>
     <string name="miuix_appcompat_select_all_description">Tümünü seç</string>
-    <string name="miuix_appcompat_select_item">Ögeleri seç</string>
+    <string name="miuix_appcompat_select_item">Öğeleri seç</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için çek</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Yenileme tamamlandı</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor</string>
@@ -472,7 +472,7 @@ Not: Yüklemiş olduğunuz uygulamara ait veriler Xiaomi bulut alanınıza yedek
     <string name="restore_app_order_retry_desc">"Ağa bağlanılamadı
 Ağ ayarlarınızı kontrol edin ve tekrar deneyin"</string>
     <string name="restore_app_order_search_hint">Önceliği belirlemek için öğeleri arayın</string>
-    <string name="restore_app_order_search_input_high_light"><font color="'#ff0800'">%s</font></string>
+    <string name="restore_app_order_search_input_high_light">"<font color="'#ff0800'">%s</font>"</string>
     <string name="restore_app_order_search_installed">Bu cihazdaki uygulamalar</string>
     <string name="restore_app_order_search_normal">Normal öncelikli uygulamalar</string>
     <string name="restore_app_order_search_prior">Yüksek öncelikli uygulamalar</string>

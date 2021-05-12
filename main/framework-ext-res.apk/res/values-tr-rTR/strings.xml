@@ -16,6 +16,8 @@
     <string name="apply_password_action">Tamam</string>
     <string name="apply_password_confirm_dlg_msg">%s ayarlarına erişmek için kilit ekranı şifrenizi kullanın</string>
     <string name="apply_password_confirm_dlg_title">%s şifresi</string>
+    <string name="asus">Asus</string>
+    <string name="asus_phone">Asus</string>
     <string name="auto_disable_screenbuttons_disable_toast_text">Navigasyon tuşları devre dışı bırakıldı. Tekrar etkinleştirmek için herhangi bir tuşa çift dokunun</string>
     <string name="auto_disable_screenbuttons_enable_toast_text">Navigasyon tuşları etkinleştirildi</string>
     <string name="auto_disable_screenbuttons_float_text">Navigasyon tuşlarını devre dışı bırakmak için dokunun</string>
@@ -123,7 +125,9 @@
     <string name="handy_mode_title">Tek el modu</string>
     <string name="help">Yardımı görüntüle</string>
     <string name="help_content">İhtiyacınız olan cihazı bulamıyorsanız diğer kişiden Mi paylaşımı açmasını isteyin</string>
-    <string name="ignore_home_when_fingerprint_enrolling_msg">Parmağınızı Ana ekran düğmesine yerleştirin</string>
+    <string name="hisense">Hisense</string>
+    <string name="hisense_phone">Hisense</string>
+    <string name="ignore_home_when_fingerprint_enrolling_msg">Parmağınızı ana ekran düğmesine yerleştirin</string>
     <string name="internal_livetalk_enable">Yurtiçi aramalar için bakiye paketi kullanılıyor</string>
     <string name="international_livetalk_enable">Uluslararası aramalar için bakiye paketi kullanılıyor</string>
     <string name="key_btn_ok">Tamam</string>
@@ -135,6 +139,7 @@
     <string name="lockscreen_access_pattern_cleared">Desen temizlendi</string>
     <string name="lockscreen_access_pattern_detected">Desen tamamlandı</string>
     <string name="lockscreen_access_pattern_start">Desen başlatıldı</string>
+    <string name="magic_window_toast">Uygulama çarpanı etkinleştirildi</string>
     <string name="maml_component_customization_title">Ayarlar</string>
     <string name="meizu">Meizu</string>
     <string name="meizu_phone">Meizu</string>
@@ -147,25 +152,7 @@
     <string name="miaudiovisual_notification_summary">Kilit ekranındaki efektleri göstermek için açın</string>
     <string name="miaudiovisual_notification_title">Görsel ve işitsel efektler</string>
     <string name="miui_forbid_poweroff_when_device_locked">Güç kapalı. Cihaz kilitli</string>
-    <string name="miui_m_com_aligames_kuang_kybc_mi">Asfalt 9</string>
-    <string name="miui_m_com_happyelements_androidanimal">Mutlu eğlence</string>
-    <string name="miui_m_com_imangi_templerun2">Tapınak koşusu 2</string>
-    <string name="miui_m_com_jingdong_app_mall">Jingdong</string>
-    <string name="miui_m_com_mihoyo_bh3_mi">Daralt 3</string>
-    <string name="miui_m_com_netease_hyxd_mi">Wilderness operasyonu</string>
-    <string name="miui_m_com_netease_mc_mi">Benim dünyam</string>
-    <string name="miui_m_com_netease_mrzh_mi">Yarından sonra</string>
-    <string name="miui_m_com_netease_onmyoji_mi">Onmyoji</string>
-    <string name="miui_m_com_outfit7_talkingtomgoldrun_mi">Talking tom parkour</string>
-    <string name="miui_m_com_ss_android_article_news">Bugünün manşetleri</string>
-    <string name="miui_m_com_taobao_taobao">Mobil taobao</string>
-    <string name="miui_m_com_tencent_hxh">Avcı</string>
-    <string name="miui_m_com_tencent_tmgp_cf">"Cross Fire - Gunfight'ın kralı"</string>
-    <string name="miui_m_com_tencent_tmgp_pubgmhd">Barış seçkinleri</string>
-    <string name="miui_m_com_tencent_tmgp_sgame">Zafer kralı</string>
-    <string name="miui_m_com_tencent_tmgp_speedmobile">QQ Speed ​​mobil oyunlar</string>
-    <string name="miui_multiwindow_not_support_small_window">%1$s yüzen pencereleri desteklemiyor</string>																											 
-    <string name="miui_screen_ratio_hint">En boy oranı sorunları</string>											  
+    <string name="miui_screen_ratio_hint">En boy oranı sorunları</string>
     <string name="miui_screen_ratio_hint_dont_show_again">Tekrar gösterme</string>
     <string name="miui_screen_ratio_hint_go_to_settings">Ayarlara git</string>
     <string name="miui_screen_ratio_hint_message">Bu uygulama görüntülenme sorunlarına yol açabilecek olan tam ekran modunda çalışma iznine sahip. Bu ayarı Ayarlar > Ek ayarlar > Tuşlar menüsünde değiştirebilirsiniz</string>
@@ -176,6 +163,8 @@
     <string name="miui_warning_tip_info">%1$s içinde bir hata oluştu. Şimdi bu uygulama kapatılsın mı?</string>
     <string name="nearby_share">Yakın paylaşım</string>
     <string name="notification_channel_hotspot">Bağlantı noktası bildirimi</string>
+    <string name="nubia">Nubia</string>
+    <string name="nubia_phone">Nubia</string>
     <string name="onehour">30 dakika</string>
     <string name="oneplus">OnePlus</string>
     <string name="oneplus_phone">OnePlus</string>
@@ -207,6 +196,8 @@
     <string name="popup_camera_takeback_falied_times_calibrate">Ön kamera birkaç kez kapatılamadı. Kamerayı kalibre etmeyi deneyin</string>
     <string name="popup_camera_tip">Dikkat</string>
     <string name="popup_camera_using_camera_background">%s ön kamerayı kullanıyor</string>
+    <string name="realme">realme</string>
+    <string name="realme_phone">realme</string>
     <string name="reboot_confirm_title">Cihan yeniden başlatılsın mı?</string>
     <string name="reboot_info_auto_boot">Cihaz %s saatinde açılmaya programlandı</string>
     <string name="reboot_info_shutdown_alarm">Alarm %s saatinde çalacaktır</string>
@@ -230,6 +221,8 @@
     <string name="resolver_other_method">Diğer seçenekler</string>
     <string name="resolver_recommend_options_tag">Önerilen seçenekler</string>
     <string name="resource_select">Seç</string>
+    <string name="rog">ROG</string>
+    <string name="rog_phone">ROG</string>
     <string name="scanning_device_tips">Yakındaki cihazları aranıyor. Diğer cihazın keşfedilebilir modda olduğundan emin olun</string>
     <string name="screen_button_notification_text">Etkinleştirmek için ana ekran ve güç tuşlarına birlikte basın</string>
     <string name="screen_button_notification_title">Navigasyon tuşları devre dışı bırakıldı</string>
@@ -271,6 +264,8 @@
     <string name="slavewifi_disconnect">Bağlantıyı kes</string>
     <string name="slavewifi_notification_title">Çift bant wifi kullan</string>
     <string name="slavewifi_settings">Ayarları değiştirmek için dokunun</string>
+    <string name="smartisan">Smartisan</string>
+    <string name="smartisan_phone">Smartisan</string>
     <string name="softap_notifif_summary">%d bağlandı</string>
     <string name="softap_notifif_title">%s internet paylaşımı açık</string>
     <string name="standard">Sessiz</string>
@@ -310,7 +305,6 @@
     <string name="switch_desc_tv">İki alan. Tek cihaz</string>
     <string name="switching_tv">Değiştiriliyor</string>
     <string name="takeback_camera_front_failed">Ön kamera kapatılamadı. Tekrar deneyin</string>
-    <string name="talk_back_conflict_with_handy_mode">TalkBack açıkken tek el modu kullanılamaz</string>
     <string name="talk_back_water_mark_string1">Geri konuşma açık</string>
     <string name="talk_back_water_mark_string2">Kapatmak için ses+ ve ses- tuşlarını 3 saniye basılı tutun</string>
     <string name="throwing_print">Yazıcı</string>
@@ -322,11 +316,8 @@
     <string name="translation_more">Daha fazla</string>
     <string name="translation_query_error">Sonuçlar bulunamadı</string>
     <string name="translation_query_error_network">Bilgi alınamadı. Ağ bağlantısını kontrol edip tekrar deneyin</string>
-    <string name="trial_mode_dialog_button_cancel">İptal et</string>
-    <string name="trial_mode_dialog_button_save">Kaydet</string>
-    <string name="trial_mode_dialog_message">%s deneme modunda çalışıyor. Cihazınızı yeniden başlatmak veya Işık hızı moduna geçmek bu oyunu siler. Oyun dahili depolamaya kaydedilsin mi?</string>
-    <string name="trial_mode_dialog_title">Deneme modu</string>
     <string name="turn_off">Kapat</string>
+    <string name="turn_on_work_profile">Aç</string>
     <string name="twohours">1 saat</string>
     <string name="unknown_caller">Bilinmeyen numara</string>
     <string name="unrecognized_manufacture">Bilinmiyor</string>
@@ -365,4 +356,6 @@
     <string name="xiaomi_poco_f1">POCO F1</string>
     <string name="xspace_head">Çift uygulama</string>
     <string name="xspace_resolver_activity_title">Uygulama seçin</string>
+    <string name="zte">ZTE</string>
+    <string name="zte_phone">ZTE</string>
 </resources>

@@ -126,8 +126,9 @@
     <string name="chinese_symbol_animals_tiger">Kaplan</string>
     <string name="clearable_edittext_clear_description">Temizle</string>
     <string name="clock_introduction">Zamanlayıcıyı ile dünya saatini, kronometreyi, alarmları ayarlamak ve daha pek çok şeyi kullanmak için bu uygulamayı kullanabilirsiniz</string>
+    <string name="close">Kapalı</string>
     <string name="close_location_service_setting">Konum erişimini kapat seçeneğini Ayarlar > Ek ayarlar > Gizlilikten seçebilir veya güvenlikteki bireysel uygulamalar için izinleri kısıtlayabilirsiniz</string>
-    <string name="cm_terms_content">Seçmiş olduğunuz operatör size sağlanan hizmetleri geliştirmek amacıyla, kişisel verilerinizi ve cihaz bilgilerini wifi ağları veya mobil ağ bağlantısını kullanarak kendi sunucularına yükleyebilir. Bu bilgiler size sağlanan hizmetlerin kalitesini yükseltebilmek ve daha kişiselleştirilmiş içerik sağlayabilmek için istatistiksel amaçlarla kullanılacaktır. Bu bilgiler kimliğinizi tanımlamak için kullanılmayacak ve üçüncü taraflarla paylaşılmayacaktır</string>
+    <string name="cm_terms_content">Seçmiş olduğunuz operatör size sağlanan hizmetleri geliştirmek amacıyla, kişisel verilerinizi ve cihaz bilgilerini wifi ağları veya mobil ağ bağlantısını kullanarak kendi sunucularına yükleyebilir. Bu bilgiler size sağlanan hizmetlerin kalitesini yükseltebilmek ve daha kişiselleştirilmiş içerik sağlayabilmek için istatistiksel amaçlarla kullanılacaktır. Bu bilgiler kimliğinizi tanımlamak için kullanılmayacak ve üçüncü taraflarla paylaşılmayacaktır</string>																			
     <string name="cm_terms_title">Mobil ağ operatör dözleşmesi</string>
     <string name="compass_introduction">Navigasyon için bu uygulamayı, ayrıca koordinatları, atmosferik basıncı ve rakımı görüntülemek için kullanabilirsiniz</string>
     <string name="congratulation_label">Artık hazırsınız</string>
@@ -265,7 +266,7 @@
     <string name="input_method_category">Mesaj yazma, not yazma ve diğer alanlarda kullanmak üzere varsayılan klavyenizi seçin. Dilediğiniz zaman üçüncü parti klavye uygulamalarını yükleyebileceğinizi unutmayın</string>
     <string name="input_method_setting">Klavye seçin</string>
     <string name="install_preinstall_app">Uygulamalar yükleniyor</string>
-    <string name="item_contents_wwarning">Cihazınız kaybolursa, ekran kilidi ayarlamadığınız sürece başkalarının onu kullanmasını ve verilerinize erişmesini engelleyemezsiniz</string>
+    <string name="item_contents_wwarning">Cihazınız kaybolursa ekran kilidi ayarlamadığınız sürece başkalarının onu kullanmasını ve verilerinize erişmesini engelleyemezsiniz</string>
     <string name="item_fingerprint">Parmak izi</string>
     <string name="item_lock_screen_password">Yalnızca ekran kilidi</string>
     <string name="item_lock_screen_password_only">Ekran kilidi</string>
@@ -362,7 +363,7 @@
     <string name="multisim_settings_title">2 Sim kart algılandı</string>
     <string name="navigation_picker_gesture_guide">Hareket kılavuzu</string>
     <string name="navigation_picker_radio_text_full_screen">Tam ekran hareketleri</string>
-    <string name="navigation_picker_radio_text_virtual_key">Sanal tuşlar</string>
+    <string name="navigation_picker_radio_text_virtual_key">Düğmeler</string>
     <string name="next">İleri</string>
     <string name="next_fingerprint">İleri</string>
     <string name="ng_haokan_glance_user_agreement">https://hksocial-cdn.levect.com/html/app_h5_user_agreement_ms.html</string>
@@ -464,7 +465,7 @@
     <string name="privacy_provision_title">Gizlilik</string>
     <string name="protect_persoanl_info_statement">Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız</string>
     <string name="provision_back">Geri</string>
-    <string name="provision_inputmethod_policy_description">Seçili klavyenin gizlilik politikasını görüntüleyin</string>
+    <string name="provision_inputmethod_policy_description"><Data>Seçili klavyeninin &lt;a href=%1$s>gizlilik politikasını&lt;/a > görüntüleyin</Data></string>
     <string name="provision_inputmethod_policy_description1">Gizlilik politikası</string>
     <string name="provision_next">Sonraki</string>
     <string name="provision_skip_underline">Atla</string>
@@ -478,6 +479,7 @@
     <string name="search_menu_title">Ara</string>
     <string name="security_introduction">Cihazınızdaki çöpleri temizlemek, virüsleri bulmak, oyun performansını artırmak, pil tasarrufu yapmak, uygulamaları yönetmek ve daha fazlasını yapmak için bu uygulamayı kullanabilirsiniz</string>
     <string name="security_mobile_account_introduction">Oturum açmak ve sistem hesaplarını yönetmek için</string>
+    <string name="send">Gönder</string>
     <string name="service_agreement">Şartlar ve koşulları okudum ve kabul ediyorum</string>
     <string name="service_name_MIUIDaemon">MIUI arka plan programı</string>
     <string name="service_name_album">Galeri</string>
@@ -501,10 +503,10 @@
     <string name="service_name_screen_recording">Ekran kaydedici</string>
     <string name="service_name_security">Güvenlik</string>
     <string name="service_name_service_framework">Mi hizmet çerçevesi</string>
-    <string name="service_policy">&lt;Data>&lt;a href=%1$s>Gizlilik politikamızı&lt;/a > okuyun ve kabul edin&lt;/Data></string>
-    <string name="service_policy_download">&lt;Data>Hizmetlerimizi kullanmadan önce &lt;a href=%1$s>Xunlei gizlilik politikasını&lt;/a > okuyun ve kabul edin:&lt;/Data></string>
+    <string name="service_policy"><Data>&lt;a href=%1$s>Gizlilik politikamızı&lt;/a > okuyun ve kabul edin</Data></string>
+    <string name="service_policy_download"><Data>Hizmetlerimizi kullanmadan önce &lt;a href=%1$s>Xunlei gizlilik politikasını&lt;/a > okuyun ve kabul edin</Data></string>
     <string name="service_privacy_index">Gizlilik politikası</string>
-    <string name="service_security_over_r">&lt;Data>Güvenliği kullanmadan önce &lt;a href=%1$s>Gizlilik politikamızı&lt;/a > okuyun ve kabul edin.&lt;br/>&lt;br/>Android 11 standartlarına uygun olarak ilgili uygulamanın çalışması durduktan sonra 5 saniye içinde bir kerelik izin geri alınacaktır. Uygulamayı bu kısa süre içinde açarsanız izin geri alınacaktır&lt;/Data></string>
+    <string name="service_security_over_r"><Data>Güvenliği kullanmadan önce &lt;a href=%1$s>Gizlilik politikamızı&lt;/a > okuyun ve kabul edin.&lt;br/>&lt;br/>Android 11 standartlarına uygun olarak ilgili uygulamanın çalışması durduktan sonra 5 saniye içinde bir kerelik izin geri alınacaktır. Uygulamayı bu kısa süre içinde açarsanız izin geri alınacaktır</Data></string>
     <string name="servicestate_title">Temel hizmetler hakkında açıklama</string>
     <string name="setting_locale">Bölge ayarlanıyor</string>
     <string name="shut_down">Kapat</string>
@@ -559,7 +561,7 @@
     <string name="terms_of_use">Şartlar ve koşullar</string>
     <string name="terms_of_use_ble_htmlViewer">, Kaynaşmış konum sağlayıcı, HTML görüntüleyici</string>
     <string name="terms_of_use_label">"Hangi bilgileri topladığımızı, nasıl kullandığımızı ve sizin için hangi seçeneklerin mevcut olduğunu anlamak için kullanıcı sözleşmemizi ve gizlilik politikamızı okuyun
-MIUI'yi kullanabilmeniz için önce kullanıcı Sözleşmemizi ve gizlilik Politikamızı kabul etmelisiniz
+MIUI'yi kullanabilmeniz için önce kullanıcı sözleşmemizi ve gizlilik politikamızı kabul etmelisiniz
 %s ve Mi hesap bileşenleri internete bağlanacak ve konumunuzu alacak"</string>
     <string name="terms_of_use_label_Mistore">, Mi mağaza sistemi eklentisi</string>
     <string name="terms_of_use_label_mab">, MAB</string>
@@ -653,7 +655,7 @@ Bu özelliği kullanmadan önce Mint klavyesinin gizlilik politikasını kabul e
     <string name="wc_double_check_reject">Hayır</string>
     <string name="wc_double_check_summary">Sizin için çalışıp çalışmadığını görmek için kilit ekranı duvar kağıdını açabilirsiniz. Ayarlar > Kilit ekranından her zaman kilit ekranı duvar kağıdını açıp kapatabileceğinizi unutmayın</string>
     <string name="wc_double_check_title">Kilit ekranı duvar kağıdını dene</string>
-    <string name="wc_notice_link_announcement_summary">Bu özelliği kullanmadan önce üçüncü taraf içerik sağlayıcısının <a href="%1$s">Gizlilik politikası</a> ve <a href="%2$s">Kullanıcı sözleşmesini</a> okuyun ve kabul edin</string>
+    <string name="wc_notice_link_announcement_summary">"Bu özelliği kullanmadan önce üçüncü taraf içerik sağlayıcısının &lt;a href=\"%1$s\">gizlilik politikası&lt;/a> ve &lt;a href=\"%2$s\">kullanıcı sözleşmesini&lt;/a> okuyun ve kabul edin"</string>
     <string name="wednesday">Çarşamba</string>
     <string name="wednesday_short">Çarşamba</string>
     <string name="wednesday_shortest">Ç</string>

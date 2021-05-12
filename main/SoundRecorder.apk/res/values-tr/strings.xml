@@ -34,6 +34,7 @@
     <string name="alert_message_delete_local_record">Bu kayıt silinsin mi?</string>
     <string name="alert_message_delete_record">Kaydı cihazınızdan silmeniz aynı zamanda kaydın Mi bulutdan da silinmesine neden olacaktır. Şimdi silinsin mi?</string>
     <string name="alert_message_delete_record_title">Kayıt silinsin mi?</string>
+    <string name="all_record">Tüm kayıtlar</string>
     <string name="am">ÖÖ</string>
     <string name="app_name">Ses kaydedici</string>
     <string name="app_record">Uygulama kayıtları</string>
@@ -201,6 +202,7 @@ Sipariş aktarılırsa geri ödeme otomatik olarak geri ödenir. Geri ödeme 5 i
 
 3. Kayıt metnini daha kesin hale nasıl getirebilirim?
 Metne kaydetme şu anda yalnızca mandarin aktarımını desteklemektedir. Aktarım sonucunun doğruluğu uzaklıktan, çevreden, popülasyonun sesini vb. etkileyecektir. Doğruluk oranı oldukça farklı olabilir. Metni daha doğru bir şekilde değiştirmek istiyorsanız telefondan ayrılmayı seçebilirsiniz"</string>
+    <string name="fm_record">Radyo</string>
     <string name="fmt_chinese_date">N-e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">dd</string>
@@ -366,10 +368,13 @@ Metne kaydetme şu anda yalnızca mandarin aktarımını desteklemektedir. Aktar
     <string name="network_tip_dialog_title">İnternet bağlantısı gerekmektedir</string>
     <string name="network_unavailable_tip">Ağa bağlanın ve tekrar deneyin</string>
     <string name="new_record_name">Yeni kayıt</string>
-    <string name="night">ÖS</string>
+    <string name="night">Akşam</string>
+    <string name="no_content">Henüz burada öğe yok</string>
     <string name="no_file">Boş</string>
     <string name="no_network">Ağa bağlanılamadı</string>
-    <string name="noon">ÖS</string>
+    <string name="no_playback_file">Ayrıntıları görüntülemek için bir kayıt seçin</string>
+    <string name="noon">Öğlen</string>
+    <string name="normal_settings_pref_title">Genel ayarlar</string>
     <string name="not_set">Ayarlanmadı</string>
     <string name="notification_message_all_paused">Wifi bağlantısı için bekleniyor</string>
     <string name="notification_playback">Oynatılıyor</string>
@@ -407,6 +412,7 @@ Metne kaydetme şu anda yalnızca mandarin aktarımını desteklemektedir. Aktar
     <string name="order_item_duration">Süre: %s</string>
     <string name="order_item_number">Sipariş numarası: %s</string>
     <string name="order_item_price">%s CNY</string>
+    <string name="other_settings_pref_title">Ek ayarlar</string>
     <string name="path_soundrecorder_setting">Sistem uygulamaları/Ses kaydedici</string>
     <string name="pause">Duraklat</string>
     <string name="pay_error_cancel">Ödeme iptal edildi</string>
@@ -515,6 +521,7 @@ Metin ses servisinden daha iyi yararlanmak için aşağıdakileri de bilmeniz ge
     <string name="record_name_minute" />
     <string name="record_quliaty_preference_title">Kayıt kalitesi</string>
     <string name="record_resotre">Kayıtları kurtar</string>
+    <string name="recorder_record">Ses</string>
     <string name="recording">Kayıt ediliyor</string>
     <string name="recording_quality_high">Yüksek kalite</string>
     <string name="recording_quality_low">Düşük kalite</string>
@@ -536,6 +543,7 @@ Metin ses servisinden daha iyi yararlanmak için aşağıdakileri de bilmeniz ge
     <string name="reg_error_server">Bir sunucu hatası meydana geldi. Hatayı bildirin ve tekrar deneyin</string>
     <string name="reg_error_upload_audio">Dosya karşıya yüklenemedi. Tekrar deneyin</string>
     <string name="reg_error_upload_order">Karşıya yüklenemedi. Tekrar deneyin</string>
+    <string name="remind_settings_pref_title">Bildirimler</string>
     <string name="remove_icon_description_content">Ses kaydedici bir sistem uygulamasıdır. Ana ekran kısayolunu kaldırdıktan sonra kayıtları yönetemeyeceksiniz</string>
     <string name="remove_icon_description_title">Ses kaydedici ana ekrandan kaldırılsın mı?"</string>
     <string name="rename">Yeniden adlandır</string>
@@ -612,6 +620,7 @@ Metin ses servisinden daha iyi yararlanmak için aşağıdakileri de bilmeniz ge
     <string name="sunday">Pazar</string>
     <string name="sunday_short">Pazar</string>
     <string name="sunday_shortest">P</string>
+    <string name="tap_to_record">Kayda başlamak için düğmeye dokunun</string>
     <string name="text_btn_backward_3_seconds">3 saniye geri</string>
     <string name="text_btn_complete">Durdur</string>
     <string name="text_btn_forward_3_seconds">3 saniye ileri</string>

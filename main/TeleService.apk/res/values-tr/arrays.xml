@@ -76,10 +76,9 @@
         <item>AAC</item>
         <item>Qualcomm® aptX™ ses</item>
         <item>Qualcomm® aptX™ HD ses</item>
+        <item>LDAC</item>
         <item>Qualcomm® aptX™ uyarlanabilir ses</item>
         <item>Qualcomm® aptX™ TWS+ ses</item>
-        <item>İsteğe bağlı kodekleri etkinleştir</item>
-        <item>İsteğe bağlı kodekleri devre dışı bırak</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>Sistem seçimini kullan (Varsayılan)</item>
@@ -87,10 +86,9 @@
         <item>AAC</item>
         <item>Qualcomm® aptX™ ses</item>
         <item>Qualcomm® aptX™ HD ses</item>
+        <item>LDAC</item>
         <item>Qualcomm® aptX™ uyarlanabilir ses</item>
         <item>Qualcomm® aptX™ TWS+ ses</item>
-        <item>İsteğe bağlı kodekleri etkinleştir</item>
-        <item>İsteğe bağlı kodekleri devre dışı bırak</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
@@ -103,6 +101,11 @@
         <item>AVRCP 1.3</item>
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
+    </string-array>
+    <string-array name="bluetooth_map_versions">
+        <item>MAP 1.2 (Varsayılan)</item>
+        <item>MAP 1.3</item>
+        <item>MAP 1.4</item>
     </string-array>
     <string-array name="bt_hci_snoop_log_entries">
         <item>Devre dışı</item>
@@ -120,6 +123,11 @@
         <item>Numarayı gizle</item>
         <item>Numarayı göster</item>
     </string-array>
+    <string-array name="clir_values">
+        <item>Varsayılan</item>
+        <item>Gizle</item>
+        <item>Göster</item>
+    </string-array>
     <string-array name="color_mode_descriptions">
         <item>Geliştirilmiş renkler</item>
         <item>Göze göründüğü şekilde doğal renkler</item>
@@ -129,6 +137,12 @@
         <item>Canlı (Varsayılan)</item>
         <item>Doğal</item>
         <item>Standart</item>
+    </string-array>
+    <string-array name="config_rcs_provision_error_on_publish_response">
+        <item>404 bulunamadı</item>
+    </string-array>
+    <string-array name="config_volte_provision_error_on_publish_response">
+        <item>403 mevcudiyet için yetkili değil</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
         <item>Kapalı</item>
@@ -140,6 +154,11 @@
         <item>Logcat</item>
         <item>Systrace (Grafik)</item>
         <item>"glGetError'da yığın çağır"</item>
+    </string-array>
+    <string-array name="enhanced_4g_lte_mode_title_variant">
+        <item>@string/enhanced_4g_lte_mode_title</item>
+        <item>Gelişmiş arama</item>
+        <item>4G arama</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
         <item>HDCP denetimini hiçbir zaman kullanma</item>
@@ -173,6 +192,42 @@
         <item>4K (Yukarı ölçeklenmiş)</item>
         <item>4K (Yukarı ölçeklenmiş ve güvenli)</item>
         <item>720p, 1080p (Çift ekran)</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>Tercihen GSM/WCDMA</item>
+        <item>GSM only</item>
+        <item>WCDMA only</item>
+        <item>Otomatik olarak GSM/WCDMA</item>
+        <item>Otomatik olarak CDMA/EvDo</item>
+        <item>CDMA w/o EvDo</item>
+        <item>Sadece EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>Global</item>
+        <item>LTE</item>
+        <item>LTE / WCDMA</item>
+        <item>Sadece TDSCDMA</item>
+        <item>TDSCDMA/WCDMA</item>
+        <item>LTE/TDSCDMA</item>
+        <item>TDSCDMA/GSM</item>
+        <item>LTE/TDSCDMA/GSM</item>
+        <item>TDSCDMA/GSM/WCDMA</item>
+        <item>LTE/TDSCDMA/WCDMA</item>
+        <item>LTE/TDSCDMA/GSM/WCDMA</item>
+        <item>TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+        <item>LTE/TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+        <item>Sadece NR</item>
+        <item>NR/LTE</item>
+        <item>NR/LTE/CDMA/EvDo</item>
+        <item>NR/LTE/GSM/WCDMA</item>
+        <item>NR/LTE/CDMA/EvDo/GSM/WCDMA</item>
+        <item>NR/LTE/WCDMA</item>
+        <item>NR/LTE/TDSCDMA</item>
+        <item>NR/LTE/TDSCDMA/GSM</item>
+        <item>NR/LTE/TDSCDMA/WCDMA</item>
+        <item>NR/LTE/TDSCDMA/GSM/WCDMA</item>
+        <item>NR/LTE/TDSCDMA/CDMA/EvDo/GSM/WCDMA</item>
     </string-array>
     <string-array name="select_logd_size_lowram_titles">
         <item>Kapalı</item>

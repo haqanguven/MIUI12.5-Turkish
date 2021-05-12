@@ -917,6 +917,10 @@
     <string name="cloud_bacup_disable_processing">İşleniyor</string>
     <string name="cloud_camera_display_name">Kamera fotoğrafları</string>
     <string name="cloud_cancel_authorizing_to_device">Yetki iptal ediliyor</string>
+    <string name="cloud_full_space_tip_message">Tüm fotoğraflarınızı ve videolarınızı bulut ile senkronize edebilmek için bulut depolama planınızı yükseltin</string>
+    <string name="cloud_full_space_tip_negative">Şimdi değil</string>
+    <string name="cloud_full_space_tip_positive">Yükselt</string>
+    <string name="cloud_full_space_tip_title">Yetersiz bulut depolama</string>
     <string name="cloud_guide_auto_backup_title">Yedeklenecek albümleri seçin</string>
     <string name="cloud_guide_login_title">Fotoğraf ve videoları otomatik olarak yedekleyin</string>
     <string name="cloud_guide_welcome_title">Xiaomi bulut</string>
@@ -1269,6 +1273,7 @@ Arkadaşlarınızın daha fazla fotoğraflarını çekin"</string>
     <string name="filter_category_texture">Kıvraklık</string>
     <string name="filter_category_travel">Seyahat</string>
     <string name="filter_food_caramel">Karamel</string>
+    <string name="filter_food_orangeflavor">Mandalina</string>
     <string name="filter_general_blackice">Kara buz</string>
     <string name="filter_general_blackwhite">S&amp;B</string>
     <string name="filter_general_delicious">Gıda</string>
@@ -1279,6 +1284,7 @@ Arkadaşlarınızın daha fazla fotoğraflarını çekin"</string>
     <string name="filter_general_lilt">Hava</string>
     <string name="filter_general_movie">Film</string>
     <string name="filter_general_nature">Doğa</string>
+    <string name="filter_general_past">Yore</string>
     <string name="filter_general_pink">Pembe</string>
     <string name="filter_general_portrait">Portre</string>
     <string name="filter_general_rise">Yükseliş</string>
@@ -1322,15 +1328,18 @@ Arkadaşlarınızın daha fazla fotoğraflarını çekin"</string>
     <string name="filter_popular_coldsmoke">Soğuk sis</string>
     <string name="filter_popular_comic">Anime</string>
     <string name="filter_popular_dream">Hayal</string>
+    <string name="filter_popular_gingertea">Zencefil</string>
     <string name="filter_popular_hill">Tepeler</string>
     <string name="filter_popular_humanity">Belgesel</string>
     <string name="filter_popular_icesnow">Kar yağışı</string>
     <string name="filter_popular_kamakura">Kamakura</string>
     <string name="filter_popular_lnk">Mürekkep</string>
+    <string name="filter_popular_mango">Mango</string>
     <string name="filter_popular_purple">Mor</string>
     <string name="filter_popular_shallow_summer">Haziran</string>
     <string name="filter_popular_smokegreen">Adaçayı</string>
     <string name="filter_popular_watergreen">Zümrüt</string>
+    <string name="filter_popular_windchime">Çan</string>
     <string name="filter_popular_wintersun">Kış ortası</string>
     <string name="filter_portrait_greyish">Kül</string>
     <string name="filter_portrait_hint">Renk</string>
@@ -1409,6 +1418,7 @@ Arkadaşlarınızın daha fazla fotoğraflarını çekin"</string>
     <string name="filter_sky_yunmeng">Fantezi</string>
     <string name="filter_sky_yunxu">Saçak bulut</string>
     <string name="filter_texture_shadow">Alacakaranlık</string>
+    <string name="filter_travel_charlotte">Meyveli puding</string>
     <string name="finish_create_baby_album_toast">Mi bulutda %s için albüm oluşturuldu</string>
     <string name="finish_fill_baby">Oluştur</string>
     <string name="first_time_add_video_to_secret_tips">Videoları gizleyebilmek için galeriyi güncelle</string>
@@ -1756,6 +1766,7 @@ yüzünüzle fotoğrafları seçin"</string>
     <string name="mi_note_10">Mi Note 10</string>
     <string name="micloud_introduce">Fotoğraf ve videoları otomatik olarak yedekleyin (Mi hesabı gerekmektedir)</string>
     <string name="midnight">Gece</string>
+    <string name="mishare_all_devices">Tüm cihazlar</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Seçimi kaldır</string>
     <string name="miuix_appcompat_action_mode_select_all">Tümünü seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Öğeleri seç</string>
@@ -2665,6 +2676,7 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="sync_off_title">Resimlerinizi ve videolarınızı otomatik olarak yedeklemek için Mi bulut ile senkronizasyon özelliğini açın</string>
     <string name="sync_pending_title">Otomatik olarak yedeklenecektir</string>
     <string name="sync_state_unknow">Bilgi alınıyor</string>
+    <string name="synced_photo_video_count">%1$s ve %2$s senkronize edildi</string>
     <string name="synced_title">Fotoğraflar ve videolar başarıyla yedeklendi</string>
     <string name="syncing_gprs_title">Öğeleri yedeklemek için mobil veri kullanılıyor</string>
     <string name="syncing_metadata_title">Mi bulut verisi yedekleniyor</string>

@@ -73,9 +73,9 @@
     <string name="activate_popup_confirm_failed_send_sms">Tekrar gönder</string>
     <string name="activate_popup_confirm_failed_server">Yeniden deneyin</string>
     <string name="activate_popup_desc_2_intl_sim_cards">%s kartının etkinleştirilmesi amacıyla iki adet uluslararası mesaj gönderilecektir. Operatörünüz bu mesaj için sizden ücret alacaktır</string>
-    <string name="activate_popup_desc_2_intl_sim_cards_msg_with_charge_hint">To activate %2$s, &lt;xliff:g id=number_sms refersto=2>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>international paid SMS&lt;/b> will be sent. Your carrier will charge you for these messages.</string>
+    <string name="activate_popup_desc_2_intl_sim_cards_msg_with_charge_hint">%2$s etkinleştirmek için &lt;xliff:g id=number_sms refersto=2>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>uluslararası ücretli mesaj&lt;/b> gönderilecek. Operatörünüz bu mesajlar için sizden ücret alır</string>
     <string name="activate_popup_desc_2_sim_cards">%s kartının etkinleştirilmesi amacıyla iki adet yurtiçi mesaj gönderilecektir. Operatörünüz bu mesaj için sizden ücret alacaktır</string>
-    <string name="activate_popup_desc_2_sim_cards_msg_with_charge_hint">To activate %2$s, &lt;xliff:g id=number_sms refersto=2>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>domestic paid SMS&lt;/b> will be sent. Your carrier will charge you for these messages.</string>
+    <string name="activate_popup_desc_2_sim_cards_msg_with_charge_hint">%2$s etkinleştirmek için &lt;xliff:g id=number_sms refersto=2>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>yurt içi ücretli mesaj&lt;/b> gönderilecek. Operatörünüz bu mesajlar için sizden ücret alır</string>
     <string name="activate_popup_desc_all_gateway_failed_query_info">"Telefon numaranız bulunamıyor. Sim kartınızın etkinleştirildiğinden emin olun
 Yeniden etkinleştirme işlemi için yeni Sim kartınız (%s) ile bağlantılı telefon numarasını girin"</string>
     <string name="activate_popup_desc_all_gateway_failed_send_sms">"Etkinleştirme mesajı gönderilemedi. Sim kartınızın etkinleştirildiğinden emin olun
@@ -95,7 +95,7 @@ Yeniden etkinleştirme işlemi için yeni Sim kartınız (%s) ile bağlantılı 
     <string name="activate_popup_desc_intl_sim_card_msg_with_charge_hint">To activate %2$s, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>international paid SMS&lt;/b>will be sent. Your carrier will charge you for this message.</string>
     <string name="activate_popup_desc_mi_account_user_manual">%1$s. Herhangi bir sorunuz varsa <a href="https://account.xiaomi.com/helpcenter/faq">Mi hesabı kullanım kılavuzuna</a> bakın</string>
     <string name="activate_popup_desc_mixed_sim_cards">%s kartının etkinleştirilmesi amacıyla iki adet mesaj gönderilecektir. Operatörünüz bu mesaj için sizden ücret alacaktır</string>
-    <string name="activate_popup_desc_mixed_sim_cards_msg_with_charge_hint">To activate %3$s, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>domestic paid SMS&lt;/b> and &lt;xliff:g id=number_sms refersto=1>%2$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>international paid SMS&lt;/b> will be sent. Your carrier will charge you for these messages.</string>
+    <string name="activate_popup_desc_mixed_sim_cards_msg_with_charge_hint">%3$s etkinleştirmek için, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>yurt içi ücretli mesaj&lt;/b> ve &lt;xliff:g id=number_sms refersto=1>%2$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>uluslararası ücretli mesaj&lt;/b> gönderilecek. Operatörünüz bu mesajlar için sizden ücret alacaktır</string>
     <string name="activate_popup_desc_new_2_intl_sim_cards">Sim kartınızı değiştirmiş gibi görünüyorsunuz. %s kartının etkinleştirilmesi amacıyla iki adet uluslararası mesaj gönderilecektir. Operatörünüz bu mesaj için sizden ücret alacaktır</string>
     <string name="activate_popup_desc_new_2_sim_cards">Sim kartınızı değiştirmiş gibi görünüyorsunuz. %s kartının etkinleştirilmesi amacıyla iki adet yurtiçi mesaj gönderilecektir. Operatörünüz bu mesaj için sizden ücret alacaktır</string>
     <string name="activate_popup_desc_new_intl_sim_card">Sim kartınızı değiştirmiş gibi görünüyorsunuz. %s kartının etkinleştirilmesi amacıyla bir uluslararası mesaj gönderilecektir. Operatörünüz bu mesaj için sizden ücret alacaktır</string>
@@ -108,11 +108,11 @@ Yeniden etkinleştirme işlemi için yeni Sim kartınız (%s) ile bağlantılı 
     <string name="activate_popup_desc_sim_card">%s kartının etkinleştirilmesi amacıyla bir kısa mesaj gönderilecektir. Operatörünüz bu mesaj için sizden ücret alacaktır</string>
     <string name="activate_popup_desc_sim_card_downlink">%s kartını etkinleştirmek için mevcut telefon numarasını girin</string>
     <string name="activate_popup_desc_sim_card_downlink_msg">"%2$s'yi etkinleştirmek için %1$d Sim'in telefon numarasını girin"</string>
-    <string name="activate_popup_desc_sim_card_msg_with_charge_hint">To activate %2$s, %1$d <font color="#0097FF">paid SMS</font> will be sent. Your carrier will charge you for this message.</string>
+    <string name="activate_popup_desc_sim_card_msg_with_charge_hint">%2$s etkinleştirmek için &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>ücretli mesaj&lt;/font> gönderilecek. Operatörünüz bu mesaj için sizden ücret alır</string>
     <string name="activate_popup_desc_voip_privacy">Gizlilik politikası</string>
     <string name="activate_popup_desc_voip_privacy_prefix">"VoIP hizmeti Weihui tarafından sağlanmaktadır. Weihui'nin belirtilen sözleşmelerini görüntüleyin;"</string>
     <string name="activate_popup_desc_voip_privacy_prefix_msg">"%1$s. %3$s'yi etkinleştirmek için %2$d Sim'in telefon numarasını girin. Teknik destek kısmen Weihuitel tarafından sağlanmaktadır. Ayrıntılar için Weihuitel gizlilik politikasına bakın"</string>
-    <string name="activate_popup_failed_send_sms_desc">"Aktivasyon mesajı gönderilemedi. Sim %d'nin düzgün çalıştığından emin olun ve tekrar deneyin"</string>
+    <string name="activate_popup_failed_send_sms_desc">"Etkinleştirme mesajı gönderilemedi. Sim %d'nin düzgün çalıştığından emin olun ve tekrar deneyin"</string>
     <string name="activate_popup_title_all_gateway_failed_query_info">Numara bulunamıyor</string>
     <string name="activate_popup_title_all_gateway_failed_send_sms">Kısa mesaj gönderilemiyor</string>
     <string name="activate_popup_title_error_device_id">Geçersiz IMEI</string>
@@ -151,7 +151,7 @@ Yeniden etkinleştirme işlemi için yeni Sim kartınız (%s) ile bağlantılı 
     <string name="activate_status_desc_registering_xiaomi_account_server_error">Mi hesabı oluşturulurken bir sunucu hatası oluştu</string>
     <string name="activate_status_desc_request_activation_sms">Etkinleştirme mesajı isteniyor</string>
     <string name="activate_status_desc_request_activation_sms_server_error">Etkinleştirme mesajı istenirken sunucuda bir hata oluştu</string>
-    <string name="activate_status_desc_request_activation_sms_server_error_tip">"Aktivasyon mesajı alınamadı. Sim %d'nin düzgün çalıştığından emin olun ve tekrar deneyin"</string>
+    <string name="activate_status_desc_request_activation_sms_server_error_tip">"Etkinleştirme mesajı alınamadı. Sim %d'nin düzgün çalıştığından emin olun ve tekrar deneyin"</string>
     <string name="activate_status_desc_sending_sms">Etkinleştirme mesajı gönderiliyor</string>
     <string name="activate_status_desc_sending_sms_fail">Ağ geçidine etkilenleştirme mesajı gönderilemedi</string>
     <string name="activate_status_desc_sms_sent">Etkinleştirme mesajı gönderildi</string>
@@ -237,6 +237,7 @@ Yeniden etkinleştirme işlemi için yeni Sim kartınız (%s) ile bağlantılı 
     <string name="chinese_symbol_animals_snake">Yılan</string>
     <string name="chinese_symbol_animals_tiger">Kaplan</string>
     <string name="clearable_edittext_clear_description">Clear</string>
+    <string name="close">Kapat</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -259,7 +260,7 @@ Yeniden etkinleştirme işlemi için yeni Sim kartınız (%s) ile bağlantılı 
     <string name="eras_ad">CE</string>
     <string name="eras_bc">BCE</string>
     <string name="error_checking_client">Etkinleştirme sırasında bir hata oluştu</string>
-    <string name="error_checking_client_tip">Aktivasyon ortamı kontrol edilemedi. Tekrar denemek için dokunun</string>
+    <string name="error_checking_client_tip">Etkinleştirme ortamı kontrol edilemedi. Tekrar denemek için dokunun</string>
     <string name="error_network_io">Bir ağ hatası oluştu</string>
     <string name="error_network_io_tip">Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
     <string name="error_no_get_send_sms_permission">"Önce Sim %d'in mesaj göndermesine izin verin"</string>
@@ -418,6 +419,7 @@ Yeniden etkinleştirme işlemi için yeni Sim kartınız (%s) ile bağlantılı 
     <string name="saturday_short">Cumartesi</string>
     <string name="saturday_shortest">C</string>
     <string name="search_menu_title">Ara</string>
+    <string name="send">Gönder</string>
     <string name="sim_activated_failed_msg">Hizmet etkinleştirilemedi. Tekrar denemek için dokunun</string>
     <string name="sim_unactivated_feature_title">%s etkinleştirilmedi</string>
     <string name="sim_unactivated_msg">Bu hizmet etkinleştirilmedi. Tekrar denemek için dokunun</string>

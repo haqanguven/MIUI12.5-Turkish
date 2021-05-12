@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="permission_delete_audio">
+        <item quantity="other">"^1'in ^2 ses dosyalarını silmesine izin verilsin mi?"</item>
+        <item quantity="one">"^1'in bu ses dosyasını silmesine izin verilsin mi?"</item>
+    </plurals>
+    <plurals name="permission_delete_generic">
+        <item quantity="other">"^1'in ^2 öğeyi silmesine izin verilsin mi?"</item>
+        <item quantity="one">"^1'in bu öğeyi silmesine izin verilsin mi?"</item>
+    </plurals>
+    <plurals name="permission_delete_image">
+        <item quantity="other">"^1'in ^2 fotoğrafı silmesine izin verilsin mi?"</item>
+        <item quantity="one">"^1'in bu fotoğrafı silmesine izin verilsin mi?"</item>
+    </plurals>
+    <plurals name="permission_delete_video">
+        <item quantity="other">"^1'in ^2 videoyu silmesine izin verilsin mi?"</item>
+        <item quantity="one">"^1'in bu videoyu silmesine izin verilsin mi?"</item>
+    </plurals>
+    <plurals name="permission_more_text">
+        <item quantity="other">Artı ^1 ek öğe</item>
+        <item quantity="one">Artı ^1 ek öğe</item>
+    </plurals>
+    <plurals name="permission_more_thumb">
+        <item quantity="other">+^1</item>
+        <item quantity="one">+^1</item>
+    </plurals>
+    <plurals name="permission_trash_audio">
+        <item quantity="other">"^1'in ^2 ses dosyasını çöp kutusuna taşımasına izin verilsin mi?"</item>
+        <item quantity="one">"^1'in bu ses dosyasını çöp kutusuna taşımasına izin verilsin mi?"</item>
+    </plurals>
+    <plurals name="permission_trash_generic">
+        <item quantity="other">"^1'in ^2 öğeyi çöp kutusuna taşımasına izin verilsin mi?"</item>
+        <item quantity="one">"^1'in bu öğeyi çöp kutusuna taşımasına izin verilsin mi?"</item>
+    </plurals>
+    <plurals name="permission_trash_image">
+        <item quantity="other">"^1'in ^2 fotoğrafı çöp kutusuna taşımasına izin verilsin mi?"</item>
+        <item quantity="one">"^1'in bu fotoğrafı çöp kutusuna taşımasına izin verilsin mi?"</item>
+    </plurals>
+    <plurals name="permission_trash_video">
+        <item quantity="other">"^1'in ^2 videoyu çöp kutusuna taşımasına izin verilsin mi?"</item>
+        <item quantity="one">"^1'in bu videoyu çöp kutusuna taşımasına izin verilsin mi?"</item>
+    </plurals>
+    <plurals name="permission_untrash_audio">
+        <item quantity="other">"^1'in ^2 ses dosyasını çöp kutusundan taşımasına izin verilsin mi?"</item>
+        <item quantity="one">"^1'in bu ses dosyasını çöp kutusundan taşımasına izin verilsin mi?"</item>
+    </plurals>
+    <plurals name="permission_untrash_generic">
+        <item quantity="other">"^1'in ^2 öğeyi çöp kutusundan taşımasına izin verilsin mi?"</item>
+        <item quantity="one">"^1'in bu öğeyi çöp kutusundan taşımasına izin verilsin mi?"</item>
+    </plurals>
+    <plurals name="permission_untrash_image">
+        <item quantity="other">"^1'in ^2 fotoğrafı çöp kutusundan taşımasına izin verilsin mi?"</item>
+        <item quantity="one">"^1'in bu fotoğrafı çöp kutusundan taşımasına izin verilsin mi?"</item>
+    </plurals>
+    <plurals name="permission_untrash_video">
+        <item quantity="other">"^1'in ^2 videoyu çöp kutusundan taşımasına izin verilsin mi?"</item>
+        <item quantity="one">"^1'in bu videoyu çöp kutusundan taşımasına izin verilsin mi?"</item>
+    </plurals>
+    <plurals name="permission_write_audio">
+        <item quantity="other">"^1'in ^2 ses dosyalarını değiştirmesine izin verilsin mi?"</item>
+        <item quantity="one">"^1'in bu ses dosyasını değiştirmesine izin verilsin mi?"</item>
+    </plurals>
+    <plurals name="permission_write_generic">
+        <item quantity="other">"^1'in ^2 öğeyi değiştirmesine izin verilsin mi?"</item>
+        <item quantity="one">"^1'in bu öğeyi değiştirmesine izin verilsin mi?"</item>
+    </plurals>
+    <plurals name="permission_write_image">
+        <item quantity="other">"^1'in ^2 fotoğrafı değiştirmesine izin verilsin mi?"</item>
+        <item quantity="one">"^1'in bu fotoğrafı değiştirmesine izin verilsin mi?"</item>
+    </plurals>
+    <plurals name="permission_write_video">
+        <item quantity="other">"^1'in ^2 videoyu değiştirmesine izin verilsin mi?"</item>
+        <item quantity="one">"^1'in bu videoyu değiştirmesine izin verilsin mi?"</item>
+    </plurals>
+</resources>

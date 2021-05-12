@@ -4,6 +4,12 @@
         <item quantity="other">Telefon %s dakika boyunca Acil durum geri arama modunda olacaktır. Bu moddayken veri bağlantısı kullanan hiçbir uygulama kullanılamayacaktır. Şimdi çıkmak istiyor musunuz?</item>
         <item quantity="one">Telefon %s dakika boyunca Acil durum geri arama modunda olacaktır. Bu moddayken veri bağlantısı kullanan hiçbir uygulama kullanılamayacaktır. Şimdi çıkmak istiyor musunuz?</item>
     </plurals>
+    <plurals name="alert_dialog_exit_ecm_without_data_restriction_hint">
+        <item quantity="other">"Telefon %s dakika boyunca acil geri arama modunda kalacak
+Şimdi çıkmak istiyor musun?"</item>
+        <item quantity="one">"Telefon %s dakika boyunca acil geri arama modunda kalacak
+Şimdi çıkmak istiyor musun?"</item>
+    </plurals>
     <plurals name="alert_dialog_not_avaialble_in_ecm">
         <item quantity="other">Seçmiş olduğunuz işlem acil geri arama modunda kullanılamamaktadır. Telefonunuz %s dakika boyunca bu modda kalacaktır. Şimdi çıkmak istiyor musunuz?</item>
         <item quantity="one">Seçmiş olduğunuz işlem acil geri arama modunda kullanılamamaktadır. Telefonunuz %s dakika boyunca bu modda kalacaktır. Şimdi çıkmak istiyor musunuz?</item>

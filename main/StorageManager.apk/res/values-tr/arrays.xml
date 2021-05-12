@@ -27,7 +27,7 @@
         <item>%50</item>
         <item>%100</item>
     </string-array>
-     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+    <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
         <item>Sistem seçimini kullan (Varsayılan)</item>
         <item>16 bit/örnek</item>
         <item>24 bit/örnek</item>
@@ -63,9 +63,17 @@
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
         <item>Sistem seçimini kullan (Varsayılan)</item>
+        <item>44.1 kHz</item>
+        <item>48.0 kHz</item>
+        <item>88.2 kHz</item>
+        <item>96.0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
         <item>Sistem seçimini kullan (Varsayılan)</item>
+        <item>44.1 kHz</item>
+        <item>48.0 kHz</item>
+        <item>88.2 kHz</item>
+        <item>96.0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_summaries">
         <item>Sistem seçimini kullan (Varsayılan)</item>
@@ -76,8 +84,6 @@
         <item>LDAC</item>
         <item>Qualcomm® aptX™ uyarlanabilir ses</item>
         <item>Qualcomm® aptX™ TWS+ ses</item>
-        <item>İsteğe bağlı kodekleri etkinleştir</item>
-        <item>İsteğe bağlı kodekleri devre dışı bırak</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>Sistem seçimini kullan (Varsayılan)</item>
@@ -88,8 +94,6 @@
         <item>LDAC</item>
         <item>Qualcomm® aptX™ uyarlanabilir ses</item>
         <item>Qualcomm® aptX™ TWS+ ses</item>
-        <item>İsteğe bağlı kodekleri etkinleştir</item>
-        <item>İsteğe bağlı kodekleri devre dışı bırak</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
@@ -102,6 +106,11 @@
         <item>AVRCP 1.3</item>
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
+    </string-array>
+    <string-array name="bluetooth_map_versions">
+        <item>MAP 1.2 (Varsayılan)</item>
+        <item>MAP 1.3</item>
+        <item>MAP 1.4</item>
     </string-array>
     <string-array name="bt_hci_snoop_log_entries">
         <item>Devre dışı</item>
