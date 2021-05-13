@@ -1262,7 +1262,7 @@ Bu kodu yöneticiye gönderin."</string>
     <string name="pref_summary_any_bytes_popup">Always wait for Wi-Fi connection to download files</string>
     <string name="pref_summary_enable_max_bytes_popup">Show popup notification when using mobile data to download files</string>
     <string name="pref_summary_max_bytes_limit_format">Wait for Wi-Fi if file size exceeds %s</string>
-    <string name="pref_summary_no_limit_popup">Unlimited</string>
+    <string name="pref_summary_no_limit_popup">Sınırsız</string>
     <string name="pref_title_enable_max_bytes_popup">Show data usage prompt</string>
     <string name="preferences_title">Settings</string>
     <string name="preset_music_playlist">Mi Music playlist</string>

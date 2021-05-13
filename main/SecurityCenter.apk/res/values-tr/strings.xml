@@ -8,7 +8,7 @@
     <string name="HIPS_Perm_Contact_Desc">Kişileri değiştirin ve silin</string>
     <string name="HIPS_Perm_External_Storage">Öğelere erişin ve depolamaya kaydedin</string>
     <string name="HIPS_Perm_External_Storage_Desc">Dosyalara ve fotoğraflara erişin ve dahili depolamaya kaydedin</string>
-    <string name="HIPS_Perm_External_Storage_Group">Depolama izinlerini yönetin</string>
+    <string name="HIPS_Perm_External_Storage_Group">Depolama izinlerini yönet</string>
     <string name="HIPS_Perm_External_Storage_Group_Desc">Uygulamaların erişmesine izin verilen öğeleri seçin</string>
     <string name="HIPS_Perm_PhoneID_Desc">Telefon numarası, IMEI ve IMSI’ye erişme</string>
     <string name="HIPS_Perm_PhoneID_Desc_Q">Telefon numarası ve cihaz durumuna erişme</string>
@@ -1389,6 +1389,34 @@ Bu özelliğin yalnızca referans olarak sağlandığını anlamalısınız. Ald
     <string name="ew_main_warning_list">Uyarıları görüntüle</string>
     <string name="ew_main_warning_list_tips">Görüntüle</string>
     <string name="ew_main_warning_list_title">Uyarı geçmişi</string>
+    <string name="ew_monitor_content">Deprem izleme cep telefonunun düşük güçlü sensör aracılığıyla sismik dalgayı algıladıktan sonra sistemin deprem bilgisini AI algoritması aracılığıyla hızlı bir şekilde hesaplaması ve etkilenen bölgedeki insanlara mümkün olan en kısa sürede erken uyarı göndermesi anlamına gelir. Böylece daha fazla insan tehlikeden kaçınabilir ve kişisel güvenliklerini koruyabilir</string>
+    <string name="ew_monitor_exit">Deprem izlemeden çekilen gönüllü</string>
+    <string name="ew_monitor_exit_content">Deprem izleme gönüllüleri daha fazla insanın deprem bilgisine daha hızlı ulaşmasına yardımcı olur. Deprem izlemeye katkılarınızdan dolayı teşekkür ederiz (No: %s) Deprem izleme gönüllülerinden çekilmek istediğinizden emin misiniz?</string>
+    <string name="ew_monitor_exit_title">Komut istemi</string>
+    <string name="ew_monitor_have_been">Olundu</string>
+    <string name="ew_monitor_info_title">Deprem izleme nedir?</string>
+    <string name="ew_monitor_join_number">Katılımcı sayısı</string>
+    <string name="ew_monitor_join_path">Yol: Xiaomi Mobil - Mobil yönetici - Deprem uyarısı - Deprem izleme gönüllüsü</string>
+    <string name="ew_monitor_my_content">Deprem izleme cep telefonunun düşük güçlü sensör aracılığıyla sismik dalgayı algıladıktan sonra sistemin deprem bilgisini AI algoritması aracılığıyla hızlı bir şekilde hesaplaması ve etkilenen bölgedeki insanlara mümkün olan en kısa sürede erken uyarı göndermesi anlamına gelir. Böylece daha fazla insan tehlikeden kaçınabilir ve kişisel güvenliklerini koruyabilir</string>
+    <string name="ew_monitor_number_prex">No: %s</string>
+    <string name="ew_monitor_open">Şimdi Katıl</string>
+    <string name="ew_monitor_read_privacy"><Data>&lt;a href=\"%1$s\">Gizlilik politikasını okudum ve kabul ediyorum&lt;/a></Data></string>
+    <string name="ew_monitor_share">Arkadaşlarına gönder</string>
+    <string name="ew_monitor_slogan">"Deprem izlemeye katılın ve
+güvenli bir şehir inşa edin"</string>
+    <string name="ew_monitor_summary1">"Cep telefonu aynı zamanda
+bir deprem monitörüdür"</string>
+    <string name="ew_monitor_summary2">"Deprem haberlerini bildirin ve
+bir izleme ağı kurun"</string>
+    <string name="ew_monitor_summary3">"Daha fazla insanın deprem bilgilerini
+daha hızlı almasına yardımcı olun"</string>
+    <string name="ew_monitor_support">Xiaomi ve Chengdu yüksek teknoloji afet azaltma araştırma enstitüsü arasında ortak araştırma ve geliştirme</string>
+    <string name="ew_monitor_support_rom">* Bazı Xiaomi veya Redmi telefonlar ve MIUI sürümleri bu işlevi destekler</string>
+    <string name="ew_monitor_thanks_tips">"%s deprem izleme gönüllüsü
+olduğunuz için teşekkür ederiz"</string>
+    <string name="ew_monitor_title">Deprem izleme gönüllüsü</string>
+    <string name="ew_monitor_title_spilt">"Deprem izleme
+gönüllüsü"</string>
     <string name="ew_not_support_area">Bu alanda uyarılar desteklenmiyor</string>
     <string name="ew_push_message">Tahmini yoğunluk: %s. Yakınınızda hafif titremeyi bekleyin</string>
     <string name="ew_push_title">%s için deprem uyarısı</string>
@@ -3246,7 +3274,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="pp_app_warning_permission_tips_detail">Uygulamalar konumunuza eriştiğinde, ses kaydettiğinde veya kamera kullandığında bildirim alın</string>
     <string name="pp_call_phone_msg">Arama geçmişi</string>
     <string name="pp_capability_approved_title">Gizlilik koruma önlemlerimiz, sektörün önde gelen uzmanları tarafından test edilmiş ve onaylanmıştır</string>
-    <string name="pp_chain_start_is_prohibited">Zincir başlangıcını kısıtla</string>
+    <string name="pp_chain_start_is_prohibited">Zincir başlangıcını kısıtlayın</string>
     <string name="pp_chain_start_is_prohibited_detail">Üçüncü taraf uygulamaların birbirini başlattığı durumları kontrol edin ve bilginiz olmadan kişisel bilgilerinizi alın</string>
     <string name="pp_clipboard">Pano</string>
     <string name="pp_comprehensive_privacy_management">Kapsamlı gizlilik koruması</string>
@@ -3266,7 +3294,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="pp_manage_apps_location_information">Uygulamaların konumunuza erişmesine izin verin</string>
     <string name="pp_one_app_two_use">Oturumu kapatmadan iki hesap kullanın</string>
     <string name="pp_one_phone_two_space">Bir cihazı iki cihaz olarak kullanın</string>
-    <string name="pp_only_allow_permission_during_this_run">Uygulamaların izinleri bir kez kullanmasına izin ver</string>
+    <string name="pp_only_allow_permission_during_this_run">Uygulamaların izinleri bir kez kullanmasına izin verin</string>
     <string name="pp_only_allow_permission_during_this_run_detail">Konum, ses kaydı ve kişilerle ilgili izinleri yalnızca bir kez kullanmanıza izin verebilirsiniz. Bu izinler, uygulama kapatıldıktan kısa bir süre sonra tekrar kısıtlanacaktır</string>
     <string name="pp_optional_protection_function">İsteğe bağlı koruma önlemleri</string>
     <string name="pp_permission_action_virtual_detail">İzin verin ancak uygulamalara kişisel bilgiler yerine boş dosyalar verin</string>
@@ -3286,7 +3314,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="pp_private_file_dir_detail">Öğeleri bir ekran kilidiyle şifreleyin ve koruyun</string>
     <string name="pp_private_photo_album">Özel fotoğraflar ve videolar</string>
     <string name="pp_private_photo_album_detail">Öğeleri bir ekran kilidiyle şifreleyin ve koruyun</string>
-    <string name="pp_prohibit_use_camera_in_background">Arka planda kamera kullanımını kısıtla</string>
+    <string name="pp_prohibit_use_camera_in_background">Arka planda kamera kullanımını kısıtlayın</string>
     <string name="pp_prohibit_use_camera_in_background_detail">Uygulamalar varsayılan olarak arka planda kamerayı kullanamaz</string>
     <string name="pp_record_msg">Ses kaydetme</string>
     <string name="pp_safe_box">Özel alan</string>

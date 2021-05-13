@@ -268,7 +268,7 @@ Kablosuz ağa tekrar bağlandığınızda bu içeriği indirmeye başlamak için
     <string name="bookmark_url_not_exisit">Bu bağlantı adresini zaten sildiniz</string>
     <string name="bookmark_url_not_valid">Bağlantı adresi geçersiz</string>
     <string name="bookmarks_management">Yer imleri</string>
-    <string name="bookmarks_root_folder">Kök klasör</string>
+    <string name="bookmarks_root_folder">Root klasör</string>
     <string name="bookmarks_search">Tarayıcı</string>
     <string name="bookshelf__duplicate_category_name">Aynı ada sahip kitap rafında zaten var</string>
     <string name="booktag__shared__my_download">İndirme</string>

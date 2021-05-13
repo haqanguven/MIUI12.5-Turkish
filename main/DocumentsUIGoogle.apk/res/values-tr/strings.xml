@@ -95,8 +95,8 @@
     <string name="deny">Reddet</string>
     <string name="directory_items">Ürün sayısı</string>
     <string name="downloads_label">İndirilenler</string>
-    <string name="drawer_close">Kök dizinleri sakla</string>
-    <string name="drawer_open">Kök dizinleri göster</string>
+    <string name="drawer_close">Root dizinleri sakla</string>
+    <string name="drawer_open">Root dizinleri göster</string>
     <string name="empty">Öğe yok</string>
     <string name="extract_notification_title">Dosyalar çıkarılıyor</string>
     <string name="extract_preparing">Hazırlanıyor</string>
