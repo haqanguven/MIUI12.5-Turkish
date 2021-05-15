@@ -91,14 +91,17 @@
     <string name="catch_full_log_add_original_photo">Orijinal resmi veya kısa videoyu ekleyin</string>
     <string name="catch_full_log_add_photo">Fotoğraf ekle</string>
     <string name="catch_full_log_add_photo_dialog_content">Bildirmek istediğiniz sorun kameranın fotoğraf kalitesi ile ilgiliyse sorunu bulmamıza yardımcı olmak için orijinal bir örnek fotoğraf ekleyin. Şimdi fotoğraf eklensin mi?</string>
+    <string name="catch_full_log_category">Tarama kategorisi</string>
     <string name="catch_full_log_dialog_confirm_text">Ana ekrana git</string>
     <string name="catch_full_log_dialog_content">Miui bir kayıt oluşturuyor. Bu durum cihazınızın genel performansını etkileyebilir. Bildirmek istediğiniz sorunu tekrar oluşturamıyorsanız kayıtlara geri gidin ve iptal et seçeneğine dokunun</string>
     <string name="catch_full_log_dump_hprof_failed">Gecikme kaydı oluşturulamadı</string>
     <string name="catch_full_log_item_content_catch_direct">"1. Bildirmek istediğiniz özelliğe geri gidin ve tekrarlayın
 2. Bu sayfaya geri gelin ve bitir ve yükle seçeneğine dokunun"</string>
-    <string name="catch_full_log_item_content_need_open">"1. Kayıt oluştur seçeneğine dokunun
-2. Bildirmek istediğiniz özelliğe geri gidin ve tekrarlayın
-3. Bu sayfaya geri gelin ve bitir ve yükle seçeneğine dokunun"</string>
+    <string name="catch_full_log_item_content_catching">Emekleniyor</string>
+    <string name="catch_full_log_item_content_need_open">"1. Günlük yakalama işlevini etkinleştirmek için "Başlat" ı tıklayın
+2. Sorun tekrarlanana kadar önceki sorunlu işlevi tekrar kullanın
+3. Sorun yeniden oluşturulduktan sonra bu sayfaya geri dönün ve "Bitir ve geri bildirim"'e tıklayın
+4. Geri bildirim içeriğini doldurun ve gönderin"</string>
     <string name="catch_full_log_item_content_title">Adımlar:</string>
     <string name="catch_full_log_item_title_audio">Ses, ses kaydı ve arama sesi</string>
     <string name="catch_full_log_item_title_bt">Bluetooth</string>
