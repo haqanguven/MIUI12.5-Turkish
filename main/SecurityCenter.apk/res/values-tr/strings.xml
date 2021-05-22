@@ -589,6 +589,8 @@ Kişisel kırmızı zarfı destekleyin ve kırmızı zarfı gruplayın
     <string name="applock_header_text_less_than_half">Çok küçük. Biraz daha sürükleyin</string>
     <string name="applock_lock_all">Tümünü kilitle</string>
     <string name="applock_login_and_add_account">Oturum aç &amp; ekle</string>
+    <string name="applock_mixtype_hidepwd_icon">Gizle</string>
+    <string name="applock_mixtype_showpwd_icon">Göster</string>
     <string name="applock_no_account_login">Mi hesabınızda oturum açmadınız</string>
     <string name="applock_not_add_account"><u>Şimdi değil</u></string>
     <string name="applock_not_login_account">Oturum açmadınız</string>
@@ -656,8 +658,8 @@ Kişisel kırmızı zarfı destekleyin ve kırmızı zarfı gruplayın
     <string name="auto_task_edit_condition_title">Durum ekle</string>
     <string name="auto_task_edit_my_custom_task">İsim</string>
     <string name="auto_task_edit_operation_summary">Örneğin: Uçak modunu aç</string>
-    <string name="auto_task_edit_step1">1.</string>
-    <string name="auto_task_edit_step2">2.</string>
+    <string name="auto_task_edit_step1_new">%d.</string>
+    <string name="auto_task_edit_step2_new">%d.</string>
     <string name="auto_task_edit_task_name">İsim</string>
     <string name="auto_task_main_title">Otomatik görevler</string>
     <string name="auto_task_mamange_activity_title">Ayarlar</string>
@@ -1008,6 +1010,7 @@ Kişisel kırmızı zarfı destekleyin ve kırmızı zarfı gruplayın
     <string name="cmcc_app_check_dialog_positive">Şimdi yeniden başlat</string>
     <string name="cmcc_app_check_dialog_title">Sistem onarıldı</string>
     <string name="cmd_lucky_float">Salla</string>
+    <string name="com.crashlytics.android.build_id">00000000000000000000000000000000</string>
     <string name="comprehensive_protection_measures">Kapsamlı koruma</string>
     <string name="confirmSecondSpacePassword">İkinci alan şifresini onaylayın</string>
     <string name="confirm_allow_all_permission">Tüm uygulamaların bu özelliği kullanmasına izin verilsin mi?</string>
@@ -1113,6 +1116,7 @@ Mobil veriyi tekrar açtığınızda operatörünüz size ek ücretler talep ede
     <string name="deep_power_save_item_title_lock_screen_time">Uykuya geçme</string>
     <string name="deep_save_memory_clean_summary">Uygulamaların pil kullanımlarından kaçınmak için cihaz kilitlendiğinde önbelleği temizleyin</string>
     <string name="deep_save_ontime_boot_shutdown_summary">Cihazı açıp kapatmak üzere program ayarlayın</string>
+    <string name="default_web_client_id">436805358632-1au5ms49utfaeginkj9m0muaescgnt0p.apps.googleusercontent.com</string>
     <string name="delete">Sil</string>
     <string name="delete_all_sms">Tümünü sil</string>
     <string name="delete_from_manual_item_white_list">İstisnalardan kaldır</string>
@@ -1446,6 +1450,7 @@ gönüllüsü"</string>
     <string name="examination_score_80_100">Birkaç öğe optimize edilebilir</string>
     <string name="examination_score_80_60">Bazı öğeler optimize edilebilir</string>
     <string name="examination_score_has_virus">Bazı şüpheli uygulamalar tespit edildi</string>
+    <string name="exception_checking">Kontrol ediliyor</string>
     <string name="exception_dialog_message">Veri kullanım istatistikleri bir hata nedeniyle hesaplanamadı. Güvenlik uygulaması doğru veriler olmadan veri kullanımını takip edemeyecektir. Bu özelliği geri yüklemek için cihaz yeniden başlatılsın mı?</string>
     <string name="exception_dialog_ok_button">Yeniden başlat</string>
     <string name="exception_notify_message">Veri istatistikleri bir hata nedeniyle yüklenemedi. Geri yüklemek için yeniden başlatın</string>
@@ -1763,6 +1768,7 @@ gönüllüsü"</string>
     <string name="gamebooster_lowbattery_notification_summary">Cihazınız kapanmadan önce şarj edin</string>
     <string name="gamebooster_lowbattery_notification_title">"Pil seviyesi %%5'den az"</string>
     <string name="gamebooster_main_activity_back">Geri</string>
+    <string name="gamebooster_network_dialog_cn_message">Güvenliğin internete bağlanmasına ve konumunuza erişmesine izin verilmediğinde oyun hızlandırıcıyı kullanamazsınız. Şimdi izin verilsin mi?</string>
     <string name="gamebooster_network_dialog_message">Güvenlik uygulamasına oyun hız arttırmanın tüm özelliklerini kullanmak için ağa bağlanma izni verilsin mi?</string>
     <string name="gamebooster_network_dialog_title">Bazı özellikler kullanılabilir durumda değil</string>
     <string name="gamebox_app_not_find">İlk önce uygulamayı yükleyin</string>
@@ -1918,6 +1924,24 @@ Dizileri kaydedin ve istediğiniz zaman kullanı"</string>
     <string name="gb_not_support_on_device">Bu uygulama dış ekranda kullanılamaz</string>
     <string name="gb_operat_frequently">Çok hızlı değil</string>
     <string name="gb_shortcut_pref_title">Ana ekran kısayolu</string>
+    <string name="gb_shoulder_key">Omuz düğmeleri</string>
+    <string name="gb_shoulder_key_add_show_btn">Oyunlar sırasında sanal düğmeleri göster</string>
+    <string name="gb_shoulder_key_add_tips">[L] ve [R] düğmelerini herhangi bir işlevsel konuma getirin ve omuz düğmeleriyle kullanın</string>
+    <string name="gb_shoulder_key_btn_cancel">İptal et</string>
+    <string name="gb_shoulder_key_btn_save_exit">Kaydet</string>
+    <string name="gb_shoulder_key_circle_left">L</string>
+    <string name="gb_shoulder_key_circle_right">R</string>
+    <string name="gb_shoulder_key_dialog_message">Oyun oynamadığınız zamanlarda oyun hızlandırıcıyı başlatmak için her iki omuz düğmesini aynı anda kullanabilirsiniz</string>
+    <string name="gb_shoulder_key_dialog_txt">Omuz düğmelerini kullanarak oyun hızlandırıcıyı açabilirsiniz</string>
+    <string name="gb_shoulder_key_guide_btn_done">Anladım</string>
+    <string name="gb_shoulder_key_guide_btn_next">Sonraki</string>
+    <string name="gb_shoulder_key_guide_tips">Bir profesyonel gibi oynamak için omuz düğmelerini yapılandırın</string>
+    <string name="gb_shoulder_key_guide_tips1">Araç kutusunu açın ve omuz düğmelerini yapılandırın</string>
+    <string name="gb_shoulder_key_settings_guide_tips1">Yapılandırmayı bitirmek için [L] ve [R] düğmelerini herhangi bir işlevsel konuma getirin</string>
+    <string name="gb_shoulder_key_settings_guide_tips2">Oyunlar sırasında onlara atadığınız özellikler için omuz düğmelerini kullanın</string>
+    <string name="gb_shoulder_key_settings_summary">Oyunlar sırasında onlara atadığınız özellikler için omuz düğmelerini kullanın</string>
+    <string name="gb_shoulder_key_settings_title">Oyun hızlandırıcı için omuz düğmelerini kullanın</string>
+    <string name="gb_shoulder_key_settings_title_new">Oyun hızlandırıcı hızlı başlangıç</string>
     <string name="gb_sign_gift">Ödül kazanmak için yer bildirimi yapın</string>
     <string name="gb_sign_gift_button_text">Al</string>
     <string name="gb_sign_notification_summary">Xunyou hızlandırıcı almak için her gün yer bildirimi yapın</string>
@@ -1984,6 +2008,7 @@ ve ses değiştiricimizi keşfedin"</string>
     <string name="gb_xunyou_gift_type_one">Xunyou 1 günlük destek</string>
     <string name="gb_xunyou_gift_type_three">Xunyou 3 günlük destek</string>
     <string name="gb_xunyou_gift_type_two">Xunyou 2 günlük destek</string>
+    <string name="gcm_defaultSenderId">436805358632</string>
     <string name="gdpr_msg">"Güvenlik uygulamasının temel özelliklerini kullanabilmek için Xiaomi'nin kişisel verilerinizi toplayacağını kabul etmelisiniz. Güvenlik özellikleri cihazınızda belirtilen temel bilgiler ve diğer bilgileri içerir. "<a href="http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s">Gizlilik politikamıza</a> göz atın</string>
     <string name="ge">Daha</string>
     <string name="get_detail_by_click">Detaylar için tıklayın</string>
@@ -1997,6 +2022,8 @@ ve ses değiştiricimizi keşfedin"</string>
     <string name="go_to">Devam et</string>
     <string name="go_to_send">Gönder</string>
     <string name="go_to_setting_fingerprint">Ayarlar</string>
+    <string name="google_api_key">AIzaSyCLTk-WlTTx8UwHK2EdapM_Pu-CiQHYaio</string>
+    <string name="google_app_id">1:436805358632:android:6a6f70fc95cb7011dfd11d</string>
     <string name="google_base_app_fail">İndirilemedi. Güvenliğin internete bağlanmasına izin verilip verilmediğini kontrol edin</string>
     <string name="google_base_app_install_choice">%s uygulaması normal olarak çalışabilmesi için Google hizmet çerçevesi uygulamasına ihtiyaç duyuyor. Uygulama indirilsin ve yüklensin mi?</string>
     <string name="google_base_app_installed">Yüklendi</string>
@@ -2005,6 +2032,8 @@ ve ses değiştiricimizi keşfedin"</string>
     <string name="google_base_app_timeout">Oturum zaman aşımına uğradı. Bir iki dakika bekleyin ve tekrar deneyin</string>
     <string name="google_base_app_title">Google hizmetlerini yükle</string>
     <string name="google_base_app_toast">Google hizmetleri çerçevesi arka planda kuruluyor. Bir iki dakika bekleyin ve tekrar deneyin</string>
+    <string name="google_crash_reporting_api_key">AIzaSyCLTk-WlTTx8UwHK2EdapM_Pu-CiQHYaio</string>
+    <string name="google_storage_bucket">security-center-89b35.appspot.com</string>
     <string name="group_have_hongbao">Kırmızı zarf: %2$d (%1$s)</string>
     <string name="gs_advanced_setting_summary">Bireysel oyunlar için ayarlar</string>
     <string name="gs_advanced_setting_title">Ek ayarlar</string>
@@ -3666,6 +3695,7 @@ Kalibrasyon işlemi sırasında MIUI kalibrasyon şablonunu almak amacıyla bir 
     <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">Medya sunucusu</string>
     <string name="process_vpnsdkmanager_label">Oyun hızlandırıcı</string>
+    <string name="project_id">security-center-89b35</string>
     <string name="promotion">Reklam</string>
     <string name="prompt_all">Tümü için sor</string>
     <string name="prompt_danger">Tehlikeli</string>
@@ -4978,6 +5008,9 @@ Bu özellik hareket yumuşatma ile çalışmaz
     <string name="write_clipboard_tip_title">Öğeleri panoya kaydetme</string>
     <string name="wrong_password">Hatalı şifre</string>
     <string name="xiaomi_privacy_protection_measures">Gizlilik koruma önlemleri</string>
+    <string name="xspace_warning_dialog_button">Anladım</string>
+    <string name="xspace_warning_dialog_message">"Android %d'de getirilen kısıtlamalar nedeniyle tüm çift uygulamalar yalnızca ilgili çift uygulamanın kendisinde oluşturulan ve kaydedilen fotoğraflara ve videolara erişebilecek"</string>
+    <string name="xspace_warning_dialog_title">Dikkat</string>
     <string name="xunyou_net_booster">Ağ hızlandırıcı</string>
     <string name="xunyou_net_booster_detail">Oyun için Xunyou hızlandırıcı servislerini kullanın</string>
     <string name="xunyou_pay_webview">Xunyou servisleri</string>

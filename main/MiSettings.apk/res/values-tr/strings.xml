@@ -220,6 +220,8 @@
     <string name="delete_first_to_add_animal">Yeni bir öğe eklemek için önce birini silin</string>
     <string name="display_description">Daha büyük simgeler, geniş metin ve daha az görsel karmaşa</string>
     <string name="display_title">Daha büyük öğeler</string>
+    <string name="door_amin_assert">image_door</string>
+    <string name="door_amin_file_anme">door.json</string>
     <string name="dynamic_ringtone_desc">Farklı ekosistemleri keşfettik ve farklı seslerini yeniden oluşturduk. Sen de bizimle doğanın seslerini keşfetmeye başla</string>
     <string name="early_morning">ÖÖ</string>
     <string name="earthly_branches_chen">15</string>
@@ -628,6 +630,7 @@
     <string name="search_nature_mix">Doğa müzesi;Hayvanlar</string>
     <string name="search_notification_sound">Bildirim zil sesi;Kişilik;özel;doğa müzesi;hayvan</string>
     <string name="send">Gönder</string>
+    <string name="service_ringtone_title">Hizmet zil sesi</string>
     <string name="several_days_use_time">Ekran zamanı: %2$s</string>
     <string name="short_eared_owl">Kısa kulaklı baykuş</string>
     <string name="shortcut_created">Kısayol oluşturuldu</string>

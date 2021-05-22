@@ -241,6 +241,10 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
         <item quantity="other">Üst üste %d gün içinde kontrol edildi</item>
         <item quantity="one">%d zaman içinde kontrol edildi</item>
     </plurals>
+    <plurals name="gb_toolbox_guide_known">
+        <item quantity="other">Anladım (%d saniye)</item>
+        <item quantity="one">Anladım (%d saniye)</item>
+    </plurals>
     <plurals name="gb_voice_changer_toast_tips_window_bubble">
         <item quantity="other">"Ses değiştiriciyi şimdi deneyin
 %d günlük ücretsiz deneme için"</item>

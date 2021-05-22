@@ -561,6 +561,7 @@
     <string name="search_timer_keywords">Zamanlayıcı</string>
     <string name="search_worldclock">@string/worldclock_title</string>
     <string name="search_worldclock_keywords">Zaman;Dünya saati;Saat</string>
+    <string name="select_operation">Seç</string>
     <string name="send">Gönder</string>
     <string name="set_alarm">Zaman seçin</string>
     <string name="set_alarm_choose_ringtone">Zil sesi seçin</string>
@@ -576,7 +577,8 @@
     <string name="shortcut_stop_watch">Kronometreyi başlat</string>
     <string name="shut_down_alarm_no_news">Çalar saat kapatıldak sonra sabah haber servisleri kullanılamaz</string>
     <string name="shut_down_keep_screen">Ekranda tutulmayacak</string>
-    <string name="shutdown_alarm_alert_enable_summary">Kapalı alarmlar cihazınızı kapattıktan en az 10 dakika sonra çalar</string>
+    <string name="shutdown_alarm_alert_enable_summary">Kapalı alarm cihazınızı kapattıktan en az 10 dakika sonra çalacaktır</string>
+    <string name="shutdown_alarm_alert_enable_summary_new">Cihazınız kapalıyken ayarlanmış alarmların çalmasını sağlamak için açın. Yalnızca cihazı kapattıktan sonra en az %d dakika süreyle ayarlanmış alarmlar çalacaktır</string>
     <string name="shutdown_alarm_alert_title">Kapalı alarm</string>
     <string name="shutdown_alarm_disable_summary">Cihaz kapatıldıktan sonra alarm çalmayacaktır</string>
     <string name="shutdown_alarm_enable_summary">Cihaz kapatıldıktan sonra alarm çalacaktır</string>
@@ -806,6 +808,7 @@
     <string name="worldclock_resident_city_text_detail">Çift saat açık</string>
     <string name="worldclock_search_city">Şehir seç</string>
     <string name="worldclock_second_time">"%s'da zaman"</string>
+    <string name="worldclock_second_time_desc">"%s: "</string>
     <string name="worldclock_title">Saat</string>
     <string name="worldclock_world_time">Zaman dilimleri</string>
     <string name="worldcolock_date_display_prefix">Mevcut: </string>

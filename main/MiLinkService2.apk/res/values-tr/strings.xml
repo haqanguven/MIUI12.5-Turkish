@@ -140,6 +140,7 @@
     <string name="debug_mode_vendor">Çip türü</string>
     <string name="debug_mode_wait_remove_desc">Varsayılan olarak tarama için en az 1 saniye süren bir açılır pencere olacaktır.</string>
     <string name="debug_mode_wait_remove_title">Cihaz tarama açılır penceresini kaldır</string>
+    <string name="default_web_client_id">687519570831-jhea9co2r033aaptoj7b50bcredbeos4.apps.googleusercontent.com</string>
     <string name="device_desc_trust">Güvenilen cihazlar</string>
     <string name="dialog_can_not_find_device">Yakınlarda cihaz bulunamadı</string>
     <string name="dialog_cancle">İptal et</string>
@@ -158,15 +159,15 @@
     <string name="dialog_ok">Tamam</string>
     <string name="dialog_only_suport_content">Fotoğraf, video veya müzik yayınlayın</string>
     <string name="dialog_open_wifi_bt">Aç</string>
-    <string name="dialog_please_make_sure_tv_ok_or_help">"Kablosuz döküm özelliğinin hedef cihazda açık olduğundan emin olun\u000d
+    <string name="dialog_please_make_sure_tv_ok_or_help">"Kablosuz döküm özelliğinin hedef cihazda açık olduğundan emin olun
 Eğer bağlantı sorunu yaşıyorsanız yardım için görüntüleyin"</string>
     <string name="dialog_recent_connected">Son kullanılanlar</string>
     <string name="dialog_retry">Tekrar dene</string>
-    <string name="dialog_scan_message">"1. Telefonunuzu ve TV'yi aynı wifi ağına bağlayın\u000d
-\u000d
+    <string name="dialog_scan_message">"1. Telefonunuzu ve TV'yi aynı wifi ağına bağlayın
+
 2. Bazı TV modellerinde bu özellik yalnızca ekran yansıtma açık olduğunda mevcuttur. Daha fazla bilgi için yardımı görüntüleyin"</string>
-    <string name="dialog_scan_message_china">"1. Telefonunuzu ve TV'yi aynı wifi ağına bağlayın.\u000d
-\u000d
+    <string name="dialog_scan_message_china">"1. Telefonunuzu ve TV'yi aynı wifi ağına bağlayın.
+
 2. Bazı TV modellerinde bu özellik yalnızca ekran yansıtma açık olduğunda mevcuttur. Daha fazla bilgi için yardımı görüntüleyin"</string>
     <string name="dialog_scanning_device">Yakınlardaki cihazlar aranıyor…</string>
     <string name="dialog_scanning_precondition">Kablosuz ekranı kullanmak için telefonunuzdaki wifi veya Bluetooth bağlantısını açın</string>
@@ -249,6 +250,7 @@ Eğer bağlantı sorunu yaşıyorsanız yardım için görüntüleyin"</string>
     <string name="friday">Cuma</string>
     <string name="friday_short">Cum</string>
     <string name="friday_shortest">Cum</string>
+    <string name="gcm_defaultSenderId">687519570831</string>
     <string name="global_privacy">Şartlar ve koşullar</string>
     <string name="global_privacy_detail">&lt;Data>Bu uygulamayı kullanmadan<a href="%1$s"> önce &lt;a href=%1$s>Kul</a>lanı<a href="%2$s">cı Sözleşmemizi&lt;/a> v</a>e &lt;a href=%2$s>Gizlilik Politikamızı&lt;/a> okuyun ve kabul edin.&lt;br>Yukarıda bahsedilen hizmetleri kullanmayı onaylamazsanız, bu uygulamanın bazı özelliklerini kullanamayacaksınız; bununla birlikte, temel işlevler hâlâ kullanılabilir olacaktır.&lt;/Data></string>
     <string name="global_privacy_explain">"Yansıtma'ya hoş geldiniz! Bu uygulama aşağıdaki hizmetleri sağlamaktadır:"</string>
@@ -257,6 +259,10 @@ Eğer bağlantı sorunu yaşıyorsanız yardım için görüntüleyin"</string>
     <string name="global_privacy_negative">Reddet</string>
     <string name="global_privacy_positive">Kabul et</string>
     <string name="global_privacy_tip">Temel hizmetleri size sunabilmek ve yansıtma işlemini optimize edebilmek için gerekli kişisel bilgilerinizi toplamamız gerekmektedir. <a href="%1$s">Gizlilik Politikamızda</a>" topladığımız bilgileri nasıl işlediğimizi öğrenebilirsiniz. İstediğiniz zaman Ayarlar menüsünden Gizlilik Politikası'na verdiğiniz izni geri çekebilirsiniz."</string>
+    <string name="google_api_key">AIzaSyCT3cdzuEQqqpgj9d6LhTMnwZdDnFFJRVU</string>
+    <string name="google_app_id">1:687519570831:android:be4b90f392c3a688b889fa</string>
+    <string name="google_crash_reporting_api_key">AIzaSyCT3cdzuEQqqpgj9d6LhTMnwZdDnFFJRVU</string>
+    <string name="google_storage_bucket">milink-73be7.appspot.com</string>
     <string name="hang_up">Ekran kapalı durumdayken yansıt</string>
     <string name="hang_up_alert_dialog_content">Cihazınızın ekranı kapalıyken yansıtmaya devam edin. Bu özellik pil tüketimini azaltır. Ekranı tekrar açmak için güç tuşuna basın</string>
     <string name="hang_up_alert_dialog_neg">İptal et</string>
@@ -277,12 +283,12 @@ Eğer bağlantı sorunu yaşıyorsanız yardım için görüntüleyin"</string>
     <string name="help_page_text_03">Yansıtma telefonunuzun ekranındaki öğelerin daha büyük bir harici ekranda görüntülenmesidir. Bu özellik mobil veri harcamadan resim ve videoları arkadaşlarınız ve ailenizle paylaşmanıza olanak sağlar</string>
     <string name="help_page_text_04">Ögeleri daha büyük bir ekrana nasıl yansıtırım?</string>
     <string name="help_page_text_05">Adım 1: Cihazlarınızı ve ağ koşullarını kontrol edin</string>
-    <string name="help_page_text_06">"1. Bir Mi telefondan Mi TV'ye bir şey aktarmak istiyorsanız internete bağlanmanız gerekmez\u000d
+    <string name="help_page_text_06">"1. Bir Mi telefondan Mi TV'ye bir şey aktarmak istiyorsanız internete bağlanmanız gerekmez
 2. İki cihaz arasında bağlantı kuramıyorsanız, cihazları aynı wifi ağına bağlamayı deneyin"</string>
-    <string name="help_page_text_06_global">"1. Mi Tvler, Mi Boxlar, ve Mi Projektörler:\u000d
-Telefonunuzu ve harici monitörü en iyi etki için aynı wifi ağına bağlayın. Eğer farklı ağlara bağlı iseler, harici monitörü bulmak ve bağlanmak daha fazla zaman alabilir\u000d
-Not: Eski Mi TVler farklı ağlarda yayın yapmayı desteklemeyebilir\u000d
-2. Eğer diğer markalardan TVleri, set üstü kutuları veya projektörleri kullanıyorsanız telefonunuzu ve harici monitörü aynı wifi ağına bağlayın\u000d
+    <string name="help_page_text_06_global">"1. Mi Tvler, Mi Boxlar, ve Mi Projektörler:
+Telefonunuzu ve harici monitörü en iyi etki için aynı wifi ağına bağlayın. Eğer farklı ağlara bağlı iseler, harici monitörü bulmak ve bağlanmak daha fazla zaman alabilir
+Not: Eski Mi TVler farklı ağlarda yayın yapmayı desteklemeyebilir
+2. Eğer diğer markalardan TVleri, set üstü kutuları veya projektörleri kullanıyorsanız telefonunuzu ve harici monitörü aynı wifi ağına bağlayın
 İki cihaz aynı ağa bağlanamıyorsa, harici monitörünüzde Miracast'i açın. Miracast işlevlerinin adlandırılması farklılık gösterebilir"</string>
     <string name="help_page_text_08">Adım 2: Yansıtmayı açın</string>
     <string name="help_page_text_09">"Telefonunuzun bildirim çubuğunda yansıt geçişine dokunun. Daha dengeli bir bağlantı için wifi ve Bluetooth'u açın"</string>
@@ -290,19 +296,19 @@ Not: Eski Mi TVler farklı ağlarda yayın yapmayı desteklemeyebilir\u000d
     <string name="help_page_text_11">Adım 3: Cihazı seçin</string>
     <string name="help_page_text_12">Yansıtmaya başlamak için kullanılabilir cihazlar listesinden bir harici cihaz seçin</string>
     <string name="help_page_text_13">Harici cihaza bağlanamıyor musunuz?</string>
-    <string name="help_page_text_14">"1. Eğer bir Xiaomi cihazını kullanmak istiyor fakat kullanılabilir cihazlar listesinde bulamıyorsanız şunları deneyin:\u000d
-Telefonunuzu ve harici ekranı aynı wifi ağına bağlayın veya harici ekranı telefonunuzun bağlantı noktasına bağlayın. Eğer kullanılabilir bir wifi ağı mevcut değilse veya iki cihazı da aynı ağa bağlayamıyorsanız, harici ekranınızdaki yansıtma özelliğinin güncel olduğundan emin olun, hem telefonunuzda hem de harici ekranınızda Bluetooth'u açın ve televizyonunuzda Miracast özelliğini etkinleştirin\u000d
-2. Eğer bir Xiaomi cihazına ilk defa yansıtıyorsanız, doğrulama işlemini tamamlamalısınız\u000d
-3. Eğer Xiaomi dışında bir cihaz kullanmak istiyor fakat kullanılabilir cihazlar listesinde bulamıyorsanız, şunları deneyin:\u000d
+    <string name="help_page_text_14">"1. Eğer bir Xiaomi cihazını kullanmak istiyor fakat kullanılabilir cihazlar listesinde bulamıyorsanız şunları deneyin:
+Telefonunuzu ve harici ekranı aynı wifi ağına bağlayın veya harici ekranı telefonunuzun bağlantı noktasına bağlayın. Eğer kullanılabilir bir wifi ağı mevcut değilse veya iki cihazı da aynı ağa bağlayamıyorsanız, harici ekranınızdaki yansıtma özelliğinin güncel olduğundan emin olun, hem telefonunuzda hem de harici ekranınızda Bluetooth'u açın ve televizyonunuzda Miracast özelliğini etkinleştirin
+2. Eğer bir Xiaomi cihazına ilk defa yansıtıyorsanız, doğrulama işlemini tamamlamalısınız
+3. Eğer Xiaomi dışında bir cihaz kullanmak istiyor fakat kullanılabilir cihazlar listesinde bulamıyorsanız, şunları deneyin:
 Telefonunuzu ve harici ekranı aynı wifi ağına bağlayın veya harici ekranı telefonunuzun bağlantı noktasına bağlayın. Bu da yardımcı olmadıysa televizyonunuzda LeEco yansıtma uygulamasını kurun ve talimatları izleyin"</string>
-    <string name="help_page_text_14_global">"1. Eğer bir Xiaomi cihazını kullanmak istiyor fakat kullanılabilir cihazlar listesinde bulamıyorsanız, şunları deneyin:\u000d
-Telefonunuzu ve harici ekranı aynı wifi ağına bağlayın veya harici ekranı telefonunuzun bağlantı noktasına bağlayın. Eğer kullanılabilir bir wifi ağı mevcut değilse veya iki cihazı da aynı ağa bağlayamıyorsanız, harici ekranınızdaki yansıtma özelliğinin güncel olduğundan emin olun, hem telefonunuzda hem de harici ekranınızda Bluetooth'u açın ve televizyonunuzda Miracast özelliğini etkinleştirin\u000d
-2. Eğer bir Xiaomi cihazına ilk defa yansıtıyorsanız, doğrulama işlemini tamamlamalısınız\u000d
-3. Eğer Xiaomi dışında bir cihaz kullanmak istiyor fakat kullanılabilir cihazlar listesinde bulamıyorsanız, şunları deneyin:\u000d
+    <string name="help_page_text_14_global">"1. Eğer bir Xiaomi cihazını kullanmak istiyor fakat kullanılabilir cihazlar listesinde bulamıyorsanız, şunları deneyin:
+Telefonunuzu ve harici ekranı aynı wifi ağına bağlayın veya harici ekranı telefonunuzun bağlantı noktasına bağlayın. Eğer kullanılabilir bir wifi ağı mevcut değilse veya iki cihazı da aynı ağa bağlayamıyorsanız, harici ekranınızdaki yansıtma özelliğinin güncel olduğundan emin olun, hem telefonunuzda hem de harici ekranınızda Bluetooth'u açın ve televizyonunuzda Miracast özelliğini etkinleştirin
+2. Eğer bir Xiaomi cihazına ilk defa yansıtıyorsanız, doğrulama işlemini tamamlamalısınız
+3. Eğer Xiaomi dışında bir cihaz kullanmak istiyor fakat kullanılabilir cihazlar listesinde bulamıyorsanız, şunları deneyin:
 Telefonunuzu ve harici ekranı aynı wifi ağına bağlayın veya harici ekranı telefonunuzun bağlantı noktasına bağlayın"</string>
     <string name="help_page_text_15">Farklı cihazlardaki Miracast özelliği</string>
     <string name="help_page_text_16">Mi TV/Mi Projektör</string>
-    <string name="help_page_text_17">"Mi telefonunuzdaki öğeleri, Miracast özelliğini manuel olarak açmadan Bluetooth ile birçok Mi TV modeline yansıtabilirsiniz\u000d
+    <string name="help_page_text_17">"Mi telefonunuzdaki öğeleri, Miracast özelliğini manuel olarak açmadan Bluetooth ile birçok Mi TV modeline yansıtabilirsiniz
 Miracast özelliğini açmanız gerekirse, [MENU] tuşuna basın ve Uygulamalarım > Yansıtma > Miracast seçeneklerini seçin"</string>
     <string name="help_page_text_17_1">Xiaomi müşteri hizmetleri: 400-100-5678</string>
     <string name="help_page_text_18">Samsung TV</string>
@@ -341,9 +347,9 @@ Miracast özelliğini açmanız gerekirse, [MENU] tuşuna basın ve Uygulamalar�
     <string name="help_page_text_51">LeEco</string>
     <string name="help_page_text_52">Öncelikle cihazınızın Miracast özelliğini desteklediğinden emin olun. Bazı modellerde bu özelliği Sistem > Ağlar > Çoklu Ekranlar > Kablosuz Ekran menüsünde açabilirsiniz</string>
     <string name="help_page_text_53">LeEco müşteri hizmetleri: 10109000</string>
-    <string name="help_page_text_55">"Ağa bağlanamıyorsanız, harici ekranın Miracast özelliğini desteklediğinden ve bu özelliğin etkin olduğundan emin olun. Bu özellik bazı modellerde Kablosuz Ekran, Ekran Yansıtma veya Çoklu ekranlar olarak yer alabilir. Miracast özelliğini nasıl açacağınızı öğrenmek için aşağıdaki bilgilere bakın\u000d
+    <string name="help_page_text_55">"Ağa bağlanamıyorsanız, harici ekranın Miracast özelliğini desteklediğinden ve bu özelliğin etkin olduğundan emin olun. Bu özellik bazı modellerde Kablosuz Ekran, Ekran Yansıtma veya Çoklu ekranlar olarak yer alabilir. Miracast özelliğini nasıl açacağınızı öğrenmek için aşağıdaki bilgilere bakın
 4. Herhangi bir sorunla karşılaşırsanız, bu sorunu \"Hizmetler &amp; geri bildirim\" uygulamamızı kullanarak bildirebilirsiniz"</string>
-    <string name="help_page_text_55_global">"Ağa bağlanamıyorsanız, harici ekranın Miracast özelliğini desteklediğinden ve bu özelliğin etkin olduğundan emin olun. Bu özellik bazı modellerde Kablosuz Ekran, Ekran Yansıtma veya Çoklu ekranlar olarak yer alabilir\u000d
+    <string name="help_page_text_55_global">"Ağa bağlanamıyorsanız, harici ekranın Miracast özelliğini desteklediğinden ve bu özelliğin etkin olduğundan emin olun. Bu özellik bazı modellerde Kablosuz Ekran, Ekran Yansıtma veya Çoklu ekranlar olarak yer alabilir
 4. Herhangi bir sorunla karşılaşırsanız, bu sorunu \"Hizmetler &amp; geri bildirim\" uygulamamızı kullanarak bildirebilirsiniz"</string>
     <string name="help_page_text_end">Cihazınızın markası listede yoksa, yansıtma işlevi hakkında daha fazla bilgi almak için üretici ile iletişime geçin</string>
     <string name="keyguard_security_setting_privacy_policy">Gizlilik politikası</string>
@@ -456,17 +462,18 @@ Miracast özelliğini açmanız gerekirse, [MENU] tuşuna basın ve Uygulamalar�
     <string name="privacy_permission_wlan_desc">Yakınlardaki kullanılabilir cihazları bulmak için</string>
     <string name="privacy_permission_wlan_desc_china">Yakınlardaki kullanılabilir cihazları bulmak için</string>
     <string name="privacy_positive">Kabul et</string>
-    <string name="privacy_text_1">"Yansıtma'ya hoşgeldiniz! Yansıtma özelliği telefonunuzun ekranındaki öğeleri daha büyük bir harici ekranda görüntülemenize olanak sağlar\u000d
-Kişisel bilgileriniz, ilgili yasalar, yönetmelikler ve gizlilik politikaları çerçevesinde korunur. Bazı özellikler, üçüncü taraf hizmet sağlayıcısı olan HappyCast tarafından sağlanmaktadır. Bu özelliği kullanmadan önce, "<a href="%2$s">HappyCast Yasal Bildirisi</a> ve <a href="%1$s">"HappyCast Gizlilik Politikası'nı"</a>" okuyun ve kabul edin\u000d
+    <string name="privacy_text_1">"Yansıtma'ya hoşgeldiniz! Yansıtma özelliği telefonunuzun ekranındaki öğeleri daha büyük bir harici ekranda görüntülemenize olanak sağlar
+Kişisel bilgileriniz, ilgili yasalar, yönetmelikler ve gizlilik politikaları çerçevesinde korunur. Bazı özellikler, üçüncü taraf hizmet sağlayıcısı olan HappyCast tarafından sağlanmaktadır. Bu özelliği kullanmadan önce, "<a href="%2$s">HappyCast Yasal Bildirisi</a> ve <a href="%1$s">"HappyCast Gizlilik Politikası'nı"</a>" okuyun ve kabul edin
 Bu uygulama düzgün çalışabilmek için internete bağlanmalı ve kişisel bilgilerinizi toplamak üzere şu izinlere sahip olmalıdır:"</string>
-    <string name="privacy_text_2">"Bu izinleri vermeyi veya kişisel bilgilerinizi paylaşmayı ve yüklemeyi reddederseniz, bu uygulamayı kullanamazsınız. Bu durumda bu uygulamayı kaldırmayı, oturumu kapatmayı veya Ayarlar menüsünde izinleri kaldırmayı seçebilirsiniz\u000d
+    <string name="privacy_text_2">"Bu izinleri vermeyi veya kişisel bilgilerinizi paylaşmayı ve yüklemeyi reddederseniz, bu uygulamayı kullanamazsınız. Bu durumda bu uygulamayı kaldırmayı, oturumu kapatmayı veya Ayarlar menüsünde izinleri kaldırmayı seçebilirsiniz
 Bu özelliği kullanmadan önce "<a href="%1$s">Kullanıcı Sözleşmesi</a> ve <a href="%2$s">Gizlilik politikası</a> anlaşmalarımızı okuyun ve kabul edin</string>
-    <string name="privacy_text_pemission">"　　•Cihazınızdaki resimleri harici ekranlara yansıtmak için erişir ve kaydeder\u000d
-　　•Harici cihazlara ses yansıtmak için aramaları ve sesleri kaydeder\u000d
-　　•Cihazınızı tanımak için telefon numarasına, IMEI ve IMSI numaralarına erişir\u000d
+    <string name="privacy_text_pemission">"　　•Cihazınızdaki resimleri harici ekranlara yansıtmak için erişir ve kaydeder
+　　•Harici cihazlara ses yansıtmak için aramaları ve sesleri kaydeder
+　　•Cihazınızı tanımak için telefon numarasına, IMEI ve IMSI numaralarına erişir
 　　•Yakınlardaki cihazları bulmak için konumunuza erişir"</string>
     <string name="privacy_title">Uyarı</string>
     <string name="private_protect">Özel öğeleri gizle</string>
+    <string name="project_id">milink-73be7</string>
     <string name="san_wait_msg_1">Kablosuz dökümü hedef cihazda açın</string>
     <string name="san_wait_msg_2">Cihaz aramak biraz sürebilir</string>
     <string name="san_wait_msg_3">Harici cihazlar, telefonunuz ile aynı ağa bağlı olduğunda daha kolay bulunabilir</string>

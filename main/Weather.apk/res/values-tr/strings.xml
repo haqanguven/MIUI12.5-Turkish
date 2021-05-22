@@ -110,6 +110,7 @@
     <string name="aqi_station_best_quality_station">Çevredeki en iyi</string>
     <string name="aqi_station_min_distance_station">En yakın istasyon</string>
     <string name="aqi_sub_desc">HKE</string>
+    <string name="aqi_title_pad">Hava kalitesi: %1$s</string>
     <string name="aqi_top_pollution">Tehlikeli kirleticiler</string>
     <string name="button_abandon">Değişiklikleri yoksay</string>
     <string name="button_add_city">Konum ekle</string>
@@ -197,6 +198,7 @@
     <string name="city_exceeded_warning">10 şehire kadar ekleyebilirsiniz</string>
     <string name="clear_net_mock_success">Temizlendi</string>
     <string name="clearable_edittext_clear_description">Temizle</string>
+    <string name="close">Kapat</string>
     <string name="common_loading_text">Yükleniyor</string>
     <string name="connect_fail">Ağa bağlanılamadı. Tekrar deneyin</string>
     <string name="content_desc_activity_main_add_city">Şehir ekle</string>
@@ -531,6 +533,7 @@ Konumu el ile değiştirmek veya şehir seçmek için dokunun"</string>
 aç"</string>
     <string name="other_settings">Diğer ayarlar</string>
     <string name="other_warning_settings">Diğer uyarılar</string>
+    <string name="pad_real_time_detail_title">Konfor</string>
     <string name="particulate_matter_exceeded">Yüksek</string>
     <string name="particulate_matter_not_exceeded">Normal</string>
     <string name="particulate_matter_serious_exceeded">Çok yüksek</string>
@@ -593,6 +596,7 @@ aç"</string>
     <string name="search_menu_title">Ara</string>
     <string name="search_weather">Hava durumu</string>
     <string name="search_weather_keywords">Sıcaklık,Hava tahmini,Hava durumu,Hava kalitesi,Kirlilik derecesi,Nem</string>
+    <string name="send">Gönder</string>
     <string name="set_degree_centigrade">°C</string>
     <string name="set_fahrenheit">°F</string>
     <string name="setting_content_promotion">İçerik tanıtımı</string>

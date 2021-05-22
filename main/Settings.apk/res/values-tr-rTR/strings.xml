@@ -6625,8 +6625,8 @@ Not: Bu cihazın kilidini açmak için parmak izinizi kullanamazsınız. Daha fa
     <string name="share_this_wifi">Wifi kapsama alanını genişlet</string>
     <string name="shared_data_delete_failure_text">Paylaşılan veri silinirken hata oluştu.</string>
     <string name="shared_data_no_accessors_dialog_text">Bu paylaşılan veri için alınmış kiralama bulunmuyor. Bunu silmek ister misiniz?</string>
-    <string name="shared_data_no_blobs_text">Bu kullanıcı için paylaşılan veri yok.</string>
-    <string name="shared_data_query_failure_text">Paylaşılan veri alınırken hata oluştu. Tekrar deneyin.</string>
+    <string name="shared_data_no_blobs_text">Bu kullanıcı için paylaşılan veri yok</string>
+    <string name="shared_data_query_failure_text">Paylaşılan veri alınırken hata oluştu. Tekrar deneyin</string>
     <string name="shared_data_summary">Paylaşılan verileri görüntüleyin ve değiştirin</string>
     <string name="shared_data_title">Paylaşılan veri</string>
     <string name="sharing_remote_bugreport_dialog_message">Bu hata raporu BT yöneticinizle paylaşılıyor. Daha fazla ayrıntı için kendisiyle iletişim kurun</string>
