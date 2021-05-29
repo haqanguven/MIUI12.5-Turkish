@@ -173,6 +173,10 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
         <item quantity="other">%d gün önce</item>
         <item quantity="one">%d gün önce</item>
     </plurals>
+    <plurals name="exit_dialog_scan_message_new">
+        <item quantity="other">Cihazınızın performans puanı %d puandan düşük. Şimdi optimize dilsin mi?</item>
+        <item quantity="one">Cihazınızın performans puanı %d puandan düşük. Şimdi optimize edilsin mi?</item>
+    </plurals>
     <plurals name="exo_controls_fastforward_by_amount_description">
         <item quantity="other">%d saniye ileri sar</item>
         <item quantity="one">%d saniye ileri sar</item>
@@ -184,6 +188,10 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
     <plurals name="find_applications">
         <item quantity="other">%d uygulama arasında ara</item>
         <item quantity="one">%d uygulama arasında ara</item>
+    </plurals>
+    <plurals name="find_leak_risk">
+        <item quantity="other">%d privacy-related risks</item>
+        <item quantity="one">%d privacy-related risk</item>
     </plurals>
     <plurals name="first_aid_result_summary_exception">
         <item quantity="other">%1$d sorun optimizasyon gerektirir</item>
@@ -295,12 +303,12 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
         <item quantity="one">%d uygulama otomatik olarak başlatılabilir</item>
     </plurals>
     <plurals name="hints_get_root_disable_title">
-        <item quantity="other">%d uygulamanın kök erişimi yok</item>
-        <item quantity="one">%d uygulamanın kök erişimi yok</item>
+        <item quantity="other">%d uygulamanın root erişimi yok</item>
+        <item quantity="one">%d uygulamanın root erişimi yok</item>
     </plurals>
     <plurals name="hints_get_root_enable_title">
-        <item quantity="other">%d uygulama kök erişimine sahip</item>
-        <item quantity="one">%d uygulama kök erişimine sahip</item>
+        <item quantity="other">%d uygulama root erişimine sahip</item>
+        <item quantity="one">%d uygulama root erişimine sahip</item>
     </plurals>
     <plurals name="hints_handle_item_text_risk_number">
         <item quantity="other">%d risk,</item>
@@ -579,8 +587,8 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
         <item quantity="one">%1$d kişi tarafından indirildi</item>
     </plurals>
     <plurals name="power_20s_shutdown">
-        <item quantity="other">Your device will be powered off in %d secs</item>
-        <item quantity="one">Your device will be powered off in %d sec</item>
+        <item quantity="other">Cihazınız %d saniye içinde kapanacak</item>
+        <item quantity="one">Cihazınız %d saniye içinde kapanacak</item>
     </plurals>
     <plurals name="power_center_battery_charge_number">
         <item quantity="other">kez</item>

@@ -729,6 +729,7 @@ mm"</string>
     <string name="multi_sim_ringtone_settings_dialog_ok">Anladım</string>
     <string name="multi_sim_ringtone_settings_dialog_remind_never">Tekrar gösterme</string>
     <string name="multi_sim_ringtone_settings_dialog_title">Uyumluluk sorunları</string>
+    <string name="multiwindow_no_support_icon">Bölünmüş ekranı kullanırken simgeleri değiştiremezsiniz</string>
     <string name="network_exception">Ağa bağlanılamadı. Ağ bağlantılarınızı kontrol edin ve tekrar deneyin</string>
     <string name="new_resource_price_unit"> Mi</string>
     <string name="night">ÖS</string>

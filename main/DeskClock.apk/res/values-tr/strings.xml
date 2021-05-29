@@ -189,6 +189,7 @@
     <string name="clock_date_time_format_seconds_24">HH:mm:ss</string>
     <string name="close">Kapat</string>
     <string name="close_alarm">Kapat</string>
+    <string name="close_alarm_new">Durdur</string>
     <string name="common_settings">Ayarlar</string>
     <string name="common_timer_selector">Zamanlayıcı seçin</string>
     <string name="confirm">Onayla</string>
@@ -516,6 +517,7 @@
     <string name="noon">ÖS</string>
     <string name="normal_settings">Genel ayarlar</string>
     <string name="not_set">Ayarlanmadı</string>
+    <string name="not_set_temporarily">Hayır</string>
     <string name="not_update">Şimdi değil</string>
     <string name="oneshot_alarm">Kapandıktan sonra sil</string>
     <string name="open_keep_screen">Ekran devam edecek</string>
@@ -567,6 +569,7 @@
     <string name="set_alarm_choose_ringtone">Zil sesi seçin</string>
     <string name="set_alarm_done">Bitti</string>
     <string name="set_alarm_other">Diğer</string>
+    <string name="set_now">Ayarla</string>
     <string name="setting_alarm_arriving_subtitle">Alarm çalmadan önce bildirim göster</string>
     <string name="setting_alarm_arriving_summary">Alarm çalmadan önce bildirim gönder</string>
     <string name="setting_alarm_arriving_title">Çalmadan önce bildirim</string>
@@ -608,7 +611,8 @@
     <string name="sleep_remind">Yatmadan önce hatırlatma</string>
     <string name="sleep_time">Uyuyakalma</string>
     <string name="sleep_wake_time">%1$s-%2$s</string>
-    <string name="slider_text">Kapatmak için yukarı doğru kaydırın</string>
+    <string name="slider_text">Kapatmak için yukarı kaydırın</string>
+    <string name="slider_text_new">Durdurmak için yukarı kaydırın</string>
     <string name="snooze_confirm_cancel">Alarmı kapat</string>
     <string name="snooze_duration">Ertele</string>
     <string name="snooze_duration_text">%1$s | %2$s</string>
@@ -750,6 +754,7 @@
     <string name="timer_end_time_format">HH:mm dd MMM</string>
     <string name="timer_end_time_format_today">HH:mm</string>
     <string name="timer_got_it">Tamam</string>
+    <string name="timer_got_it_new">Sessizlik</string>
     <string name="timer_is_paused">Zamanlayıcı duraklatıldı</string>
     <string name="timer_item_delete">Sil</string>
     <string name="timer_item_duration_display">%1$d dakika %2$d saniye</string>
@@ -799,6 +804,7 @@
     <string name="wednesday">Çarşamba</string>
     <string name="wednesday_short">Çarşamba</string>
     <string name="wednesday_shortest">Ç</string>
+    <string name="week_ringtone_recommend_desc">Doğa alarmı tarihe bağlı olarak farklı sesler çalar. Varsayılan alarmınız olarak ayarlansın mı?</string>
     <string name="white_noise_selector">Ses dosyası seç</string>
     <string name="workday_alarm_clock">Çalışma günleri alarmı</string>
     <string name="worldclock_empty_text">Saat yok</string>

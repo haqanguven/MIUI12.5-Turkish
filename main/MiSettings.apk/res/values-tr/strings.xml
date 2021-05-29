@@ -62,6 +62,8 @@
     <string name="atarctic_shag">Antarktika</string>
     <string name="australia_introduction">Avustralya kıtası endemik türler için bir sığınaktır</string>
     <string name="australian_magpie">Avustralya saksağanı</string>
+    <string name="authorization_btn_text">Başlat</string>
+    <string name="authorization_tips">Gerekli izinler</string>
     <string name="baboon_info">Zeytuni babun her bireyin egemenliğine bağlı olarak gelişmiş sosyal sıralamaya sahip gruplar halinde yaşar</string>
     <string name="back">Geri</string>
     <string name="bear_info">Ayılar en büyük kara etoburlarıdır. Soğuk bölgelerde yaşarlar ve keskin koku alma duyularıyla bilinirler</string>
@@ -218,6 +220,8 @@
     <string name="dc_light_hint_other">DC karartma yenileme hızını ve bazı ögelerin görüntülenme şeklini etkileyebilir</string>
     <string name="dc_lignt_enable_hint">"Titreşim önleme modu 60 Hz'ye kadar ekran yenileme hızını ayarlar. Titreşim önleme moduna değiştirilsin mi?"</string>
     <string name="delete_first_to_add_animal">Yeni bir öğe eklemek için önce birini silin</string>
+    <string name="devices_type_pad">pad</string>
+    <string name="devices_type_phone">phone</string>
     <string name="display_description">Daha büyük simgeler, geniş metin ve daha az görsel karmaşa</string>
     <string name="display_title">Daha büyük öğeler</string>
     <string name="door_amin_assert">image_door</string>

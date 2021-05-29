@@ -248,6 +248,15 @@
     <string name="friday">Cuma</string>
     <string name="friday_short">Cum</string>
     <string name="friday_shortest">Cum</string>
+    <string name="hearing_assist_bluetooth_enable_tips_cancle">İptal et</string>
+    <string name="hearing_assist_bluetooth_enable_tips_start">Aç</string>
+    <string name="hearing_assist_bluetooth_enable_tips_summary">Canlı kulak içi monitör Bluetooth açıkken çalışır. Bluetooth şimdi açılsın mı?</string>
+    <string name="hearing_assist_bluetooth_enable_tips_title">"Bluetooth'u aç"</string>
+    <string name="hearing_assist_transmission_label">Canlı kulak içi monitör</string>
+    <string name="hearing_assist_transmission_tips_cancel">İptal et</string>
+    <string name="hearing_assist_transmission_tips_continue">Aç</string>
+    <string name="hearing_assist_transmission_tips_summary">"Canlı kulak içi monitör telefonunuzun mikrofon beslemesini bağlı Bluetooth kulaklıklara iletir. Şimdi açılsın mı?"</string>
+    <string name="hearing_assist_transmission_tips_title">Canlı kulak içi monitör</string>
     <string name="heavenly_stems_bing">3</string>
     <string name="heavenly_stems_ding">4</string>
     <string name="heavenly_stems_geng">7</string>

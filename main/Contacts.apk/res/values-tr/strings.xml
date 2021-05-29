@@ -81,6 +81,7 @@
     <string name="bh_back">Geri</string>
     <string name="bh_bill_balance">Bakiye</string>
     <string name="bh_bill_charge">Bakiyeyi yükle</string>
+    <string name="bh_bills_info_label">Detaylar</string>
     <string name="bh_bugreport">İşletme geri bildirimi</string>
     <string name="bh_business_hall_is_here">Taşıyıcı hizmetleri burada</string>
     <string name="bh_business_style">Arayüz seçin</string>
@@ -93,6 +94,10 @@
     <string name="bh_cannot_action">%1$s kullanılamadı. Önce ilgili uygulamayı yükleyin</string>
     <string name="bh_cannot_fetch_num">Bilinmeyen telefon numarası</string>
     <string name="bh_cannot_login_miacount">Mi hesabında oturum açılamadı</string>
+    <string name="bh_card_order_detail">Sipariş bilgisi</string>
+    <string name="bh_card_order_name">Servis paketi</string>
+    <string name="bh_card_order_pay_price">Ödenen miktar</string>
+    <string name="bh_card_order_price">Fiyat</string>
     <string name="bh_charge_confirm">%1$s için %2$s CNY eklensin mi?</string>
     <string name="bh_charge_continue">Yükle</string>
     <string name="bh_charge_number">%1$s yükleniyor</string>
@@ -100,8 +105,11 @@
     <string name="bh_close_traffic_package">Taşıyıcı planı ayrıntılarını kapat</string>
     <string name="bh_cmcc">Çin Mobil</string>
     <string name="bh_confirm">Tamam</string>
+    <string name="bh_connect_address">Alıcının ismi</string>
+    <string name="bh_connect_name">Alıcı</string>
+    <string name="bh_connect_number">Alıcının telefon numarası</string>
     <string name="bh_contact_number">Kişilerinizden %1$s</string>
-    <string name="bh_ct">China Telekom</string>
+    <string name="bh_ct">China Telecom</string>
     <string name="bh_cu">China Unicom</string>
     <string name="bh_current_no_sim">Sim kart takılı değil</string>
     <string name="bh_current_sim_number">Mevcut Sim telefon numarası: %1$s</string>
@@ -113,6 +121,8 @@
     <string name="bh_edit_saved_phone_number">Kaydedilen numara için etiketi düzenleyin</string>
     <string name="bh_edit_sim_num">Sim telefon numarasını düzenleyin</string>
     <string name="bh_exchange_number">Numarayı değiştir</string>
+    <string name="bh_express_name">Teslimat hizmeti</string>
+    <string name="bh_express_number">Paket numarası</string>
     <string name="bh_fetch_balance">Bakiyeyi kontrol et</string>
     <string name="bh_flow_exceed">Sınırı aştı</string>
     <string name="bh_funtion_desc">Mi taşıyıcı hizmetlerine hoş geldiniz! Bu uygulamayı telefon bakiyenizi kontrol etmek, arama dakikalarını ve mobil veri satın almak ve daha fazlası için kullanabilirsiniz</string>
@@ -136,16 +146,20 @@
     <string name="bh_net_error">Bir ağ hatası oluştu</string>
     <string name="bh_no_sim">Sim kart takılı değil</string>
     <string name="bh_no_sim_inserted">Sim kart takılı değil</string>
+    <string name="bh_none">Yok</string>
     <string name="bh_not_contact">Sonuç bulunamadı</string>
     <string name="bh_notice">Dikkat</string>
     <string name="bh_online_service">Çevrimiçi destek</string>
     <string name="bh_option_agree_dec">Mi taşıyıcı hizmetleri uygulamayı kullanmadan önce internete bağlanmasına ve gerekli izinleri vermesine izin verin</string>
-    <string name="bh_order_id">Sipariş Kimliği</string>
+    <string name="bh_order_detail">Sipariş detayları</string>
+    <string name="bh_order_id">Sipariş kimliği</string>
     <string name="bh_order_loading">Yükleniyor</string>
     <string name="bh_order_pay">Ödeme</string>
+    <string name="bh_order_status">Sipariş durumu</string>
     <string name="bh_order_time">İşlem süresi</string>
     <string name="bh_other_charge">Diğer telefon numarası</string>
     <string name="bh_other_operator">Diğer operatörler</string>
+    <string name="bh_other_traffic">Diğer telefon numarası</string>
     <string name="bh_pay_fail_desc">Ağa bağlanılamadı. Geri dönün ve ödemeyi tekrar tamamlayın</string>
     <string name="bh_pay_fee">Miktar</string>
     <string name="bh_pay_success_desc">Bakiyeniz gecikmeli olarak yatırılabilir</string>
@@ -181,8 +195,18 @@
     <string name="bh_tag_phones">Sık kullanılan telefon numaraları</string>
     <string name="bh_tags_number_exceed">Daha fazla telefon numarası kaydedilemez</string>
     <string name="bh_tb">TB</string>
+    <string name="bh_text_buy_time">Sipariş oluşturuldu</string>
+    <string name="bh_text_charge_name">Miktar</string>
+    <string name="bh_text_no_order">Burada sipariş yok</string>
+    <string name="bh_text_operator">Taşıyıcı</string>
+    <string name="bh_text_order_id">Sipariş numarası</string>
+    <string name="bh_text_paid_fee">Sipariş miktarı</string>
+    <string name="bh_text_phone_num">Telefon numarası</string>
+    <string name="bh_text_traffic_package">Veri paketi</string>
     <string name="bh_time_before">%1$s %2$s önce</string>
+    <string name="bh_toast_copy">Başarıyla kopyalandı</string>
     <string name="bh_toast_start_intent_failed">Bu eylemi gerçekleştirecek bir uygulama bulunamadı</string>
+    <string name="bh_traffic_charge">Mobil veri alın</string>
     <string name="bh_traffic_service">Daha fazla hizmet</string>
     <string name="bh_traffic_surplus">Kalan veriler</string>
     <string name="bh_traffic_title">Veri alın</string>
@@ -193,7 +217,6 @@
     <string name="bh_will_open">%1$s açılıyor</string>
     <string name="bh_wrong_number_hint">Geçerli bir telefon numarası girin</string>
     <string name="bh_yuan">CNY</string>
-    <string name="bills_info_label">Detaylar</string>
     <string name="bind_simcard_default">Aramalar için varsayılan Sim</string>
     <string name="bind_simcard_menu">Aramalar için varsayılan Sim kartı ayarla</string>
     <string name="bind_simcard_no_dual">Çift Sim bulunamadı</string>
@@ -971,6 +994,7 @@ Neden: %s"</string>
     <string name="night">Akşam</string>
     <string name="nine_letter">WXYZ</string>
     <string name="noAccounts">Grup oluşturmak için bir hesaba ihtiyacınız vardır</string>
+    <string name="no_contact_selected">Ayrıntıları görüntülemek için bir kişi seçin</string>
     <string name="no_contacts_dialog_message">Kişiler Sim kartınıza kayıt edilmiş olabilir. Kişilerinizi Sim kartınızdan cihazınızın dahili hafızasına aktarmayı deneyin ve ardından tekrar deneyin</string>
     <string name="no_contacts_dialog_title">Kişiler bulunamıyor</string>
     <string name="no_phone_no_shortcut">Telefon numarası olmayan kişiler için kısayol oluşturulamıyor</string>
@@ -1122,6 +1146,7 @@ Neden: %s"</string>
     <string name="remove_duplicate">"Miui tekrarlanan kişi kayıtlarını bulup tek kayıt altında birleştirmenize yardımcı olacaktır
 
 Başlamak için ekranınızın altındaki birleştir simgesine dokunun"</string>
+    <string name="residual_time_description">%1$s gün %2$s saaat</string>
     <string name="residual_time_description2">%1$d saat</string>
     <string name="residual_time_description3">%1$d dakika</string>
     <string name="residual_time_description4">%1$d gün</string>

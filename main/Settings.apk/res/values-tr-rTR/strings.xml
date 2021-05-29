@@ -1757,7 +1757,7 @@ Bu özelliği Ayarlar > Bluetooth > Eşleştirilen cihazlar menüsünde değişt
     <string name="color_lamp_charging_summary">Cihazınız tam şarj edildiğinde ışığı kapatılacak</string>
     <string name="color_lamp_incall_pulse_title">Gelen aramalar için flaş ışığı</string>
     <string name="color_lamp_notification_pulse_title">Ekran kapalı olduğunda bildirimler için flaş ışığı</string>
-    <string name="color_lamp_title">Işık</string>
+    <string name="color_lamp_title">Renkli ışık</string>
     <string name="color_led_applications_title">Uygulama seçin</string>
     <string name="color_led_applications_title_summary">Işık kullanımını her bir uygulama için kısıtlayabilirsiniz</string>
     <string name="color_led_battery_title">Şarj ederken devam et</string>

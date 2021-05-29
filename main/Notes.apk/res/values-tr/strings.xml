@@ -153,6 +153,7 @@
     <string name="cta_v2_agree_desc">Bu uygulamanın internete bağlanmasına ve yukarıda listelenen zorunlu izinleri vermesine izin verin</string>
     <string name="cta_v2_app_purpose">Not oluşturma, görüntüleme ve yönetme</string>
     <string name="cta_v2_app_purpose_v12">"Notlar'a hoş geldiniz! Bu uygulamayı metin, görüntü ve ses içeren görevler ve notlar oluşturmak için kullanabilirsiniz."</string>
+    <string name="data_empty_folder">Gösterilecek başka klasör yok</string>
     <string name="data_empty_note">Henüz not yok</string>
     <string name="data_empty_todo">Henüz görev yok</string>
     <string name="date_calculate_today">0 gün</string>
@@ -347,6 +348,7 @@
     <string name="gesture_guide_message">Notları oluşturmak ve yeniden düzenlemek için ögelere dokunabilir, basılı tutabilir ve ögeleri sürükleyebilirsiniz. Bu hareketleri şimdi öğren?</string>
     <string name="gesture_guide_ok">Öğren</string>
     <string name="gesture_guide_title">Hareketler</string>
+    <string name="handwrite_description">El yazısı ile not</string>
     <string name="hear_note">Dikte edilmiş notlar</string>
     <string name="heavenly_stems_bing">3</string>
     <string name="heavenly_stems_ding">4</string>
@@ -380,6 +382,7 @@
     <string name="menu_add_description">Not ekle</string>
     <string name="menu_add_folder">Klasöre ekle</string>
     <string name="menu_add_folder_description">Klasör ekle</string>
+    <string name="menu_add_handwrite_description">El yazısı notu ekle</string>
     <string name="menu_create_folder">Yeni klasör</string>
     <string name="menu_delete">Sil</string>
     <string name="menu_delete_forever">Kalıcı olarak sil</string>

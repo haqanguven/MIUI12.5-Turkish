@@ -375,6 +375,11 @@
     <string name="app_behavior_warning_location_title">%1s arka planda konumlanıyor</string>
     <string name="app_bg_restrict_dialog_message">Arka plan ağ bağlantısını sınırlamanız uygulamanın normal çalışmasını engelleyebilir. Örneğin uygulama mesajları alamayabilir veya içerik güncelleyemeyebilir. Bağlantı yine de kısıtlansın mı?</string>
     <string name="app_check_no_issue">Batarya sorunu yok gibi görünüyor. Güzel</string>
+    <string name="app_classification_activity_label">Tüm uygulamalar</string>
+    <string name="app_classification_recent_add">Son</string>
+    <string name="app_classification_search_all">Tümü</string>
+    <string name="app_classification_search_hint">Uygulama ara</string>
+    <string name="app_classification_suggest_app">Öneriler</string>
     <string name="app_detail">Ayrıntılar</string>
     <string name="app_error_tip_for_launcher">Cihazınızın donanım bileşenleri veya Android sürümü uyumluluk sorunlarına neden oluyor olabilir ve bazı uygulamaların hatalı çalışmalarına, donmalarına ve kapanmalarına neden olabilir. Bu gibi sorunlarla karşılaşırsanız geri bildiriminizi uygulama geliştiricilerle paylaşın</string>
     <string name="app_error_tip_for_store">Cihazınızın donanım bileşenleri veya Android sürümü bazı uygulamaların yüklenememesi ile sonuçlanan uyumluluk sorunlarına neden oluyor olabilir. Bu gibi sorunlarla karşılaşırsanız veya bazı uygulamalar hatalı davranır, donar veya durdurmaya zorlanırsa, uygulama geliştiricilerin sorunları düzeltmelerini bekleyin ve uygulamayı yeniden yüklemeyi deneyin</string>
@@ -530,6 +535,18 @@ Herhangi bir uygulama verisi kaybetmezsiniz"</string>
     <string name="app_permission_use_neccesary">Gerekli izinler</string>
     <string name="app_permission_use_no_neccesary">İsteğe bağlı izinler</string>
     <string name="app_permission_use_title">İzinler</string>
+    <string name="app_predict_black_list_empty">Burada henüz öğe yok</string>
+    <string name="app_predict_black_list_setting_title">Uygulama önerileri engelleme listesi</string>
+    <string name="app_predict_folder_name">Ara</string>
+    <string name="app_predict_loading_text">Yükleniyor</string>
+    <string name="app_predict_search_title">Tüm uygulamalar</string>
+    <string name="app_predict_setting_black_list">Engelleme listesi</string>
+    <string name="app_predict_setting_black_list_message">Öneriler arasında görmek istemediğiniz uygulamaları engelleyin</string>
+    <string name="app_predict_setting_privacy">Gizlilik politikası</string>
+    <string name="app_predict_setting_switch_message">Kullanım alışkanlıklarınıza göre uygulama önerileri alın</string>
+    <string name="app_predict_setting_switch_title">Önerileri kişiselleştirin</string>
+    <string name="app_predict_setting_title">Uygulama önerileri</string>
+    <string name="app_predict_widget_name_2x4">Uygulama önerileri</string>
     <string name="app_right">Xiaomi tarafından üretildi</string>
     <string name="app_running_tip_dialog_negative">İptal et</string>
     <string name="app_running_tip_dialog_positive">Tamam</string>
@@ -1074,6 +1091,8 @@ Kişisel kırmızı zarfı destekleyin ve kırmızı zarfı gruplayın
     <string name="daily_pkg_traffic">Yoğun zaman veri limiti</string>
     <string name="data_booster_desc">Bağlantıyı stabil halde tutmak için diğer Sim yuvalarını devre dışı bırakın</string>
     <string name="data_booster_title">Ağ bağlantısını stabilize et</string>
+    <string name="data_local_processing_and_storage">Yerel olarak depolanan ve işlenen veriler</string>
+    <string name="data_local_processing_and_storage_detail">Girişiniz bu cihazda depolanacak, işlenecek ve buluta yüklenmeyecek</string>
     <string name="data_network_blocked_notification_title">İnternet bağlantısı yok</string>
     <string name="data_usage_correction_timeout_title">Veri kullanımı senkronizasyon işlemi zaman aşımına uğradı</string>
     <string name="data_usage_disabled_dialog">Tarifenizin veri kullanım limitine ulaştınız. Tarifenizin veri kullanım limitini aşarsanız operatörünüz tarafından ek ücretlendirmelere maruz kalabilirsiniz</string>
@@ -1164,6 +1183,8 @@ Cihazınızdaki tüm veriler silinebilir ve kilit ekranı şifreniz sıfırlanab
     <string name="dialog_title_auto_start_declare">Otomatik başlatma hakkında</string>
     <string name="dialog_title_stop_virus_scan">Güvenlik taramasını durdur</string>
     <string name="disable_air_mode">Öncelikle uçak modunu kapatın</string>
+    <string name="disable_sensitive_permissions">Hassas izinler kısıtlandı</string>
+    <string name="disable_sensitive_permissions_detail">Klavyeniz gizlilikle ilgili izinleri kullanamayacak (Örneğin: Kişilere veya konum bilgilerine erişim)</string>
     <string name="dlg_add_blacklist">Bu numara engellensin mi?</string>
     <string name="dlg_add_blacklist_title">Engelli listesine ekle</string>
     <string name="dlg_add_keyword">Anahtar kelime ekle</string>
@@ -1408,12 +1429,9 @@ Bu özelliğin yalnızca referans olarak sağlandığını anlamalısınız. Ald
     <string name="ew_monitor_share">Arkadaşlarına gönder</string>
     <string name="ew_monitor_slogan">"Deprem izlemeye katılın ve
 güvenli bir şehir inşa edin"</string>
-    <string name="ew_monitor_summary1">"Cep telefonu aynı zamanda
-bir deprem monitörüdür"</string>
-    <string name="ew_monitor_summary2">"Deprem haberlerini bildirin ve
-bir izleme ağı kurun"</string>
-    <string name="ew_monitor_summary3">"Daha fazla insanın deprem bilgilerini
-daha hızlı almasına yardımcı olun"</string>
+    <string name="ew_monitor_summary1">Cep telefonu aynı zamanda bir deprem monitörüdür</string>
+    <string name="ew_monitor_summary2">Deprem haberlerini bildirin ve bir izleme ağı kurun</string>
+    <string name="ew_monitor_summary3">Daha fazla insanın deprem bilgilerini daha hızlı almasına yardımcı olun</string>
     <string name="ew_monitor_support">Xiaomi ve Chengdu yüksek teknoloji afet azaltma araştırma enstitüsü arasında ortak araştırma ve geliştirme</string>
     <string name="ew_monitor_support_rom">* Bazı Xiaomi veya Redmi telefonlar ve MIUI sürümleri bu işlevi destekler</string>
     <string name="ew_monitor_thanks_tips">"%s deprem izleme gönüllüsü
@@ -1465,6 +1483,7 @@ gönüllüsü"</string>
     <string name="exit_dialog_release_memory_positive_button">Kapat</string>
     <string name="exit_dialog_release_memory_title">Cihazınızı <font color="#0099ff">%%%d</font> hızlandırın</string>
     <string name="exit_dialog_release_storage_message">"Cihazınızdaki depolamanın %80'den fazlası dolu. Hiç kullanmadığınız uygulamaları kaldırarak yer açın"</string>
+    <string name="exit_dialog_release_storage_message_new">"Cihazınızdaki depolamanın %s'den fazlası dolu. Hiç kullanmadığınız uygulamaları kaldırarak yer açın"</string>
     <string name="exit_dialog_release_storage_positive_button">Boş alan</string>
     <string name="exit_dialog_release_storage_title">Boş alan</string>
     <string name="exit_dialog_scan_message">Cihazınızın performans puanı 75 puandan düşük. Şimdi optimize edilsin mi?</string>
@@ -2167,6 +2186,7 @@ manzara moduna geçin"</string>
     <string name="image_protect_recover_success">Başarıyla geri yüklendi</string>
     <string name="image_protect_tips_title">Fotoğrafları siliniyor</string>
     <string name="image_protect_total_activity_label">Silinen fotoğraf bildirimleri</string>
+    <string name="ime_security_warning">%1$s şifreler ve diğer hassas bilgiler dahil yazdığınız her şeyi kaydedebilir. Yine de kullanılsın mı?</string>
     <string name="in_delete">Siliniyor</string>
     <string name="in_recover">Geri yükleniyor</string>
     <string name="info_and_call">Aramalar ve mesajlar</string>
@@ -2469,7 +2489,8 @@ Cihazınız şimdi %%%d daha hızlı"</string>
     <string name="menu_text_power_percent">%s</string>
     <string name="menu_text_power_percent_title">Pil seviyesi: %s</string>
     <string name="menu_wh_remove">İstisnalardan kaldır</string>
-    <string name="menu_white">Harici</string>
+    <string name="menu_white">İstisnalara ekle</string>
+    <string name="mi_ime_not_used">Xiaomi tarafından yetkilendirilmiş bir klavye kullanın</string>
     <string name="mi_pay_lucky">Xiaomi cüzdan</string>
     <string name="mi_service_app_detail">Veri kullanım detayları</string>
     <string name="mi_service_traffic_detail">Hizmet çerçevesi detayları</string>
@@ -2584,6 +2605,7 @@ Cihazınız şimdi %%%d daha hızlı"</string>
     <string name="net_delay_title">Gecikme</string>
     <string name="net_overdue">Sonlandırıldı</string>
     <string name="network_assistant_privacy">Uygulamaya göre veri kullanımını takip etmek için paket adları, wifi ve mobil veri kullanımı, yoğun ve yoğun olmayan veri kullanımı ve wifi ve mobil veri açık olduğunda gibi bilgileri toplarız. Bu bilgiler cihazınızda yerel olarak saklanır</string>
+    <string name="network_assistant_privacy_title">Uygulama, ağ kullanımı ve tanılama verilerini gönderin</string>
     <string name="network_blocked_connected_open_wifi">Halka açık ağa bağlanıldı</string>
     <string name="network_blocked_notification_summary">Ağ testi</string>
     <string name="network_blocked_switch_wifi">Ağları değiştir</string>
@@ -2754,6 +2776,8 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="numeric_settings_help_how_to_record">Pin nasıl ayarlanır</string>
     <string name="oaid_reset_content_tip">Sanal kimliği kapatırsanız bazı uygulamalar normal şekilde kullanılamayabilir ve veri kayıplarına neden olabilir. Lütfen dikkatli olun</string>
     <string name="oaid_reset_final_tip">Sanal kimliği kapatmak istediğinizden emin misiniz?</string>
+    <string name="offline_voice_input">Çevrimdışı ses girişi</string>
+    <string name="offline_voice_input_detail">Ses girişi için internete ihtiyacınız olmayacak</string>
     <string name="ok">Tamam</string>
     <string name="ok_button">Tamam</string>
     <string name="old_sdk_deny_warning">Bu uygulama güncel Android izin gereksinimleri ile uyumlu değil. Reddedilen izinler bu uygulamanın çalışma biçimini etkileyebilir</string>
@@ -3006,7 +3030,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="permission_instruction_write_settings">Bu izin uygulamaların sistem ayarlarını değiştirmesine izin verir. Kötü amaçlı uygulamalar bu izin özelliğini sistem ayarlarınızla birlikte kullanabilir ve cihazınızın normal kullanımını etkileyebilir</string>
     <string name="permission_permission_control_closed_desc_dialog_msg">Uygulamalar kişilerinizi okumadan, arama kaydınızı görüntülemeden, sistem ayarlarını değiştirmeden yada kamera veya diğer kaynaklara erişimden önce izninizi sormayacak. İzin ayarlarından bu özelliği kullanılabilir hale getirebilirsiniz</string>
     <string name="permission_permission_control_closed_desc_dialog_title">İzin yöneticisi</string>
-    <string name="permission_privacy_link"><a href="%1$s">%2$s</a></string>
+    <string name="permission_privacy_link"><Data>&lt;a href=\"%1$s\">%2$s&lt;/a></Data></string>
     <string name="permission_upgrade_more">Daha fazla gizlilik koruma özelliğine bakın</string>
     <string name="permission_upgrade_privacy_title">Kişisel gizlilik bilgilerinizi korumak için kayıt, kişiler ve diğer izinler desteği yalnızca kullanıldığında izin ver olarak ayarlanmış. Bu durumu ayarladıktan sonra uygulama bu izni arka planda kullanamaz</string>
     <string name="permission_upgrade_runtime">İzin için başvururken bu zamana izin ver olarak ayarlanmış konumlandırma ve kamera izinleri desteği ayarladıktan sonra uygulamayı kapatırsanız izinler sor seçeneğine geri döner</string>
@@ -3328,6 +3352,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="pp_optional_protection_function">İsteğe bağlı koruma önlemleri</string>
     <string name="pp_permission_action_virtual_detail">İzin verin ancak uygulamalara kişisel bilgiler yerine boş dosyalar verin</string>
     <string name="pp_permission_settings">İzinler</string>
+    <string name="pp_privacy_input_tips">Klavyenizi koruyun</string>
     <string name="pp_privacy_lab_blur_location">Yaklaşık konum</string>
     <string name="pp_privacy_lab_blur_location_summary">Konum bilginizi kişiselleştirerek uygulamaların yaklaşık konumunuza erişmesine izin verin</string>
     <string name="pp_privacy_lab_clipboard">Panoyu koru</string>
@@ -3552,6 +3577,13 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="privacy_guide_permission_use_text">MIUI bir uygulamanın konum, kişi, arama geçmişi ve depolama erişimi ve ayrıca ses kaydetme gibi hassas izinleri kaç kez kullanacağını sayar ve görüntüler. Her uygulamanın bu izinleri kaç kez kullandığını öğrenebilir ve izin ayarlarınızı değiştirmeniz gerekip gerekmediğini belirleyebilirsiniz</string>
     <string name="privacy_hide_other_permissions">Diğer izinleri gizle</string>
     <string name="privacy_informed_title">İstatistikleri</string>
+    <string name="privacy_input_icon_layout_status_bg_content_enable">Korumalı</string>
+    <string name="privacy_input_mode">Güvenli giriş</string>
+    <string name="privacy_input_mode_img_detail">Xiaomi tarafından yetkilendirilmiş klavyelerle çalışır</string>
+    <string name="privacy_input_mode_version_supported">Bu özelliği kullanabilmek için klavyenizi güncelleyin</string>
+    <string name="privacy_input_model_guide_choose">Çevrimdışı ses girişini indirin</string>
+    <string name="privacy_input_model_guide_text">"Bu özellik siz metin girerken gizliliğinizi korur. Bu özellik açıkken bazı ağ tabanlı işlevler kullanılamaz (Örneğin: Kişiselleştirme seçenekleri, emoji veya tahmine dayalı yazma)"</string>
+    <string name="privacy_input_model_tips">Güvenli giriş açık. Klavyeniz açılır pencereleri görüntüleyemez veya kişilere, konum bilgilerine ve arama geçmişine erişemez</string>
     <string name="privacy_location_info_summary">Konumunuza erişimi yönetin</string>
     <string name="privacy_location_info_title">Konum bilgisi</string>
     <string name="privacy_look_all_permission_status">Tüm izinler</string>
@@ -3702,6 +3734,10 @@ Kalibrasyon işlemi sırasında MIUI kalibrasyon şablonunu almak amacıyla bir 
     <string name="prompt_input_time_illegal">Bu zamana ayarlanamadı. Zamanı değiştirin ve yeniden deneyin</string>
     <string name="prompt_safe">Güvenli</string>
     <string name="prompt_unknown">Bilinmiyor</string>
+    <string name="protect_data_security">İzole veri</string>
+    <string name="protect_data_security_detail">Klavye tarafından oluşturulan veriler izole edilecek ve diğer uygulamalar tarafından erişilemeyecektir</string>
+    <string name="protect_screen_information">Ekranınız korunuyor</string>
+    <string name="protect_screen_information_detail">Yazarken ekran görüntüsü alamaz veya ekranınızı kaydedemezsiniz</string>
     <string name="protocol_exception_title">Ağ protokolu tanımlamaları</string>
     <string name="protocol_loop_back_exception_summary">"Yerel döngü testi başarısız oldu. Sorunu MIUI'ye bildirmek için geri bildirim uygulamasına gidin ve cihazından bir hata raporu gönderin"</string>
     <string name="provision_back">Geri</string>
@@ -3785,6 +3821,7 @@ Kalibrasyon işlemi sırasında MIUI kalibrasyon şablonunu almak amacıyla bir 
     <string name="risk_app_install_item_des">Sürüm: %1$s</string>
     <string name="risk_app_install_manager">Riskli uygulamalar</string>
     <string name="risk_count_suffix" />
+    <string name="risk_tip">Risk algılandı</string>
     <string name="roaming_allow_network_dialog_title">Dolaşımda mobil veri kullanımına izin verilsin mi?</string>
     <string name="roaming_limit_dialog_message">Günlük dolaşım mobil veri limitine ulaşıldı</string>
     <string name="roaming_limit_network_notification_body">Kullanılabilir veri ağlarını görüntülemek için dokunun</string>
@@ -3867,6 +3904,7 @@ Kalibrasyon işlemi sırasında MIUI kalibrasyon şablonunu almak amacıyla bir 
     <string name="set_complete">Kur</string>
     <string name="set_location">İlişkilendirmeyi ayarla</string>
     <string name="set_mixed_password_name">Şifre ayarla</string>
+    <string name="set_now">Ayarlar</string>
     <string name="set_numeric_password_name">Pin ayarla</string>
     <string name="set_package_tips">Sistem trafik bilgilerini sizin için düzeltmek için operatöre ücretsiz mesaj gönderecek ve aynı zamanda doldurduğunuz bilgiler şifrelenerek düzeltme mesaj şablonunu almak için yüklenecektir</string>
     <string name="set_package_tips_detail">Operatör bilgileri, cep telefonu numarası, IMEI numarası ve doldurduğunuz Xiaomi hesabı şifrelenecek ve Xiaomi sunucusuna yüklenecektir</string>
@@ -4204,6 +4242,8 @@ Kalibrasyon işlemi sırasında MIUI kalibrasyon şablonunu almak amacıyla bir 
     <string name="status_bar_network_flow_setup_data_plan">"   Tarife ayarla >"</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="still_retain_btn">Sakla</string>
+    <string name="stop_collecting_data">Klavye alışkanlıklarınızı öğrenmeyecek</string>
+    <string name="stop_collecting_data_detail">"Klavye tahmine dayalı yazmayı iyileştirmek ve alışkanlıklarınıza göre sık kullanılan ifadeler önermek için veri toplamaz</string>
     <string name="stop_milink_connect">Yansıtma durduruldu</string>
     <string name="storage_activity_title">Depolama alanı</string>
     <string name="storage_app_detail_activity_title">Dolu alan</string>
@@ -4765,6 +4805,7 @@ Kalan veri miktarı geçen aydan kalan veri miktarınıda içerir"</string>
     <string name="usbsharenet_exception_title">USB üzerinden paylaşılan interneti test et</string>
     <string name="usbsharenet_pc_exception_summary">USB üzerinden paylaşılan internet kullanılarak internete bağlanılamıyor. Bilgisayarınızın internet bağlantısını kontrol edin</string>
     <string name="use_immediately">Kullanım</string>
+    <string name="use_other_ime_warn">Üçüncü taraf klavyeler parolalar ve diğer hassas bilgiler dahil yazdığınız her şeyi kaydedebilir</string>
     <string name="user_define_title">Kural ekle</string>
     <string name="user_guide">Daha yeni oyunlar keşfetmek için yukarı kaydırın</string>
     <string name="user_guide_title">Joystick seçtikleri</string>
@@ -4784,7 +4825,8 @@ Kalan veri miktarı geçen aydan kalan veri miktarınıda içerir"</string>
     <string name="vb_quick_func_screening">Yayınla</string>
     <string name="vb_settings">Ayarlar</string>
     <string name="vb_ve_settings_ai_stronger">AI</string>
-    <string name="vb_ve_settings_display_style_tips">* Bu efektler tüm ekrana uygulanır</string>
+    <string name="vb_ve_settings_display_style_tips">* Bu efektler tüm ekrana uygulanacak</string>
+    <string name="vb_ve_settings_display_style_tips_new">* Bu efektler yalnızca video oynatma alanına uygulanacak</string>
     <string name="vb_ve_settings_pic_border_stronger">Geliştirilmiş konturlar</string>
     <string name="vb_ve_settings_picture_stronger">Geliştirilmiş animasyonlar</string>
     <string name="vb_video_effects_display_style">Stil</string>

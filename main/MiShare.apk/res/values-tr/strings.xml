@@ -181,6 +181,7 @@
     <string name="error_receive_user_cancel">Aktarma iptal edildi</string>
     <string name="error_receive_user_interrupted">Diğer kişi aktarmayı iptal etti</string>
     <string name="error_refuse_receive">Aktarma iptal edildi</string>
+    <string name="error_remote_ap_working">Diğer kişiden taşınabilir ortak erişim noktasını kapatmasını isteyin</string>
     <string name="error_remote_busy">Diğer cihaz meşgul gibi görünüyor. Bir iki dakika bekleyin ve tekrar deneyin</string>
     <string name="error_remote_mirror_working">Ekran paylaşımı sırasında diğer cihaz ögeleri kabul edemez</string>
     <string name="error_self_busy">Cihaz meşgul. Bir iki dakika bekleyin ve tekrar deneyin</string>
