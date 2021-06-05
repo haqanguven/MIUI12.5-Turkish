@@ -30,7 +30,7 @@
     <string name="actionbar_button_up_description">Geri</string>
     <string name="afternoon">Öğleden sonra</string>
     <string name="am">ÖÖ</string>
-    <string name="app_name">WallPaper</string>
+    <string name="app_name">Duvar kağıdı</string>
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="character_counter_content_description">Character limit exceeded %1$d of %2$d</string>
@@ -124,8 +124,8 @@
     <string name="earthly_branches_you">20</string>
     <string name="earthly_branches_zi">11</string>
     <string name="empty" />
-    <string name="eras_ad">M.S.</string>
-    <string name="eras_bc">M.Ö.</string>
+    <string name="eras_ad">CE</string>
+    <string name="eras_bc">BCE</string>
     <string name="evening">Öğleden sonra</string>
     <string name="expand_button_title">Gelişmiş</string>
     <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>

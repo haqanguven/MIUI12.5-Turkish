@@ -593,7 +593,7 @@ Mi dolaşımın normal şekilde çalışması için internete bağlanması ve ko
 %d. Kişiler uygulamasında ayarları açın ve ardından Kişileri içe veya dışa aktar - Sim karttan içe aktar seçeneğine gidin. Seçmek için herhangi bir Sim kişisini basılı tutun gerekli tüm kişileri seçin ve içe aktarın"</string>
     <string name="device_version_header_bluetooth">Bluetooth ile içe aktar</string>
     <string name="device_version_header_no_bluetooth">Sim kart ile içe aktar</string>
-    <string name="dialerIconLabel">Son kullanılanlar</string>
+    <string name="dialerIconLabel"></string>
     <string name="dialer_copy_view_delete_description">Kopyalanan numarayı temizle</string>
     <string name="dialer_digits_copy_number_label">Kopyalanan numara</string>
     <string name="dialer_empty_text_no_call_log">Son kullanılan kişiler yok</string>

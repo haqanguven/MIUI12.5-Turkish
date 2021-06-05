@@ -2774,8 +2774,10 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="numeric_recording_intro_header">Şifre girin</string>
     <string name="numeric_retry_button_text">İptal et</string>
     <string name="numeric_settings_help_how_to_record">Pin nasıl ayarlanır</string>
+    <string name="oaid_apps_title">Sanal kimliği yönet</string>
     <string name="oaid_reset_content_tip">Sanal kimliği kapatırsanız bazı uygulamalar normal şekilde kullanılamayabilir ve veri kayıplarına neden olabilir. Lütfen dikkatli olun</string>
     <string name="oaid_reset_final_tip">Sanal kimliği kapatmak istediğinizden emin misiniz?</string>
+    <string name="oaid_tips_content">Sanal Kimlikler davranışınızı izlemek ve reklamları sizin için kişiselleştirmek için kullanılabilir. Hangi uygulamaların sanal kimliğinize erişmesine izin verileceğini seçebilirsiniz. Erişimi kısıtlarsanız reklam önerilerinin alakasız hale gelebileceğini veya uygulamaların normal şekilde çalışmayabileceğini unutmayın</string>
     <string name="offline_voice_input">Çevrimdışı ses girişi</string>
     <string name="offline_voice_input_detail">Ses girişi için internete ihtiyacınız olmayacak</string>
     <string name="ok">Tamam</string>
@@ -2912,6 +2914,10 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="pc_battery_history_show_imei">İmei:</string>
     <string name="pc_battery_history_total_consumption_title">Toplam güç tüketimi</string>
     <string name="pc_battery_history_usetime_title">Aktif</string>
+    <string name="pc_hidemode_normal">Dengeli</string>
+    <string name="pc_hidemode_performance">Performans</string>
+    <string name="pc_hidemode_performance_title">Performans modu</string>
+    <string name="pc_hidemode_power_save">Pil tasarrufu</string>
     <string name="pc_install_manager">USB üzerinden yükleme</string>
     <string name="pc_main_activity_back">Geri</string>
     <string name="pc_main_battery_text_day">%1$sd eklendi. Yaklaşık %2$s gün kaldı</string>
@@ -2923,6 +2929,8 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="pc_main_power_manager_hour_minute">Tamamen şarj olmasına %1$s saat %2$s dakika kaldı</string>
     <string name="pc_main_sub_battery_text_day_hour">%1$s gün %2$s saat kaldı</string>
     <string name="pc_main_sub_battery_text_hour_minute">%1$s saat %2$s dakika kaldı</string>
+    <string name="pc_performance_mode_dialog_summary">Cihazınız performans modunda %s çalışabilecek. Performans modunun güç tüketimini artırdığını ve aşırı ısınmaya neden olabileceğini unutmayın</string>
+    <string name="pc_performance_mode_dialog_title">Performans modu</string>
     <string name="pc_search_keywords_battery">Pil</string>
     <string name="pc_search_keywords_battery_save">Pil tasarrufu</string>
     <string name="pc_search_keywords_battery_use">Pil kullanımı</string>

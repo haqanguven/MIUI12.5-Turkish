@@ -1752,12 +1752,12 @@ Bu özelliği Ayarlar > Bluetooth > Eşleştirilen cihazlar menüsünde değişt
     <string name="color_gray">Gri</string>
     <string name="color_green">Yeşil</string>
     <string name="color_lamp_applications_title">Bildirimleri yönet</string>
-    <string name="color_lamp_applications_title_summary">Bildirim kategorileri içinde ışık kullanmaya izin ver veya kısıtla</string>
-    <string name="color_lamp_battery_title">Şarj sırasında devam et</string>
-    <string name="color_lamp_charging_summary">Cihazınız tam şarj edildiğinde ışığı kapatılacak</string>
+    <string name="color_lamp_applications_title_summary">Bildirim kategorileri içinde ışığın kullanıma izin verir veya kısıtlar</string>
+    <string name="color_lamp_battery_title">Şarj ışığı</string>
+    <string name="color_lamp_charging_summary">Cihazınız tam şarj oluduğunda ışığın kullanımını seçebilirsiniz</string>
     <string name="color_lamp_incall_pulse_title">Gelen aramalar için flaş ışığı</string>
     <string name="color_lamp_notification_pulse_title">Ekran kapalı olduğunda bildirimler için flaş ışığı</string>
-    <string name="color_lamp_title">Renkli ışık</string>
+    <string name="color_lamp_title">Işık</string>
     <string name="color_led_applications_title">Uygulama seçin</string>
     <string name="color_led_applications_title_summary">Işık kullanımını her bir uygulama için kısıtlayabilirsiniz</string>
     <string name="color_led_battery_title">Şarj ederken devam et</string>
@@ -1777,7 +1777,7 @@ Bu özelliği Ayarlar > Bluetooth > Eşleştirilen cihazlar menüsünde değişt
     <string name="color_led_red_packets_summary">Kırmızı zarf asistanı açıkken WeChat ve QQ uygulamalarından gelen kırmızı zarflar için efekt göster</string>
     <string name="color_led_special_scene_title">Özel efektler</string>
     <string name="color_led_start_time">Başlangıç zamanı</string>
-    <string name="color_led_summary">Rahatsız Etme modunda çalışmaz</string>
+    <string name="color_led_summary">Rahatsız etme modunda çalışmaz</string>
     <string name="color_led_title">Işık</string>
     <string name="color_magenta">Magenta</string>
     <string name="color_mode_option_automatic">Otomatik</string>
@@ -9142,8 +9142,8 @@ Ayarları şu şekilde güncelle:
 	<string name="time_setting_sound_title">Zaman ayarı sesi</string>
 	<string name="lockscreen_powermenu_options_title">Güç menüsü seçenekleri</string>
 	<string name="lockscreen_powermenu_options_summary">Kilit ekranında güç menüsü kullanımını etkinleştirir veya devre dışı bırakabilirsiniz</string>
-	<string name="unlocking_fingerprint_title">Parmak izi ile kilidi aç</string>
-	<string name="unlocking_fingerprint_summary">Yeniden başlattıktan sonra şifreyi veya deseni girmek yerine parmak izi ile kilidi açmanıza izin verir</string>
+	<string name="unread_notifications_title">Okunmamış bildirimler</string>
+	<string name="unread_notifications_summary">Kilit ekranında her zaman okunmamış bildirimleri gösterir</string>
 	<string name="secure_screenshot_disable_title">Her yerde ekran resmi al</string>
 	<string name="call_brightness_title">Arama parlaklığı</string>
 	<string name="call_night_brightness_title">Gece arama parlaklığı</string>
