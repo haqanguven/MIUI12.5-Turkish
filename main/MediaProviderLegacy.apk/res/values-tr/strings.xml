@@ -27,25 +27,6 @@
     <string name="abc_shareactionprovider_share_with">Şununla paylaş:</string>
     <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
     <string name="abc_toolbar_collapse_description">Daralt</string>
-    <string name="allow">İzin ver</string>
-    <string name="app_label">Medya deposu</string>
-    <string name="artist_label">Sanatçı</string>
-    <string name="cache_clearing_dialog_text">%s bazı geçici dosyaları temizlemek istiyor. Bu pil veya hücresel veri kullanımının artmasına neden olabilir</string>
-    <string name="cache_clearing_dialog_title">Geçici uygulama dosyalarını temizleyin</string>
-    <string name="cache_clearing_in_progress_title">Geçici uygulama dosyaları temizleniyor</string>
-    <string name="clear">Temizle</string>
-    <string name="deny">Reddet</string>
-    <string name="grant_dialog_button_allow">Kabul et</string>
-    <string name="grant_dialog_button_deny">Reddet</string>
-    <string name="permission_required">Bu öğeyi değiştirmek veya silmek için izin gerekli</string>
-    <string name="permission_required_action">Devam et</string>
-    <string name="root_audio">Ses</string>
-    <string name="root_documents">Belgeler</string>
-    <string name="root_images">Resimler</string>
-    <string name="root_videos">Videolar</string>
     <string name="search_menu_title">Ara</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="storage_description">Yerel depolama</string>
-    <string name="uid_label">Medya</string>
-    <string name="unknown">Bilinmiyor</string>
 </resources>

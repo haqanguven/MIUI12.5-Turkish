@@ -139,6 +139,7 @@
     <string name="delete">Sil</string>
     <string name="delete_cloud_data_at_same_time">Buluttan da sil</string>
     <string name="delete_dialog_message">Kayıt silinsin mi?</string>
+    <string name="delete_recorder">Sil</string>
     <string name="deleting_message">Siliniyor</string>
     <string name="details">Ayrıntılar</string>
     <string name="dialog_content_storage_full">Cihazınızın dahili depolama alanında yeterli boş alan kalmadığından kayıt durduruldu</string>
@@ -418,6 +419,7 @@ Metne kaydetme şu anda yalnızca mandarin aktarımını desteklemektedir. Aktar
     <string name="pay_error_cancel">Ödeme iptal edildi</string>
     <string name="pay_error_null">Ödeme tamamlanamadı. Hesabınızı kontrol edin</string>
     <string name="pay_error_unknown">Bilinmeyen hata</string>
+    <string name="play_speed">%1$.1fX hız</string>
     <string name="playback_delete_records">Kaydı sil</string>
     <string name="playback_share_records">Kaydı paylaş</string>
     <string name="pm">ÖS</string>

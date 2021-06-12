@@ -96,6 +96,7 @@
     <string name="alert_reminder_divider">|</string>
     <string name="alert_reminder_expired">Süresi doldu</string>
     <string name="alert_title">Takvim bildirimleri</string>
+    <string name="all_events">Tüm etkinlikler</string>
     <string name="am">ÖÖ</string>
     <string name="anniversary_event_title">Yıl dönümü: %1$s</string>
     <string name="anniversary_of_lifting_martial_law">Ciddi çözünürlük günü</string>
@@ -116,6 +117,7 @@
     <string name="autumn_begins_tradition">Sonbahar başlangıcı</string>
     <string name="autumn_equinox">Sonbahar bitişi</string>
     <string name="autumn_equinox_tradition">Sonbahar bitişi</string>
+    <string name="back_to_today">Bugün</string>
     <string name="birthday_born">Doğum tarihi</string>
     <string name="birthday_calendar_display_name">Doğum günü hatırlatıcıları</string>
     <string name="birthday_event_description_a_week_ago">Bir hafta önce</string>
@@ -260,6 +262,7 @@
     <string name="clearable_edittext_clear_description">Temizle</string>
     <string name="click_for_create_event">%s için etkinlik oluştura tıklayın</string>
     <string name="click_paste">Yapıştırmak için tıklayın</string>
+    <string name="close">Kapat</string>
     <string name="close_alarm">Kapat</string>
     <string name="cold_dews">Soğuk çığ</string>
     <string name="cold_dews_tradition">Soğuk çığ</string>
@@ -302,6 +305,7 @@
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Çin geleneceksel takvim</string>
     <string name="date_time_fmt">%1$s, %2$s</string>
+    <string name="date_time_picker_dialog_title">Tarih ve saati ayarla</string>
     <string name="date_today">" (Bugün)"</string>
     <string name="day_view_new_event_hint">+ Yeni etkinlik</string>
     <string name="default_reminder_later_time">Daha sonra hatırlat için varsayılan aralık</string>
@@ -1084,6 +1088,7 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin"</string>
     <string name="search_menu_title">Ara</string>
     <string name="select_date">Tarihe atla</string>
     <string name="select_today_tip">Bugün</string>
+    <string name="send">Gönder</string>
     <string name="service_rejected_temporarily">Sertifika geçici olarak reddedildi</string>
     <string name="setting">Ayarlar</string>
     <string name="setting_about_calendar_version">Takvim sürümü: %1$s-%2$s</string>
@@ -1356,6 +1361,9 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin"</string>
     <string name="today_no_events">Etkinlik yok</string>
     <string name="todo_audio_event">"[Ses görevi] "</string>
     <string name="todo_event">Yaklaşan görevler</string>
+    <string name="toggle_month_view">Ay görünümü</string>
+    <string name="toggle_weekly_view">Görünümü değiştir</string>
+    <string name="toggle_year_view">Yıl görünümü</string>
     <string name="tomorrow">Yarın</string>
     <string name="tomorrow_at_time_fmt">Yarın %s saatinde</string>
     <string name="too_long_content">İçerik çok uzun</string>
@@ -1450,6 +1458,7 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin"</string>
     <string name="view_event_organizer_label">Düzenleyen:</string>
     <string name="view_event_response_label">Katılıyor musunuz?</string>
     <string name="view_in_month_view">Ayı görüntüle</string>
+    <string name="view_today_events">Bugünün etkinlikleri</string>
     <string name="weather_card_humidity_desc">%%%1$s nem</string>
     <string name="weather_card_no_data_hint">Hava durumu verilerini almak için tıklayın</string>
     <string name="weather_huangli_card_no_data_hint">Hava durumu bilgileri için tıklayın</string>

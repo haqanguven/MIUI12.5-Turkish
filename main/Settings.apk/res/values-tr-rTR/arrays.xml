@@ -1151,19 +1151,6 @@ Not: Sadece Ubuntu 8.04 için geçerlidir"</item>
         <item>Eş cihazın Pin kodu</item>
         <item>Bu cihazın Pin kodu</item>
     </string-array>
-    <string-array name="wifi_peap_phase2_entries">
-        <item>Yok</item>
-        <item>MSCHAPV2</item>
-        <item>GTC</item>
-    </string-array>
-    <string-array name="wifi_peap_phase2_entries_with_sim_auth">
-        <item>Yok</item>
-        <item>MSCHAPV2</item>
-        <item>GTC</item>
-        <item>SIM</item>
-        <item>AKA</item>
-        <item>"AKA'"</item>
-    </string-array>
     <string-array name="wifi_privacy_entries">
         <item>Rastgele MAC kullan</item>
         <item>Cihaz MAC kullan</item>
@@ -1225,25 +1212,4 @@ Not: Sadece Ubuntu 8.04 için geçerlidir"</item>
         <item>5x</item>
         <item>10x</item>
     </string-array>
-	<string-array name="statusbar_style_entries">
-		<item>Varsayılan</item>
-		<item>Stil 1</item>
-		<item>Stil 2</item>
-	</string-array>
-	<string-array name="switch_control_panel_entries">
-		<item>Sağ</item>
-		<item>Sol</item>
-	</string-array>
-	<string-array name="text_lines_entries">
-		<item>Varsayılan</item>
-		<item>Tek satır</item>
-		<item>Çift satır</item>
-		<item>Slayt</item>
-	</string-array>
-	<string-array name="notification_icon_position_entries">
-		<item>Sağ üst</item>
-		<item>Sol üst</item>
-		<item>Sol alt</item>
-		<item>Sağ alt</item>
-	</string-array>
 </resources>

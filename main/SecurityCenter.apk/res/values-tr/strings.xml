@@ -537,7 +537,13 @@ Herhangi bir uygulama verisi kaybetmezsiniz"</string>
     <string name="app_permission_use_title">İzinler</string>
     <string name="app_predict_black_list_empty">Burada henüz öğe yok</string>
     <string name="app_predict_black_list_setting_title">Uygulama önerileri engelleme listesi</string>
+    <string name="app_predict_dialog_button">Ana ekrana ekle</string>
+    <string name="app_predict_dialog_message">AI şu anda ihtiyaç duyabileceğiniz uygulamaları önerecek</string>
+    <string name="app_predict_dialog_success">Ana ekrana başarıyla eklendi</string>
     <string name="app_predict_folder_name">Ara</string>
+    <string name="app_predict_guide_button">Ekle</string>
+    <string name="app_predict_guide_message">AI şu anda ihtiyaç duyabileceğiniz uygulamaları önerecek</string>
+    <string name="app_predict_guide_title">Akıllı uygulama önerileri</string>
     <string name="app_predict_loading_text">Yükleniyor</string>
     <string name="app_predict_search_title">Tüm uygulamalar</string>
     <string name="app_predict_setting_black_list">Engelleme listesi</string>
@@ -2039,6 +2045,7 @@ ve ses değiştiricimizi keşfedin"</string>
     <string name="gmscore_support_remind">Gmail, Google haritalar ve diğer Google uygulamalarında sorun yaşıyorsanız bu özelliği etkinleştirin. Bu özellik pil ömrünü bir miktar azaltacaktır</string>
     <string name="gmscore_support_service">Google hizmetleri</string>
     <string name="go_to">Devam et</string>
+    <string name="go_to_mi_sim">"Mi Sim'i kullanmak için dokunun"</string>
     <string name="go_to_send">Gönder</string>
     <string name="go_to_setting_fingerprint">Ayarlar</string>
     <string name="google_api_key">AIzaSyCLTk-WlTTx8UwHK2EdapM_Pu-CiQHYaio</string>
@@ -2494,6 +2501,7 @@ Cihazınız şimdi %%%d daha hızlı"</string>
     <string name="mi_pay_lucky">Xiaomi cüzdan</string>
     <string name="mi_service_app_detail">Veri kullanım detayları</string>
     <string name="mi_service_traffic_detail">Hizmet çerçevesi detayları</string>
+    <string name="mi_sim_link">"%1$s&lt;br/>&lt;br/>&lt;font color='#ccffffff'>&lt;U>Mi Sim'i doldurmak için dokunun&lt;/U>&lt;/font>"</string>
     <string name="mian_page_primary_txt">Uluslararası dolaşım</string>
     <string name="midnight">Gece</string>
     <string name="midrop_post_notification_contentText">"Mi Drop'ı dene. Hızlı ve reklamsız"</string>
@@ -2661,7 +2669,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="network_traffic_warning_title">Sistem uygulamaları için veri kullanımı</string>
     <string name="networkchanged_exception_summary">Ağ bağlantısı değişti. Yeniden test edin</string>
     <string name="networkchanged_exception_title">Bağlantı değişti</string>
-    <string name="never">1 kez</string>
+    <string name="never_new">%d kez</string>
     <string name="news_change">Değiştir</string>
     <string name="nickname">Kullanıcı adı</string>
     <string name="night">Akşam</string>
@@ -3310,6 +3318,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="power_setting_super_save_summary_text">Pil tasarrufu için çoğu sistem özelliklerini kısıtlayın</string>
     <string name="power_setting_warm_configure">Sıcaklık kontrolü</string>
     <string name="power_setting_warm_performance_tip">Yüksek güç tüketimi gerektiren senaryolar cihazınızın sıcaklığını varsayılan sıcaklık kontrol modunun seviyelerinin üzerine çıkartacaktır</string>
+    <string name="power_setting_wireless_reverse_charging_fg_control_title">Şarj sınırı</string>
     <string name="power_setting_wireless_reverse_charging_summary">Uyumlu cihazları kablosuz olarak şarj edin</string>
     <string name="power_setting_wireless_reverse_charging_title">Ters kablosuz şarj</string>
     <string name="power_settings_category_title">Pil göstergesi</string>
@@ -3322,6 +3331,17 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="power_superpower_title_systemui_highpower">Kalan süre</string>
     <string name="power_superpower_title_systemui_lowpower">Şarj cihazını bağlayın</string>
     <string name="power_wifi">Wifi</string>
+    <string name="power_wireless_need_update_text">Güncelliyor</string>
+    <string name="power_wireless_update_button_text">Güncelle</string>
+    <string name="power_wireless_update_dialog_button">Anladım</string>
+    <string name="power_wireless_update_dialog_message">Kablosuz şarj donanım yazılımını güncelleyebilmek için cihazınızı en az %s şarj edin</string>
+    <string name="power_wireless_update_dialog_title">Düşük pil</string>
+    <string name="power_wireless_update_driver">Firmware güncellemeleri</string>
+    <string name="power_wireless_update_notification_button">Görüntüle</string>
+    <string name="power_wireless_update_notification_subtitle">Kablosuz şarjın kararlılığını artırmak için ürün yazılımını güncelleyin</string>
+    <string name="power_wireless_update_notification_title">Kablosuz şarj güncellemesi</string>
+    <string name="power_wireless_update_text">Güncel</string>
+    <string name="power_wireless_update_tv_text">"Bellenimi güncelleme 6 Cihazı kapatmayın"</string>
     <string name="pp_app_behavior_record_detail">Tüm uygulamaların davranışlarını kaydedin</string>
     <string name="pp_app_del_img_intercept_detail">Uygulamalar izniniz olmadan galerideki öğeleri sildiğinde bildirim alın</string>
     <string name="pp_app_gets_dangerous_permission_reminder">Uygulamalar yüksek riskli izinler kullandığında bildirim alın</string>
@@ -3922,6 +3942,8 @@ Kalibrasyon işlemi sırasında MIUI kalibrasyon şablonunu almak amacıyla bir 
     <string name="setting_alarm_summary">Büyük platformlarda kırmızı zarf olayları için alarmları içerir</string>
     <string name="setting_online_service">Çevrimiçi hizmetler</string>
     <string name="setting_privacy_password">Desen ekle</string>
+    <string name="setting_wireless_reverse_charging_fg_control_summary">Bu cihazın pili %s değerine ulaştığında ters kablosuz şarjı durdurun</string>
+    <string name="setting_wireless_reverse_charging_summary">Qi kablosuz şarjı destekleyen cihazı bu cihazın arkasının ortasına yerleştirin (Örneğin: telefon veya giyilebilir cihaz)</string>
     <string name="settings">Veri kullanım ayarları</string>
     <string name="settings_battery_consume_abnormal_summary">Pil çok hızlı kullanılmaya başladığında bildirimler alın</string>
     <string name="settings_battery_consume_abnormal_title">Pil kullanım bildirimleri</string>
@@ -4345,6 +4367,7 @@ Biçimlendirme ^2 üzerindeki mevcut içeriği silecektir. İçerik kaybını ö
     <string name="suggest_app_tolock_masked">Gizli</string>
     <string name="suggest_app_tolock_unmasked">Görünür bildirimler</string>
     <string name="suggest_scan_again">Güvenlik risklerinden kaçınmak için taramayı tamamlayın</string>
+    <string name="suggest_to_use_mi_sim">suggest_to_use_mi_sim</string>
     <string name="summary_app_lock_disable">Verilerinizi Uygulama Kilidi ile koruyun</string>
     <string name="summary_app_update_new">Yeni özelliklere erişmek için uygulamaları güncelleyin</string>
     <string name="summary_auto_update">MIUI güncellemeleri indirmek ve yüklemek için en uygun zamanı seçer</string>
