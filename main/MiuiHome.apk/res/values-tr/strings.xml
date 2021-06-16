@@ -724,6 +724,7 @@
     <string name="recent_menu_item_multi_window">Böl</string>
     <string name="recent_menu_item_unlock">Kilidi aç</string>
     <string name="recents_app_info_button_label">Uygulama bilgisi</string>
+    <string name="recents_clear_all_tasks">Tümünü temizle</string>
     <string name="recents_config_title">Son işlem ayarları</string>
     <string name="recents_dimiss_task">Temizle</string>
     <string name="recents_empty_message">Son öğe yok</string>
@@ -735,6 +736,7 @@
     <string name="recents_layout_style">Kullanılan uygulamaların görünüm düzeni</string>
     <string name="recents_layout_style_horizontal">Yatay</string>
     <string name="recents_layout_style_vertical">Dikey</string>
+    <string name="recents_smallwindow_drag_text">Sabitlemek için buraya sürükle</string>
     <string name="recents_smallwindow_text">Eklemek için bırakın</string>
     <string name="recents_task_screening">Yayın yapılıyor</string>
     <string name="recents_title_app_manager">Uygulamaları yönet</string>

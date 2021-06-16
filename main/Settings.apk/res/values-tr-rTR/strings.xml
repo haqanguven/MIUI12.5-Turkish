@@ -6818,6 +6818,7 @@ Pin yanlış olabilir"</string>
     <string name="smart_battery_manager_title">Pil Yöneticisi</string>
     <string name="smart_battery_summary">Sık kullanmadığınız uygulamalar için pil tüketimini sınırlayın</string>
     <string name="smart_battery_title">Uygulamaları otomatik olarak yönet</string>
+    <string name="smart_home_select_smart_device">Akıllı ev cihazlarını yönetin</string>
     <string name="smart_home_title">Akıllı ev</string>
     <string name="smart_home_value_none">Yok</string>
     <string name="smart_home_value_unknown">Bilinmeyen</string>
