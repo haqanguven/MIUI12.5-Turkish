@@ -212,7 +212,7 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Çince geleneksel takvim</string>
-    <string name="date_time_picker_dialog_title">Set date and time</string>
+    <string name="date_time_picker_dialog_title">Tarih ve saati ayarla</string>
     <string name="default_language">@string/language_value_chinese_cn</string>
     <string name="delete">Sil</string>
     <string name="document_color_picture">Renk</string>
@@ -238,6 +238,7 @@
     <string name="document_rectify_tip_msg">Ayarlanıyor</string>
     <string name="document_region">Bölge</string>
     <string name="document_rename">Yeniden adlandır</string>
+    <string name="document_rename_error">Yeniden adlandırma hatası</string>
     <string name="document_rnext_step">İleri</string>
     <string name="document_save_succeed_tip">Belge %1$s konumuna kaydedildi</string>
     <string name="document_save_text">Kaydet</string>
@@ -915,7 +916,7 @@ Cihazı yerleştirmek için lütfen resimdeki açıya bakın ve tekrar deneyin"<
     <string name="web">İnternet sitesi:</string>
     <string name="web_url">Bağlantı</string>
     <string name="website_details">İnternet sitesi:</string>
-    <string name="wechat_scan_code">WeChat scanner</string>
+    <string name="wechat_scan_code">WeChat tarayıcı</string>
     <string name="wechatcode_auto_processing_function_requires_permissions">"WeChat kod otomatik işleme fonksiyonu WeChat'in kamera izinlerine ve depolama izinlerine sahip olmasını gerektirir"</string>
     <string name="wednesday">Çarşamba</string>
     <string name="wednesday_short">Çarşamba</string>

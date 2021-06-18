@@ -6110,6 +6110,7 @@ Uygulama sabitlemeyi kullanmak için:
     <string name="screen_saturation">Doygunluk</string>
     <string name="screen_shot">Ekran görüntüsü kaydet</string>
     <string name="screen_timeout">Uyku</string>
+    <string name="screen_timeout_subtitle">Statik içeriğin uzun süre görüntülenmesi renklerin düzensiz olmasına neden olabilir</string>
     <string name="screen_timeout_summary">%1$s sonra</string>
     <string name="screen_timeout_title">Uyku modu</string>
     <string name="screen_usage_summary">Tam şarjdan sonra ekranın açık olduğu süre</string>

@@ -48,6 +48,7 @@
     <string name="am">ÖÖ</string>
     <string name="app_name">Yedekleme</string>
     <string name="apps_and_data_item_desc">Uygulamalar ve veri</string>
+    <string name="apps_item_desc">Uygulama</string>
     <string name="auto_backup">Rutin yedekleme zamanlama</string>
     <string name="auto_backup_all_user_apps">Tüm uygulamalar</string>
     <string name="auto_backup_choose">Ögeleri yedekle</string>
@@ -570,6 +571,7 @@ http://www.miliao.com
     <string name="new_pc_backup_summary2_pad">Mobil cihazınızı bir USB kablosuyla bilgisayara bağlayın</string>
     <string name="new_pc_backup_summary4">Not: MIUI-DCIM klasöründen fotoğrafları ve videolarıda kopyalayabilirsiniz</string>
     <string name="new_pc_restore_content1">%d. Mobil cihazınızı bir USB kablosuyla bilgisayara bağlayın</string>
+    <string name="new_pc_restore_content1_pad">%d. Mobil cihazınızı bir USB kablosuyla bilgisayara bağlayın</string>
     <string name="new_pc_restore_content2">%d. Yedeklemeyi bilgisayarınızdan MIUI-Backup-AllBackup klasörüne kopyalayın</string>
     <string name="new_pc_restore_content2_pad">%d. Yedeklemeyi bilgisayarınızdan MIUI-Backup-AllBackup klasörüne kopyalayın</string>
     <string name="new_pc_restore_content3">%1$d. %2$s dosyasını açın ve geri yüklenecek öğeleri seçin</string>

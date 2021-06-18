@@ -35,7 +35,8 @@
     <string name="africans_white_backed_vulture">Ak sırtlı akbaba</string>
     <string name="afternoon">ÖS</string>
     <string name="all_ringtone">Daha fazla</string>
-    <string name="all_ringtone_summary">Çevrim içi zil seslerini seçin</string>
+    <string name="all_ringtone_summary">Çevrimiçi zil sesi seçin</string>
+    <string name="all_ringtone_summary_pad">Zil sesi seçin</string>
     <string name="am">ÖÖ</string>
     <string name="amazon_introduction">"Gezegenimizdeki en biyolojik çeşitlilikteki bölge dünyanın akciğerleri olarak anılır</string>
     <string name="amazon_orange_winged_info">Turuncu kanatlı amazon yüksek tiz çığlıklar atan büyük gürültülü bir papağandır</string>
@@ -680,6 +681,7 @@
     <string name="start_easymode">Basit modu aç</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="steady_on_screen_notification_title">Telefonunuzu bırakın ve bir mola verin</string>
+    <string name="steady_on_screen_notification_title_pad">Cihazınızı bırakın ve bir mola verin</string>
     <string name="steady_on_screen_notify">Kesintisiz kullanım bildirimi</string>
     <string name="steady_on_screen_setting">Kesintisiz oturumlar için zaman sınırı</string>
     <string name="steady_on_screen_summary">Kesintisiz oturumlar için zaman sınırı</string>
@@ -925,6 +927,7 @@ Bu uygulama normal çalışabilmek için internete bağlanmaya ve aşağıdaki i
     <string name="usage_state_focus_level_summary">Mevcut seviye: %s</string>
     <string name="usage_state_focus_mode_experience_warning_message">Odak modu yalnızca kamerayı kullanmaya ve acil durum aramaları yapmaya izin verir. Zamanından önce Odak modunu kapatamazsınız</string>
     <string name="usage_state_focus_mode_experience_warning_message_pad">Odak modu yalnızca kamera kullanımına izin verir. Odak modunu erken kapatamazsınız</string>
+    <string name="usage_state_focus_mode_experience_warning_message_sim_pad">Odak modu yalnızca kamera kullanımına izin verir. Odak modunu erken kapatamazsınız</string>
     <string name="usage_state_focus_mode_summary">Acil durum çağrısı ve Kamera haricindeki bütün özellikleri kısıtla</string>
     <string name="usage_state_focus_mode_summary1">İyi bir başlangıç yapmak yarısını bitirmektir</string>
     <string name="usage_state_focus_mode_summary2">Odaklan</string>
@@ -932,6 +935,7 @@ Bu uygulama normal çalışabilmek için internete bağlanmaya ve aşağıdaki i
     <string name="usage_state_focus_mode_title">Odak modu</string>
     <string name="usage_state_focus_mode_warning_message">Odak modu yalnızca kamerayı kullanmaya ve acil durum aramaları yapmaya izin verir. Zamanından önce Odak modunu kapatamazsınız</string>
     <string name="usage_state_focus_mode_warning_message_pad">Odak modu yalnızca kamera kullanımına izin verir. Odak modunu erken kapatamazsınız</string>
+    <string name="usage_state_focus_mode_warning_message_sim_pad">Odak modu yalnızca kamera kullanımına izin verir. Odak modunu erken kapatamazsınız</string>
     <string name="usage_state_focus_mode_warning_title">Uyarı</string>
     <string name="usage_state_focus_success">Meydan okuma tamamlandı</string>
     <string name="usage_state_focus_take_photo">Kamera</string>

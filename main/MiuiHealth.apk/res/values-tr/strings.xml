@@ -293,6 +293,7 @@ Size öneriler sunmak için sağlık verilerinizi üçüncü taraf bir hizmet sa
     <string name="collapse">Gizle</string>
     <string name="collect_diagnosis_log">Kayıt günlüğünü topla</string>
     <string name="complete_preference_basic_info">Profilinizi tamamlayın</string>
+    <string name="complete_progress">İlerliyor</string>
     <string name="completed">Tamamlandı</string>
     <string name="completed_stand">Ayağa kalktın</string>
     <string name="confirm_opening">Aç</string>
@@ -1839,6 +1840,7 @@ bulunamadı"</string>
     <string name="tb_stand_day_ring">Bugün ayağa kalkma: %1$s. Bugün en az 12 tane yapmalısın</string>
     <string name="tb_stand_wm_column_chart">%1$s ve %2$s arasındaki ayakta durma. Zaman periyotları arasında geçiş yapmak için yatay olarak kaydırın. Ayrıntıları görüntülemek için dokunun</string>
     <string name="tb_stand_wm_column_click">%1$s. Ayağa kalkma: %2$d. %3$s</string>
+    <string name="tb_step_widget" formatted="false">Bugün. %1$s. İşleniyor: %2$d%</string>
     <string name="tb_unmultiple_selecte_all">Hiçbiri</string>
     <string name="tb_user_account_signed">Mi hesabı: %1$s.</string>
     <string name="tb_user_account_unsigned">Mi hesabında oturum açmak için dokunun</string>
@@ -1987,6 +1989,7 @@ Yenilikler:
     <string name="v7_preference_off">Kapalı</string>
     <string name="v7_preference_on">Açık</string>
     <string name="value_error_correct">Kaydı düzenle</string>
+    <string name="view_step_and_progress">Mevcut adım sayınızı görüntüleyin</string>
     <string name="visceral_fat">Viseral yağ</string>
     <string name="visceral_fat_descripe_content">Viseral yağ iç organları stabilize etmek ve korumak için gereklidir. Bununla birlikte yüksek viseral yağ, kardiyovasküler ve metabolik hastalık riskini artırır</string>
     <string name="voice_remind">Talimatları daha iyi duyabilmeniz için sesi artırdık</string>
