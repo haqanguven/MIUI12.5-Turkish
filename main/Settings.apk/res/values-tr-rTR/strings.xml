@@ -2051,9 +2051,14 @@ Telefonunuz kullanmaya devam edebilmek için fabrika ayarlarına sıfırlama iş
     <string name="dark_color_summary_lcd">Sistem arkaplanı ve uyumlu uygulamalar için daha karanlık renk paleti kullanın. Karanlık mod cihazınızı karanlıkta kullanırken göz yorgunluğunuzu azaltmada yardımcı olabilir</string>
     <string name="dark_color_summary_oled">Sistem arkaplanı ve uyumlu uygulamalar için daha karanlık renk paleti kullanın. Karanlık mod güç tüketimini azaltır ve göz yorgunluğunu azaltmaya yardımcı olur</string>
     <string name="dark_mode_apps_header">Bireysel uygulamalar</string>
+    <string name="dark_mode_auto_time_summary">Karanlık modu planlanan zamanda açıp kapatın</string>
+    <string name="dark_mode_auto_time_title">Özel</string>
     <string name="dark_mode_contrast">Kontrastı otomatik olarak ayarla</string>
     <string name="dark_mode_contrast_hint">Parlaklık azaltıldığında renkleri otomatik olarak ayarlayın ve kontrastı azaltın</string>
+    <string name="dark_mode_day_night_mode_summary">Gün batımında karanlık moda geçin ve gün doğumunda kapatın</string>
+    <string name="dark_mode_day_night_mode_title">Gün batımından gün doğumuna</string>
     <string name="dark_mode_font_background_title">Metin ve arka planı otomatik ayarla</string>
+    <string name="dark_mode_time_settings">Karanlık modu planla</string>
     <string name="dark_theme_slice_subtitle">Pil ömrünü uzatmaya yardımcı olur</string>
     <string name="dark_theme_slice_title">Koyu temayı deneyin</string>
     <string name="dark_ui_activation_off_auto">Gün batımına kadar kapalı tut</string>
@@ -5966,7 +5971,7 @@ Bu ayar bu telefondaki tüm kullanıcıları etkiler"</string>
     <string name="screen_dark_mode_select_time_error_summary">Başlangıç ve bitiş zamanları aynı olamaz</string>
     <string name="screen_dark_mode_smart_dark_apps_setting_summary">Bazı uygulamalar karanlık modda yanlış görüntülenebilir. Tek tek uygulamalar için karanlık modu kullanmayı burada kısıtlayabilirsiniz</string>
     <string name="screen_dark_mode_smart_dark_title">Global karanlık mod</string>
-    <string name="screen_dark_mode_time_title">Zamanlama</string>
+    <string name="screen_dark_mode_time_title">Karanlık modu planla</string>
     <string name="screen_effect">Renk şeması</string>
     <string name="screen_enhance_engine_ai_note">%d. Bu özellik güç tüketimini biraz artırır</string>
     <string name="screen_enhance_engine_ai_note_2">%d. Yalnızca Galeri uygulamasından alınan görüntüler geliştirilebilir</string>
@@ -7242,6 +7247,7 @@ Daha hızlı bir ^3 kullanmayı deneyin veya bunun yerine bu ^4 birimini taşın
     <string name="switch_headset_anti_lost_title">Eksik kulaklık uyarısı</string>
     <string name="switch_off_text">Kapalı</string>
     <string name="switch_on_text">Açık</string>
+    <string name="switch_power_sound">Şarj sesi</string>
     <string name="switch_screen_button_order">Tuşları ters çevir</string>
     <string name="switch_screen_button_order_desc">Geri ve Menü tuşlarının yerini değiştir</string>
     <string name="switch_select_to_speak_on">Konuşmak için seçin</string>

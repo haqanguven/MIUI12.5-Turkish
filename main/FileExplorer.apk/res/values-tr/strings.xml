@@ -36,9 +36,11 @@
     <string name="add_one">(1)</string>
     <string name="add_private">Dosyaları şimdi gizleyin</string>
     <string name="add_private_files">Dosya ekle</string>
-    <string name="afternoon">Afternoon</string>
+    <string name="added_category">Eklendi</string>
+    <string name="afternoon">Öğleden sonra</string>
     <string name="aggree_desc">Bu uygulamanın internete bağlanmasına ve yukarıda listelenen zorunlu izinleri vermesine izin verin</string>
-    <string name="am">AM</string>
+    <string name="am">ÖÖ</string>
+    <string name="aosp_appbar_scrolling_view_behavior">com.android.fileexplorer.view.aosp.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="app_all_purpose">Telefonunuzdaki dosyaların işlevlerini yönetmek için bu uygulamayı kullanabilirsiniz</string>
     <string name="app_function">Cihazınızdaki dosyaları yönetin</string>
     <string name="app_name">Dosyalar</string>
@@ -54,9 +56,14 @@
     <string name="app_name_miuiwallpaper">Duvar kağıtları</string>
     <string name="app_name_screenshot">Ekran görüntüleri</string>
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="available_size">Kullanılabilir: %s</string>
     <string name="big5_summary">Geleneksel Çince windows varsayılan kodlaması</string>
     <string name="big5_title">BIG5</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
+    <string name="by_date">Değiştirmeye göre</string>
+    <string name="by_name">İsime göre</string>
+    <string name="by_size">Boyuta göre</string>
+    <string name="by_type">Türe göre</string>
     <string name="byteShort">B</string>
     <string name="can_not_send_with_too_many">Bu kadar fazla öge tek bir seferde gönderilemiyor</string>
     <string name="cancel">İptal et</string>
@@ -70,25 +77,31 @@
     <string name="category_all">Tüm dosyalar</string>
     <string name="category_apk">Uygulamalar</string>
     <string name="category_bluetooth">Bluetooth</string>
-    <string name="category_document">Dokümanlar</string>
+    <string name="category_document">Belgeler</string>
     <string name="category_download">İndirmeler</string>
+    <string name="category_editor_mode">Düzenle</string>
+    <string name="category_exit_editor_mode">Çıkış</string>
     <string name="category_favorite">Favoriler</string>
     <string name="category_file">Dosyalar</string>
     <string name="category_files">Dosyalar</string>
     <string name="category_installed_app">Yüklü uygulamalar</string>
     <string name="category_midrive">Mi sürücü</string>
+    <string name="category_more">Daha fazla</string>
     <string name="category_music">Müzikler</string>
     <string name="category_other">Diğer</string>
     <string name="category_photo">Fotoğraflar</string>
     <string name="category_picture">Fotoğraflar</string>
+    <string name="category_qq">QQ</string>
     <string name="category_recent">Son kullanılanlar</string>
     <string name="category_source">Kaynak</string>
+    <string name="category_taobao">Taobao</string>
     <string name="category_theme">Temalar</string>
     <string name="category_time">Zaman</string>
     <string name="category_type_document">Belge</string>
     <string name="category_type_meida">Medya</string>
     <string name="category_type_other">Diğer</string>
     <string name="category_video">Videolar</string>
+    <string name="category_wechat">WeChat</string>
     <string name="category_zip">Arşivler</string>
     <string name="cdd_message">Android 11 kısıtlamaları nedeniyle üçüncü taraf uygulamalarda oluşturulan bazı dosyaları dosyalarda görüntüleyemeyeceksiniz</string>
     <string name="cdd_title">Dikkat</string>
@@ -223,11 +236,12 @@
     <string name="dialog_select_type">Tür seçin</string>
     <string name="dialog_type_audio">Ses</string>
     <string name="dialog_type_image">Fotoğraflar</string>
-    <string name="dialog_type_text">Dokümanlar</string>
+    <string name="dialog_type_text">Belgeler</string>
     <string name="dialog_type_video">Videolar</string>
     <string name="directory_info_divider">"  |  "</string>
     <string name="disk_available">Kullanılabilir: </string>
     <string name="disk_total">Toplam: </string>
+    <string name="display_setting">Görüntülenecek öğeler</string>
     <string name="doc_all">Tümü</string>
     <string name="doc_epub">EPUB</string>
     <string name="doc_pdf">PDF</string>
@@ -251,6 +265,7 @@
     <string name="earthly_branches_yin">13</string>
     <string name="earthly_branches_you">20</string>
     <string name="earthly_branches_zi">11</string>
+    <string name="edit_quick_category">Düzenle</string>
     <string name="empty" />
     <string name="enable_sd_card">SD kart bozuk veya bağlantısı kesildi</string>
     <string name="enable_usb">USB cihazı bozuk veya bağlantısı kesildi</string>
@@ -260,6 +275,9 @@
     <string name="encrypt_success">Başarıyla gizlendi</string>
     <string name="encrypt_success_first_five">Dosya şifrelendi ve gizlendi. Gizli dosyaları, dosyalar uygulamasının başlangıç sayfasında ekranı aşağı doğru çekerek görüntüleyebilirsiniz</string>
     <string name="encrypting">Şifreleniyor</string>
+    <string name="entry_phone_storage_internal">Dahili depolama</string>
+    <string name="entry_storage_cloned_app">Çift uygulama</string>
+    <string name="entry_storage_usb">USB cihazı</string>
     <string name="eras_ad">CE</string>
     <string name="eras_bc">BCE</string>
     <string name="error_contains_sharer_path">MIUI/Gallery/cloud/sharer klasöründe bulunan dosyalar şifrelenemiyor. Dosyaları başka bir dizine taşıyın ve yeniden deneyin</string>
@@ -417,6 +435,7 @@
     <string name="launcher_icon_add_description">Ana ekran kısayolu ekleyin</string>
     <string name="launcher_icon_remove_description_content">Dosyalar bir sistem uygulamasıdır. Ana ekran kısayolunu kaldırdıktan sonra cihazınızdaki dosyaları yönetemezsiniz</string>
     <string name="launcher_icon_remove_description_title">Dosyalar ana ekrandan kaldırılsın mı?</string>
+    <string name="least_quick_category_hint">En az %d kısayol ekle</string>
     <string name="list_mode">Liste görünümü</string>
     <string name="load_more">Daha fazla görüntüle</string>
     <string name="load_more_fail">Yüklenemedi</string>
@@ -539,7 +558,8 @@
     <string name="month_september_short">Eylül</string>
     <string name="month_september_shortest">E</string>
     <string name="more">Daha fazla</string>
-    <string name="morning">ÖÖ</string>
+    <string name="morning">Sabah</string>
+    <string name="most_quick_category_hint">En fazla %d kısayol ekleyebilirsiniz</string>
     <string name="move_failed">Kesilemiyor</string>
     <string name="move_icon_to_desktop_hint">Dosyalarınızı daha etkin bir şekilde yönetmek için Ana ekranınınızda bir Dosyalar uygulaması kısayolu oluşturun</string>
     <string name="move_icon_to_desktop_success">Kısayol Ana ekrana eklendi</string>
@@ -594,7 +614,8 @@
     <string name="no_enough_storage_title">Yeterli depolama alanı yok</string>
     <string name="no_file">Boş</string>
     <string name="no_wifi">Wifi ağı bulunamadı</string>
-    <string name="noon">Midday</string>
+    <string name="noon">öğlen</string>
+    <string name="not_added_category">Kullanılabilir</string>
     <string name="not_set">Ayarlanmadı</string>
     <string name="not_support_documentui">Belge kullanıcı arayüzü bu cihazda desteklenmiyor</string>
     <string name="not_use">Şimdi değil</string>
@@ -616,7 +637,7 @@
     <string name="operation_delete_confirm_message_folder">"Tüm klasör içeriği silinecektir. "</string>
     <string name="operation_deleting">Siliniyor</string>
     <string name="operation_encrypt_summary">Özel klasördeki dosyaları şifreleyin. Büyük dosyaların şifresinin çözülmesi beklenenden daha uzun sürebilir</string>
-    <string name="operation_encrypt_title">Özel dosyaları şifreleyin</string>
+    <string name="operation_encrypt_title">Özel dosyaları şifrele</string>
     <string name="operation_favorite">Favorilere ekle</string>
     <string name="operation_hide_sys">Gizli dosyaları gösterme</string>
     <string name="operation_info">Ayrıntılar</string>
@@ -654,8 +675,8 @@
     <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
-    <string name="permission_denial">Dosyalara erişilemedi. Dosyalar uygulamasına Ayarlar menüsünde dosya erişim izni verin</string>
-    <string name="permission_required">Dosyalara erişilemedi. Dosyalar uygulamasına Ayarlar menüsünde dosya erişim izni verin</string>
+    <string name="permission_denial">Dosyalara erişilemedi. Dosyalar uygulamasına ayarlar menüsünde dosya erişim izni verin</string>
+    <string name="permission_required">Dosyalara erişilemedi. Dosyalar uygulamasına ayarlar menüsünde dosya erişim izni verin</string>
     <string name="petabyteShort">PB</string>
     <string name="phone">Depolama</string>
     <string name="phone_storage">Depolama</string>
@@ -663,7 +684,7 @@
     <string name="phone_storage_audio_title">Müzikler: </string>
     <string name="phone_storage_cal">Kontrol ediliyor</string>
     <string name="phone_storage_clean">Temizle</string>
-    <string name="phone_storage_doc_title">Dökümanlar: </string>
+    <string name="phone_storage_doc_title">Belgeler: </string>
     <string name="phone_storage_free_title">Kullanılabilir: </string>
     <string name="phone_storage_image_title">Fotoğraflar: </string>
     <string name="phone_storage_info_str">%1$s/%2$s kullanılabilir</string>
@@ -677,7 +698,7 @@
     <string name="pm">ÖS</string>
     <string name="port_range">Bağlantı noktası 1024-65535 aralığında olmalıdır</string>
     <string name="preference_copied">%1$s panoya kopyalandı</string>
-    <string name="privacy_policy">Gizlilik Politikası</string>
+    <string name="privacy_policy">Gizlilik politikası</string>
     <string name="private_files">Gizli</string>
     <string name="private_folder">Gizli klasörler</string>
     <string name="private_folder_no_file_hints">Gizli dosya yok</string>
@@ -691,11 +712,13 @@
     <string name="pull_to_refresh">Yenilemek için aşağıya çek</string>
     <string name="qq_msg">Android 11 kısıtlamaları nedeniyle dosyalar QQ belgelerine erişemez ve bunları görüntüleyemez</string>
     <string name="qq_title">WeChat belgelerine erişilemiyor</string>
+    <string name="recent_hide_camera_and_screenshots">Galeri öğelerini gösterme</string>
     <string name="refresh_fail">Yenileme başarısız oldu</string>
     <string name="refresh_success">Yenileme tamamlandı</string>
     <string name="refreshing">Yenileniyor</string>
     <string name="release_enter_private">Özel klasörü açmak için serbest bırakın</string>
     <string name="release_refresh">Yenilemek için bırakın</string>
+    <string name="remainder_size">Kalan: %s</string>
     <string name="rename_alert">Bu dosyanın uzantısını değiştirmeniz durumunda, dosyayı açamayabilirsiniz</string>
     <string name="rename_alert2">Dosya uzantısını değiştirmenizden sonra dosya gizlenecektir</string>
     <string name="rename_failed">%1$s yeniden adlandırılamadı</string>
@@ -721,11 +744,13 @@
     <string name="save_file_to_mishare">Mi paylaşım klasörüne kaydedildi</string>
     <string name="search_app">Uygulamalar &amp; klasörler</string>
     <string name="search_app_more">Daha fazla</string>
+    <string name="search_category">Kategoriye göre ara</string>
+    <string name="search_category_folder">Klasörler</string>
     <string name="search_description">Cihazdaki tüm dosyaları ara</string>
     <string name="search_empty_view_hint">Sonuç bulunamadı</string>
     <string name="search_error_hint">Ara</string>
     <string name="search_file_type_apk">Uygulamalar</string>
-    <string name="search_file_type_doc">Dokümanlar</string>
+    <string name="search_file_type_doc">Belgeler</string>
     <string name="search_file_type_music">Müzikler</string>
     <string name="search_file_type_picture">Fotoğraflar</string>
     <string name="search_file_type_video">Videolar</string>
@@ -733,6 +758,7 @@
     <string name="search_hint">Dosya adı girin</string>
     <string name="search_keyword">Etiketler</string>
     <string name="search_menu_title">Ara</string>
+    <string name="search_more_category">Daha fazla</string>
     <string name="search_result">Sonuçlar</string>
     <string name="search_result_more">Daha fazla</string>
     <string name="search_title">Arama</string>
@@ -751,6 +777,12 @@
     <string name="set_pattern_msg">Şifrenizi yeniden belirleyin. Gizlilik koruma parolası aynı zamanda fotoğraf ve mesajlar içinde geçerlidir</string>
     <string name="settings">@string/server_control_settings</string>
     <string name="sign_percent">%</string>
+    <string name="size_lv1">"%d KB'den küçük"</string>
+    <string name="size_lv2" formatted="false">%1d KB - %2d MB</string>
+    <string name="size_lv3" formatted="false">%1d MB - %2d MB</string>
+    <string name="size_lv4" formatted="false">%1d MB - %2d MB</string>
+    <string name="size_lv5" formatted="false">%1d MB - %2d GB</string>
+    <string name="size_lv6">"%d GB'den büyük"</string>
     <string name="sk">3qy6ngTb0P+etx</string>
     <string name="skip">Atla</string>
     <string name="skip_file">Atla</string>
@@ -869,6 +901,7 @@
     <string name="today">Bugün</string>
     <string name="tomorrow">Yarın</string>
     <string name="tools">Araçlar</string>
+    <string name="total_size">Toplam: %s</string>
     <string name="transfer">Aktarmalar &amp; indirmeler</string>
     <string name="transfer_done">Dosyalar başarıyla taşındı</string>
     <string name="transfer_private_data">Gizli klasörler SD karttan taşınıyor</string>

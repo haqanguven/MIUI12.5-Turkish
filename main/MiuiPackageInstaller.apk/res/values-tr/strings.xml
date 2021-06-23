@@ -64,6 +64,8 @@
     <string name="app_info_version_des_replace">Sürüm: %1$s -> %2$s | Boyut:%3$s</string>
     <string name="app_info_version_replace">Sürüm: %1$s -> %2$s</string>
     <string name="app_install_failed_button_text">Uygulama arayın</string>
+    <string name="app_installing_not_allow">Önceki seçiminize göre %1$s uygulamasının uygulama yüklemesi yasaklandı. Değiştirmek için sistem ayarlarına gidebilirsiniz</string>
+    <string name="app_installing_toast">Yüklenen başka uygulamalar var. Lütfen kurulumun tamamlanmasını bekleyin</string>
     <string name="app_name">Mi paket yükleyici</string>
     <string name="app_name_unknown">Bilinmeyen</string>
     <string name="app_not_found_dlg_text">Uygulama yüklü uygulamalar listesinde bulunamadı</string>
@@ -204,6 +206,7 @@ Tüm geçmiş kullanıcı verileriniz kaydedilecektir"</string>
     <string name="dlg_sys_app_replacement_statement">"Bu bir sistem uygulamasıdır
 
 Tüm geçmiş kullanıcı verileriniz kaydedilecektir"</string>
+    <string name="do_not_show_again">Bir daha hatırlatma</string>
     <string name="done">Tamam</string>
     <string name="download_count_w">%1$s milyon</string>
     <string name="download_count_y">%1$s milyar+</string>
@@ -363,6 +366,7 @@ Alternatif olarak basit modu kapatabilir ve tekrar deneyebilirsiniz"</string>
     <string name="install_finished_notification_summary">Depolama alanını boşaltmak için dokunun</string>
     <string name="install_finished_notification_title">%1$s başarıyla yüklendi. %2$s depolama alanı boşaltabilirsiniz</string>
     <string name="install_from_appstore_hint">Uygulamayı <u><font color="#91c727">Uygulama mağazasından indirmenizi tavsiye ederiz</string>
+    <string name="install_unknow_source">Bilinmeyen uygulamaları yükle</string>
     <string name="install_vip_account_mode_explain_des">Bu uygulama kapalı bir beta sürümüdür. Şu anda izniniz yok</string>
     <string name="install_vip_account_mode_solution_des">Kapalı beta izinlerine başvurmak için Xiaomi topluluğuna gidin</string>
     <string name="installing">Yükleniyor</string>
@@ -793,6 +797,8 @@ Alternatif olarak basit modu kapatabilir ve tekrar deneyebilirsiniz"</string>
     <string name="unknown_apps_admin_dlg_text">Yöneticiniz bilinmeyen kaynaklardan gelen uygulamaların yüklenmesine izin vermiyor</string>
     <string name="unknown_apps_dlg_text">Telefonunuz güvenlik nedenlerinden dolayı bilinmeyen kaynaklardan gelen uygulamaların yüklenmesini engelleyecek şekilde ayarlanmıştır</string>
     <string name="unknown_installer">Tanımlanamayan bilgisayar araçları</string>
+    <string name="unknown_source_allow">İzin ver</string>
+    <string name="unknown_source_forbidden">Reddet</string>
     <string name="unlike">Hayır</string>
     <string name="untrusted_external_source_always_click">Her zaman izin ver</string>
     <string name="untrusted_external_source_title">%1$s uygulama yükleme izni</string>

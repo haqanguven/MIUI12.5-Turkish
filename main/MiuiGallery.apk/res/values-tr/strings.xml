@@ -2497,8 +2497,8 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="send_file_beautify_failed">Paylaşılamadı</string>
     <string name="send_files_by">Dosyaları paylaş</string>
     <string name="send_files_to">Öğeleri paylaş</string>
-    <string name="send_heif_summary">Uyumluluk için göndermeden önce görüntüleri dönüştürün</string>
-    <string name="send_heif_title">Göndermeden önce HEIF dosyasını JPG dosyasına dönüştürün</string>
+    <string name="send_heif_summary">Uyumluluk için göndermeden önce HEIF dosyasını JPG dosyasına dönüştürün</string>
+    <string name="send_heif_title">HEIF dosyasını JPG dosyasına dönüştür</string>
     <string name="send_multiple_files_hint_format">Paylaş (%s)</string>
     <string name="send_public_url">Albümün bağlantı adresini paylaş</string>
     <string name="send_secret_file_failed">Paylaşılamadı</string>
@@ -2533,7 +2533,7 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="sharer_quota_fulfiled">Bu albümü mümkün olan en fazla sayıdaki kullanıcı ile paylaştınız</string>
     <string name="show_cloud_albumlist_summary">Bulut ile senkronize ettiğiniz albümleri yönetin</string>
     <string name="show_cloud_albumlist_title">@string/album_cloud_list_page_title</string>
-    <string name="show_hidden_album_summary">Gizli albümleri görüntüleyin ve yönetin</string>
+    <string name="show_hidden_album_summary">Gizli albümleri görüntüleyin veya yönetin</string>
     <string name="show_hidden_album_title">Gizli albümler</string>
     <string name="show_in_other_albums_disable_toast_long_press_menu">Başarıyla taşındı</string>
     <string name="show_in_other_albums_enable_toast_long_press_menu">Başarıyla taşındı</string>
