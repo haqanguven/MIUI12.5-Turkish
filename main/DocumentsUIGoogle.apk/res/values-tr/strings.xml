@@ -265,7 +265,7 @@
     <string name="cross_profile_action_not_allowed_message">BT yöneticinizden daha fazla bilgi alabilirsiniz</string>
     <string name="cross_profile_action_not_allowed_title">Bu işleme izin verilmiyor</string>
     <string name="debug_is_blocked_from_tree">Ağaçtan engellendi</string>
-    <string name="debug_user_id">User id</string>
+    <string name="debug_user_id">Kullanıcı kimliği</string>
     <string name="directory_blocked_header_subtitle">Gizliliğinizi korumak için başka bir klasör seçin</string>
     <string name="directory_blocked_header_title">Bu klasör kullanılamıyor</string>
     <string name="drag_from_another_app">Başka bir uygulamadan dosya taşıyamazsınız</string>

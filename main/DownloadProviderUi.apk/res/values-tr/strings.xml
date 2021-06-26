@@ -884,7 +884,7 @@ Cihazlarınızın tamamında indirme işlemlerini hızlandırın"</string>
     <string name="xl_privilege_support">Birden fazla cihaz</string>
     <string name="xl_privilege_title">Xunlei üyeliği</string>
     <string name="xl_validate_title">Geçerlilik süresi:  </string>
-    <string name="xl_vip_annual">Yearly plan</string>
+    <string name="xl_vip_annual">Yıllık plan</string>
     <string name="xl_vip_annual_price">Ayda %1$s Mi parası (12 ay)</string>
     <string name="xl_vip_combo">Planlar</string>
     <string name="xl_vip_month">Aylık plan</string>
