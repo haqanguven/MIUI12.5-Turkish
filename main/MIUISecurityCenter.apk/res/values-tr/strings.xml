@@ -3892,6 +3892,8 @@ Kalibrasyon işlemi sırasında MIUI kalibrasyon şablonunu almak amacıyla bir 
     <string name="sc_system_risk_fix_info_xspace">Bunu ikinci alanda çözemezsiniz. Birinci alanda tekrar deneyin</string>
     <string name="sc_warning_updater_not_found">Güncelleyici uygulaması bulunamadı. Güncelleme yapılamıyor</string>
     <string name="scan_installed_games">Yüklü oyunlar kontrol ediliyor</string>
+    <string name="scan_open_shut_down_password_content">Cihazınızı yetkisiz erişime karşı koruyun</string>
+    <string name="scan_open_shut_down_password_title">Kapatma onayı</string>
     <string name="scan_status_risk">Riskli</string>
     <string name="scan_status_safe">Güvenli</string>
     <string name="scanning_bar_number">%%%d</string>
@@ -4049,7 +4051,7 @@ Kalibrasyon işlemi sırasında MIUI kalibrasyon şablonunu almak amacıyla bir 
     <string name="sp_abnormal_scan_summary">Sorunları tespit edin ve çözün</string>
     <string name="sp_abnormal_scan_title">Problemleri çöz</string>
     <string name="sp_antispam_scan_summary">Kendinizi dolandırıcılıktan koruyun</string>
-    <string name="sp_antispam_scan_title">Blocklist</string>
+    <string name="sp_antispam_scan_title">Engelli listesi</string>
     <string name="sp_background_risk_dialog_summary">, ödeme sorunlarını kontrol edin ve düzeltin</string>
     <string name="sp_background_risk_dialog_summary_new">Mevcut ödeme ortamı güvenlik riski oluşturabilir. Mevcut sorunları çözmek için bir dakikanızı ayırın</string>
     <string name="sp_background_risk_dialog_summary_wifi_approve">Güvensiz olabilecek bir kamu wifi ağına bağlısınız. Ödemenizin tamamlanmadan önce korunduğundan emin olun</string>
@@ -4076,16 +4078,16 @@ Kalibrasyon işlemi sırasında MIUI kalibrasyon şablonunu almak amacıyla bir 
     <string name="sp_micare_summary">Kişisel güvenlik</string>
     <string name="sp_micare_title">MIUI uyarı merkezi</string>
     <string name="sp_monitored_apps_count_zero">Korunan ödeme uygulaması yok</string>
-    <string name="sp_monitored_apps_list_title">Ödeme güvenliği</string>
+    <string name="sp_monitored_apps_list_title">Güvenli ödeme</string>
     <string name="sp_more_security_settings">Ek ayarlar</string>
     <string name="sp_network_privacy_dialog_message">Güvenlik uygulaması internet erişimini kısıtladığınızdan düzgün çalışamıyor. Güvenlik uygulamasının internete bağlanmasına izin verilsin mi?</string>
     <string name="sp_network_privacy_dialog_title">Güvenlik taraması kullanılamıyor</string>
     <string name="sp_payment_protect_summary">Çevrimiçi ödeme ortamını koruyun</string>
-    <string name="sp_payment_protect_title">Ödeme güvenliği</string>
+    <string name="sp_payment_protect_title">Güvenli ödeme</string>
     <string name="sp_person_security_title">Kişisel güvenlik</string>
     <string name="sp_phone_scan_summary">Güvenlik risklerini tespit edin</string>
     <string name="sp_phone_scan_title">Tara</string>
-    <string name="sp_power_off_password_summary">Cihaz kapatılmadan önce şifre iste</string>
+    <string name="sp_power_off_password_summary">Cihaz kapatılmadan önce şifre ister</string>
     <string name="sp_power_off_password_title">Kapatma onayı</string>
     <string name="sp_privacy_protect_summary">Kişisel bilgilerinizi koruyun</string>
     <string name="sp_privacy_protect_title">Gizlilik koruması</string>
@@ -4940,6 +4942,8 @@ Bu özellik hareket yumuşatma ile çalışmaz
 Özelliklerden birini açmak diğerini kapatır"</string>
     <string name="vb_video_super_division_tips">"Yeterince net değil mi?
 Çözünürlüğü yükseltmeyi deneyin"</string>
+    <string name="verify_shut_down_password_content">Cihazınız kilitliyken kapalıysa ekran kilidinin onaylanmasını gerektirir</string>
+    <string name="verify_shut_down_password_title">Kapatma onayı</string>
     <string name="video_repeat">Tekrar oynat</string>
     <string name="videobox_hangup_tips_content">Bu özellik ekran kapalıyken uygulamanın arka planda çalışmasını sağlar. Şimdi açılsın mı?</string>
     <string name="videobox_hangup_tips_title">Dikkat</string>

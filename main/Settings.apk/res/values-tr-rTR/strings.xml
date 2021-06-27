@@ -6397,6 +6397,7 @@ Uygulama sabitlemeyi kullanmak için:
     <string name="secspace_fod_use_password">Şifre girin</string>
     <string name="secure_keyguard_business_title">Ekran kilidi ayarla</string>
     <string name="secure_lock_encryption_warning">Bir erişilebilirlik hizmetini açtığınız için cihazınız veri şifrelemeyi geliştirmek üzere ekran kilidinizi kullanmayacak</string>
+    <string name="security_center_title">Güvenlik</string>
     <string name="security_dashboard_summary">Ekran kilidi, parmak izi</string>
     <string name="security_dashboard_summary_face">Play Protect, ekran kilidi, yüz tanıma kilidi</string>
     <string name="security_dashboard_summary_no_fingerprint">Ekran kilidi</string>

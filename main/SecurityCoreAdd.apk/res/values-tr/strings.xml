@@ -51,7 +51,7 @@ ikinci alana otomatik olarak eklenir"</string>
     <string name="button_touch">Parmağınızı sensöre yerleştirin</string>
     <string name="can_not_delete_when_calling">Arama sırasında alan silinemiyor</string>
     <string name="can_not_switch_when_calling">Arama sırasında alan değiştirilemiyor</string>
-    <string name="can_not_switch_when_green_kid_active">İkinci alana geçmek aile bekçisi tarafından sınırlandırılmıştır</string>
+    <string name="can_not_switch_when_green_kid_active">İkinci alana geçmek aile koruyucusu tarafından sınırlandırılmıştır</string>
     <string name="can_not_switch_when_super_power_active">Ultra pil tasarrufu açıkken alanlar arasında geçiş yapamıyorum</string>
     <string name="cancelClosePassword">Kapatma</string>
     <string name="cancel_button">İptal et</string>
@@ -186,7 +186,7 @@ mesajları ikinci alanda göster"</string>
     <string name="go_on_import">İçe aktarmayı sürdür</string>
     <string name="gpg_message">Oyunlar için çift uygulama oluşturmak Google Play oyunlar ile çalışmayı gerektirir. Google Play oyunlar için çift uygulama oluşturulsun mu?</string>
     <string name="gpg_title">Google Play Oyunlar için çift uygulama</string>
-    <string name="green_guard">Aile bekçisi</string>
+    <string name="green_guard">Aile koruyucusu</string>
     <string name="green_guard_des1">Uzaktan yönetmek için cihaz ekleyin</string>
     <string name="green_guard_des2">Tam olarak yönetilen cihazların nerde olduğunu bilin</string>
     <string name="green_guard_des3">Yüklü uygulamaları kontrol edin ve kullanımı sınırlayın</string>
@@ -195,13 +195,13 @@ mesajları ikinci alanda göster"</string>
     <string name="greenguard_child_des">Arkadaşlarınızın ve ailenizin cihazlarını yönetin</string>
     <string name="greenguard_child_des_title">Cihaz eklemek için QR kodunu tarayın</string>
     <string name="greenguard_functional_description">"Cihazları uzaktan yönetin, konum bilgisini görüntüleyin,
-yüklü uygulamaları kontrol etme ve kullanımı kısıtlama"</string>
+yüklü uygulamaları kontrol edin ve kullanımı kısıtlayın"</string>
     <string name="greenguard_install_cancle">Hayır</string>
     <string name="greenguard_install_confirm">Yükle</string>
     <string name="greenguard_install_message">Aile korumasını bir sistem uygulamasıdır. Yüklemek için internete ihtiyacınız yok</string>
     <string name="greenguard_install_title">Aile korumasını yükle</string>
     <string name="greenguard_parent_des">Arkadaşlarınızın ve ailenizin cihazlarını yönetin</string>
-    <string name="greenguard_parent_des_title">"\"Cihaz eklemek için Kite Guard'ı kullanı\"n"</string>
+    <string name="greenguard_parent_des_title">"Cihaz eklemek için Kite Guard'ı kullanın"</string>
     <string name="guide_contact_sub_title_desc">"İkinci alana eklenen kişiler özel durumda olacaktır
 Mesajlar yalnızca ikinci alanca görüntülenir"</string>
     <string name="guide_contact_suc_sub_title_desc">İkinci alanda yalnızca özel kişi ve mesajlar görüntülenir</string>

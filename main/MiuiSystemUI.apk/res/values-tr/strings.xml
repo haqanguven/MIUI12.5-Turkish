@@ -868,7 +868,6 @@ Mobil veriyi yeniden etkinleştirmeniz durumunda operatörünüz ek ücret talep
     <string name="fingerprint_not_identified_title">Şifrenizi girin</string>
     <string name="fingerprint_try_again_msg">Parmak izi doğrulanamadı. Yeniden deneyin</string>
     <string name="fingerprint_try_again_text">Yeniden deneyin</string>
-    <string name="flash_device">/sys/class/leds/flashlight/brightness</string>
     <string name="float_notification_snooze_strategy">Kayan bildirimleri geçici olarak gizle</string>
     <string name="fmt_chinese_date">N-e</string>
     <string name="fmt_date">D</string>
@@ -1315,12 +1314,12 @@ Başka bir Sim kart için kablosuz servis sağlayıcınıza başvurun"</string>
     <string name="local_backup_password_toast_validation_failure">Yedekleme şifresi ayarlanamadı</string>
     <string name="lock_screen_access_to_5G">"5G'ye erişim"</string>
     <string name="lock_screen_carrier_airplane_mode_on">Uçak modu</string>
-    <string name="lock_screen_date">dd MMMM yyyy EEEE</string>
-    <string name="lock_screen_date_12">dd MMMM yyyy EEEE</string>
-    <string name="lock_screen_date_two_lines">"dd
-MMMM EEEE"</string>
-    <string name="lock_screen_date_two_lines_12">"dd
-MMMM EEEE"</string>
+    <string name="lock_screen_date">d MMMM EEEE</string>
+    <string name="lock_screen_date_12">d MMMM EEEE</string>
+    <string name="lock_screen_date_two_lines">"d MMMM
+EEEE"</string>
+    <string name="lock_screen_date_two_lines_12">"d MMMM
+EEEE"</string>
     <string name="lock_screen_magazine_default_content">Taze görüntülerin günlük bölümü</string>
     <string name="lock_screen_magazine_default_title">Duvar kağıdı döngüsü</string>
     <string name="lock_screen_magazine_global_button_text">Daha fazla</string>
@@ -1543,7 +1542,7 @@ Ağ etkinliğinizi izleyebilecek bir VPN'ye de bağlısınız"</string>
     <string name="mtrl_chip_close_icon_content_description">%1$s kaldır</string>
     <string name="mtrl_picker_cancel">İptal et</string>
     <string name="mtrl_picker_confirm">Kaydet</string>
-    <string name="mtrl_picker_date_format">dd MMMMM yyyy</string>
+    <string name="mtrl_picker_date_format">dd MMM yyyy</string>
     <string name="mtrl_picker_header_prompt">Bir tarih seçin</string>
     <string name="mtrl_picker_header_selected">%1$s</string>
     <string name="mtrl_picker_range_header_prompt">Bir tarih aralığı seçin</string>
@@ -2097,16 +2096,16 @@ Ağ etkinliğinizi izleyebilecek bir VPN'ye de bağlısınız"</string>
     <string name="status_bar_airplane">Uçak modu</string>
     <string name="status_bar_alarm">Alarm</string>
     <string name="status_bar_clear_all_button">Temizle</string>
-    <string name="status_bar_clock_date_format">dd MMMM EEEE</string>
-    <string name="status_bar_clock_date_format_12">dd MMMM EEEE</string>
-    <string name="status_bar_clock_date_time_format">H:mm EEEE, dd MMM</string>
-    <string name="status_bar_clock_date_time_format_12">h:mm aa, dd MMM EEEE</string>
+    <string name="status_bar_clock_date_format">d MMM E</string>
+    <string name="status_bar_clock_date_format_12">d MMM E</string>
+    <string name="status_bar_clock_date_time_format">H:mm d MMM E</string>
+    <string name="status_bar_clock_date_time_format_12">h:mm aa, d MMM E</string>
     <string name="status_bar_clock_date_weekday_format">dd MMMM EEEE</string>
     <string name="status_bar_clock_date_weekday_format_12">dd MMMM EEEE</string>
-    <string name="status_bar_date_format">"dd MMMM
-EEEE"</string>
-    <string name="status_bar_date_format_12">"dd MMMM
-EEEE"</string>
+    <string name="status_bar_date_format">"d MMM
+E"</string>
+    <string name="status_bar_date_format_12">"d MMM
+E"</string>
     <string name="status_bar_ethernet">Ethernet</string>
     <string name="status_bar_input_method_settings_configure_input_methods">Giriş yöntemlerini ayarla</string>
     <string name="status_bar_latest_events_title">Bildirimler</string>
