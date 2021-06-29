@@ -287,6 +287,7 @@ Metne kaydetme şu anda yalnızca mandarin aktarımını desteklemektedir. Aktar
     <string name="loading_order_list_empty">Burada sipariş yok</string>
     <string name="low_battery_error">Pil seviyesi %5 seviyesinden düşük. Kaydın kaybolmaması için kaydı durdurun ve kaydedin</string>
     <string name="low_battery_error_confirm">Tamam</string>
+    <string name="low_battery_error_for_pad">"%s'den az pil kaldı. Kaydın kaybolmaması için kaydı durdurun ve kaydedin"</string>
     <string name="low_battery_error_title">Düşük pil</string>
     <string name="lyric_item_point_count">%1$d - %2$d</string>
     <string name="mark_point_list_title">İşaretler</string>
@@ -381,6 +382,7 @@ Metne kaydetme şu anda yalnızca mandarin aktarımını desteklemektedir. Aktar
     <string name="notification_playback">Oynatılıyor</string>
     <string name="notification_recording">Kayıt ediliyor</string>
     <string name="notification_recording_ticker">Telefon sessiz moda alındı</string>
+    <string name="notification_recording_ticker_for_pad">Cihazınız şimdi sessiz modda ses kaydediyor. Sessiz modu kapatmak için ses düğmelerini kullanın</string>
     <string name="notification_save_as_complete">Başarıyla kaydedildi</string>
     <string name="notification_stopped">Kayıt durduruldu</string>
     <string name="notification_title_all_paused">İndirme işlemi duraklatıldı</string>

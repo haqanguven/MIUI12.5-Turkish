@@ -122,7 +122,6 @@
     <string name="chinese_symbol_animals_tiger">Kaplan</string>
     <string name="clearable_edittext_clear_description">Temizle</string>
     <string name="close">Kapat</string>
-    <string name="common_google_play_services_unknown_issue">%1$s, Google Play hizmetleriyle ilgili sorun yaşıyor. Lütfen tekrar deneyin</string>
     <string name="complete">Tamamlandı</string>
     <string name="confirm_cancel_receive">Aktarımı şimdi iptal ederseniz bu öğeyi alamazsınız. Yine de iptal edilsin mi?</string>
     <string name="confirm_cancel_task_files">%1$s için dosya gönderme iptal edilsin mi?</string>
@@ -134,7 +133,6 @@
     <string name="date_picker_lunar">Çin Geleneksel Takvimi</string>
     <string name="date_time_picker_dialog_title">Tarih ve saati ayarla</string>
     <string name="default_device_name">Bilinmeyen cihaz</string>
-    <string name="default_web_client_id">343830674009-bpoc4hcd508jd4acf7diijbu7vqhhad5.apps.googleusercontent.com</string>
     <string name="device_name">Cihaz adı</string>
     <string name="device_name_with_ellipsize">%1$s</string>
     <string name="device_offline">Diğer cihaz çevrimdışı. Baştan başla</string>
@@ -266,12 +264,7 @@
     <string name="friday_short">Cum</string>
     <string name="friday_shortest">Cum</string>
     <string name="functions_are_being_developed">Bu özellik yakında hazır olacak. Bizi izlemeye devam edin</string>
-    <string name="gcm_defaultSenderId">343830674009</string>
     <string name="go_to_settings">Ayarlar</string>
-    <string name="google_api_key">AIzaSyDAz8Vu0BPy8nOBBVZ5aNmVuBBFOHPmTBQ</string>
-    <string name="google_app_id">1:343830674009:android:a266f094a2cca8e3200f48</string>
-    <string name="google_crash_reporting_api_key">AIzaSyDAz8Vu0BPy8nOBBVZ5aNmVuBBFOHPmTBQ</string>
-    <string name="google_storage_bucket">mishare-2b457.appspot.com</string>
     <string name="guide_summary_1">Diğer kişi bildirim çubuğunda anahtara dokunabilir</string>
     <string name="guide_summary_2">Öğeleri göndermek istediğiniz cihazı seçin ve simgeye dokunun</string>
     <string name="guide_title_1">Her iki cihazda da dosya paylaşımını açın</string>
@@ -397,7 +390,6 @@ Dosya paylaşımı Mi ve Redmi telefonlarıyla uyumludur. Oppo, vivo, realme ve 
     <string name="pm">ÖS</string>
     <string name="preference_copied">%1$s panoya kopyalandı</string>
     <string name="progress_ratio">%%%1$d</string>
-    <string name="project_id">mishare-2b457</string>
     <string name="purpose">"Dosya paylaşımına hoş geldiniz. Cihazlar arasında dosya aktarmak için bu uygulamayı kullanabilirsiniz. Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve politikalara uygun olarak koruyoruz
 Dosya paylaşımını kullanmadan önce aşağıdaki gerekli izinleri vermeniz ve gerekli kişisel bilgilerin toplanmasına izin vermeniz gerekir:"</string>
     <string name="purpose_v12">"Mi paylaşım'a hoş geldiniz! Bu uygulamayı cihazlar arası dosyaları aktarmak için kullanabilirsiniz"</string>

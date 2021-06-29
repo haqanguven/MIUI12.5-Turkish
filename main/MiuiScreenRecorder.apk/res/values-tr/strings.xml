@@ -236,9 +236,11 @@ Görüntülemek için dokunun"</string>
     <string name="is_go_home_summary">Kaydı durdurduktan sonra ekran kaydedicinin başlangıç sayfasını aç</string>
     <string name="loopback_sound">Hoparlör</string>
     <string name="low_battery">Kayda başlamadan önce telefonunuzu şarj edin</string>
+    <string name="low_battery_for_pad">Kayda başlamadan önce cihazınızı şarj edin</string>
     <string name="low_battery_title">Düşük pil</string>
     <string name="low_battery_warning">Pil seviyesi çok düşük. Kayıt durduruldu ve video kaydedildi</string>
-    <string name="low_memory">"Kullanılabilir depolama alanınız 200 MB'den az. 5 dakikaya kadar kayıt yapabilirsiniz"</string>
+    <string name="low_memory">"1GB'den az kullanılabilir depolama alanınız var. Artık 20 dakikaya kadar kayıt yapabilirsiniz"</string>
+    <string name="low_memory_for_pad">"%1$d GB'den daha az kullanılabilir depolama alanınız var. Şimdi %2$d dakikaya kadar kayıt yapabilirsiniz"</string>
     <string name="low_memory_title">Yeterli depolama alanı yok</string>
     <string name="low_momery_warning">Yeterli depolama alanı yok. Kayıt durduruldu ve video kaydedildi</string>
     <string name="memory_not_allowed">Kullanılabilir depolama alanı yok. Kayıt yapmak için biraz alan boşaltın</string>
@@ -446,6 +448,8 @@ Görüntülemek için dokunun"</string>
     <string name="using_record_confirm_ok">Kabul et</string>
     <string name="v7_preference_off">Kapalı</string>
     <string name="v7_preference_on">Açık</string>
+    <string name="view_recorded_file">Kayıtlı dosyayı görüntülemek için dokunun</string>
+    <string name="view_recorded_videos">Kayıtları görüntüle</string>
     <string name="warning_recording_when_a2dp_connect">Cihazınız bluetooth kulaklık kullanılırken sistem seslerinin kaydedilmesini desteklemiyor</string>
     <string name="wednesday">Çarşamba</string>
     <string name="wednesday_short">Çarşamba</string>
