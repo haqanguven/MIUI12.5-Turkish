@@ -270,6 +270,8 @@
     <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="icon_content_description">İletişim kutusu simgesi</string>
     <string name="item_view_role_description">Sekme</string>
+    <string name="kddi_miui_toast_zen_standard_to_off">Sessiz mod artık kapalı. Aramalar ve bildirimler susturulmayacak</string>
+    <string name="kddi_miui_toast_zen_to_standard">Sessiz moda geçildi. Aramalar ve bildirimler artık susturulacak</string>
     <string name="loading">Durum bilinmiyor</string>
     <string name="material_slider_range_end">Aralık sonu,</string>
     <string name="material_slider_range_start">Aralık başı,</string>
@@ -288,10 +290,12 @@
     <string name="miui_ringer_status_open">Açık</string>
     <string name="miui_ringer_total">Rahatsız etme</string>
     <string name="miui_ringer_total_description">Alarm harici tüm ögeleri sustur ve titreşimi kapat</string>
-    <string name="miui_toast_zen_dnd_to_off">Rahatsız etme modu kapatıldı. Sesler ve titreşim normale döndü</string>
+    <string name="miui_toast_zen_dnd_to_off">Aramalar ve bildirimler artık sessize alınmayacak</string>
+    <string name="miui_toast_zen_dnd_to_off_T">Bildirimler artık sessize alınmıyor</string>
     <string name="miui_toast_zen_standard_to_off">Sessiz mod kapatıldı. Zil sesleri normale döndü</string>
     <string name="miui_toast_zen_standard_to_off_when_shield_media">Sessiz mod kapalı. Zil sesleri ile birlikte bildirim ve medya sesleri de çalınacaktır</string>
-    <string name="miui_toast_zen_to_dnd">Rahatsız etme moduna geçildi. Sesler susturuldu ve titreşim kapalı</string>
+    <string name="miui_toast_zen_to_dnd">Aramalar ve bildirimler susturulacak</string>
+    <string name="miui_toast_zen_to_dnd_T">Bildirimler susturulacak</string>
     <string name="miui_toast_zen_to_dnd_when_lock">Cihaz kilitlendiğinde aramalar ve bildirimler susturulacaktır</string>
     <string name="miui_toast_zen_to_standard">Sessiz moda geçildi. Aramalar ve bildirimler için zil sesleri susturuldu</string>
     <string name="miui_toast_zen_to_standard_when_shield_media">Sessiz moda geçildi. Zil sesleri ile birlikte bildirim ve medya sesleri de susturuldu</string>

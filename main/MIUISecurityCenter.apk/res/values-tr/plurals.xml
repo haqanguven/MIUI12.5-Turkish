@@ -58,16 +58,16 @@
         <item quantity="one">%1$s %2$d kez reddedildi</item>
     </plurals>
     <plurals name="app_behavior_desc_duration_usage">
-        <item quantity="other">Allowed %3$d times between %1$s and %2$s</item>
-        <item quantity="one">Allowed %3$d time between %1$s and %2$s</item>
+        <item quantity="other">%1$s ile %2$s arasında %3$d kez izin verilir</item>
+        <item quantity="one">%1$s ile %2$s arasında %3$d kez izin verilir</item>
     </plurals>
     <plurals name="app_behavior_desc_duration_usage_time">
-        <item quantity="other">Used for %1$d minutes</item>
-        <item quantity="one">Used for %1$d minute</item>
+        <item quantity="other">%1$d dakika kullanıldı</item>
+        <item quantity="one">%1$d dakika kullanıldı</item>
     </plurals>
     <plurals name="app_behavior_desc_duration_usage_time_end">
-        <item quantity="other">Used for %1$d minutes until %2$s</item>
-        <item quantity="one">Used for %1$d minute until %2$s</item>
+        <item quantity="other">%2$s tarihine kadar %1$d dakika kullanıldı</item>
+        <item quantity="one">%2$s tarihine kadar %1$d dakika kullanıldı</item>
     </plurals>
     <plurals name="app_behavior_desc_virtual">
         <item quantity="other">%1$s-%2$s sırasında boş iletiler %3$d kez döndürüldü</item>
@@ -202,8 +202,8 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
         <item quantity="one">%d uygulama arasında ara</item>
     </plurals>
     <plurals name="find_leak_risk">
-        <item quantity="other">%d privacy-related risks</item>
-        <item quantity="one">%d privacy-related risk</item>
+        <item quantity="other">%d gizlilikle ilgili risk</item>
+        <item quantity="one">%d gizlilikle ilgili risk</item>
     </plurals>
     <plurals name="first_aid_result_summary_exception">
         <item quantity="other">%1$d sorun optimizasyon gerektirir</item>
@@ -292,16 +292,16 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
         <item quantity="one">%d günlük ücretsiz deneme edinin</item>
     </plurals>
     <plurals name="gtb_brightness_dialog_message">
-        <item quantity="other">This feature lowers screen brightness after %d minutes of inactivity automatically to save power. Keep this feature on?</item>
-        <item quantity="one">This feature lowers screen brightness after %d minute of inactivity automatically to save power. Keep this feature on?</item>
+        <item quantity="other">Bu özellik güç tasarrufu yapmak için %d dakika işlem yapılmadığında ekran parlaklığını otomatik olarak düşürür. Bu özellik açık kalsın mı?</item>
+        <item quantity="one">Bu özellik güç tasarrufu yapmak için %d dakika işlem yapılmadığında ekran parlaklığını otomatik olarak düşürür. Bu özellik açık kalsın mı?</item>
     </plurals>
     <plurals name="gtb_setting_item_summary_brightness">
-        <item quantity="other">Lower screen brightness automatically to save power after %d minutes of inactivity</item>
-        <item quantity="one">Lower screen brightness automatically to save power after %d minute of inactivity</item>
+        <item quantity="other">%d dakika işlem yapılmadığında güç tasarrufu yapmak için ekran parlaklığını otomatik olarak azaltın</item>
+        <item quantity="one">%d dakika boyunca işlem yapılmadığında güç tasarrufu yapmak için ekran parlaklığını otomatik olarak azaltın</item>
     </plurals>
     <plurals name="gtb_spring_festival_colored_egg">
-        <item quantity="other">Tebrikler! %S Paskalya yumurtasının kilidini açtınız</item>
-        <item quantity="one">Tebrikler! %S Paskalya yumurtasının kilidini açtınız</item>
+        <item quantity="other">Tebrikler! %s Paskalya yumurtasının kilidini açtınız</item>
+        <item quantity="one">Tebrikler! %s Paskalya yumurtasının kilidini açtınız</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Yarım saat önce</item>
