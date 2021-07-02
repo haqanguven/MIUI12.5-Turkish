@@ -2836,8 +2836,8 @@ Daha ayrıntılı bilgi için kuruluş yöneticinizle iletişime geçin"</string
     <string name="external_ram_dialog_message">Değişiklikleri uygulamak için cihazınızı yeniden başlatın.</string>
     <string name="external_ram_dialog_title">Cihazı yeniden başlatın</string>
     <string name="external_ram_summary">Depolama alanını kullanarak %1$s %2$s Ram ekleyin. Bu özelliği yalnızca cihazınızda yeterli depolama alanı olduğunda kullanın</string>
-    <string name="external_ram_title">Bellek uzantısı</string>
-    <string name="external_ram_toast">Yetersiz depolama alanı nedeniyle bellek uzantısı kullanılamıyor</string>
+    <string name="external_ram_title">Bellek arttırma</string>
+    <string name="external_ram_toast">Yetersiz depolama alanı nedeniyle bellek arttırma kullanılamıyor</string>
     <string name="external_source_switch_title">Bu kaynaktan izin verin</string>
     <string name="external_source_trusted">İzin verildi</string>
     <string name="external_source_untrusted">İzin verilmedi</string>

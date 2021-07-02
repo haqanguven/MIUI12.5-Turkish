@@ -116,6 +116,7 @@
     <string name="auto_play_next_off">Otomatik oynatma kapalı</string>
     <string name="auto_play_next_on">Otomatik oynatma açık</string>
     <string name="back_to_mainpage">Keşfet</string>
+    <string name="background_playback_enabled">Arka planda oynatma açık</string>
     <string name="before_yestoday">2 gün önce</string>
     <string name="bind_sign_in_title">Hesap ekle</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
@@ -267,7 +268,7 @@
     <string name="columbus_player_speed_title">Video atlansın mı?</string>
     <string name="columbus_player_speed_video">Videoyu atla</string>
     <string name="columbus_player_unit_sec">saniye</string>
-	    <string name="com.crashlytics.android.build_id">00000000000000000000000000000000</string>
+    <string name="com.crashlytics.android.build_id">00000000000000000000000000000000</string>
     <string name="com_facebook_device_auth_instructions"><b>facebook.com/device</b> ziyaret edin ve yukarıda gösterilen kodu girin</string>
     <string name="com_facebook_image_download_unknown_error">Görüntü indirilirken beklenmedik bir hata oluştu</string>
     <string name="com_facebook_internet_permission_error_message">İnternet görünümü girişi için internet izni gerekiyor</string>
@@ -1697,13 +1698,18 @@ Hiçbir şey göstermiyor"</string>
     <string name="video_download_fail_hint">İndirilemedi</string>
     <string name="video_download_floating_guide">Videoları ücretsiz indirin</string>
     <string name="video_download_forbidden">Bu internet sitesinden indirilemiyor</string>
+    <string name="video_download_login_guide">"Videoları indirebilmek için %s'de oturum açın"</string>
     <string name="video_download_network_error">Ağ hatası</string>
     <string name="video_download_play_video_guide">Önce videoyu oynatın</string>
     <string name="video_download_play_video_guide2">Sonra indirmek için tuşa dokunun</string>
+    <string name="video_download_play_video_step1">Adım %1$d</string>
+    <string name="video_download_play_video_step2">Adım %2$d</string>
     <string name="video_download_site_search">Bağlantı</string>
     <string name="video_download_source">İnternetten indirme</string>
     <string name="video_download_start">İndiriliyor</string>
     <string name="video_download_storage_error">Yeterli depolama alanı yok</string>
+    <string name="video_download_title">Videolar indir</string>
+    <string name="video_download_youtube_copyright_forbidden">Telif hakkı kısıtlamaları nedeniyle YouTube videoları indirilemiyor</string>
     <string name="video_downloading">İndiriliyor</string>
     <string name="video_live_over">Bu oturum sona erdi</string>
     <string name="video_noyet_download_tip">Bu video hala indiriliyor</string>
