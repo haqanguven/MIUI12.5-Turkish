@@ -288,6 +288,7 @@
     <string name="app_behavior_key_camera">Fotoğraf çekme</string>
     <string name="app_behavior_key_location">Konum</string>
     <string name="app_behavior_key_protect">Kişisel bilgileri koru</string>
+    <string name="app_behavior_kill_process">@string/menu_item_force_stop</string>
     <string name="app_behavior_link_start">Tetiklenmiş başlangıç</string>
     <string name="app_behavior_list_load_more">Daha fazla</string>
     <string name="app_behavior_location">%1s konum bilgisi almaya çalıştı</string>
@@ -628,6 +629,7 @@ Kişisel kırmızı zarfı destekleyin ve kırmızı zarfı gruplayın
     <string name="applock_no_account_login">Mi hesabınızda oturum açmadınız</string>
     <string name="applock_not_add_account"><u>Şimdi değil</u></string>
     <string name="applock_not_login_account">Oturum açmadınız</string>
+    <string name="applock_numeric_pwd_type_line">Şifredeki toplam basamak sayısı: %1$d. Girilen rakamlar: %2$d</string>
     <string name="applock_operate_faceunlock_summary">Sadece ekrana bakarak uygulamaların kilidini açın</string>
     <string name="applock_operate_faceunlock_title">Yüz verisini kullan</string>
     <string name="applock_operate_fingerprint_summary">Uygulama kilidi birden fazla parmak izi eklemeyi destekler</string>
@@ -922,6 +924,7 @@ Kişisel kırmızı zarfı destekleyin ve kırmızı zarfı gruplayın
     <string name="card_main_private_space_summary">İkinci alanı kullanmak iki adet cihaza sahip olmak gibidir</string>
     <string name="card_main_private_space_title">İkinci alan</string>
     <string name="card_main_sectool_title">Araçlar</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_xspace_action">Oluştur</string>
     <string name="card_main_xspace_summary">Dilediğiniz uygulama için çift hesap oluşturun</string>
     <string name="card_main_xspace_title">Çift uygulamalar</string>
@@ -2959,7 +2962,10 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="pc_main_sub_battery_text_day_hour">%1$s gün %2$s saat kaldı</string>
     <string name="pc_main_sub_battery_text_hour_minute">%1$s saat %2$s dakika kaldı</string>
     <string name="pc_performance_mode_dialog_summary">Your device will be able to work for %s in Performance mode. Note that Performance mode increases power consumption and might lead to overheating.</string>
+    <string name="pc_performance_mode_dialog_summary2">Cihaz performansı artacaktır. Bu güç tüketimini artırabilir ve aşırı ısınma sorunlarına yol açabilir. Yine de açılsın mı?</string>
     <string name="pc_performance_mode_dialog_title">Performans modu</string>
+    <string name="pc_performance_mode_noti_summary">Performans modu güç tüketimini artırabilir ve aşırı ısınma sorunlarına yol açabilir</string>
+    <string name="pc_performance_mode_noti_title">Geliştirilmiş cihaz performansı</string>
     <string name="pc_search_keywords_battery">Pil</string>
     <string name="pc_search_keywords_battery_save">Pil tasarrufu</string>
     <string name="pc_search_keywords_battery_use">Pil kullanımı</string>
@@ -3363,6 +3369,8 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="power_wireless_update_notification_title">Kablosuz şarj güncellemesi</string>
     <string name="power_wireless_update_text">Güncel</string>
     <string name="power_wireless_update_tv_text">Bellenimi güncelleme 6 Cihazı kapatmayın</string>
+    <string name="pp_anti_track_summary">Etkinliğinizi izlemeye izin vermeyin</string>
+    <string name="pp_antitrack_detail">Uygulamalar, kişisel tanımlayıcılar, konum bilgileri ve onlarla paylaşılan diğer kişisel bilgi türleri aracılığıyla etkinliğinizi izleyebilir. Farklı uygulamalardaki ve web sitelerindeki etkinliğinizi izlemek, reklamları kişiselleştirmelerine ve size alakalı içerik önermelerine olanak tanır</string>
     <string name="pp_app_behavior_record_detail">Tüm uygulamaların davranışlarını kaydedin</string>
     <string name="pp_app_del_img_intercept_detail">Uygulamalar izniniz olmadan galerideki öğeleri sildiğinde bildirim alın</string>
     <string name="pp_app_gets_dangerous_permission_reminder">Uygulamalar yüksek riskli izinler kullandığında bildirim alın</string>
@@ -3374,6 +3382,8 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="pp_app_reads_clipboard_smart_reminder_detail">MIUI uygulamaların panonuza erişmesine izin verilip verilmediğine karar verecektir. Bunu yaptıklarında bir bildirim alırsınız</string>
     <string name="pp_app_warning_permission_tips">Uygulama davranışı bildirimleri</string>
     <string name="pp_app_warning_permission_tips_detail">Uygulamalar konumunuza eriştiğinde, ses kaydettiğinde veya kamera kullandığında bildirim alın</string>
+    <string name="pp_block_mac">MAC adresine erişimi kısıtlayın</string>
+    <string name="pp_block_mac_summary">MAC adresinize erişim tüm uygulamalar için varsayılan olarak kısıtlanmıştır</string>
     <string name="pp_call_phone_msg">Arama geçmişi</string>
     <string name="pp_capability_approved_title">Gizlilik koruma önlemlerimiz, sektörün önde gelen uzmanları tarafından test edilmiş ve onaylanmıştır</string>
     <string name="pp_chain_start_is_prohibited">Zincir başlangıcını kısıtlayın</string>
@@ -3390,14 +3400,19 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="pp_hide_app_form_desktop">Ana ekrandan uygulama simgelerini kaldırın</string>
     <string name="pp_icon_layout_status_bg_content_enable">Korumalı</string>
     <string name="pp_icon_layout_status_bg_content_unable">Kapalı</string>
+    <string name="pp_identifier_protection">Kişisel tanımlayıcıları koru</string>
     <string name="pp_interception_net_visit_content_manager">Galeriyi ve sosyal medya uygulamalarını koruyun</string>
     <string name="pp_interception_net_visit_content_manager_detail">Fotoğraflarınıza, videolarınıza ve sohbet geçmişinize erişmesine izin verilen uygulamaları seçin</string>
     <string name="pp_local_msg">Konum bilgisi</string>
     <string name="pp_manage_apps_location_information">Uygulamaların konumunuza erişmesine izin verin</string>
+    <string name="pp_manage_track">İzleyicileri izle</string>
+    <string name="pp_manage_track_summary">"Uygulamalara yerleştirilmiş çeşitli izleyici türlerini algılayın ve devre dışı bırakın. Bu tür izleyiciler, öğelere erişerek ve bunları dahili depolamaya kaydederek kişisel tanımlayıcılarınızı paylaşabilir veya etkinliğinizi izlemek için paylaşılan SDK'ları kullanabilir"</string>
     <string name="pp_one_app_two_use">Oturumu kapatmadan iki hesap kullanın</string>
     <string name="pp_one_phone_two_space">Bir cihazı iki cihaz olarak kullanın</string>
     <string name="pp_only_allow_permission_during_this_run">Uygulamaların izinleri bir kez kullanmasına izin verin</string>
     <string name="pp_only_allow_permission_during_this_run_detail">Konum, ses kaydı ve kişilerle ilgili izinleri yalnızca bir kez kullanmanıza izin verebilirsiniz. Bu izinler, uygulama kapatıldıktan kısa bir süre sonra tekrar kısıtlanacaktır</string>
+    <string name="pp_operator_get_number">Telefon numarasına erişim için onay iste</string>
+    <string name="pp_operator_get_number_summary">Uygulamalar oturum açmak için telefon numaranıza erişmek istediklerinde sizden izin isteyecektir</string>
     <string name="pp_optional_protection_function">İsteğe bağlı koruma önlemleri</string>
     <string name="pp_permission_action_virtual_detail">İzin verin ancak uygulamalara kişisel bilgiler yerine boş dosyalar verin</string>
     <string name="pp_permission_settings">İzinler</string>
@@ -3406,6 +3421,10 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="pp_privacy_lab_blur_location_summary">Konum bilginizi kişiselleştirerek uygulamaların yaklaşık konumunuza erişmesine izin verin</string>
     <string name="pp_privacy_lab_clipboard">Panoyu koru</string>
     <string name="pp_privacy_lab_clipboard_summary">"MIUI'nin bir uygulamanın panoya erişip erişemeyeceğine ve eriştiğinde bildirim alıp alamayacağına karar vermesine izin verin"</string>
+    <string name="pp_privacy_lab_operator_get_number">Telefon numarasına erişim için onay iste</string>
+    <string name="pp_privacy_lab_operator_get_number_summary">Uygulamaların oturum açmak için telefon numaranıza erişmek istediklerinde sizden izin istemelerini isteyin</string>
+    <string name="pp_privacy_lab_operator_introduction">Dikkat</string>
+    <string name="pp_privacy_lab_operator_introduction_summary">Uygulamalar telefon numaranızı daha önce alınmışsa saklayabilir. Bu izni değiştirmek daha önce alınan telefon numaralarını silmez</string>
     <string name="pp_privacy_protection">Koruma</string>
     <string name="pp_privacy_protection_function">Gizlilik koruma özellikleri</string>
     <string name="pp_privacy_protection_lab">Gizlilik koruma laboratuvarı</string>
@@ -3433,6 +3452,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="pp_storage_msg">Depolama</string>
     <string name="pp_understanding_privacy">Farkındalık</string>
     <string name="pp_virtual_identity_manager">Sanal kimlik</string>
+    <string name="pp_virtual_identity_summary">Gerçek tanımlayıcınız yerine uygulamalara sanal bir kimlik sağlanabilir. Gizliliğinizi korur ve uygulamaların davranışınızı nasıl izlediğini kontrol etmenize olanak tanır</string>
     <string name="pref_about_traffic_title">Veri kullanım ayarları</string>
     <string name="pref_adjust_data_usage">Taşıyıcı mesaj şablonu</string>
     <string name="pref_adjust_data_usage_summary">Kalibrasyon şablonunu değiştirdikten sonra MIUI operatörünüzden veri kullanım istatistiklerini almak için kullanır</string>

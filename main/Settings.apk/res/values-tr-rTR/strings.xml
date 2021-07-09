@@ -6673,7 +6673,7 @@ Not: Bu cihazın kilidini açmak için parmak izinizi kullanamazsınız. Daha fa
     <string name="show_non_rect_clip">Kare olmayan klip işlemleri hata ayıklaması</string>
     <string name="show_notification_channel_warnings">Bildirim kanalı uyarıları göster</string>
     <string name="show_notification_channel_warnings_summary">Bir uygulama geçerli bir kanal üzerinden bildiri gönderdiğinde ekranda uyarıları görüntüler</string>
-    <string name="show_notification_icon_title">Bildirim simgeleri</string>
+    <string name="show_notification_icon_title">Uygulama simgeleri</string>
     <string name="show_operator_name_summary">Ağ adını durum çubuğunda göster</string>
     <string name="show_operator_name_title">Ağ adı</string>
     <string name="show_owner_info_on_lockscreen_label">Kilit ekranında imza görüntüle</string>
