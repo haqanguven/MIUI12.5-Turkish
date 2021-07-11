@@ -453,7 +453,7 @@ Yöneticiniz ağ etkinliği ve cihazınızın konum bilgileri de dahil olmak üz
     <string name="airplane_mode_summary">Cihazınızın mobil ağlarla bağlantısını kesmek için açın. Bu özellik açıkken arama yapamayacak, kısa mesaj gönderip alamayacak veya mobil veri kullanamayacaksınız</string>
     <string name="alarm_ringtone_title">Varsayılan alarm sesi</string>
     <string name="alarm_sound_dialog_title">Alarm zil sesini seçin</string>
-    <string name="alarm_sound_title">Alarm zil tonu</string>
+    <string name="alarm_sound_title">Alarm sesi</string>
     <string name="alarm_stop">Alarm çaldığında sessiz modu kapat</string>
     <string name="alarm_stop_info">Sessiz mod alarm çaldığında kapatılır</string>
     <string name="alarm_template">%1$s saatinde</string>
@@ -5898,7 +5898,7 @@ Cihazınızı yeniden başlatın ve tekrar deneyin"</string>
     <string name="ringer_mode_setting_summary">Aramaları ve bildirimleri sessize alın</string>
     <string name="ringer_mode_setting_title">Sessiz mod</string>
     <string name="ringtone_slot_setting_title">Tek Sim ayarları</string>
-    <string name="ringtone_title">Telefon zil sesi</string>
+    <string name="ringtone_title">Arama sesi</string>
     <string name="ringtone_uniform_setting_title">Çift Sim ayarları</string>
     <string name="ringtones_category_preference_title">Zil sesleri</string>
     <string name="ringtones_install_custom_sound_content">Bu dosya %s klasörüne kopyalanacak</string>
@@ -6313,7 +6313,7 @@ Uygulama sabitlemeyi kullanmak için:
     <string name="search_privacy_settings">Yedekle &amp; sıfırla;Yedekle ve sıfırla;Yedekle;sıfırla;Yedekle</string>
     <string name="search_results_title">Ayarlar</string>
     <string name="search_ring_volume_option_title">Ses düzeyi;ses;Zil sesi &amp; bildirimler;zil sesi;zil sesleri;Alarm;Müzik</string>
-    <string name="search_ringtone_title">Telefon zil sesi;zil sesi;zil sesleri</string>
+    <string name="search_ringtone_title">Zil sesi;zil sesi;zil sesleri</string>
     <string name="search_screen_effect">Renkler &amp; doygunluk;Renkler &amp; kontrast;renk;renkler;doygunluk;kontrast</string>
     <string name="search_screen_key_long_press_timeout">Uzun basma süresini ayarlayın;Uzun basma;Basma;Basma ve basılı tutma</string>
     <string name="search_screen_on_proximity_sensor_title">Cepte aramayı engelle;cep;cepte arama;cep aramaları</string>
