@@ -453,7 +453,7 @@ Yöneticiniz ağ etkinliği ve cihazınızın konum bilgileri de dahil olmak üz
     <string name="airplane_mode_summary">Cihazınızın mobil ağlarla bağlantısını kesmek için açın. Bu özellik açıkken arama yapamayacak, kısa mesaj gönderip alamayacak veya mobil veri kullanamayacaksınız</string>
     <string name="alarm_ringtone_title">Varsayılan alarm sesi</string>
     <string name="alarm_sound_dialog_title">Alarm zil sesini seçin</string>
-    <string name="alarm_sound_title">Alarm sesi</string>
+    <string name="alarm_sound_title">Alarm</string>
     <string name="alarm_stop">Alarm çaldığında sessiz modu kapat</string>
     <string name="alarm_stop_info">Sessiz mod alarm çaldığında kapatılır</string>
     <string name="alarm_template">%1$s saatinde</string>
@@ -3276,7 +3276,7 @@ Otomatik yedeklemeyi açtığınızda cihaz ve uygulama verileri periyodik olara
     <string name="handy_mode_tips_full_screen">Tam ekran hareketlerini kullanırken hızlı erişimi kullanarak tek el modunu açabilirsiniz. Aynı zamanda tam ekran hareketleri yerine tuşlara da geçiş yapabilirsiniz</string>
     <string name="haptic_agent_completion_01_content_description">Tamamlanan görev</string>
     <string name="haptic_cursor_movement_07_content_description">Parlaklığın ayarlanıyor</string>
-    <string name="haptic_feedback_enable_title">Dokunulduğunda titret</string>
+    <string name="haptic_feedback_enable_title">Dokunma titreşimi</string>
     <string name="haptic_feedback_level">Titreşim</string>
     <string name="haptic_feedback_progress">Dokunsal geri bildirim düzeyi</string>
     <string name="haptic_feedback_summary">Hareketlere ve sistem kontrollerine dokunsal yanıt alın</string>
@@ -3451,7 +3451,7 @@ Xiaomi bulutu açın ve oradan öğeleri geri yükleyin"</string>
     <string name="inactive_app_active_summary">Etkin. Geçiş için dokunun</string>
     <string name="inactive_app_inactive_summary">Etkin değil. Geçiş için dokunun</string>
     <string name="inactive_apps_title">Etkin olmayan uygulamalar</string>
-    <string name="incall_show">Gelen arama profil videosu</string>
+    <string name="incall_show">Profil videoları</string>
     <string name="include_app_data_title">Uygulama verilerini dahil et</string>
     <string name="incoming_call_breathing_light_color_title">Arama ışık rengi</string>
     <string name="incoming_call_breathing_light_freq_title">Aramalar yanma sıklığı</string>
@@ -4088,7 +4088,7 @@ Xiaomi bulutu açın ve oradan öğeleri geri yükleyin"</string>
     <string name="lockpattern_settings_choose_lock_pattern">Kilit açma deseni oluşturun</string>
     <string name="lockpattern_settings_enable_power_button_instantly_locks">Güç tuşu ile ekranı kilitle</string>
     <string name="lockpattern_settings_enable_summary">Ekran kilidini açmak için kilit açma desenini çizmeniz gerekir</string>
-    <string name="lockpattern_settings_enable_tactile_feedback_title">Dokunulduğunda titret</string>
+    <string name="lockpattern_settings_enable_tactile_feedback_title">Dokunma titreşimi</string>
     <string name="lockpattern_settings_enable_title">Desen iste</string>
     <string name="lockpattern_settings_enable_visible_pattern_title">Deseni görünür yap</string>
     <string name="lockpattern_settings_enable_visible_pattern_title_profile">Profil desenini görünür yap</string>
@@ -5898,7 +5898,7 @@ Cihazınızı yeniden başlatın ve tekrar deneyin"</string>
     <string name="ringer_mode_setting_summary">Aramaları ve bildirimleri sessize alın</string>
     <string name="ringer_mode_setting_title">Sessiz mod</string>
     <string name="ringtone_slot_setting_title">Tek Sim ayarları</string>
-    <string name="ringtone_title">Arama sesi</string>
+    <string name="ringtone_title">Telefon</string>
     <string name="ringtone_uniform_setting_title">Çift Sim ayarları</string>
     <string name="ringtones_category_preference_title">Zil sesleri</string>
     <string name="ringtones_install_custom_sound_content">Bu dosya %s klasörüne kopyalanacak</string>
@@ -7926,7 +7926,7 @@ Kelime eklemek için artı simgesine dokunun"</string>
     <string name="version_text">Sürüm %1$s</string>
     <string name="vibrate_category_title">Titreşim</string>
     <string name="vibrate_in_normal_title">Çalarken titret</string>
-    <string name="vibrate_in_silent_title">Sessiz modda titret</string>
+    <string name="vibrate_in_silent_title">Sessiz mod titreşimi</string>
     <string name="vibrate_input_devices">Titreşimi yönlendir</string>
     <string name="vibrate_input_devices_summary">Bağlandığında oyun denetleyiciye titreşim gönder</string>
     <string name="vibrate_on_touch_summary">Dokunma, klavye ve diğer işlemlerde dokunsal geri bildirim</string>
@@ -7935,7 +7935,7 @@ Kelime eklemek için artı simgesine dokunun"</string>
     <string name="vibrate_when_ringing_option_always_vibrate">Her zaman titreştir</string>
     <string name="vibrate_when_ringing_option_never_vibrate">Asla titreştirme</string>
     <string name="vibrate_when_ringing_option_ramping_ringer">Önce titreştir, sonra sesi yavaşça yükselt</string>
-    <string name="vibrate_when_ringing_title">Aramalarda ayrıca titret</string>
+    <string name="vibrate_when_ringing_title">Arama titreşimi</string>
     <string name="video_calling_settings_title">Operatör görüntülü görüşmesi</string>
     <string name="video_tool_box_title">Video araç kutusu</string>
     <string name="view_saved_network">Görüntülemek için kaydedilmiş ağı seçin</string>
