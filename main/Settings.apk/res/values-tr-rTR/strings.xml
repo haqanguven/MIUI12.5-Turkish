@@ -5583,7 +5583,7 @@ Bu hizmeti kullanmadan önce %s bölümünü okuyun ve kabul edin"</string>
     <string name="privacy_authorize_revoke">Geri al</string>
     <string name="privacy_authorize_revoke_dialog_msg">Yetkiyi geri almanızdan sonra uygulama veri toplamayı durduracak ve tüm ilgili veriler sunucudan silinecektir. Bu işlem uygulamayı kullanılamaz duruma getirebilir. Yetki yinede geri alınsın mı?</string>
     <string name="privacy_authorize_revoke_dialog_title">Yetki geri alınıyor</string>
-    <string name="privacy_authorize_revoke_failed">Yeni geri alınamadı</string>
+    <string name="privacy_authorize_revoke_failed">Yetki geri alınamadı</string>
     <string name="privacy_authorize_revoke_success">Yetki başarıyla geri alındı</string>
     <string name="privacy_authorize_revoke_time">Geri al (%1$d saniye)</string>
     <string name="privacy_authorize_revoke_title">Yetkilendirme &amp; geri alma</string>
