@@ -3359,6 +3359,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="power_superpower_title_systemui_lowpower">Şarj cihazını bağlayın</string>
     <string name="power_wifi">Wifi</string>
     <string name="power_wireless_need_update_text">Güncelliyor</string>
+    <string name="power_wireless_ubable_update_toast">Kablosuz şarj sırasında bellenim güncellenemiyor</string>
     <string name="power_wireless_update_button_text">Güncelle</string>
     <string name="power_wireless_update_dialog_button">Anladım</string>
     <string name="power_wireless_update_dialog_message">Kablosuz şarj donanım yazılımını güncelleyebilmek için cihazınızı en az %s şarj edin</string>
@@ -4894,6 +4895,12 @@ Kalan veri miktarı geçen aydan kalan veri miktarınıda içerir"</string>
     <string name="unlock_set_unlock_password_title">Şifre</string>
     <string name="unlock_set_unlock_pattern_title">Desen</string>
     <string name="unlock_set_unlock_pin_title">Pin</string>
+    <string name="untrust_app_perm_install_list">Bu cihazda yüklü uygulamaların listesine erişime izin ver</string>
+    <string name="untrust_app_perm_network">Ağa bağlanmaya izin ver</string>
+    <string name="untrust_app_perm_notification">Bildirimlere izin ver</string>
+    <string name="untrust_app_perm_oaid">Sanal kimliğinize erişmesine izin ver</string>
+    <string name="untrust_app_perm_title">Bilinmeyen bir kaynaktan uygulama</string>
+    <string name="untrust_app_perm_warn">Bu uygulama bilinmeyen bir kaynaktan geliyor ve güvenlik riskleri oluşturabilir. Gizliliğinizden ödün vermek için aşağıda listelenen izinleri kullanabilir. Dikkatli bir değerlendirmeden sonra bu izinleri verin</string>
     <string name="usage_sorted_activity_lable">Veri kullanımı</string>
     <string name="usage_sorted_empty_text">Boş</string>
     <string name="usage_sorted_loading_text">Yükleniyor</string>
