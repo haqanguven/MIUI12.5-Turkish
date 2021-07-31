@@ -810,6 +810,18 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
         <item quantity="other">%d virüs silindi</item>
         <item quantity="one">%d virüs silindi</item>
     </plurals>
+    <plurals name="sim_lock_puk_dialog_message">
+        <item quantity="other">Sim Puk kodunuzu doğrulamak için yalnızca %d denemeniz kaldı. Yanlış Puk girme limitine ulaşırsanız Sim kartınız iptal edilecektir. Devam etmek istiyor musunuz?</item>
+        <item quantity="one">Sim Puk kodunuzu doğrulamak için yalnızca %d denemeniz kaldı. Yanlış Puk girme limitine ulaşırsanız Sim kartınız iptal edilecektir. Devam etmek istiyor musunuz?</item>
+    </plurals>
+    <plurals name="simlock_set_pin_error">
+        <item quantity="other">Girdiğiniz Pin yanlış. %d deneme kaldı</item>
+        <item quantity="one">Girdiğiniz Pin yanlış. %d deneme kaldı</item>
+    </plurals>
+    <plurals name="simlock_set_puk_error">
+        <item quantity="other">Sim Puk girin. %d deneme kaldı</item>
+        <item quantity="one">Sim Puk girin. %d deneme kaldı</item>
+    </plurals>
     <plurals name="sp_monitored_apps_count">
         <item quantity="other">%s uygulama ödeme korumasına sahip</item>
         <item quantity="one">%s uygulama ödeme korumasına sahip</item>
@@ -883,6 +895,10 @@ Bir ara verin"</item>
     <plurals name="view_num">
         <item quantity="other">%1$d görüntülenme</item>
         <item quantity="one">%1$d görüntülenme</item>
+    </plurals>
+    <plurals name="virus_clear_dialog_content">
+        <item quantity="other">Seçilen %d uygulama temizlensin mi?</item>
+        <item quantity="one">Seçilen %d uygulama temizlensin mi?</item>
     </plurals>
     <plurals name="white_list_risk_app_header">
         <item quantity="other">Tehlikeli uygulamalar: %d</item>

@@ -28,6 +28,8 @@
     <string name="abc_shareactionprovider_share_with">Şununla paylaş:</string>
     <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
     <string name="abc_toolbar_collapse_description">Daralt</string>
+    <string name="about_safe_mode">Güvenli mod hakkında daha fazla bilgi edinin</string>
+    <string name="about_safe_mode_2">"Bu uygulama güvenlik testlerimizi geçemedi. &lt;font color=#0bae73>&lt;a href=miui_packageinstaller://com.miui.packageinstaller/safe_mode?safe_mode_type=package_install text-decoration=none>Güvenli mod hakkında daha fazla bilgi edinin&lt;/a>.&lt;/font>"</string>
     <string name="action_bar_report_link_des">Uygulama raporu</string>
     <string name="actionbar_button_up_description">Geri</string>
     <string name="ad_recommend_like">Şunlar da hoşunuza gidebilir</string>
@@ -64,6 +66,8 @@
     <string name="app_info_version_des_replace">Sürüm: %1$s -> %2$s | Boyut:%3$s</string>
     <string name="app_info_version_replace">Sürüm: %1$s -> %2$s</string>
     <string name="app_install_failed_button_text">Uygulama arayın</string>
+    <string name="app_installing_not_allow">"%1$s uygulamasının uygulama yüklemesine izin vermediniz. Bunu Ayarlar'dan değiştirebilirsiniz"</string>
+    <string name="app_installing_toast">Devam eden tüm kurulumlar tamamlanana kadar bekleyin ve tekrar deneyin</string>
     <string name="app_name">Mi paket yükleyici</string>
     <string name="app_name_unknown">Bilinmeyen</string>
     <string name="app_not_found_dlg_text">Uygulama yüklü uygulamalar listesinde bulunamadı</string>
@@ -75,7 +79,6 @@
     <string name="app_permissions_group_summary">Toplam %2$d uygulamadan %1$d uygulamaya izin verildi</string>
     <string name="app_store_install_hint">Şimdi yükle</string>
     <string name="app_store_installing_message">Yükleniyor</string>
-    <string name="app_store_missing_message">Resmi uygulama mağazamızı yüklememiş gibi görünüyorsunuz. Şimdi yüklensin mi?</string>
     <string name="app_store_missing_title">Uygulama mağazası yüklü değil</string>
     <string name="app_version_format">Sürüm: %1$s</string>
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
@@ -91,6 +94,7 @@
     <string name="caller_app">İzin isteği: %1$s</string>
     <string name="cancel">İptal et</string>
     <string name="cancel_install">İptal et</string>
+    <string name="cb_back">Geri</string>
     <string name="character_counter_content_description">Karakter %1$d/%2$d arasında girildi</string>
     <string name="character_counter_overflowed_content_description">"Karakter sınırı %1$d/%2$d'yi aştı"</string>
     <string name="character_counter_pattern">%1$d/%2$d</string>
@@ -167,7 +171,10 @@
     <string name="clearable_edittext_clear_description">Temizle</string>
     <string name="cllapsible_text_state">Gizle</string>
     <string name="close">Kapat</string>
+    <string name="close_safe_mode">Kapat</string>
     <string name="comment_count_wan">%1$s milyon yorum</string>
+    <string name="continuous_protection">Cihazınızı kötü amaçlı uygulamalardan koruyun</string>
+    <string name="continuous_protection_des">Güvenli mod açık</string>
     <string name="copy">Kopyala</string>
     <string name="count_down_time">(%1$s saniye)</string>
     <string name="cta_button_text_agree">Tamam</string>
@@ -204,6 +211,7 @@ Tüm geçmiş kullanıcı verileriniz kaydedilecektir"</string>
     <string name="dlg_sys_app_replacement_statement">"Bu bir sistem uygulamasıdır
 
 Tüm geçmiş kullanıcı verileriniz kaydedilecektir"</string>
+    <string name="do_not_show_again">Tekrar gösterme</string>
     <string name="done">Tamam</string>
     <string name="download_count_w">%1$s milyon</string>
     <string name="download_count_y">%1$s milyar+</string>
@@ -337,6 +345,7 @@ Tüm geçmiş kullanıcı verileriniz kaydedilecektir"</string>
     <string name="install_confirm_dialog_title">Uyarı</string>
     <string name="install_confirm_question">Bu uygulamayı yüklemek istiyor musunuz? Uygulama belirtilen erişimlere sahip olacaktır:</string>
     <string name="install_confirm_question_des_10">İlgili riskleri almak ve uygulamayı yüklemeye devam etmek istiyorsanız yüklemeye devam etmeden önce uygulamayı yetkilendirmek için lütfen uygulama yönetimine gidin</string>
+    <string name="install_confirm_question_des_10_tablet">"Risk almak ve kuruluma devam etmek istiyorsanız Güvenlik > Uygulamaları yönet > İzinler > Olası riskli uygulamalar bölümünde kuruluma yetki verin. Olası riskli uygulamalar bulamıyorsanız güncelleme yapın"</string>
     <string name="install_confirm_question_no_perms">Bu uygulamayı yüklemek istiyor musunuz? Uygulama herhangi bir özel izin talep etmiyor</string>
     <string name="install_confirm_question_update">Mevcut uygulamaya bir güncelleme yüklemek istiyor musunuz? Mevcut uygulama verileri kaybolmayacaktır. Güncellenen uygulama şu erişimlere sahip olacaktır:</string>
     <string name="install_confirm_question_update_no_perms">Mevcut uygulamaya yeni bir güncelleme yüklemek istiyor musunuz? Mevcut uygulama verileri kaybolmayacaktır. Güncelleme herhangi bir özel izin talep etmiyor</string>
@@ -363,6 +372,7 @@ Alternatif olarak basit modu kapatabilir ve tekrar deneyebilirsiniz"</string>
     <string name="install_finished_notification_summary">Depolama alanını boşaltmak için dokunun</string>
     <string name="install_finished_notification_title">%1$s başarıyla yüklendi. %2$s depolama alanı boşaltabilirsiniz</string>
     <string name="install_from_appstore_hint">Uygulamayı &lt;u>&lt;font color=#91c727>AppStore&lt;/font>&lt;/u> uygulamasından yüklemenizi öneriyoruz</string>
+    <string name="install_unknow_source">Bilinmeyen uygulamaları yükle</string>
     <string name="install_vip_account_mode_explain_des">Bu uygulama kapalı bir beta sürümüdür. Şu anda izniniz yok</string>
     <string name="install_vip_account_mode_solution_des">Kapalı beta izinlerine başvurmak için Xiaomi topluluğuna gidin</string>
     <string name="installing">Yükleniyor</string>
@@ -414,7 +424,6 @@ Alternatif olarak basit modu kapatabilir ve tekrar deneyebilirsiniz"</string>
     <string name="miui_failed_insufficient_storage">Yetersiz depolama alanı</string>
     <string name="miui_failed_invalid_apk">Kurulum paketi hatası</string>
     <string name="miui_failed_invalid_uri">Geçersiz yükleme yolu</string>
-    <string name="miui_failed_market_code_already_new">Zaten en son sürüm</string>
     <string name="miui_failed_market_code_denied">İstek deposu reddedildi</string>
     <string name="miui_failed_market_code_download_failed">Yükleme başarısız oldu</string>
     <string name="miui_failed_market_code_no_response">"Xiaomi App Store'dan gelen isteğe yanıt yok"</string>
@@ -597,6 +606,7 @@ Alternatif olarak basit modu kapatabilir ve tekrar deneyebilirsiniz"</string>
     <string name="not_set">Ayarlanmadı</string>
     <string name="ok">Tamam</string>
     <string name="old_sdk_deny_warning">Bu uygulama Android daha eski bir sürümü için tasarlanmıştır. İzinleri reddetmek uygulamanın tasarlandığı gibi çalışmasına engel olabilir</string>
+    <string name="open_now">Aç</string>
     <string name="other_permissions">Diğer uygulama özellikleri</string>
     <string name="other_relative">Diğer</string>
     <string name="out_of_space_dlg_text">%1$s yüklenemedi. Biraz boş alan açtıktan sonra yeniden deneyin</string>
@@ -648,7 +658,6 @@ Alternatif olarak basit modu kapatabilir ve tekrar deneyebilirsiniz"</string>
     <string name="prepare_install">Kurulum hazırlanıyor</string>
     <string name="privacyPerms">Gizlilik</string>
     <string name="privacy_relative">Gizlilik</string>
-    <string name="reboot_time">Yeniden başlatmaya hazırlanıyor (%1$s)</string>
     <string name="replace_app_des_text">Uygulama bu sürüm ile değiştirilsin mi?</string>
     <string name="resolve_suggestion_title">Öneri</string>
     <string name="review_button_cancel">İptal et</string>
@@ -657,10 +666,29 @@ Alternatif olarak basit modu kapatabilir ve tekrar deneyebilirsiniz"</string>
     <string name="risk_warning_msg">Bu kurulum paketindeki imza gerçek görünmüyor. Olası riskleri önlemek için GetApps üzerinden bu uygulamayı yükleyin</string>
     <string name="risk_warning_title">Riskler tespit edildi</string>
     <string name="risk_warning_top_button">Yükleme</string>
+    <string name="safe_des_once">Güvenli mod açıkken yalnızca güvenlik testlerimizi geçen uygulamaları yükleyebileceksiniz</string>
+    <string name="safe_des_two">Bilinmeyen kaynaklardan gelen uygulamalar önemli güvenlik riskleri oluşturabilir</string>
     <string name="safe_guard_support">Teknik destek %1$s tarafından sağlanmaktadır</string>
     <string name="safe_high_speed_installing">Güvenli sürüm yükleniyor</string>
     <string name="safe_install">Yükle</string>
+    <string name="safe_install_mode_suggestion_msg">"GetApps'ten bu uygulamanın güvenli sürümünü yükleyin"</string>
+    <string name="safe_install_mode_suggestion_title">Öneri:</string>
+    <string name="safe_mode">Güvenli mod</string>
+    <string name="safe_mode_already_authorize">İzin verildi</string>
+    <string name="safe_mode_authorize_name">Son yüklenen: %1$s</string>
+    <string name="safe_mode_authorize_once_install">Bir kez izin ver</string>
+    <string name="safe_mode_authorize_once_install_sucess">%1$s yüklemesine izin verdiniz. İndirilen kurulum paketini bulun ve devam edin</string>
+    <string name="safe_mode_close_tip">Güvenli modu kapat</string>
+    <string name="safe_mode_close_tip_des">Güvenli modu kapattıktan sonra yüklediğiniz uygulamaların güvenlik testlerimizi geçip geçmediğini öğrenemezsiniz. Yine de kapatılsın mı?</string>
+    <string name="safe_mode_is_open">Açık</string>
+    <string name="safe_mode_none_networkd_msg">Bu uygulamanın güvenlik testlerimizi geçip geçmediğini kontrol etmek için ağa bağlanın</string>
+    <string name="safe_mode_none_networkd_title">Ağa bağlan</string>
+    <string name="safe_mode_server_error_msg">Bu uygulamanın güvenlik testlerimizi geçip geçmediğini kontrol edemedik. Bir iki dakika bekleyin ve tekrar deneyin</string>
+    <string name="safe_mode_server_error_title">Bir şeyler yanlış gitti</string>
+    <string name="safe_mode_title_text">Güvenli mod</string>
     <string name="safe_relative">Güvenlik</string>
+    <string name="safe_title_once">Keep your device secure</string>
+    <string name="safe_title_two">Neutralize risks</string>
     <string name="safe_version_install">Mi güvenlik sürümünü yükleyin</string>
     <string name="saturday">Cumartesi</string>
     <string name="saturday_short">Cts</string>
@@ -676,8 +704,6 @@ Alternatif olarak basit modu kapatabilir ve tekrar deneyebilirsiniz"</string>
 <li>Bir uygulama virüs içerdiğinde</li>
 <li>Uygulamanın daha yeni bir sürümü mağazada mevcut olduğunda</li>
 <li>Kurulum paketi bilinmeyen bir kaynaktan yüklendiğinde</li>"</string>
-    <string name="settings_warning_dialog_msg">Telefonunuz güvenlik risklerine eğilimlidir. Bu özelliği kapatırsanız güvenli uygulama sürümlerini yüklemeniz istenmez. Yine de kapatılsın mı?</string>
-    <string name="settings_warning_dialog_title">Dikkat</string>
     <string name="size_byte">B</string>
     <string name="size_giga_byte">GB</string>
     <string name="size_kilo_byte">KB</string>
@@ -716,6 +742,7 @@ Alternatif olarak basit modu kapatabilir ve tekrar deneyebilirsiniz"</string>
     <string name="sunday">Pazar</string>
     <string name="sunday_short">Paz</string>
     <string name="sunday_shortest">Paz</string>
+    <string name="sure_close">Kapat</string>
     <string name="system_warning">Bu izin talebini reddederseniz cihazınızın basit özellikleri tasarlandıkları gibi çalışmayabilir</string>
     <string name="the_anniversary_of_lifting_martial_law">Sıkı yönetim kanunun yıldönümü</string>
     <string name="the_anti_aggression_day">Saldırganlık karşıtı günü</string>
@@ -793,11 +820,14 @@ Alternatif olarak basit modu kapatabilir ve tekrar deneyebilirsiniz"</string>
     <string name="unknown_apps_admin_dlg_text">Yöneticiniz bilinmeyen kaynaklardan gelen uygulamaların yüklenmesine izin vermiyor</string>
     <string name="unknown_apps_dlg_text">Telefonunuz güvenlik nedenlerinden dolayı bilinmeyen kaynaklardan gelen uygulamaların yüklenmesini engelleyecek şekilde ayarlanmıştır</string>
     <string name="unknown_installer">Tanımlanamayan bilgisayar araçları</string>
+    <string name="unknown_source_allow">İzin ver</string>
+    <string name="unknown_source_forbidden">Kısıtla</string>
     <string name="unlike">Hayır</string>
     <string name="untrusted_external_source_always_click">Her zaman izin ver</string>
     <string name="untrusted_external_source_title">%1$s uygulama yükleme izni</string>
     <string name="untrusted_external_source_warning">Güvenliğiniz için telefonunuzun bu kaynaktan gelen bilinmeyen uygulamaları yükleme izni yoktur</string>
     <string name="untrusted_external_source_warning_summary">Telefonunuz ve kişisel verileriniz bilinmeyen kaynaklardan gelen saldırılara karşı savunmasızdır. Bu kaynaktan uygulama yükleyerek bu uygulamaları kullanmanız sonucunda telefonunuzun başına gelebilecek her tür hasardan ve veri kaybından kendinizin sorumlu olduğunu kabul etmiş olursunuz</string>
+    <string name="untrusted_external_source_warning_summary_tablet">Cihazınız ve kişisel verileriniz bilinmeyen kaynaklardan yüklenen uygulamaların saldırılarına karşı savunmasızdır. Bu kaynaktan uygulamaların yüklenmesine izin vererek bu uygulamaları kullanırken meydana gelebilecek herhangi bir zarar veya veri kaybının sorumluluğunu kabul etmiş olursunuz</string>
     <string name="user_is_not_allowed_dlg_text">Mevcut kullanıcının kaldırma işlemini gerçekleştirme izni yok</string>
     <string name="user_is_not_allowed_dlg_title">İzin verilmedi</string>
     <string name="v7_preference_off">Kapalı</string>
@@ -810,12 +840,14 @@ Alternatif olarak basit modu kapatabilir ve tekrar deneyebilirsiniz"</string>
     <string name="virus_install_confirm_install">Yükle</string>
     <string name="virus_install_confirm_msg">Yüklemek üzere olduğunuz uygulama kişisel verilerinizi açığa çıkma riskine sokabilecek veya kötü niyetli kesintilere neden olabilecek virüsler içeriyor</string>
     <string name="virus_install_confirm_title">Kurulumu onayla</string>
+    <string name="virus_safe_install_mode_security_tips">" Bu uygulamayı yine de yüklemek istiyorsanız Ayarlar > Özel özellikler > Güvenli modda yüklemeye izin verebilirsiniz"</string>
     <string name="virus_scan_caller_unknown">Bilinmiyor</string>
     <string name="virus_scan_clear">Kaldır</string>
     <string name="virus_scan_install"><u>Yine de yükle</u></string>
     <string name="virus_scan_is_risk">Bu uygulama cihazınızın güvenliği için risk oluşturmaktadır</string>
     <string name="virus_scan_is_virus">Bu uygulama virüs içeriyor</string>
     <string name="virus_scanning">Kontrol ediliyor</string>
+    <string name="virus_scanning_please_wait">Kontrol ediliyor</string>
     <string name="virus_title_subtext">"Bu uygulama virüs içerebilir: "</string>
     <string name="virus_warning_title">Virüsler tespit edildi</string>
     <string name="virus_warning_title_2">Bu uygulama aşağıdaki virüsleri içerir:</string>

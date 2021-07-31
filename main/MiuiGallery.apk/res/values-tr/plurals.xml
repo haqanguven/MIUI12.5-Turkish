@@ -276,6 +276,10 @@
         <item quantity="other">Toplam %1$d öğe</item>
         <item quantity="one">Toplam %1$d öğe</item>
     </plurals>
+    <plurals name="photo_editor_talkback_crop_scale_value">
+        <item quantity="other">%d derece döndür</item>
+        <item quantity="one">%d derece döndür</item>
+    </plurals>
     <plurals name="photo_remain_days">
         <item quantity="other">%d gün</item>
         <item quantity="one">%d gün</item>
@@ -472,13 +476,33 @@
         <item quantity="other">%d fotoğraf optimize edildi</item>
         <item quantity="one">%d fotoğraf optimize edildi</item>
     </plurals>
+    <plurals name="slim_complete_photo_count_v2">
+        <item quantity="other">%d fotoğraf optimize edildi</item>
+        <item quantity="one">%d fotoğraf optimize edildi</item>
+    </plurals>
+    <plurals name="slim_complete_video_count">
+        <item quantity="other">%d video optimize edildi</item>
+        <item quantity="one">%d video optimize edildi</item>
+    </plurals>
     <plurals name="slim_exit_dialog_message">
-        <item quantity="other">%d fotoğraf optimize edilmedi. Şimdi durdurulsun mu?</item>
-        <item quantity="one">%d fotoğraf optimize edilmedi. Şimdi durdurulsun mu?</item>
+        <item quantity="other">%d fotoğraf optimize edilemedi. Şimdi durdurulsun mu?</item>
+        <item quantity="one">%d fotoğraf optimize edilemedi. Şimdi durdurulsun mu?</item>
+    </plurals>
+    <plurals name="slim_photo_count">
+        <item quantity="other">%d fotoğraf</item>
+        <item quantity="one">%d fotoğraf</item>
     </plurals>
     <plurals name="slim_remain_photo_count">
         <item quantity="other">%d fotoğraf kaldı</item>
         <item quantity="one">%d fotoğraf kaldı</item>
+    </plurals>
+    <plurals name="slim_remain_photo_count_v2">
+        <item quantity="other">%d öğe optimize edilecek</item>
+        <item quantity="one">%d öğe optimize edilecek</item>
+    </plurals>
+    <plurals name="slim_videos_count">
+        <item quantity="other">%d video</item>
+        <item quantity="one">%d video</item>
     </plurals>
     <plurals name="sync_error_title">
         <item quantity="other">%d fotoğraf veya video yedeklenmedi</item>
@@ -492,6 +516,9 @@
         <item quantity="other">%d öğe</item>
         <item quantity="one">%d öğe</item>
     </plurals>
+    <plurals name="synced_immerse_title">
+        <item quantity="other">%1$d fotoğraf ve %2$d video başarıyla senkronize edildi</item>
+    </plurals>
     <plurals name="synced_photo_count">
         <item quantity="other">%d fotoğraf senkronize edildi</item>
         <item quantity="one">%d fotoğraf senkronize edildi</item>
@@ -499,6 +526,10 @@
     <plurals name="synced_videos_count">
         <item quantity="other">%d video senkronize edildi</item>
         <item quantity="one">%d video senkronize edildi</item>
+    </plurals>
+    <plurals name="talkback_album_item_content">
+        <item quantity="other">%1$s, %2$s öğe</item>
+        <item quantity="one">%1$s, %2$s öğe</item>
     </plurals>
     <plurals name="trash_purge_dialog_message_image">
         <item quantity="other">%d seçili öğelerini silerseniz geri yükleyemezsiniz. Yine de silinsin mi?</item>

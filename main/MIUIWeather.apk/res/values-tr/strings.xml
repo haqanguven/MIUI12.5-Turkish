@@ -534,6 +534,9 @@ Konumu el ile değiştirmek veya şehir seçmek için dokunun"</string>
 aç"</string>
     <string name="other_settings">Diğer ayarlar</string>
     <string name="other_warning_settings">Diğer uyarılar</string>
+    <string name="pad_keyboard_add_city">Konum ekle</string>
+    <string name="pad_keyboard_left_switch">Önceki konum</string>
+    <string name="pad_keyboard_right_switch">Sonraki konum</string>
     <string name="pad_real_time_detail_title">Konfor</string>
     <string name="particulate_matter_exceeded">Yüksek</string>
     <string name="particulate_matter_not_exceeded">Normal</string>
@@ -597,6 +600,7 @@ aç"</string>
     <string name="search_menu_title">Ara</string>
     <string name="search_weather">Hava durumu</string>
     <string name="search_weather_keywords">Sıcaklık,Hava tahmini,Hava durumu,Hava kalitesi,Kirlilik derecesi,Nem</string>
+    <string name="select_show_city">Konum seçin</string>
     <string name="send">Gönder</string>
     <string name="set_degree_centigrade">°C</string>
     <string name="set_fahrenheit">°F</string>

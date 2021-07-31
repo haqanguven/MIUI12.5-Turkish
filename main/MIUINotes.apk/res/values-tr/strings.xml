@@ -507,6 +507,7 @@
     <string name="note_mindnote_entrance_hint_newversion">"Yazmaya başlayın "</string>
     <string name="note_mindnote_entrance_icon_text">Bir zihin haritası oluşturun</string>
     <string name="note_mindnote_entrance_icon_text_newversion">Bir zihin haritası oluşturun</string>
+    <string name="note_not_text_stub">Metin yok</string>
     <string name="note_sort_way">Notları sırala</string>
     <string name="notealert_enter">Notu aç</string>
     <string name="notealert_ok">Yoksay</string>
@@ -703,6 +704,7 @@
     <string name="solar_term_white_dews">Çiğ</string>
     <string name="solar_term_winter_begins">Kış başlıyor</string>
     <string name="solar_term_winter_solstice">Kış gündönümü</string>
+    <string name="splash_note">Kalem</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Pazar</string>
@@ -792,6 +794,7 @@
     <string name="toast_notes_delete_success">Başarıyla silindi</string>
     <string name="toast_notes_hidden_edit">Bu not başarıyla gizlendi. Gizli notları görmek için aşağı doğru çekin</string>
     <string name="toast_notes_hidden_home">Bu not başarıyla gizlendi. Gizli notları görmek için aşağı doğru çekin</string>
+    <string name="toast_notes_hidden_pad">Bu not şimdi gizlendi. Gizli notları görüntülemek için yan paneli aşağı çekin</string>
     <string name="toast_notes_unhidden">Gizleme başarıyla kaldırıldı</string>
     <string name="toast_pic_is_not_really">Resim kaydediliyor</string>
     <string name="toast_reach_text_limit_attachment">Not içeriği çok uzun olduğundan yeni eklentiler eklenemiyor</string>
@@ -902,7 +905,10 @@ Ses kaydetmek için notlar uygulamasına izin verin"</string>
     <string name="wednesday_short">Çarşamba</string>
     <string name="wednesday_shortest">Ç</string>
     <string name="widget_content_loading">Yükleniyor</string>
+    <string name="widget_create_select_size">Boyut seç</string>
+    <string name="widget_empty_content">Bir not seçmek için dokunun</string>
     <string name="widget_havenot_content">Bir not oluşturmak için dokunun. Notu yeniden boyutlandırmak için araca basılı tutun</string>
+    <string name="widget_note_list_page_title">Not seç</string>
     <string name="xiaomi_account_type">com.xiaomi</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Şimdi değil</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Güncelle</string>
