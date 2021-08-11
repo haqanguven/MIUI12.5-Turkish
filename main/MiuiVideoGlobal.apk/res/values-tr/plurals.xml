@@ -64,6 +64,14 @@
         <item quantity="other">%d klasör</item>
         <item quantity="one">%d klasör</item>
     </plurals>
+    <plurals name="long_video_minute">
+        <item quantity="other">%d dakika</item>
+        <item quantity="one">%d dakika</item>
+    </plurals>
+    <plurals name="long_video_season">
+        <item quantity="other">%d sezon</item>
+        <item quantity="one">%d sezon</item>
+    </plurals>
     <plurals name="lv_subtitle_offset_advance_times">
         <item quantity="other">Altyazı %.1f saniye erken görüntülenecek</item>
         <item quantity="one">Altyazı %.1f saniye erken görüntülenecek</item>

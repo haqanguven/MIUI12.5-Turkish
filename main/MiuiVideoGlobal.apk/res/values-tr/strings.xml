@@ -415,8 +415,8 @@ Bu kodu gönderin"</string>
     <string name="empty" />
     <string name="empty_channels">Kanalları yönet</string>
     <string name="empty_subscribe">Henüz hiç aboneliğiniz yok</string>
-    <string name="eras_ad">M.S.</string>
-    <string name="eras_bc">M.Ö.</string>
+    <string name="eras_ad">CE</string>
+    <string name="eras_bc">BCE</string>
     <string name="error_details">Beklenmeyen hata</string>
     <string name="error_dup_binded_email">E-posta adresi başka bir Mi hesabı tarafından kullanılmaktadır. Lütfen başka bir e-posta adresi girin</string>
     <string name="error_invalid_bind_address">Girmiş olduğunuz e-posta adresi geçersiz</string>
@@ -464,6 +464,7 @@ Bu kodu gönderin"</string>
     <string name="failed_dup_secure_phone_number">Bu telefon numarası zaten başka bir Mi hesabı ile ilişkilendirilmiş durumda</string>
     <string name="failed_to_fetch_data">Bilgi yüklenemedi</string>
     <string name="failure">İndirilemedi</string>
+    <string name="favor_movie">Filmler</string>
     <string name="favor_online_video">Videolar</string>
     <string name="favor_playlist">Çalma listeleri</string>
     <string name="favorite">Favoriler</string>
@@ -614,10 +615,8 @@ Bu kodu gönderin"</string>
     <string name="galleryplus_orientation_lock">Yön başarıyla kilitlendi</string>
     <string name="galleryplus_orientation_unlock">Ekran yönünün kilidi açık</string>
     <string name="galleryplus_permission_content">Bu özelliği kullanabilmek için videoya gerekli izinleri verin</string>
-    <string name="galleryplus_permission_content2">"Bu özelliği kullanabilmek için Ayarlar > Uygulamalar > Videolar > Uygulama izinleri menüsüne gidin ve videonun aşağıdakileri yapmasına izin verin:
-
-1. Depolamaya erişim
-2. Cihaz kimliğine erişim"</string>
+    <string name="galleryplus_permission_content_opt">"Videoların normal çalışabilmesi için izinlere ihtiyaç duyar. Ayarlar'da tüm uygulama verilerini temizleyin ve uygulamayı tekrar açın"</string>
+    <string name="galleryplus_permission_content_xms">"Videoların normal çalışabilmesi için izinlere ihtiyaç duyar. Ayarlar'a gidin ve Mi Video'ya gerekli izinleri verin"</string>
     <string name="galleryplus_permission_open_settings">Ayarlar</string>
     <string name="galleryplus_permission_refuse">Hayır</string>
     <string name="galleryplus_permission_retry">İzinler</string>
@@ -755,6 +754,9 @@ tercih ettiğiniz dili seçin"</string>
     <string name="logo_neverthink">Küratör: Neverthink.tv</string>
     <string name="logout">Oturumu kapat</string>
     <string name="logout_account">Oturumu kapat</string>
+    <string name="long_video_no_more_content">Şimdilik bu kadar</string>
+    <string name="long_video_watch_on">İzle</string>
+    <string name="long_video_you_may_also_like">Bunları da beğenebilirsiniz</string>
     <string name="lp_base_folder">SD kart</string>
     <string name="lp_play_mode_list_loop">Tümünü tekrar oynat</string>
     <string name="lp_play_mode_pause">Bir tane oynat</string>
@@ -1034,6 +1036,7 @@ tercih ettiğiniz dili seçin"</string>
     <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">Son abonelikler</string>
     <string name="order_recently_updated">Son güncellenen</string>
+    <string name="out_of_memory_background_playback_is_suspended">Yetersiz bellekten dolayı arka planda oynatma duraklatıldı</string>
     <string name="ovp_alert_dialog_download_install_task">HD eklentisi indiriliyor</string>
     <string name="ovp_buffering_video_netplay_label_v5">Yükleniyor</string>
     <string name="ovp_category">Kategoriler</string>
@@ -1697,6 +1700,7 @@ Hiçbir şey göstermiyor"</string>
     <string name="video_download_fail">Video indirilemedi</string>
     <string name="video_download_fail_hint">İndirilemedi</string>
     <string name="video_download_floating_guide">Videoları ücretsiz indirin</string>
+    <string name="video_download_folder_title">Video indirilenler</string>
     <string name="video_download_forbidden">Bu internet sitesinden indirilemiyor</string>
     <string name="video_download_login_guide">"Videoları indirebilmek için %s'de oturum açın"</string>
     <string name="video_download_network_error">Ağ hatası</string>
