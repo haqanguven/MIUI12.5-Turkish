@@ -61,6 +61,10 @@
         <item quantity="other">%d dakika Önce</item>
         <item quantity="one">1 dakika Önce</item>
     </plurals>
+    <plurals name="after_num_minutes">
+        <item quantity="other">%d dakika içinde</item>
+        <item quantity="one">%d dakika içinde</item>
+    </plurals>
     <plurals name="anniversary_day">
         <item quantity="other">%1$s gün</item>
         <item quantity="one">%1$s gün</item>
@@ -164,6 +168,10 @@
         <item quantity="other">%d daha fazla etkinlik</item>
         <item quantity="one">%d daha fazla etkinlik</item>
     </plurals>
+    <plurals name="other_num_events">
+        <item quantity="other">%d etkinlik daha</item>
+        <item quantity="one">%d etkinlik daha</item>
+    </plurals>
     <plurals name="reminder_custom_unit_day">
         <item quantity="other">" gün"</item>
         <item quantity="one">" gün"</item>
@@ -200,6 +208,10 @@
         <item quantity="other">%1$d yıl</item>
         <item quantity="one">%1$d yıl</item>
     </plurals>
+    <plurals name="today_has_num_event">
+        <item quantity="other">Bugün için planlanan %d etkinlik</item>
+        <item quantity="one">Bugün için planlanan %d etkinlik</item>
+    </plurals>
     <plurals name="travel_time_range_hours">
         <item quantity="other">%d saat</item>
         <item quantity="one">%d saat</item>
@@ -210,6 +222,22 @@
     </plurals>
     <plurals name="weekN">
         <item quantity="other">%d hafta</item>
+    </plurals>
+    <plurals name="widget_countdown_day">
+        <item quantity="other">%1$s gün</item>
+        <item quantity="one">%1$s gün</item>
+    </plurals>
+    <plurals name="widget_normal_agenda_going_counts">
+        <item quantity="other">%d devam eden etkinlik</item>
+        <item quantity="one">%d devam eden etkinlik</item>
+    </plurals>
+    <plurals name="widget_normal_agenda_next_minutes">
+        <item quantity="other">%d dakika sonra sonraki etkinlik</item>
+        <item quantity="one">%d dakika sonra sonraki etkinlik</item>
+    </plurals>
+    <plurals name="widget_normal_agenda_tomorrow_total">
+        <item quantity="other">Yarın %d etkinlik</item>
+        <item quantity="one">Yarın %d etkinlik</item>
     </plurals>
     <plurals name="work_days">
         <item quantity="other">%d iş günü</item>

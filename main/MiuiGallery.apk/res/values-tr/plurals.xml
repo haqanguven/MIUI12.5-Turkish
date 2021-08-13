@@ -141,6 +141,10 @@
         <item quantity="other">%d video</item>
         <item quantity="one">%d video</item>
     </plurals>
+    <plurals name="cloud_storage_warn_title_link">
+        <item quantity="other">Yetersiz bulut depolama alanı nedeniyle %d öğe senkronize edilemedi</item>
+        <item quantity="one">Yetersiz bulut depolama alanı nedeniyle %d öğe senkronize edilemedi</item>
+    </plurals>
     <plurals name="collage_select_image_dynamic_range">
         <item quantity="other">Kolajlar 1-%d fotoğraf içerebilir</item>
         <item quantity="one">Kolajlar 1-%d fotoğraf içerebilir</item>
@@ -192,6 +196,10 @@
     <plurals name="download_retry_message">
         <item quantity="other">%1$d dosya indirilemedi. Ağ bağlantınızı kontrol edin ve ardından tekrar deneyin</item>
         <item quantity="one">%1$d dosya indirilemedi. Ağ bağlantınızı kontrol edin ve ardından tekrar deneyin</item>
+    </plurals>
+    <plurals name="downloading_title_link">
+        <item quantity="other">Öğeler buluttan indiriliyor (%2$d/%1$d)</item>
+        <item quantity="one">Öğeler buluttan indiriliyor (%2$d/%1$d)</item>
     </plurals>
     <plurals name="face_count">
         <item quantity="other">Toplam %d fotoğraf</item>
@@ -516,9 +524,6 @@
         <item quantity="other">%d öğe</item>
         <item quantity="one">%d öğe</item>
     </plurals>
-    <plurals name="synced_immerse_title">
-        <item quantity="other">%1$d fotoğraf ve %2$d video başarıyla senkronize edildi</item>
-    </plurals>
     <plurals name="synced_photo_count">
         <item quantity="other">%d fotoğraf senkronize edildi</item>
         <item quantity="one">%d fotoğraf senkronize edildi</item>
@@ -526,6 +531,14 @@
     <plurals name="synced_videos_count">
         <item quantity="other">%d video senkronize edildi</item>
         <item quantity="one">%d video senkronize edildi</item>
+    </plurals>
+    <plurals name="syncing_gprs_title_link">
+        <item quantity="other">%d öğe mobil veri kullanılarak senkronize ediliyor</item>
+        <item quantity="one">%d öğe mobil veri kullanılarak senkronize ediliyor</item>
+    </plurals>
+    <plurals name="syncing_title_link">
+        <item quantity="other">%d öğe senkronize ediliyor</item>
+        <item quantity="one">%d öğe senkronize ediliyor</item>
     </plurals>
     <plurals name="talkback_album_item_content">
         <item quantity="other">%1$s, %2$s öğe</item>

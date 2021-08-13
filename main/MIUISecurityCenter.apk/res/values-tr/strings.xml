@@ -746,7 +746,7 @@ Kişisel kırmızı zarfı destekleyin ve kırmızı zarfı gruplayın
     <string name="auto_task_operation_mobile_data">Mobil veri</string>
     <string name="auto_task_operation_modify_string">Düzenle: %s</string>
     <string name="auto_task_operation_mute">Sessiz mod</string>
-    <string name="auto_task_operation_no_op">Bu işlemi seçme</string>
+    <string name="auto_task_operation_no_op">Hiçbiri</string>
     <string name="auto_task_operation_open">Aç</string>
     <string name="auto_task_operation_open_string">%s aç</string>
     <string name="auto_task_operation_string_comma">,</string>
@@ -822,6 +822,11 @@ Kişisel kırmızı zarfı destekleyin ve kırmızı zarfı gruplayın
     <string name="battery_status_unknown">Bilinmeyen hata</string>
     <string name="battery_temperature_title">Sıcaklık</string>
     <string name="begin_date">Kullanım periyodu sıfırlama tarihi</string>
+    <string name="behavior_widget_get_installed_apps">Erişilen uygulamalar</string>
+    <string name="behavior_widget_get_location">Erişilen konum</string>
+    <string name="behavior_widget_read_clipboard">Erişilen pano</string>
+    <string name="behavior_widget_read_contact">Erişilen kişiler</string>
+    <string name="behavior_widget_read_write_external_storage">Erişilen dosyalar</string>
     <string name="best_booster_status">Oyun hızlandırıcı şimdi kullanılabilir</string>
     <string name="best_warning_dialog_button">Biliyorum</string>
     <string name="best_warning_dialog_message">İpuçları: Xiaomi kırmızı paket asistanını kullandıktan sonra kırmızı paket kapma hızınızı artırır. Ancak elleriniz çok hızlıysa her defasında kırmızı bir zarf alan ilk kişi olacaksınız. <font color="'#e56255'">"\"\"\"\"\"\"\"\"WeChat'in otomatik olarak kırmızı zarf toplama eklentisini daha sonra kırmızı zarf işlevini kullanımınızı etkilemek için kullanma şansı vardır.\"\"\"\"\"\"\"\""</font> Bu nedenle bazen ritmi kontrol etmek ve kırmızı zarfı kapmak için elinizi kaldırmak daha iyidir. Kırmızı zarflar iyi olsa da çok açgözlü olmayın~</string>
@@ -2177,6 +2182,8 @@ ve ses değiştiricimizi keşfedin"</string>
     <string name="gtb_guide_gtb_community_title">Oyun topluluğu</string>
     <string name="gtb_guide_gtb_func_desc">Daha fazla oyun eğlencesi yaşayın</string>
     <string name="gtb_guide_gtb_func_title">Oyun asistanı</string>
+    <string name="gtb_guide_gtb_game_effected">Uygulandı</string>
+    <string name="gtb_guide_gtb_game_new">Yeni</string>
     <string name="gtb_guide_gtb_line_new">En iyi oyun deneyimi için yeni oyun hızlandırıcıyı çağırın</string>
     <string name="gtb_guide_small_window_app_desc">Tek adımda konuşun ve oynayın</string>
     <string name="gtb_guide_small_window_app_title">Küçük pencere uygulaması</string>
