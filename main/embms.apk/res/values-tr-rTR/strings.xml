@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="permlab_useEmbms">Çok noktaya yayın akışı için internet servisine erişin</string>
-    <string name="permdesc_useEmbms">Uygulamanın çok noktaya yayın akış hizmetlerine erişmesine izin verir. Kötü amaçlı uygulamalar ek veri ücretlerine mal olabilir</string>
-</resources>

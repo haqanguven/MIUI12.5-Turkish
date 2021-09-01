@@ -36,7 +36,6 @@
     <string name="abc_shareactionprovider_share_with">Şununla paylaş</string>
     <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
     <string name="abc_toolbar_collapse_description">Daralt</string>
-    <string name="access_denied_info">Çok fazla deneme yaptınız. Bir veya iki dakika bekleyin ve tekrar deneyin</string>
     <string name="account_bind_secure_email_title">Kurtarma e-postası ekle</string>
     <string name="account_bind_secure_phone_title">Kurtarma telefon numarası ekle</string>
     <string name="account_crop_user_avatar">Fotoğrafı kırp</string>
@@ -80,6 +79,8 @@
     <string name="ad_download">İndir</string>
     <string name="ad_join">Topluluğa katılın</string>
     <string name="ad_more">Daha fazla</string>
+    <string name="add_local_shortcut_add">+Ekle</string>
+    <string name="add_local_shortcut_des">"Yerel videolarınızı kolayca izlemek için videom"u masaüstüne ekleyin"</string>
     <string name="add_search_channel_link">Bağlantı</string>
     <string name="add_search_channel_name">Ad</string>
     <string name="add_search_channel_tip">Hedef internet sitesinde %s araması yapın ve ardından bağlantıyı kopyalayıp buraya yapıştırın</string>
@@ -145,7 +146,7 @@
     <string name="cast_forward">İleri sar</string>
     <string name="cast_forward_10">10 saniye ileri sar</string>
     <string name="cast_forward_30">30 saniye ileri sar</string>
-    <string name="cast_intro_overlay_button_text">\\android:string/ok</string>
+    <string name="cast_intro_overlay_button_text">@android:string/ok</string>
     <string name="cast_invalid_stream_duration_text">--:--</string>
     <string name="cast_invalid_stream_position_text">--:--</string>
     <string name="cast_live_label">Canlı</string>
@@ -250,6 +251,7 @@
     <string name="choose_to_signin">Evet</string>
     <string name="choose_to_signup">Hayır. Yeni bir hesap oluşturacağım</string>
     <string name="clearable_edittext_clear_description">Temizle</string>
+    <string name="click_to_open_pip">Resim içinde resime geçmek için dokunun</string>
     <string name="click_to_reload_more">Daha fazla yüklemek için dokunun</string>
     <string name="click_to_retry">Yeniden dene</string>
     <string name="close">Kapat</string>
@@ -390,6 +392,8 @@ Bu kodu gönderin"</string>
     <string name="download_complete">İndirildi</string>
     <string name="download_delete_tip">Seçilen öğeler silinsin mi?</string>
     <string name="download_delete_title">Sil</string>
+    <string name="download_guide_click_icon_to_website_or_enter_url">Bir internet sitesini açmak veya bağlantı girmek için bir kısayola dokunun</string>
+    <string name="download_guide_known">Anladım</string>
     <string name="download_paused">Duraklatıldı</string>
     <string name="download_pending">Bekleniyor</string>
     <string name="download_power_off_tips">Bu özellik şu anda kullanılamıyor</string>
@@ -620,7 +624,11 @@ Bu kodu gönderin"</string>
     <string name="galleryplus_permission_open_settings">Ayarlar</string>
     <string name="galleryplus_permission_refuse">Hayır</string>
     <string name="galleryplus_permission_retry">İzinler</string>
-    <string name="galleryplus_permission_title">Uyarı</string>
+    <string name="galleryplus_permission_storage_content_reshowable">"%s'nin cep telefonu depolama alanını okumak ve yazmak için izin istemesi gerekiyor. Bu işlevi kullanmanız gerekiyorsa lütfen yetkilendirin"</string>
+    <string name="galleryplus_permission_storage_content_unreshowable">"%s, telefon depolaması için okuma ve yazma izinleri istemeli. Bu işlevi kullanmanız gerekiyorsa, uygulama ayrıntıları sayfasına girmek için lütfen "Ayarlar"ı tıklayın ve "İzinler"de cihaz izinlerini etkinleştirin"</string>
+    <string name="galleryplus_permission_storage_title">Cihazdaki fotoğrafları ve dosyaları okuyun ve yazın</string>
+    <string name="galleryplus_permission_title">Dikkat</string>
+    <string name="galleryplus_permission_video_player">Video oynatma işlevi</string>
     <string name="galleryplus_play_speed">%1$.1fX</string>
     <string name="galleryplus_restore_play_speed">Şimdi normal hızda oynatılıyor</string>
     <string name="galleryplus_save_cancel_toast">Videoyu kaydetmeyi iptal etmek için geri seçeneğine dokunun</string>
@@ -706,15 +714,6 @@ tercih ettiğiniz dili seçin"</string>
     <string name="language_setting_tips">Daha fazla ilgili içerik önerisi almak için dilinizi seçin. Dil tercihlerinizi Profil > Dil menüsünde değiştirebilirsiniz</string>
     <string name="language_setting_tips_dialog">İçerik için dil tercihlerini Hesap > Dil menüsünde yapabilirsiniz</string>
     <string name="later">Daha sonra</string>
-    <string name="library_android_database_sqlcipher_author">Hakan GÜVEN</string>
-    <string name="library_android_database_sqlcipher_authorWebsite">https://www.zetetic.net/sqlcipher/</string>
-    <string name="library_android_database_sqlcipher_isOpenSource">true</string>
-    <string name="library_android_database_sqlcipher_libraryDescription">SQLCipher tabanlı Android SQLite API</string>
-    <string name="library_android_database_sqlcipher_libraryName">Android için SQLCipher</string>
-    <string name="library_android_database_sqlcipher_libraryVersion">${clientVersionNumber}</string>
-    <string name="library_android_database_sqlcipher_libraryWebsite">https://www.zetetic.net/sqlcipher/</string>
-    <string name="library_android_database_sqlcipher_licenseLink">https://www.zetetic.net/sqlcipher/license/</string>
-    <string name="library_android_database_sqlcipher_repositoryLink">https://github.com/sqlcipher/android-database-sqlcipher</string>
     <string name="library_roundedimageview_author">Hakan GÜVEN</string>
     <string name="library_roundedimageview_authorWebsite">https://github.com/vinc3m1</string>
     <string name="library_roundedimageview_isOpenSource">true</string>
@@ -729,6 +728,7 @@ tercih ettiğiniz dili seçin"</string>
     <string name="live_tv_title">Canlı TV</string>
     <string name="loading">Yükleniyor</string>
     <string name="local_play_tip">Yerel video oynatılıyor</string>
+    <string name="local_push_setting_power_tag">Yerel videolar hakkında bildirimler</string>
     <string name="local_push_title">Bugün popüler</string>
     <string name="local_video_create_a_new_playlist">Yeni oynatma listesi</string>
     <string name="local_video_date">Tarih</string>
@@ -744,7 +744,8 @@ tercih ettiğiniz dili seçin"</string>
     <string name="local_video_name">Ad</string>
     <string name="local_video_notification_btn">Videoda izle</string>
     <string name="local_video_notification_title">Yeni bir yerel video bulundu</string>
-    <string name="local_video_number_of_selected">Selected %1$d/%2$d</string>
+    <string name="local_video_number_of_selected">%1$d/%2$d seçildi</string>
+    <string name="local_video_shortcut_name">Videolarım</string>
     <string name="local_video_size">Boyut</string>
     <string name="local_video_space">Dolu: %s</string>
     <string name="local_video_time">Süre</string>
@@ -883,6 +884,7 @@ tercih ettiğiniz dili seçin"</string>
     <string name="lv_video_null">Video yok</string>
     <string name="lv_volume">Ses</string>
     <string name="manage">Yönet</string>
+    <string name="mediation_ad">AD</string>
     <string name="mediation_ad_can_not_share">Bu video paylaşılamıyor</string>
     <string name="mi_video">Videolar</string>
     <string name="midnight">Gece</string>
@@ -991,9 +993,7 @@ tercih ettiğiniz dili seçin"</string>
     <string name="my_feedback_title">Geri bildirimim</string>
     <string name="need_update_app">Tüm özelliklerinden faydanalanabilmek için Mi Video uygulamasını güncelleyin</string>
     <string name="network_connect_info">Ağa bağlanılamadı. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
-    <string name="network_error_info">Bir ağ hatası oluştu. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
     <string name="network_failed">Ağa bağlanılamadı</string>
-    <string name="network_timeout_info">Ağa bağlanılamadı. Tekrar deneyin</string>
     <string name="neverthink_player_loading">Neverthink videosu yükleniyor</string>
     <string name="new_channel_tip">Yeni kanallara bir göz atın</string>
     <string name="next">Sonraki</string>
@@ -1071,6 +1071,8 @@ tercih ettiğiniz dili seçin"</string>
     <string name="ovp_favor">Favoriler</string>
     <string name="ovp_favor_null">Burada öge yok</string>
     <string name="ovp_feedback_title">Videolar geri bildirim</string>
+    <string name="ovp_hint_new">Yeni</string>
+    <string name="ovp_hint_the_latest_version">Güncel</string>
     <string name="ovp_home_folder_is_null_jump_upfolder_tip">Medya dosyası bulunamadı. Bir üst klasöre geçildi</string>
     <string name="ovp_home_item_camera">Galeri</string>
     <string name="ovp_home_item_download">İndirilenler</string>
@@ -1086,6 +1088,7 @@ tercih ettiğiniz dili seçin"</string>
     <string name="ovp_local_videos_title">Yerel videolar</string>
     <string name="ovp_navigation_category">Kategori</string>
     <string name="ovp_navigation_content">İçerik işbirliği</string>
+    <string name="ovp_navigation_darkmode">Koyu mod</string>
     <string name="ovp_navigation_favorites">Favoriler</string>
     <string name="ovp_navigation_feedback">Geri bildirim</string>
     <string name="ovp_navigation_history">Geçmiş</string>
@@ -1095,6 +1098,7 @@ tercih ettiğiniz dili seçin"</string>
     <string name="ovp_navigation_notice">Bildirimler</string>
     <string name="ovp_navigation_setting">Ayarlar</string>
     <string name="ovp_navigation_subscribe">Abone ol</string>
+    <string name="ovp_navigation_version_update">Güncellemeleri kontrol et</string>
     <string name="ovp_player_cached_error_btn">Çevrimiçi videolar</string>
     <string name="ovp_player_cached_error_hint_info">Yerel videolar şimdi oynatılamıyor</string>
     <string name="ovp_player_plugin_dlg_neg_btn">Kapat</string>
@@ -1379,9 +1383,9 @@ Hesap güvenliğinin arttırılması"</string>
     <string name="plus_tab_gallery">Klasörler</string>
     <string name="plus_tab_time">Zaman tüneli</string>
     <string name="pm">ÖS</string>
+    <string name="popup_click_for_download_video">Video indir</string>
     <string name="privacy_revoke_setting">"Anahtarı kapatarak videolar uygulamasının Gizlilik Politikası'na verdiğiniz izni geri çekersiniz"</string>
     <string name="privacy_revoke_title">İznin geri çekilmesi</string>
-    <string name="progressbar_title">Güvenlik sorunları kontrol ediliyor</string>
     <string name="project_id">global-video-5cd70</string>
     <string name="psw_hint">Şifre</string>
     <string name="psw_sign_in">Şifre kullanarak oturum aç</string>
@@ -1396,6 +1400,14 @@ Hesap güvenliğinin arttırılması"</string>
     <string name="pw_channels">Kanallar</string>
     <string name="qq_application_id" />
     <string name="qq_login_protocol_scheme">com.xiaomi.passport.ui</string>
+    <string name="question_click_bottom_tab">İnternet sitesini açmak için bir kısayola da dokunabilirsiniz</string>
+    <string name="question_click_with_light">Yandıktan sonra indir tuşuna dokunun</string>
+    <string name="question_edit_url_here">Ara veya buraya bağlantı gir</string>
+    <string name="question_how_to_download_video">Videoları nasıl indirebilirim?</string>
+    <string name="question_known">Anladım</string>
+    <string name="question_look_video_here">İndirilen videolar buraya kaydedilecektir</string>
+    <string name="question_next">İleri</string>
+    <string name="question_step">Atla</string>
     <string name="read_and_agree">Kabul et</string>
     <string name="recommend_channels">Önerilen kanallar</string>
     <string name="recommend_online_switch">Çevrimiçi öneriler</string>
@@ -1553,7 +1565,6 @@ Hiçbir şey göstermiyor"</string>
     <string name="sync_favorites_limit">"Favorilerinizde 500'den fazla video var. Senkronizasyona devam etmek için eski videolardan bazılarını sileceğiz"</string>
     <string name="sync_favorites_message">Bu cihazdaki favoriler hesabınız ile senkronize edilsin mi? Kullanılamayan ögeler silinecektir</string>
     <string name="sync_favorites_title">Favorileri senkronize et</string>
-    <string name="system_error_info">Sistem meşgul. Bir veya iki dakika bekleyin ve tekrar deneyin</string>
     <string name="t_check_hide_file">Gizlenecek ögeleri seçin</string>
     <string name="t_check_unhide_file">Gizliliği kaldırılacak ögeleri seçin</string>
     <string name="t_downloading">İndiriliyor:</string>
@@ -1574,6 +1585,7 @@ Hiçbir şey göstermiyor"</string>
     <string name="t_password_null">Şifre boş bırakılamaz</string>
     <string name="t_password_wrong">Girdiğiniz şifre hatalı. Tekrar deneyin</string>
     <string name="t_start_download">İndirmeye başlanıyor:</string>
+    <string name="tab_name_download">İndirmeler</string>
     <string name="tab_name_local">Yerel</string>
     <string name="tab_name_me">Profil</string>
     <string name="tab_name_moment">Anlar</string>
@@ -1656,9 +1668,9 @@ Hiçbir şey göstermiyor"</string>
     <string name="type_issue">Sorun</string>
     <string name="type_suggestion">Öneri</string>
     <string name="ugc_no_net">Ağa bağlanılamadı. Ağ bağlantılarınızı kontrol edin ve tekrar deneyin</string>
+    <string name="ui_common_title_back">Geri</string>
     <string name="ui_log_tip">Gizlemek için bu alana dokunun, eski kayıtları silmek için basın ve basılı tutun. Kayıtları manuel olarak sürükleyin</string>
     <string name="unknow">Bilinmiyor</string>
-    <string name="unknown_error_info">Bilinmeyen hata</string>
     <string name="update">Güncelle</string>
     <string name="update_email_address_dialog_message">Kurtarma e-posta adresinizi güncellemeden önce kimliğinizi doğrulamanız gerekmektedir</string>
     <string name="update_email_address_dialog_title">Kurtarma e-posta adresini güncelle</string>
