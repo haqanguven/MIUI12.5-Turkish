@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="fast_connect_headset_reset">
+        <item quantity="other">Kutudaki düğmeyi %1$d saniye basılı tutun</item>
+        <item quantity="one">Kutudaki düğmeyi %1$d saniye basılı tutun</item>
+    </plurals>
+    <plurals name="fast_connect_reset_air2_se">
+        <item quantity="other">Kulaklıktaki dokunmaya duyarlı herhangi bir alanı %1$d saniye basılı tutun</item>
+        <item quantity="one">Kulaklıktaki dokunmaya duyarlı herhangi bir alanı %1$d saniye basılı tutun</item>
+    </plurals>
+    <plurals name="fast_connect_reset_common_seconds">
+        <item quantity="other">Sıfırlamak için %1$d saniye basılı tutun</item>
+        <item quantity="one">Sıfırlamak için %1$d saniye basılı tutun</item>
+    </plurals>
+    <plurals name="fast_connect_reset_nzbt">
+        <item quantity="other">Cihaz kapalıyken %1$s saniye düğmeyi basılı tutun</item>
+        <item quantity="one">Cihaz kapalıyken %1$s saniye düğmeyi basılı tutun</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d cihaz bağlı</item>
+        <item quantity="one">%1$d cihaz bağlı</item>
+    </plurals>
+</resources>

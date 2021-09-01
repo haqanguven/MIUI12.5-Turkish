@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auto_reject_toggle_summary">DDS abonesinde yüksek öncelikli bir veri araması olduğunda boştaki Sim kartta gelen aramaları otomatik reddet</string>
+    <string name="auto_reject_toggle_title">Gelen aramaları otomatik olarak reddedin</string>
+    <string name="call_composer_toggle_summary">Arama oluşturucu aramalarının aranmasına izin ver</string>
+    <string name="call_composer_toggle_title">Arama oluşturucu aramalarını etkinleştir</string>
+    <string name="ims_settings">İms ayarları</string>
+    <string name="ims_to_cs_retry">İms için Cs yeniden dene</string>
+    <string name="ims_to_cs_retry_summary">Düzenli sesli iletişimde otomatik tekrar deneme (Önerilir)</string>
+    <string name="ims_to_cs_retry_title">CS yeniden dene</string>
+    <string name="ims_vt_call_quality_high">Yüksek</string>
+    <string name="ims_vt_call_quality_low">Düşük</string>
+    <string name="ims_vt_call_quality_medium">Orta</string>
+    <string name="ims_vt_call_quality_set_failed">Video kalitesi ayarlanamadı</string>
+    <string name="ims_vt_call_quality_title">VT arama kalitesi</string>
+    <string name="ims_vt_call_quality_unknown">Bilinmiyor</string>
+    <string name="ims_vt_call_static_image_error">Desteklenmeyen resim biçimi. Lütfen başka bir resim seçin</string>
+    <string name="ims_vt_call_static_image_ignore">Bir görüşmedeyken statik görüntü değiştirilemiyor</string>
+    <string name="ims_vt_call_static_image_okay">Seçilen statik resim</string>
+    <string name="ims_vt_call_static_image_text">Statik resmi seçin</string>
+    <string name="qti_ims_call_deflect">Arama aktarma</string>
+    <string name="qti_ims_call_deflect_title">Arama aktarma numarası</string>
+    <string name="qti_ims_number_not_set">Ayarlanmadı</string>
+    <string name="rtt_toggle_summary">RTT modu</string>
+    <string name="rtt_toggle_title">RTT</string>
+    <string name="rtt_visibility_toggle_summary">RTT görünürlük ayarı</string>
+    <string name="rtt_visibility_toggle_title">RTT görünürlük</string>
+</resources>

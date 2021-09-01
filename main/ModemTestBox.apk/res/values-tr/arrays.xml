@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="data_delimiter">
+        <item>Virgül ayırıcı</item>
+        <item>Boşluk ayırıcı</item>
+    </string-array>
+    <string-array name="mbn_txt_path_name">
+        <item>Varsayılan</item>
+    </string-array>
+    <string-array name="mtb_array_ant_status">
+        <item>"Asdiv'i etkinleştir"</item>
+        <item>"Asdiv'i devre dışı bırak"</item>
+        <item>Ant sayesinde</item>
+        <item>Ant takası</item>
+    </string-array>
+    <string-array name="nv_efs_opt_fail_cause_desc">
+        <item>Başarılı oldu</item>
+        <item>Öğe devre dışı bırakıldı</item>
+    </string-array>
+    <string-array name="private_nv_backup_type">
+        <item>Gizlilik verileri ile birlikte (imei vb.)</item>
+        <item>Gizlilik verileri olmadan (imei vb.)</item>
+    </string-array>
+    <string-array name="sar_test_status">
+        <item>Kapat</item>
+        <item>Varsayılan</item>
+        <item>Aç</item>
+    </string-array>
+    <string-array name="xiaomi_ramdump_type">
+        <item>Varsayılan</item>
+        <item>close</item>
+        <item>open</item>
+    </string-array>
+    <string-array name="xiaomi_ssr_dump_type">
+        <item>Varsayılan</item>
+        <item>SSR</item>
+        <item>Full_Dump</item>
+    </string-array>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FM radyo servisi</string>
+    <string name="frequency_mhz_fomart">%sMHZ</string>
+    <string name="notification_rec_title">Kaydı görüntülemek için dokunun</string>
+    <string name="record_completed">Kayıt tamamlandı</string>
+    <string name="station_freq_format">%sMHz</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>
