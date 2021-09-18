@@ -12,7 +12,7 @@
     <string name="avast_dialog_cloudscan" />
     <string name="avast_dialog_dbupdate" />
     <string name="avast_dialog_header">Bu özellik cihazınızın kimliğini şifreler ve Avast sunucularına yükler (%s)</string>
-    <string name="avast_dialog_policy">Gizlilik politikasını görüntüle</string>
+    <string name="avast_dialog_policy">Gizlilik politikası</string>
     <string name="avast_dialog_title">Avast gizlilik politikası</string>
     <string name="avast_dialog_url">http://api.sec.miui.com/policy/proxy?p=avast&amp;l=en_US</string>
     <string name="avast_virus_type_adware_description">Bu bir reklam yazılım virüsüdür. Otomatik olarak reklam görüntüler</string>
@@ -47,6 +47,13 @@
     <string name="hello_world">Merhaba dünya</string>
     <string name="menu_settings">Ayarlar</string>
     <string name="project_id">guardprovider-c3e77</string>
+    <string name="size_byte">B</string>
+    <string name="size_giga_byte">GB</string>
+    <string name="size_kilo_byte">KB</string>
+    <string name="size_mega_byte">MB</string>
+    <string name="size_peta_byte">PB</string>
+    <string name="size_suffix">%1$s%2$s</string>
+    <string name="size_tera_byte">TB</string>
     <string name="tencent_dialog_cloudscan">Uygulama isimlerini ve ayrıntıları yükle ve çevrimiçi virüs veritabanını kullanarak tara</string>
     <string name="tencent_dialog_dbupdate">Virüs veritabanını otomatik olarak güncelle</string>
     <string name="tencent_dialog_header">Bu özellik cihazınızın kimliğini şifreler ve Tencent sunucularına yükler (%s)</string>

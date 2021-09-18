@@ -15,8 +15,8 @@
     <string name="abc_menu_function_shortcut_label">İşlev+</string>
     <string name="abc_menu_meta_shortcut_label">Meta+</string>
     <string name="abc_menu_shift_shortcut_label">Üst karakter+</string>
-    <string name="abc_menu_space_shortcut_label">boşluk</string>
-    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_menu_space_shortcut_label">Boşluk</string>
+    <string name="abc_menu_sym_shortcut_label">Sembol+</string>
     <string name="abc_prepend_shortcut_label">Menü+</string>
     <string name="abc_search_hint">Ara</string>
     <string name="abc_searchview_description_clear">Sorguyu temizle</string>
@@ -469,7 +469,6 @@
     <string name="gadget_weather_title">Hava durumu</string>
     <string name="gadget_weather_title_14">Hava durumu</string>
     <string name="gadget_weather_title_24">Hava durumu</string>
-    <string name="garbage_count">"%1$s eski örnek var"</string>
     <string name="global_search_hint">Ara</string>
     <string name="group_folder">Yeni klasör</string>
     <string name="group_live_folders">Klasörler</string>
@@ -542,7 +541,6 @@
     <string name="memory_clear_result">%1$sB temizlendi</string>
     <string name="memory_clear_result_giga">%1$sGB temizlendi</string>
     <string name="memory_clear_result_mega">%1$sMB temizlendi</string>
-    <string name="memory_leak">Bellek sızıntısı</string>
     <string name="menu_add">Ekle</string>
     <string name="menu_auto_fill_of_uninstall">Hücreleri otomatik doldur</string>
     <string name="menu_back_desktop">Ana ekrana dön</string>
@@ -683,7 +681,6 @@
     <string name="noon">Gün ortası</string>
     <string name="normal_wallpaper">Duvar kağıdı</string>
     <string name="not_set">Ayarlanmadı</string>
-    <string name="notification_channel_alerts">Uyarılar</string>
     <string name="notification_installed">Başarıyla yüklendi</string>
     <string name="notification_open_button">Aç</string>
     <string name="notification_reset_title">Simgeler başarıyla düzenlendi</string>
@@ -697,6 +694,9 @@
     <string name="open_personal_assistant_settings">Uygulama kasası ayarları</string>
     <string name="open_personal_assistant_title">Uygulama kasası</string>
     <string name="open_personal_assistant_title_synonyms">Negatif ekran</string>
+    <string name="ota_layout_adjustment_button_text">Anladım</string>
+    <string name="ota_layout_adjustment_content">Yeni sürümde iç ve dış ana ekran düzenleri senkronize edildi</string>
+    <string name="ota_layout_adjustment_title">Ana ekran düzenleri</string>
     <string name="out_of_space">Ana ekranda yeterli boş alan yok</string>
     <string name="perfect_icons_switch_summary">Animasyonları üçüncü taraf uygulama simgelerinden oluşturur</string>
     <string name="perfect_icons_switch_title">Simge animasyonları</string>
@@ -964,6 +964,8 @@
     <string name="uninstall_xspace_dialog_title_format">Çift %s uygulaması kaldırılsın mı?</string>
     <string name="unknown_artist_name">Bilinmeyen sanatçı</string>
     <string name="unnamed_folder_name">Klasör</string>
+    <string name="unstable_dialog_message">"Bu cihaz Android 12 geliştirici önizleme programına kayıtlıdır. Program Android geliştiricilerinin ve meraklılarının Android 12'nin yayın öncesi sürümlerini denemelerine olanak tanır. Bu yayın öncesi sürüm cihazınızın normal çalışmasını etkileyebilecek hatalar ve kusurlar içerebilir"</string>
+    <string name="unstable_dialog_title">Android geliştirici önizleme programı</string>
     <string name="v7_preference_off">Kapalı</string>
     <string name="v7_preference_on">Açık</string>
     <string name="wallpaper">Duvar kağıdı</string>

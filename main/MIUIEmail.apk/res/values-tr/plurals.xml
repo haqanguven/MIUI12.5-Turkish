@@ -148,6 +148,10 @@
         <item quantity="other">Kalan %1$d ek parça sayısı</item>
         <item quantity="one">Kalan %1$d ek parça sayısı</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d yeni bildirim</item>
+        <item quantity="one">%d yeni bildirim</item>
+    </plurals>
     <plurals name="new_incoming_messages_many">
         <item quantity="other">%1$d yeni mesajı göster</item>
         <item quantity="one">%1$d yeni mesajı göster</item>

@@ -246,6 +246,8 @@ Görüntülemek için dokunun"</string>
     <string name="memory_not_allowed">Kullanılabilir depolama alanı yok. Kayıt yapmak için biraz alan boşaltın</string>
     <string name="mic_sound">Mikrofon</string>
     <string name="midnight">Gece</string>
+    <string name="miuix_access_state_desc">Seçildi</string>
+    <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Seçimi kaldır</string>
     <string name="miuix_appcompat_action_mode_select_all">Tümünü seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Öğeleri seç</string>
@@ -260,6 +262,7 @@ Görüntülemek için dokunun"</string>
     <string name="miuix_appcompat_select_all">Tümünü seç</string>
     <string name="miuix_appcompat_select_all_description">Tümünü seç</string>
     <string name="miuix_appcompat_select_item">Öğe seç</string>
+    <string name="miuix_indexer_selected">%s seçildi</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için çek</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Yenileme tamamlandı</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor</string>
@@ -308,12 +311,12 @@ Görüntülemek için dokunun"</string>
     <string name="month_september_short">Eylül</string>
     <string name="month_september_shortest">E</string>
     <string name="more">Daha fazla</string>
-    <string name="morning">ÖÖ</string>
-    <string name="night">ÖS</string>
+    <string name="morning">Sabah</string>
+    <string name="night">Akşam</string>
     <string name="no_recorder_info">Burada video yok</string>
     <string name="no_recorder_info2">Ekran kaydı eklemek için tuşa dokunun</string>
     <string name="no_sound">Sessiz</string>
-    <string name="noon">ÖS</string>
+    <string name="noon">Öğlen</string>
     <string name="not_set">Ayarlanmadı</string>
     <string name="operation_delete">Sil</string>
     <string name="operation_send">Gönder</string>
@@ -342,7 +345,9 @@ Görüntülemek için dokunun"</string>
     <string name="settings_other">Diğer</string>
     <string name="settings_privacy">Gizlilik politikası</string>
     <string name="show_hard_key">Navigasyon tuşlarını görselleştir</string>
+    <string name="show_hard_key_new">Düğme dokunuşlarını göster</string>
     <string name="show_hard_key_summary">Ana ekran, menü ve geri tuşlarına basıldığında uyarı görüntüle</string>
+    <string name="show_hard_key_summary_new">Gezinme düğmesi dokunuşlarını görselleştirin</string>
     <string name="show_screen_touch">Dokunma hareketlerini göster</string>
     <string name="show_screen_touch_summary">Hareketleri beyaz nokta kullanarak görselleştir</string>
     <string name="size_byte">B</string>

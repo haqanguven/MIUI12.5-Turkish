@@ -64,6 +64,7 @@
     <string name="ad_data_exception">Reklam veri hatası</string>
     <string name="ad_recommend">Öneriler</string>
     <string name="ad_setting">Ek ayarlar</string>
+    <string name="add">Ekle</string>
     <string name="add_music">Şarkı ekle</string>
     <string name="add_to_last_of_playlist">Çalma listesinin sonuna ekle</string>
     <string name="add_to_playlist">Sıraya ekle</string>
@@ -132,7 +133,7 @@
     <string name="avoid_to_use_traffic_title">Şarkıları dinlemek için mobil veri kullanırken sor</string>
     <string name="back">Geri</string>
     <string name="back_confirm">Uygulamayı arkaplana itmek için dokunun</string>
-    <string name="banner_op">Mi müzik</string>
+    <string name="banner_op">Müzikler</string>
     <string name="bluetooth_device">Bluetooth ses cihazı</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="btn_text_edit">Düzenle</string>
@@ -314,6 +315,7 @@
     <string name="dialog_cannot_resume">İndirme kesildi. Buna devam edilemez</string>
     <string name="dialog_clear_history">Son çalınan şarkı listesi temizlensin mi?</string>
     <string name="dialog_confirm_delete_checkbox_message">Yanı sıra yerel dosyaları silin</string>
+    <string name="dialog_continue">Tamam</string>
     <string name="dialog_failed_body">Daha sonra indirmek veya dosyayı sıradan kaldırmak denensin mi?</string>
     <string name="dialog_file_already_exists">İndirilemiyor. Hedef dosya zaten var</string>
     <string name="dialog_file_missing_body">İndirilen dosya bulunamıyor</string>
@@ -325,7 +327,7 @@
     <string name="dialog_my_playlist_online_changed_merge">Tut</string>
     <string name="dialog_my_playlist_online_changed_message">Bu çalma listesi değişmiş gibi görünüyor. Yeni sürümle değiştirebilir veya eskisini koruyabilirsiniz</string>
     <string name="dialog_my_playlist_online_changed_replace">Değiştir</string>
-    <string name="dialog_my_playlist_set_to_public">Bu şarkı listesini Mi müzik ile paylaş</string>
+    <string name="dialog_my_playlist_set_to_public">Bu şarkı listesini Müzikler ile paylaş</string>
     <string name="dialog_queued_body">Bu dosya gelecekte indirilmek için kuyruğa eklendi</string>
     <string name="dialog_renew_failure">İşlem başarısız oldu</string>
     <string name="dialog_renew_free_end">"Ücretsiz denemeniz bitti. Hungama PRO'ya abone olmak ister misiniz?"</string>
@@ -349,6 +351,7 @@
     <string name="dialog_song_view_type_artist">Artiste göre</string>
     <string name="dialog_song_view_type_folder">Dizine göre</string>
     <string name="dialog_song_view_type_song">Şarkıya göre</string>
+    <string name="dialog_stop_audio_in">Oynatma zamanlayıcısı</string>
     <string name="dialog_subtitle_make_playlist_public">Herkese açık oynatma listeleri diğer kişiler tarafından kullanılabilir. Özel oynatma listelerini yalnızca senkronize edilmiş tüm cihazlarda görebilirsiniz</string>
     <string name="dialog_title_clearlist_tracks">Çalma sırasından kaldır</string>
     <string name="dialog_title_delete_tracks">Sil</string>
@@ -378,7 +381,7 @@
     <string name="download_complete_start_install">Yükleniyor</string>
     <string name="download_completed">İndirildi</string>
     <string name="download_confirm_button_text">Yükle</string>
-    <string name="download_confirm_text">Mi müzik indirilecek ve %s kurulacak</string>
+    <string name="download_confirm_text">Müzikler indirilecek ve %s kurulacak</string>
     <string name="download_connect_wifi_dialog_message">Bu şarkıyı indirmek için wifi bağlantısına ihtiyacınız var. Şimdi bağlanılsın mı?</string>
     <string name="download_connect_wifi_dialog_title">Wifi ağına bağlan</string>
     <string name="download_dialog_fail">İndirilemedi</string>
@@ -709,7 +712,7 @@
     <string name="individuation_card_login_message">Seveceğiniz daha fazla şarkı bulmak için oturum açın</string>
     <string name="individuation_card_title">Size özel</string>
     <string name="individuation_cart_login_title">Daha fazla tavsiye görmek ister misiniz?</string>
-    <string name="individuation_recommend_switch_message">Bu özelliğini kapatmanız kişiselleştirilmiş Mi müzik servislerini etkileyecektir. Yine de kapatılsın mı?</string>
+    <string name="individuation_recommend_switch_message">Bu özelliğini kapatmanız kişiselleştirilmiş Müzikler servislerini etkileyecektir. Yine de kapatılsın mı?</string>
     <string name="individuation_recommend_title">Öneriler</string>
     <string name="individuation_setting_summary">İlgi alanlarınıza dayalı içerik önerileri alın</string>
     <string name="individuation_setting_title">Kişiselleştirilmiş öneriler</string>
@@ -944,6 +947,7 @@
     <string name="mulit_choice_management">Birden çok öğeyi yönet</string>
     <string name="music_browser_label">Müzikler</string>
     <string name="music_filter">Ses dosyalarını filtrele</string>
+    <string name="music_quality">Ses kalitesi</string>
     <string name="music_recommendation">Şarkı önerileri</string>
     <string name="music_service">Müzikler servisi</string>
     <string name="music_settings">Müzikler</string>
@@ -977,11 +981,12 @@
     <string name="no_local_songs_selected">Müzikler indirilmediğinden gönderilemiyor</string>
     <string name="no_local_source_find">Şarkı bulunamadı</string>
     <string name="no_longer_prompt">Tekrar gösterme</string>
+    <string name="no_lyrics">Şarkı sözü yok</string>
     <string name="no_results_return">Arama sonucu yok</string>
     <string name="no_scanned_songs">Boş</string>
     <string name="no_song_downloaded">Sunucuya bağlanılamıyor</string>
     <string name="no_song_subtitle">Kendinizi müziğe kaptırın</string>
-    <string name="no_song_title">Mi müzik</string>
+    <string name="no_song_title">Müzikler</string>
     <string name="no_system_cropper_find">Resim kesme işlemi için bir araç bulunamadı</string>
     <string name="noon">ÖS</string>
     <string name="normal_quality">İyi</string>
@@ -1099,7 +1104,7 @@
     <string name="pm">ÖS</string>
     <string name="power_save_mode_dialog_msg">Cihaz güç tasarrufu modunda bulunmaktadır. Şu anda indirmey başlasın mı?</string>
     <string name="preference_copied">1$s panoya kopyalandı</string>
-    <string name="preset_music_playlist">Mi müzik listesi</string>
+    <string name="preset_music_playlist">Müzikler listesi</string>
     <string name="priority_storage">Harici SD kart kullan</string>
     <string name="priority_storage_summary">İndirmeler mevcutsa SD karta otomatik kaydedilir</string>
     <string name="privacy_authorize_network_error">Ağa bağlanılamadı. Ağ ayarlarınızı kontrol edip tekrar deneyin</string>
@@ -1115,6 +1120,7 @@ Yukarıda bahsedilen hizmetleri kullanmayı kabul etmezseniz bu uygulamanın baz
     <string name="privacy_request_subtitle">"Müziğe hoş geldiniz! Bu uygulama aşağıdaki hizmetleri destekler:
 - Yerel bir ses oynatıcı
 - Çevrimiçi yayınlanan hizmetler"</string>
+    <string name="privacy_request_subtitle_offline">Müzikler uygulamasına hoş geldiniz. Bu uygulama ses dosyaları için yerel bir oynatıcı sağlar</string>
     <string name="privacy_request_title">Şartlar ve koşullar</string>
     <string name="pro_member">Pro üye</string>
     <string name="project_device">Mi telefon</string>
@@ -1218,13 +1224,13 @@ mutlu ol"</string>
     <string name="settings_search_title_notification">Müzik Bildirimi</string>
     <string name="share_append_text">MIUI tarafından</string>
     <string name="share_chooser_title">Paylaş</string>
-    <string name="share_description">Mi müzik sunar</string>
-    <string name="share_end_note">Mi müzik sunar</string>
+    <string name="share_description">Müzikler sunar</string>
+    <string name="share_end_note">Müzikler sunar</string>
     <string name="share_failed">Paylaşılamadı</string>
     <string name="share_image_error">İndirilen resmin hatalı olmasından dolayı resim paylaşılamadı</string>
     <string name="share_song">Paylaş</string>
-    <string name="share_text_list">"Mi müzik çalma listesi: "</string>
-    <string name="share_text_song">"Mi müzikteki şarkı: "</string>
+    <string name="share_text_list">"Müzikler çalma listesi: "</string>
+    <string name="share_text_song">"Müziklerdeki şarkı: "</string>
     <string name="show_float_first_hint">Oynatıcıyı küçült</string>
     <string name="show_more">%s göster</string>
     <string name="shuffle_music">Karışık oynat</string>
@@ -1396,6 +1402,7 @@ mutlu ol"</string>
     <string name="toast_download_in_process">İndirme durumu</string>
     <string name="toast_favorite_has_been_added">Oynatma listesine başarıyla eklendi</string>
     <string name="toast_follow_success">Başarıyla takip edildi</string>
+    <string name="toast_hungama_vip_song">Bu şarkı sadece PRO üyeleri tarafından kullanılabilir. Bu şarkıyı indirmek için bir abonelik alın</string>
     <string name="toast_is_pro">Sen zaten bir Pro üyesisin</string>
     <string name="toast_my_playlist_illegal_name">Bu oynatma listesinin başlığı geçerli değil. Bu oynatma listesini yeniden adlandırın</string>
     <string name="toast_my_playlist_set_to_private">Bu oynatma listesi şimdi özel. Diğer insanlar göremez</string>

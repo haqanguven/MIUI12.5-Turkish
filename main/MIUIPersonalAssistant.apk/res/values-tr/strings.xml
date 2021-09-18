@@ -734,6 +734,7 @@ Ekspres teslimatı teslimat şirketlerinin resmi internet sitelerinden de takip 
     <string name="app_sports_title">Sporlar</string>
     <string name="app_sports_title_all_leagues">Tüm maçlar</string>
     <string name="app_sports_title_tip">Üçüncü tarafça sağlanan ilgili verileri eşleştirin</string>
+    <string name="app_stock_info_desc">Gözünde canlandır</string>
     <string name="app_stock_more_add_stock">Ekle</string>
     <string name="app_stock_name_cyb">GEM</string>
     <string name="app_stock_name_hszs">Hang Sen</string>
@@ -2232,7 +2233,7 @@ Rezervasyon yok, unuttunuz ya da telefon numarasını devre dışı bıraktıysa
     <string name="payment_upload_data_fail">Veriler yüklenemedi</string>
     <string name="payment_upload_data_no_data">Yüklenecek veri yok</string>
     <string name="payment_upload_data_success">Veriler yüklendi</string>
-    <string name="payment_user_notice_bar_text">Ödemelerim hakkında</string>
+    <string name="payment_user_notice_bar_text">Otomatik ödemelerim hakkında</string>
     <string name="peccancy_acquire">Trafik kuralı ihlalleri</string>
     <string name="personalAssistant_mainpage">Ana sayfa</string>
     <string name="personalAssistant_path">com.miui.home.launcher.assistant</string>
@@ -2701,14 +2702,15 @@ Rezervasyon yok, unuttunuz ya da telefon numarasını devre dışı bıraktıysa
     <string name="year_month_day_all_format_en">dd/MM/yyyy HH:mm:ss</string>
     <string name="year_month_day_format">dd/MM/yyyy</string>
     <string name="yesterday">Dün</string>
+    <string name="battery_history">Pil</string>
+    <string name="calc_convert">Dönüştürücü</string>
     <string name="clock_alarm">Alarm</string>
     <string name="clock_parent">Saat</string>
-    <string name="phone_check">Optimizasyon</string>
-    <string name="battery_history">Pil</string>
     <string name="google_assistant">Asistan</string>
     <string name="google_parent">Google</string>
-    <string name="midrop_send">Gönder</string>
     <string name="midrop_parent">Mi Drop</string>
-    <string name="whatsapp_photos">Fotoğraflar</string>
+    <string name="midrop_send">Gönder</string>
+    <string name="phone_check">Optimizasyon</string>
     <string name="whatsapp_parent">WhatsApp</string>
+    <string name="whatsapp_photos">Fotoğraflar</string>
 </resources>

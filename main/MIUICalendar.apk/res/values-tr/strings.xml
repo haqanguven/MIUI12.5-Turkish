@@ -733,6 +733,7 @@
     <string name="lunar_yi">Bir</string>
     <string name="lunar_yue">Ay</string>
     <string name="lunar_zheng">Olumlu</string>
+    <string name="marketSdkVersion">3.2.9</string>
     <string name="match_ed">Bu sona erdi</string>
     <string name="match_not_started">Başlatılmadı</string>
     <string name="menstruation_card_default_title">Adet yardımcı verisi yok</string>
@@ -1187,6 +1188,13 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin"</string>
     <string name="shortcut_next_agenda">Bir sonraki etkinlik</string>
     <string name="shortcut_settings">Ayarlar</string>
     <string name="show_day_view">Günü göster</string>
+    <string name="size_byte">B</string>
+    <string name="size_giga_byte">GB</string>
+    <string name="size_kilo_byte">KB</string>
+    <string name="size_mega_byte">MB</string>
+    <string name="size_peta_byte">PB</string>
+    <string name="size_suffix">%1$s%2$s</string>
+    <string name="size_tera_byte">TB</string>
     <string name="slight_cold">Hafif soğuk</string>
     <string name="slight_cold_tradition">Hafif soğuk</string>
     <string name="slight_heat">Hafif sıcak</string>
@@ -1505,6 +1513,9 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin"</string>
     <string name="work_day_indication_chinese_calendar">Sınıf</string>
     <string name="wuxing">Beş element</string>
     <string name="xiaomi_calendar_display_name">Mi hesabı takvimi</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Şimdi değil</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Güncelle</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Bir güncelleme mevcut</string>
     <string name="xingxiu">Yıldız</string>
     <string name="year_indicator_month">Ay takviminin ilk günü</string>
     <string name="yearly">Yıllık (Her %s)</string>

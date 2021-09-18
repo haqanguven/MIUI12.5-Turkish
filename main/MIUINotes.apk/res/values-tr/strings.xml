@@ -56,6 +56,7 @@
     <string name="app_name">Notlar</string>
     <string name="app_notification_info">Notlar arka planda çalışıyor</string>
     <string name="app_widget">Notlar</string>
+    <string name="app_widget_name_new">Notlar</string>
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="application_icon">Uygulama simgesi</string>
     <string name="audio_create_normal_state">Oluşturmak için bırakın. İptal etmek için yukarı kaydırın</string>
@@ -360,6 +361,7 @@
     <string name="gesture_guide_message">Notları oluşturmak ve yeniden düzenlemek için ögelere dokunabilir, basılı tutabilir ve ögeleri sürükleyebilirsiniz. Bu hareketleri şimdi öğren?</string>
     <string name="gesture_guide_ok">Öğren</string>
     <string name="gesture_guide_title">Hareketler</string>
+    <string name="hand_write_only_support_tablet_editing">El yazısı notları yalnızca tabletlerde düzenlenebilir</string>
     <string name="handwrite_description">El yazısı ile not</string>
     <string name="hear_note">Dikte edilmiş notlar</string>
     <string name="heavenly_stems_bing">3</string>
@@ -393,11 +395,11 @@
     <string name="loading_text">Yükleniyor</string>
     <string name="login_sync">Giriş &amp; Senkronizasyon</string>
     <string name="lunar_day">%1$s ay günü</string>
-    <string name="marketSdkVersion">3.2.6</string>
+    <string name="marketSdkVersion">3.2.9</string>
     <string name="material_clock_display_divider">:</string>
     <string name="material_clock_toggle_content_description">"ÖÖ veya ÖS'yi seçin"</string>
     <string name="material_hour_selection">Saat seçin</string>
-    <string name="material_hour_suffix">Saat %1$s</string>
+    <string name="material_hour_suffix">"%1$s o'clock"</string>
     <string name="material_minute_selection">Dakikayı seçin</string>
     <string name="material_minute_suffix">%1$s dakika</string>
     <string name="material_motion_easing_accelerated">cubic-bezier(0.4, 0.0, 1.0, 1.0)</string>
@@ -405,8 +407,8 @@
     <string name="material_motion_easing_emphasized">path(M 0,0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1)</string>
     <string name="material_motion_easing_linear">cubic-bezier(0.0, 0.0, 1.0, 1.0)</string>
     <string name="material_motion_easing_standard">cubic-bezier(0.4, 0.0, 0.2, 1.0)</string>
-    <string name="material_slider_range_end">Range end,</string>
-    <string name="material_slider_range_start">Range start,</string>
+    <string name="material_slider_range_end">Aralık sonu,</string>
+    <string name="material_slider_range_start">Aralık başlangıcı,</string>
     <string name="material_timepicker_am">ÖS</string>
     <string name="material_timepicker_clock_mode_description">Zaman girişi için saat moduna geçin.</string>
     <string name="material_timepicker_hour">Saat</string>
@@ -924,10 +926,10 @@ Ses kaydetmek için notlar uygulamasına izin verin"</string>
     <string name="todo_edit_btn_today">Bugün</string>
     <string name="todo_edit_btn_tomorrow">Yarın</string>
     <string name="todo_edit_text_hint">Görev tanımını girin</string>
-    <string name="todo_event_description_a_week_ago">1 hafta önce</string>
-    <string name="todo_event_description_a_week_later">1 hafta içinde</string>
-    <string name="todo_event_description_day_after_tomorrow">2 gun icinde</string>
-    <string name="todo_event_description_day_before_yesterday">2 gün önce</string>
+    <string name="todo_event_description_a_week_ago">%1$d hafta önce</string>
+    <string name="todo_event_description_a_week_later">%1$d hafta içinde</string>
+    <string name="todo_event_description_day_after_tomorrow">%1$d gün içinde</string>
+    <string name="todo_event_description_day_before_yesterday">%1$d gün önce</string>
     <string name="todo_event_description_today">Bugün</string>
     <string name="todo_event_description_tomorrow">Yarın</string>
     <string name="todo_event_description_yesterday">Dün</string>
@@ -1010,6 +1012,11 @@ Ses kaydetmek için notlar uygulamasına izin verin"</string>
     <string name="widget_havenot_content">Bir not oluşturmak için dokunun. Notu yeniden boyutlandırmak için araca basılı tutun</string>
     <string name="widget_havenot_content_new">Not oluşturmak için dokunun. Boyutu değiştirmek için basılı tutun.</string>
     <string name="widget_note_list_page_title">Not seç</string>
+    <string name="widget_size_item">%1$d×%2$d</string>
+    <string name="widget_size_item_2x2">%1$d×%2$d</string>
+    <string name="widget_size_item_4x2">%1$d×%2$d</string>
+    <string name="widget_size_item_4x4">%1$d×%2$d</string>
+    <string name="widget_take_notes_title">Notlar</string>
     <string name="xiaomi_account_type">com.xiaomi</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Şimdi değil</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Güncelle</string>

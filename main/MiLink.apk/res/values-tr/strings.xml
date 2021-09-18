@@ -31,6 +31,7 @@
     <string name="actionbar_button_up_description">Geri</string>
     <string name="afternoon">Öğleden sonra</string>
     <string name="am">ÖÖ</string>
+    <string name="androidx_startup">androidx.startup</string>
     <string name="app_name">Mi bağlantı servisi</string>
     <string name="app_pkg_name">com.milink.service</string>
     <string name="app_ver_code">1</string>
@@ -201,56 +202,56 @@ Eğer bağlantı sorunu yaşıyorsanız yardım için görüntüleyin"</string>
     <string name="file_read_des">Fotoğrafları ve diğer dosyaları harici monitörlerde görüntülemek için</string>
     <string name="fmt_chinese_date">N/e</string>
     <string name="fmt_date">D</string>
-    <string name="fmt_date_day">dd</string>
+    <string name="fmt_date_day">d</string>
     <string name="fmt_date_long_month">MMMM</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month">MMMM yyyy</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
-    <string name="fmt_date_numeric_day">dd</string>
-    <string name="fmt_date_numeric_month">MM</string>
-    <string name="fmt_date_numeric_month_day">dd/MM</string>
+    <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
+    <string name="fmt_date_numeric_day">d</string>
+    <string name="fmt_date_numeric_month">M</string>
+    <string name="fmt_date_numeric_month_day">d-M</string>
     <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">MM/yyyy</string>
-    <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
-    <string name="fmt_date_short_month">MM</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
+    <string name="fmt_date_numeric_year_month">M-yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
+    <string name="fmt_date_short_month">MMM</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
     <string name="fmt_date_time">D T</string>
-    <string name="fmt_date_time_timezone">zD T</string>
-    <string name="fmt_date_timezone">zD</string>
+    <string name="fmt_date_time_timezone">D T z</string>
+    <string name="fmt_date_timezone">D z</string>
     <string name="fmt_date_year">yyyy</string>
     <string name="fmt_time">T</string>
-    <string name="fmt_time_12hour">hh</string>
-    <string name="fmt_time_12hour_minute">hh:mm</string>
-    <string name="fmt_time_12hour_minute_pm">hh:mm aa</string>
-    <string name="fmt_time_12hour_minute_second">hh:mm:ss</string>
-    <string name="fmt_time_12hour_minute_second_millis">hh:mm:ss.S</string>
-    <string name="fmt_time_12hour_minute_second_millis_pm">hh:mm:ss.S aa</string>
-    <string name="fmt_time_12hour_minute_second_pm">hh:mm:ss aa</string>
-    <string name="fmt_time_12hour_pm">hh aa</string>
-    <string name="fmt_time_24hour">H</string>
-    <string name="fmt_time_24hour_minute">HH:mm</string>
-    <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
-    <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
-    <string name="fmt_time_millis">S</string>
-    <string name="fmt_time_minute">m</string>
-    <string name="fmt_time_minute_second">m:s</string>
-    <string name="fmt_time_minute_second_millis">m:s.S</string>
-    <string name="fmt_time_second">s</string>
-    <string name="fmt_time_second_millis">s.S</string>
-    <string name="fmt_time_timezone">zT</string>
+    <string name="fmt_time_12hour">"h 'o''clock'"</string>
+    <string name="fmt_time_12hour_minute">h:mm</string>
+    <string name="fmt_time_12hour_minute_pm">h:mm a</string>
+    <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
+    <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
+    <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
+    <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
+    <string name="fmt_time_12hour_pm">ha</string>
+    <string name="fmt_time_24hour">"H 'o''clock'"</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
+    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
+    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
+    <string name="fmt_time_millis">"S'ms'"</string>
+    <string name="fmt_time_minute">"m'min'"</string>
+    <string name="fmt_time_minute_second">"m'min' s's'"</string>
+    <string name="fmt_time_minute_second_millis">"m'min' s.S's'"</string>
+    <string name="fmt_time_second">"s's'"</string>
+    <string name="fmt_time_second_millis">"s.S's'"</string>
+    <string name="fmt_time_timezone">T z</string>
     <string name="fmt_timezone">z</string>
     <string name="fmt_weekday">W</string>
-    <string name="fmt_weekday_date">DW</string>
-    <string name="fmt_weekday_date_time">DW T</string>
-    <string name="fmt_weekday_date_time_timezone">zDW T</string>
-    <string name="fmt_weekday_date_timezone">zDW</string>
+    <string name="fmt_weekday_date">W, D</string>
+    <string name="fmt_weekday_date_time">W, D T</string>
+    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
+    <string name="fmt_weekday_date_timezone">W, D z</string>
     <string name="fmt_weekday_long">EEEE</string>
     <string name="fmt_weekday_short">E</string>
     <string name="fmt_weekday_time">W T</string>
-    <string name="fmt_weekday_time_timezone">zW T</string>
-    <string name="fmt_weekday_timezone">zW</string>
+    <string name="fmt_weekday_time_timezone">W T z</string>
+    <string name="fmt_weekday_timezone">W z</string>
     <string name="friday">Cuma</string>
     <string name="friday_short">Cum</string>
     <string name="friday_shortest">Cum</string>
@@ -287,15 +288,19 @@ Eğer bağlantı sorunu yaşıyorsanız yardım için görüntüleyin"</string>
     <string name="help_page_text_03">Yansıtma telefonunuzun ekranındaki öğelerin daha büyük bir harici ekranda görüntülenmesidir. Bu özellik mobil veri harcamadan resim ve videoları arkadaşlarınız ve ailenizle paylaşmanıza olanak sağlar</string>
     <string name="help_page_text_04">Ögeleri daha büyük bir ekrana nasıl yansıtırım?</string>
     <string name="help_page_text_05">Adım 1: Cihazlarınızı ve ağ koşullarını kontrol edin</string>
-    <string name="help_page_text_06">"1. Bir Mi telefondan Mi TV'ye bir şey aktarmak istiyorsanız internete bağlanmanız gerekmez
-2. İki cihaz arasında bağlantı kuramıyorsanız, cihazları aynı wifi ağına bağlamayı deneyin"</string>
-    <string name="help_page_text_06_global">"1. Mi Tvler, Mi Boxlar, ve Mi Projektörler:
-Telefonunuzu ve harici monitörü en iyi etki için aynı wifi ağına bağlayın. Eğer farklı ağlara bağlı iseler, harici monitörü bulmak ve bağlanmak daha fazla zaman alabilir
-Not: Eski Mi TVler farklı ağlarda yayın yapmayı desteklemeyebilir
-2. Eğer diğer markalardan TVleri, set üstü kutuları veya projektörleri kullanıyorsanız telefonunuzu ve harici monitörü aynı wifi ağına bağlayın
-İki cihaz aynı ağa bağlanamıyorsa, harici monitörünüzde Miracast'i açın. Miracast işlevlerinin adlandırılması farklılık gösterebilir"</string>
-    <string name="help_page_text_08">Adım 2: Yansıtmayı açın</string>
+    <string name="help_page_text_06">"%1$d. Xiaomi TV'ler, set üstü kutular, projektörler:
+En iyi etki için hem mobil cihazınızı hem de harici monitörünüzü aynı wifi ağına bağlayın. Farklı ağlara bağlılarsa harici monitörün bulunması ve bağlanması daha fazla zaman alabilir
+Not: Daha eski TV modelleri farklı ağlar arasında yayınlamayı desteklemeyebilir
+%2$d. Başka marka TV'ler, set üstü kutular veya projektörler kullanıyorsanız hem mobil cihazınızı hem de harici monitörünüzü aynı wifi ağına bağlayın
+İki cihaz aynı ağa bağlanamıyorsa harici monitörünüzde yansıtmayı açın. Yansıtma işlevinin adlandırılması değişiklik gösterebilir"</string>
+    <string name="help_page_text_06_global">"%1$d. Xiaomi TV'ler, set üstü kutular ve projektörler:
+Mobil cihazınızı ve harici monitörü en iyi etki için aynı wifi ağına bağlayın. Eğer farklı ağlara bağlı iseler harici monitörü bulmak ve bağlanmak daha fazla zaman alabilir
+Not: Eski TV'ler farklı ağlarda yayın yapmayı desteklemeyebilir
+%2$d. Eğer diğer markalardan TV'leri, set üstü kutuları veya projektörleri kullanıyorsanız, mobil cihazınızı ve harici monitörü aynı wifi ağına bağlayın
+İki cihaz aynı ağa bağlanamıyorsa harici monitörünüzde yansıtmayı açın. Yansıtma işlevlerinin adlandırılması farklılık gösterebilir"</string>
+    <string name="help_page_text_08">Adım %1$d: Yansıtmayı açın</string>
     <string name="help_page_text_09">"Telefonunuzun bildirim çubuğunda yansıt geçişine dokunun. Daha dengeli bir bağlantı için wifi ve Bluetooth'u açın"</string>
+    <string name="help_page_text_09_global">"Mobil cihazınızın bildirim çubuğunda yansıt geçişine dokunun. Daha dengeli bir bağlantı için wifi ve Bluetooth'u açın"</string>
     <string name="help_page_text_10">Galeri veya Videolardaki öğeleri yansıtmak istiyorsanız bu uygulamalardaki dahili yansıtma özelliğini kullanabilirsiniz</string>
     <string name="help_page_text_11">Adım 3: Cihazı seçin</string>
     <string name="help_page_text_12">Yansıtmaya başlamak için kullanılabilir cihazlar listesinden bir harici cihaz seçin</string>
@@ -620,6 +625,7 @@ Bu özelliği kullanmadan önce "<a href="%1$s">Kullanıcı Sözleşmesi</a> ve 
     <string name="url_gslb_root">http://gslb.hpplay.cn</string>
     <string name="url_hw_sdkauth">https://hwsdkauth.hpplay.cn/Author/PhoneAuthor/?</string>
     <string name="url_imdns">http://imdns.hpplay.cn</string>
+    <string name="url_nubia_auth">https://sdkauth.hpplay.cn/Author/PhoneAuthor/?</string>
     <string name="url_pin">http://pin.hpplay.cn</string>
     <string name="url_release_sdkauth">http://sdkauth.hpplay.cn/Author/PhoneAuthor/?</string>
     <string name="url_rp">http://rp.hpplay.com.cn</string>

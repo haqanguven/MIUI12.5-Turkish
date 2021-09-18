@@ -33,12 +33,14 @@
     <string name="about_checking_update">Güncelleme kontrol ediliyor</string>
     <string name="about_go_to_update">Güncellemeye git</string>
     <string name="about_lasted_version">En son sürüm</string>
+    <string name="account_add_other_sub_des">Diğer hesaplar</string>
     <string name="account_add_title">Bir e-posta servisi seçin</string>
     <string name="account_cache_provider">Hesap ön bellek sağlayıcısı</string>
     <string name="account_change">Hesap değiştir</string>
     <string name="account_duplicate_dlg_message_fmt">Bu kullanıcı adını %s hesabı için zaten kullanıyorsunuz</string>
     <string name="account_duplicate_dlg_title">Çift hesap</string>
     <string name="account_failure">Oturum zaman aşımına uğradı</string>
+    <string name="account_login_type_title">%1$s hesabı ekle</string>
     <string name="account_manager_type_exchange">com.android.exchange</string>
     <string name="account_manager_type_graph">com.android.graph</string>
     <string name="account_manager_type_imap">com.android.email</string>
@@ -108,7 +110,7 @@
     <string name="account_settings_preference_head_icon_summary">Posta listesi gönderenin avatarını gösterir</string>
     <string name="account_settings_preference_notify">Bildir</string>
     <string name="account_settings_receive">account_settings_receive</string>
-    <string name="account_settings_receive_title">Incoming emails</string>
+    <string name="account_settings_receive_title">Gelen e-postalar</string>
     <string name="account_settings_ringtone">Bildirim sesi</string>
     <string name="account_settings_send">account_settings_send</string>
     <string name="account_settings_send_title">Gelen e-postalar</string>
@@ -249,6 +251,7 @@
     <string name="allread">Tümünü oku</string>
     <string name="always_bcc_myself">Her zaman bilgi kısmına beni ekle</string>
     <string name="am">ÖÖ</string>
+    <string name="androidx_startup">androidx.startup</string>
     <string name="app_loading">Yükleniyor</string>
     <string name="app_name">E-posta</string>
     <string name="app_uninstall_content">E-posta bir MIUI sistem uygulamasıdır. Kaldırdıktan sonra e-posta hesapları ekleyemeyecek, e-posta gönderip alamayacak ve e-posta programlarını senkronize edemeyeceksiniz</string>
@@ -279,6 +282,7 @@
     <string name="attachment_audio">Ses</string>
     <string name="attachment_canceling">İptal ediliyor</string>
     <string name="attachment_decoding">Eklenti paketleri açılıyor</string>
+    <string name="attachment_detail_empty_prompt">Dosyaları seçin</string>
     <string name="attachment_download_all">Tümünü indir</string>
     <string name="attachment_image">Resim</string>
     <string name="attachment_list_search_hint">Ekleri ara</string>
@@ -286,6 +290,7 @@
     <string name="attachment_not_exists">Eklenti mevcut değil</string>
     <string name="attachment_open_SecurityException_hint">Bu dosyayı açma izniniz yok veya dosya hasar görmüş durumda</string>
     <string name="attachment_open_SecurityException_title">Dosya açılamıyor</string>
+    <string name="attachment_open_on_other_app">Open in another app</string>
     <string name="attachment_opening_mode">Ekler için uygulamalar</string>
     <string name="attachment_size_exceed_limit">Eklenti boyutu sunucu sınırını aşmış gibi görünüyor</string>
     <string name="attachment_stop_all">Durdur</string>
@@ -332,6 +337,7 @@
     <string name="bottom_bar_more_quickreply">Hızlı yanıt</string>
     <string name="bottom_bar_more_share">Paylaş</string>
     <string name="bottom_bar_no_quickreply_toast">Hızlı yanıt yok</string>
+    <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="broker_helper_manifest">AndroidManifest.xml için amaç filtresi</string>
     <string name="broker_helper_package">Uygulamayı kaydederken girilecek paket adı</string>
     <string name="broker_helper_redirect">Yapılandırma json dosyası için bağlantıyı yeniden yönlendir</string>
@@ -364,6 +370,9 @@
     <string name="change_sync_settings">Senkronizasyon ayarlarını değiştir</string>
     <string name="changepw_dialog_auth_tips">%S için yetkilendirme kodunu tekrar girin</string>
     <string name="changepw_dialog_tips">%s hesabı parolasını yeniden girin</string>
+    <string name="character_counter_content_description">Karakterler %1$d/%2$d girildi</string>
+    <string name="character_counter_overflowed_content_description">"Karakter sınırı %2$d içinde %1$d'yi aştı"</string>
+    <string name="character_counter_pattern">%1$d/%2$d</string>
     <string name="chat_item_msg_people_unit">kişi</string>
     <string name="chat_item_msg_user_etc">vb.</string>
     <string name="check_setup_data">"    Sunucu ayarları doğrulanıyor"</string>
@@ -435,6 +444,7 @@
     <string name="chinese_symbol_animals_sheep">Koyun</string>
     <string name="chinese_symbol_animals_snake">Yılan</string>
     <string name="chinese_symbol_animals_tiger">Kaplan</string>
+    <string name="chip_text">Çip metni</string>
     <string name="choose_an_office365_international">Uluslararası sürüm</string>
     <string name="choose_an_office365_provider">Office365 servis sağlayıcısı seçin</string>
     <string name="choose_an_office365_sj">21Vianet sürümü</string>
@@ -443,6 +453,7 @@
     <string name="clear_display_images_whitelist_dialog_message">Daha önce izin verdiğiniz göndericilerden gelen satır içi resimleri görüntülemeyi durdurun</string>
     <string name="clear_display_images_whitelist_dialog_title">Resim doğrulamaları temizlensin mi?</string>
     <string name="clear_display_images_whitelist_title">Resim doğrulamalarını temizle</string>
+    <string name="clear_text_end_icon_content_description">Clear text</string>
     <string name="clearable_edittext_clear_description">Temizle</string>
     <string name="click_download_all_content">[ İndirmek için dokunun ]</string>
     <string name="click_to_reload">Yenilemek için ekrana dokunun</string>
@@ -450,11 +461,13 @@
     <string name="collapse_recipient_details">Alıcı ayrıntılarını daralt</string>
     <string name="colon">:</string>
     <string name="compose">Oluştur</string>
+    <string name="compose_add_attachment_permission_denied">E-posta yönlendirilemiyor. Harici depolamaya erişim izinleri gerekli</string>
     <string name="compose_event">Davetiye</string>
     <string name="compose_paste_address_oob">Çok fazla karakter</string>
     <string name="compose_picturesexceedlimits">Bir iletide 5 satır-içi resim miktarı aşılamıyor</string>
     <string name="compose_send">Gönder</string>
     <string name="compose_sent">E-posta gönderildi</string>
+    <string name="compose_to_label">To</string>
     <string name="compress_failed_and_retry">Sıkıştıramadı. Tekrar deneyin</string>
     <string name="compress_img">Görüntüleri sıkıştır</string>
     <string name="confirm">Tamam</string>
@@ -488,6 +501,7 @@
     <string name="contain_view_all_body">Mesajın tam metnini görüntüle</string>
     <string name="content_description">%1$s hakkında %2$s, %3$s %4$s, %5$s tarihinde</string>
     <string name="content_description_today">%1$s hakkında %2$s, %3$s %4$s, %5$s tarihinde</string>
+    <string name="content_preview_ratio">1:1</string>
     <string name="contextmenu_add">Kişilere ekle</string>
     <string name="contextmenu_add_contact">Kişilere ekle</string>
     <string name="contextmenu_call">Ara</string>
@@ -552,6 +566,7 @@
     <string name="default_setup">Varsayılan ayarlar</string>
     <string name="default_signature">Mi telefonumdan gönderildi</string>
     <string name="default_signature_2">%s cihazımdan gönderildi</string>
+    <string name="default_signature_pad">"Mi Pad'imden gönderildi"</string>
     <string name="delete">Sil</string>
     <string name="delete_contact_content">Bu kişi şimdi silinsin mi?</string>
     <string name="delete_message_event">Bu davetiye silinsin mi?</string>
@@ -585,6 +600,7 @@
     <string name="downlaod_nonWifi_confirm_message">Bu eklentiyi indirmek için mobil veri bağlantısı kullanılsın mı?</string>
     <string name="downlaod_nonWifi_confirm_title">Bu eklenti indirilsin mi?</string>
     <string name="download_before_sharing">" indirme işlemi sona ermedi."</string>
+    <string name="download_before_sharing2">"Some of the selected items aren't downloaded. Download them first."</string>
     <string name="download_cancel_confirm_message">İndirme işlemi durdurulacak</string>
     <string name="download_cancel_confirm_title">Bu eklenti indirilsin mi?</string>
     <string name="download_complete_not_cancel">İndirme işlemi tamamlandı</string>
@@ -645,6 +661,7 @@
     <string name="eras_ad">CE</string>
     <string name="eras_bc">BCE</string>
     <string name="error">Hata</string>
+    <string name="error_icon_content_description">Error</string>
     <string name="evening">Öğleden sonra</string>
     <string name="exception_cancel">"
         Bu etkinlik için
@@ -658,6 +675,9 @@
     <string name="expand_button_title">Gelişmiş</string>
     <string name="expand_recipient_details">Alıcı ayrıntılarını genişlet</string>
     <string name="expand_slide">Kenar çubuğunu genişlet</string>
+    <string name="exposed_dropdown_menu_content_description">Show dropdown menu</string>
+    <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
+    <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
     <string name="fail_get_email_message">Mesaj alınamadı</string>
     <string name="failed">Resim yüklenemedi</string>
     <string name="failed_parse_eml_file">EML dosyası açılamadı. Tekrar deneyin</string>
@@ -754,10 +774,11 @@
     <string name="folder_junk_name_en2">İstenmeyen posta</string>
     <string name="folder_junk_name_en3">Gereksiz e-posta</string>
     <string name="folder_junk_name_en4">Önemsiz</string>
+    <string name="folder_list_current_account">Geçerli posta kutusu</string>
     <string name="folder_list_display_all">Tüm klasörleri göster</string>
     <string name="folder_list_display_only_import">Yalnızca önemli klasörleri görüntüleme</string>
     <string name="folder_no_mails">Bu klasörde e-posta yok</string>
-    <string name="folder_notification_setting_tip">You have multiple folders in your inbox. Set notifications about new messages in specific folders.</string>
+    <string name="folder_notification_setting_tip">Gelen kutunuzda birden fazla klasör var. Belirli klasörlerdeki yeni mesajlarla ilgili bildirimleri ayarlayın</string>
     <string name="folder_picker_title">Klasörleri seçin</string>
     <string name="folder_removed">%1$s kaldırıldı</string>
     <string name="folder_sent_name_cn0">Gönderilen</string>
@@ -831,7 +852,9 @@
     <string name="gmail_login_failed_non_proxy_title">Gmail sunucusuna bağlanılamadı</string>
     <string name="gmail_server_authorization_deleted">Hesap kimliği doğrulanamadı. Hesabı yeniden eklemeyi deneyin</string>
     <string name="go_to_mail_content">"Mail'i görüntüle"</string>
+    <string name="graph_name">Kurumsal(Grafik)</string>
     <string name="have_auth_code">Kodum var</string>
+    <string name="have_download">İndirildi</string>
     <string name="header_category_account">Hesaplar</string>
     <string name="header_category_general">@string/header_label_general_preferences</string>
     <string name="header_label_general_preferences">Genel</string>
@@ -849,6 +872,8 @@
     <string name="help_email_title">Mi mail</string>
     <string name="help_me_get_qq_auth">QQ kodunu al</string>
     <string name="help_weixin_title">"Herhangi bir sorunuz varsa resmi WeChat hesabımıza bir satır bırakmaktan çekinmeyin: "</string>
+    <string name="hide_attachment">Eki gizle</string>
+    <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="hide_elided">▼ Alıntı metni gizle</string>
     <string name="hide_password">Şifreyi gizle</string>
     <string name="hierarchical_folder_parent_top">%1$s∕%2$s∕</string>
@@ -859,6 +884,7 @@
     <string name="http_auth_dialog_password">Şifre</string>
     <string name="http_auth_dialog_title">Kimlik bilgilerinizi girin</string>
     <string name="http_auth_dialog_username">Kullanıcı adı</string>
+    <string name="icon_content_description">Diyalog simgesi</string>
     <string name="imap_name">IMAP</string>
     <string name="imap_or_pop3_name">IMAP/POP3</string>
     <string name="imap_password_error">Gelen posta sunucusu şifresi yanlış</string>
@@ -873,6 +899,9 @@
     <string name="input_password_prompt">Şifrenizi girin</string>
     <string name="install_mime_encrypt_cert">S/MIME şifreleme sertifikasını yükleyin</string>
     <string name="install_mime_sign_cert">S/MIME İmza sertifikası yükleyin</string>
+    <string name="installation_cancelled">Kurulum iptal edildi</string>
+    <string name="installation_failed">Kurulum başarısız oldu</string>
+    <string name="installing_module">Modül yükleme:</string>
     <string name="intent_account_manager_entry">com.android.email.activity.setup.ACCOUNT_MANAGER_ENTRY</string>
     <string name="intent_exchange_package">com.android.exchange</string>
     <string name="interact_with_server_error">Sunucuya bağlanılamadı</string>
@@ -885,10 +914,10 @@
     <string name="invoice_card_save">Faturayı kaydet</string>
     <string name="invoice_card_seller">Satıcı</string>
     <string name="invoice_card_title">E-fatura</string>
+    <string name="item_view_role_description">Tab</string>
     <string name="kilobytes">%s KB</string>
     <string name="label_notification_ticker">%1$s: %2$s</string>
     <string name="list_empty_to_fresh">Henüz e-posta yok</string>
-    <string name="load_attachment">@string/load_more</string>
     <string name="load_from_remote">Sunucu posta kutusunu ara</string>
     <string name="load_more">Daha fazla yükle</string>
     <string name="loading_conversation">Yükleniyor</string>
@@ -969,6 +998,8 @@ Lütfen uygulama şifresinin açık olup olmadığını onaylayın. Eğer açık
     <string name="mark_read">Okundu olarak işaretle</string>
     <string name="mark_unread">Okunmadı olarak işaretle</string>
     <string name="marketSdkVersion">3.2.5</string>
+    <string name="material_slider_range_end">Aralık sonu,</string>
+    <string name="material_slider_range_start">Aralık başlangıcı,</string>
     <string name="me_object_pronun">ben</string>
     <string name="me_subject_pronun">ben</string>
     <string name="meeting_accepted">"
@@ -1050,6 +1081,7 @@ Lütfen uygulama şifresinin açık olup olmadığını onaylayın. Eğer açık
     <string name="message_invite_tentative">Belki</string>
     <string name="message_saved">İleti taslak olarak kaydedildi</string>
     <string name="message_view_attachment_background_load">Yönlendirilen iletinizdeki eklentiler gönderme işlemi amacıyla indirilecektir</string>
+    <string name="mi_slide_menu">Kenar çubuğu</string>
     <string name="mibill_privacy_policy_button1">Sonra</string>
     <string name="mibill_privacy_policy_button2">Kabul et</string>
     <string name="mibill_privacy_policy_description">Mi cüzdan ile faturalarınızı otomatik olarak analiz etme ve yönetme izni verin. Bu özellik iş ile bağlantılı e-posta adresleri için otomatik olarak kapatılacaktır</string>
@@ -1062,9 +1094,6 @@ Lütfen uygulama şifresinin açık olup olmadığını onaylayın. Eğer açık
     <string name="miuix_appcompat_action_mode_title_empty">Öğeleri seç</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Daha fazla</string>
     <string name="miuix_appcompat_cancel_description">İptal et</string>
-    <string name="miuix_appcompat_cloud_state_disabled">Bulutla senkronizasyon kapalı</string>
-    <string name="miuix_appcompat_cloud_state_finished">Bulut ile başarıyla senkronize edildi</string>
-    <string name="miuix_appcompat_cloud_state_syncing">Bulutla senkronize ediliyor</string>
     <string name="miuix_appcompat_confirm_description">Onayla</string>
     <string name="miuix_appcompat_delete_description">Sil</string>
     <string name="miuix_appcompat_deselect_all">Seçimi kaldır</string>
@@ -1082,6 +1111,11 @@ Lütfen uygulama şifresinin açık olup olmadığını onaylayın. Eğer açık
     <string name="miuix_sbl_tracking_progress_labe_up_none">Şimdilik bu kadar</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Yükleniyor</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Öğeler yüklenemedi</string>
+    <string name="miuix_search_action_mode_cancel">İptal et</string>
+    <string name="miuix_search_history_clear">Arama geçmişini temizle</string>
+    <string name="miuix_search_history_default_title">Arama geçmişi</string>
+    <string name="miuix_search_recommendation_default_title">Bunlar ilginizi çekebilir</string>
+    <string name="miuix_search_recommendation_item_del_des">Sil</string>
     <string name="modify_contact_address">İletişim e-posta adresini değiştir</string>
     <string name="monday">Pazartesi</string>
     <string name="monday_short">Pazartesi</string>
@@ -1126,9 +1160,44 @@ Lütfen uygulama şifresinin açık olup olmadığını onaylayın. Eğer açık
     <string name="more_string">+%1$s</string>
     <string name="morning">ÖÖ</string>
     <string name="move_to_selection_dialog_title">Başka bir klasöre taşı</string>
-    <string name="ms_graph">New Microsoft protocol</string>
-    <string name="multiple_new_message_notification_item">"<b>%1$s</b>   %2$s"</string>
+    <string name="ms_graph">Yeni Microsoft protokolü</string>
+    <string name="mtrl_badge_numberless_content_description">Yeni bildirim</string>
+    <string name="mtrl_chip_close_icon_content_description">%1$s kaldır</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">"%1$d'den fazla yeni bildirim"</string>
+    <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
+    <string name="mtrl_picker_a11y_next_month">Gelecek aya geç</string>
+    <string name="mtrl_picker_a11y_prev_month">Önceki aya geç</string>
+    <string name="mtrl_picker_announce_current_selection">Şu anki seçim: %1$s</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Bir tarih seçin</string>
+    <string name="mtrl_picker_date_header_unselected">Seçilen tarih</string>
+    <string name="mtrl_picker_day_of_week_column_header">Gün sütunu: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Geçersiz format</string>
+    <string name="mtrl_picker_invalid_format_example">Örneğin: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Kullan: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Geçersiz aralık</string>
+    <string name="mtrl_picker_navigate_to_year_description">%1$s yılına git</string>
+    <string name="mtrl_picker_out_of_range">Kapsama alanı dışında: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Başlangıç tarihi – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">Bitiş tarihi - %1$s</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Bir tarih aralığı seçin</string>
+    <string name="mtrl_picker_range_header_unselected">"Baslangic tarihi -  Bitiş tarihi"</string>
+    <string name="mtrl_picker_save">Kaydet</string>
+    <string name="mtrl_picker_text_input_date_hint">Tarih</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Bitiş tarihi</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Başlangıç tarihi</string>
+    <string name="mtrl_picker_text_input_day_abbr">g</string>
+    <string name="mtrl_picker_text_input_month_abbr">a</string>
+    <string name="mtrl_picker_text_input_year_abbr">y</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Takvim giriş moduna geç</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Bir gün seçmeye geçmek için dokunun</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Metin giriş moduna geç</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Bir yıl seçmeye geçmek için dokunun</string>
+    <string name="multiple_new_message_notification_item"><b>%1$s</b>"   %2$s"</string>
     <string name="mute">Sessiz</string>
+    <string name="nav_app_bar_navigate_up_description">Yukarı git</string>
+    <string name="nav_app_bar_open_drawer_description">Gezinme çekmecesini aç</string>
     <string name="navigation_menu">Gezinme menüsü</string>
     <string name="net_error">Ağ hatası. Lütfen daha sonra tekrar deneyin</string>
     <string name="network_error">Bağlantı yok</string>
@@ -1137,7 +1206,8 @@ Lütfen uygulama şifresinin açık olup olmadığını onaylayın. Eğer açık
     <string name="network_try_again">Ağ bağlantınızı kontrol edin ve tekrar deneyin</string>
     <string name="network_unavailable">Ağ kullanılamıyor</string>
     <string name="new_incoming_messages_one">%s adlı kişiden yeni bir mesaj geldi. Görüntüle</string>
-    <string name="new_mail_notification">Notify about new messages</string>
+    <string name="new_mail_notification">Yeni mesajlar hakkında bilgilendir</string>
+    <string name="new_mail_notification_str">Hatırlatıcılara izin ver</string>
     <string name="new_signature_has_saved">Başarıyla kaydedildi</string>
     <string name="next_action">Sonraki</string>
     <string name="night">ÖS</string>
@@ -1252,6 +1322,11 @@ Farklı bir e-posta hesabı kullanmayı deneyin"</string>
     <string name="password_expired_dialog_content_fmt">%s hesabı verileri cihazınızdan silinecektir. Verileri kilit ekranı şifrenizi veya Pin kodunu değiştirerek geri yükleyebilirsiniz. Şimdi değiştirmek istiyor musunuz?</string>
     <string name="password_expired_dialog_title">Ekran kilidi şifre süresi doldu</string>
     <string name="password_expired_ticker">Ekran kilidinizin Pin veya şifresinin süresi doldu</string>
+    <string name="password_toggle_content_description">Şifreyi göster</string>
+    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
     <string name="pdf_has_signature_prompt_cancel">Orijinal dosyayı açın</string>
     <string name="pdf_has_signature_prompt_confirm">Kopyala</string>
     <string name="pdf_has_signature_prompt_message">Bu ekin imzalı bir kopyası tespit edildi. Açık ya da değil mi?</string>
@@ -1322,10 +1397,12 @@ e-postanızdaki fatura ve seyahat bilgilerini analiz edin"</string>
     <string name="previous_action">Geri</string>
     <string name="print">Yazdır</string>
     <string name="print_scheduler_title">Tüm zamanlayıcıları yazdır</string>
+    <string name="privacy_and_help">Privacy and help</string>
     <string name="privacy_des">Günlükler e-posta istemcisinin hata ayıklama bilgilerini ve cihaz bilginizi içerir. Bu bilgiler sorunları daha hızlı bir şekilde bulmak için kullanılır. Aşağıdaki %1$s seçeneğine dokunarak %2$s sözleşmemizi kabul etmiş sayılıyorsunuz</string>
     <string name="privacy_policy">Gizlilik politikası</string>
     <string name="privacy_policy_url">https://miui.wpsmail.net/policy.html</string>
     <string name="privacy_setting_agree">Kabul et</string>
+    <string name="progress">İşleniyor:</string>
     <string name="prompt_title">Komut istemi</string>
     <string name="protocol_eas">eas</string>
     <string name="protocol_graph">graph</string>
@@ -1354,8 +1431,8 @@ e-postanızdaki fatura ve seyahat bilgilerini analiz edin"</string>
     <string name="qq_bar_open_imap">Yardım</string>
     <string name="qq_bar_send_message">Mesaj gönder</string>
     <string name="qq_changepw_dialog_tips">Lütfen en son doğrulama kodunu %s adresinden edinin ve tekrar giriş yapın</string>
-    <string name="qq_group_info_summary">QQ group: %s. Tap to copy.</string>
-    <string name="qq_group_info_title">QQ group for feedback</string>
+    <string name="qq_group_info_summary">QQ grubu: %s. Kopyalamak için dokunun</string>
+    <string name="qq_group_info_title">Geri bildirim için QQ grubu</string>
     <string name="qq_login_notice">Not: Şifre belirlediyseniz oturum açtığınızda şifrenizi doğrulamanız gerekir</string>
     <string name="qq_login_sent_setting">Gönderilen mesajları senkronize et</string>
     <string name="qq_pwd_or_qq_auth_code">Kodu girin</string>
@@ -1423,6 +1500,7 @@ Tamamen senkronize edilmesini bekleyin veya mesajı bilgisayarınızda görünt�
     <string name="request_entity_large">Dosya çok büyük</string>
     <string name="request_permission_activity">İzin isteği</string>
     <string name="respond_inline">"   Sıralı yanıtla"</string>
+    <string name="retry">Yeniden dene</string>
     <string name="retry_login">Tekrar oturum açın</string>
     <string name="saturday">Cumartesi</string>
     <string name="saturday_short">Cumartesi</string>
@@ -1528,6 +1606,7 @@ Tamamen senkronize edilmesini bekleyin veya mesajı bilgisayarınızda görünt�
     <string name="share_choose">Paylaşılacak dosyayı seçin</string>
     <string name="sharing">Paylaş</string>
     <string name="shortcut_name_title">Klasör kısayol adı</string>
+    <string name="show_attachment">Eki göster</string>
     <string name="show_contact_address">İletişim e-posta adresini göster</string>
     <string name="show_elided">▶ Alıntı metni göster</string>
     <string name="show_images">Resimleri indir ve göster</string>
@@ -1619,7 +1698,7 @@ Tamamen senkronize edilmesini bekleyin veya mesajı bilgisayarınızda görünt�
     <string name="system_setup_open_error">Ayarlar menüsünde mail için senkronizasyonu açın</string>
     <string name="tap_to_configure">Kurulum için dokunun</string>
     <string name="tap_to_enable_sync">Açmak için dokunun</string>
-    <string name="tell_you_later">Later</string>
+    <string name="tell_you_later">Daha sonra</string>
     <string name="the_anniversary_of_lifting_martial_law">Sıkı yönetim kanunun yıldönümü</string>
     <string name="the_anti_aggression_day">Saldırganlık karşıtı günü</string>
     <string name="the_arbor_day">Ağaç dikme günü</string>
@@ -1764,7 +1843,7 @@ Hesap kaldırılsın mı?"</string>
     <string name="version_string">Sürüm: %s</string>
     <string name="view_more_conversations">Daha fazla konuşma görüntüle</string>
     <string name="wait_for_manual_sync_body">"Bu hesap otomatik olarak senkronize edilecek şekilde yapılandırılmadı
-Postayı bir kez senkronize etmek için "<b>şimdi senkronize et</b> veya bu hesabı postayı otomatik olarak senkronize edilecek şekilde ayarlamak için <b>senkronizasyon ayarlarını değiştire</b> dokunun</string>
+Postayı bir kez senkronize etmek için <b>şimdi senkronize et</b> veya bu hesabı postayı otomatik olarak senkronize edilecek şekilde ayarlamak için <b>senkronizasyon ayarlarını değiştire</b> dokunun"</string>
     <string name="wait_for_sync_title">Senkronizasyon için bekleniyor</string>
     <string name="wait_help_context">Bekleyin</string>
     <string name="wait_while_update_db">Veri tabanı yükseltiliyor</string>
@@ -1780,6 +1859,9 @@ Postayı bir kez senkronize etmek için "<b>şimdi senkronize et</b> veya bu hes
     <string name="wednesday_short">Çarşamba</string>
     <string name="wednesday_shortest">Ç</string>
     <string name="weixin_info_summary">WeChat hesabı: %s. Kopyalamak için dokunun</string>
+    <string name="welcome_contact_list_title">Bir kişi seçin</string>
+    <string name="welcome_folder_list_title">Görüntülemek için bir klasör seçin</string>
+    <string name="welcome_mail_list_title">Görüntülemek için bir e-posta seçin</string>
     <string name="widget_all_mail">Tüm postalar</string>
     <string name="widget_large_unread_count">%d+</string>
     <string name="widget_other_views">Diğer</string>

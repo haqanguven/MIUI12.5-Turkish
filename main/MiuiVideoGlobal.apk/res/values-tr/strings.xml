@@ -367,6 +367,12 @@ Videolar ekibi"</string>
     <string name="diagnosis_log_sent_format">"Kayıtlar başarıyla gönderildi
 Kimlik:%s
 Bu kodu gönderin"</string>
+    <string name="dialog_app_comment_cancel">İptal et</string>
+    <string name="dialog_app_comment_default_content">Videolar hakkında ne düşünüyorsunuz?</string>
+    <string name="dialog_app_comment_ok">Tamam</string>
+    <string name="dialog_app_comment_select_feedback">Bize geri bildirimde bulunabilir misiniz?</string>
+    <string name="dialog_app_comment_select_praise">"Harika! Videolar'a Play Store'da da puan verir misiniz?"</string>
+    <string name="dialog_app_comment_title">Uygulamamıza puan verin</string>
     <string name="dialog_disagree_privacychange_info">Gizlilik politikamızı kabul etmezseniz videolar uygulamasının çevrim içi yayın hizmetlerini kullanamayacaksınız. Geri gitmek için iptal et seçeneğine veya devam etmek için reddet seçeneğine dokunun ve videoları yalnızca yerel bir oynatıcı olarak kullanın</string>
     <string name="dialog_disagree_privacychange_title">Reddedilsin mi?</string>
     <string name="dialog_privacy_change_info">Sunduğumuz hizmetlerdeki düzenlemelerden dolayı videolar gizlilik politikasını güncelledik. Bir kullanıcı olarak tüm haklarınızı ayrıca verilerinizi kullanma yöntemlerimizi anlamak için uygulamayı kullanmadan önce <a href="%1$s">Kullanıcı sözleşmesi</a> ve <a href="%2$s">Gizlilik politikamızı</a> okuyun ve kabul edin</string>
@@ -611,6 +617,12 @@ Bu kodu gönderin"</string>
     <string name="galleryplus_network_connect_confirm">Ağ ayarlarında wifi ağına bağlanın veya mobil veriyi açın</string>
     <string name="galleryplus_network_error">Ağa bağlanılamadı</string>
     <string name="galleryplus_network_not_wifi">Videoları akışı için mobil veri kullanmanız ek veri ücretlerine neden olabilir</string>
+    <string name="galleryplus_notification_linkvideo_subtitle1" formatted="false">Dosyaları yönet %$s Altyazı ekle %$s Videoları yansıt %$s</string>
+    <string name="galleryplus_notification_linkvideo_subtitle2">%$s Şifre ile özel videoları koru</string>
+    <string name="galleryplus_notification_linkvideo_subtitle3">"%$s TikTok, Instagram ve Twitter'dan videolar indir"</string>
+    <string name="galleryplus_notification_linkvideo_title1">"%$s Videolar'ın tüm harika özelliklerine göz atın"</string>
+    <string name="galleryplus_notification_linkvideo_title2">%$s Videolarınızı yönetmek için dokunun</string>
+    <string name="galleryplus_notification_linkvideo_title3">%1$s Videoları ücretsiz indir %2$s Dosyaları yönet</string>
     <string name="galleryplus_online_cta">Videonun düzgün çalışabilmesi için internet bağlantısına ihtiyaç duyar. Kabul ediyor musunuz?</string>
     <string name="galleryplus_online_cta_agree">Kabul et</string>
     <string name="galleryplus_online_cta_disagree">Reddet</string>
@@ -620,7 +632,7 @@ Bu kodu gönderin"</string>
     <string name="galleryplus_orientation_unlock">Ekran yönünün kilidi açık</string>
     <string name="galleryplus_permission_content">Bu özelliği kullanabilmek için videoya gerekli izinleri verin</string>
     <string name="galleryplus_permission_content_opt">"Videoların normal çalışabilmesi için izinlere ihtiyaç duyar. Ayarlar'da tüm uygulama verilerini temizleyin ve uygulamayı tekrar açın"</string>
-    <string name="galleryplus_permission_content_xms">"Videoların normal çalışabilmesi için izinlere ihtiyaç duyar. Ayarlar'a gidin ve Mi Video'ya gerekli izinleri verin"</string>
+    <string name="galleryplus_permission_content_xms">"Videoların normal çalışabilmesi için izinlere ihtiyaç duyar. Ayarlar'a gidin ve videolar'a gerekli izinleri verin"</string>
     <string name="galleryplus_permission_open_settings">Ayarlar</string>
     <string name="galleryplus_permission_refuse">Hayır</string>
     <string name="galleryplus_permission_retry">İzinler</string>
@@ -628,7 +640,6 @@ Bu kodu gönderin"</string>
     <string name="galleryplus_permission_storage_content_unreshowable">"%s, telefon depolaması için okuma ve yazma izinleri istemeli. Bu işlevi kullanmanız gerekiyorsa, uygulama ayrıntıları sayfasına girmek için lütfen "Ayarlar"ı tıklayın ve "İzinler"de cihaz izinlerini etkinleştirin"</string>
     <string name="galleryplus_permission_storage_title">Cihazdaki fotoğrafları ve dosyaları okuyun ve yazın</string>
     <string name="galleryplus_permission_title">Dikkat</string>
-    <string name="galleryplus_permission_video_player">Video oynatma işlevi</string>
     <string name="galleryplus_play_speed">%1$.1fX</string>
     <string name="galleryplus_restore_play_speed">Şimdi normal hızda oynatılıyor</string>
     <string name="galleryplus_save_cancel_toast">Videoyu kaydetmeyi iptal etmek için geri seçeneğine dokunun</string>
@@ -733,6 +744,7 @@ tercih ettiğiniz dili seçin"</string>
     <string name="local_video_create_a_new_playlist">Yeni oynatma listesi</string>
     <string name="local_video_date">Tarih</string>
     <string name="local_video_dialog_default">Varsayılan</string>
+    <string name="local_video_edit_playlist">Çalma listesini düzenle</string>
     <string name="local_video_from_a_to_z">"A'dan Z'ye"</string>
     <string name="local_video_from_big_to_small">Büyükten küçüğe</string>
     <string name="local_video_from_long_to_short">Uzundan kısaya</string>
@@ -991,7 +1003,7 @@ tercih ettiğiniz dili seçin"</string>
     <string name="mtrl_chip_close_icon_content_description">%1$s kaldır</string>
     <string name="my_favorite_channels">Kanallarım</string>
     <string name="my_feedback_title">Geri bildirimim</string>
-    <string name="need_update_app">Tüm özelliklerinden faydanalanabilmek için Mi Video uygulamasını güncelleyin</string>
+    <string name="need_update_app">Tüm özelliklerinden faydanalanabilmek için videolar uygulamasını güncelleyin</string>
     <string name="network_connect_info">Ağa bağlanılamadı. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
     <string name="network_failed">Ağa bağlanılamadı</string>
     <string name="neverthink_player_loading">Neverthink videosu yükleniyor</string>
@@ -1096,6 +1108,7 @@ tercih ettiğiniz dili seçin"</string>
     <string name="ovp_navigation_language">Dil</string>
     <string name="ovp_navigation_localvideo">Yerel</string>
     <string name="ovp_navigation_notice">Bildirimler</string>
+    <string name="ovp_navigation_score">Uygulamamıza puan verin</string>
     <string name="ovp_navigation_setting">Ayarlar</string>
     <string name="ovp_navigation_subscribe">Abone ol</string>
     <string name="ovp_navigation_version_update">Güncellemeleri kontrol et</string>
@@ -1104,7 +1117,7 @@ tercih ettiğiniz dili seçin"</string>
     <string name="ovp_player_plugin_dlg_neg_btn">Kapat</string>
     <string name="ovp_player_plugin_dlg_no_content">Yüklü video oynatıcı eklentisi yok</string>
     <string name="ovp_player_plugin_dlg_title">Video oynatıcı eklentileri</string>
-    <string name="ovp_player_update_dialog_info">Bu videoyu oynatmak için Mi Video eklentisini en son sürümüne güncelleyin. Şimdi güncellensin mi?</string>
+    <string name="ovp_player_update_dialog_info">Bu videoyu oynatmak için videolar eklentisini en son sürümüne güncelleyin. Şimdi güncellensin mi?</string>
     <string name="ovp_player_update_info">"Bu video oynatılamıyor
 Önce videolar uygulamasını en son sürümüne güncelleyin"</string>
     <string name="ovp_playlist">Çalma listesi</string>
@@ -1612,6 +1625,7 @@ Hiçbir şey göstermiyor"</string>
     <string name="the_forth_day">Çin yeni yılının dördüncü günü</string>
     <string name="the_hksar_establishment_day">Hong Kong SAR kuruluş günü</string>
     <string name="the_international_womens_day">Kadınlar günü</string>
+    <string name="the_item_choosed_tint">%s seçildi</string>
     <string name="the_laba_festival">Laba festivali</string>
     <string name="the_labour_day">İşçi bayramı</string>
     <string name="the_lantern_festival">Fener festivali</string>
@@ -1661,6 +1675,7 @@ Hiçbir şey göstermiyor"</string>
     <string name="tool_bar_notification_setting_title">Bildirim gölgesi araç çubuğu</string>
     <string name="top_bar_game_desc">Burada birçok yeni oyun keşfedin</string>
     <string name="top_bar_game_title">Oyun kanalı</string>
+    <string name="trending_scroll_load_more">Daha fazla video için yukarı kaydırın</string>
     <string name="tuesday">Salı</string>
     <string name="tuesday_short">Sal</string>
     <string name="tuesday_shortest">Sal</string>
@@ -1698,7 +1713,7 @@ Hiçbir şey göstermiyor"</string>
     <string name="v_network_failed">Bir ağ hatası oluştu</string>
     <string name="v_next">İleri</string>
     <string name="v_ok">Tamam</string>
-    <string name="v_pw_need_update_app">Tüm özelliklerini kullanabilmek için Mi Video uygulamasını güncelleyin</string>
+    <string name="v_pw_need_update_app">Tüm özelliklerini kullanabilmek için videolar uygulamasını güncelleyin</string>
     <string name="v_save">Kaydet</string>
     <string name="v_search">Ara</string>
     <string name="v_selectall">Tümünü seç</string>

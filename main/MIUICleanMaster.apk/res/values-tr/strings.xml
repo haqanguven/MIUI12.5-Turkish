@@ -714,6 +714,8 @@
     <string name="menu_text_optimize_manage_1">Hızı arttırın</string>
     <string name="menu_view">Klasörde görüntüle</string>
     <string name="midnight">Gece</string>
+    <string name="miuix_access_state_desc">Seçildi</string>
+    <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Seçimi kaldır</string>
     <string name="miuix_appcompat_action_mode_select_all">Tümünü seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Öğeleri seç</string>
@@ -728,6 +730,7 @@
     <string name="miuix_appcompat_select_all">Tümünü seç</string>
     <string name="miuix_appcompat_select_all_description">Tümünü seç</string>
     <string name="miuix_appcompat_select_item">Öğeleri seç</string>
+    <string name="miuix_indexer_selected">%s seçildi</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için çek</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Yenileme tamamlandı</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor</string>

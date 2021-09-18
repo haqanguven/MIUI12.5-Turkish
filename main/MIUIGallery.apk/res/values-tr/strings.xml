@@ -150,7 +150,7 @@
     <string name="album_quota_fulfiled">Çok fazla sayıda albüm. Bazı albümleri silin ve ardından tekrar deneyin</string>
     <string name="album_rubbish_cant_change_status">Çöp kutusuna taşınan albümler senkronize edilemiyor</string>
     <string name="album_rubbish_clear_all_item_description">Çöp kutusunu temizle</string>
-    <string name="album_rubbish_page_title">Çöp kutusu</string>
+    <string name="album_rubbish_page_title">Çöp</string>
     <string name="album_rubbish_tip_title">Gereksiz yedek albümleri</string>
     <string name="album_scanner">Albüm tarama</string>
     <string name="album_screen_recorder">Ekran kaydedici</string>
@@ -207,6 +207,7 @@
     <string name="app_name_view_picture">Fotoğrafları görüntüle</string>
     <string name="app_name_view_video">Videoları görüntüle</string>
     <string name="app_summary">Fotoğraflarınızı ve videolarınızı cihazınızda ve Xiaomi buluttan yönetme ve düzenleme</string>
+    <string name="app_summary_2">Bu cihazda fotoğraf ile videoları depolama, yönetme ve düzenleme</string>
     <string name="apply">Uygula</string>
     <string name="art_still_download_failed_for_notwork">İndirilemedi. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
     <string name="art_still_download_sdk_without_wifi_msg">Görünüşe göre cihazınız kablosuz ağa bağlı değil. Eklenti mobil veri kullanılarak indirilsin mi?</string>
@@ -888,7 +889,7 @@
     <string name="cleaner_space_description">boşaltılabilir</string>
     <string name="cleaner_space_detail_description">Depolama alanı boşaltmak için galerinizdeki fotoğrafları temizleyin</string>
     <string name="cleaner_stop_scan">Taramayı durdur</string>
-    <string name="cleaner_title">Alanı temizle</string>
+    <string name="cleaner_title">Temizle</string>
     <string name="cleaner_video_action">Şimdi sil</string>
     <string name="cleaner_video_description">Depolama alanını kaplayan videoları silin</string>
     <string name="cleaner_video_pick_delete_selected">Seçilen videoları sil</string>
@@ -986,7 +987,7 @@
     <string name="com.qzone_com.qzonex.module.operation.ui.QZonePublishMoodActivity">Qzone</string>
     <string name="com.sina.weibo_com.sina.weibo.composerinde.ComposerDispatchActivity">Weibo</string>
     <string name="com.tencent.mm_com.tencent.mm.ui.tools.ShareImgUI">WeChat</string>
-    <string name="com.tencent.mm_com.tencent.mm.ui.tools.ShareToTimeLineUI">WeChat Anlar</string>
+    <string name="com.tencent.mm_com.tencent.mm.ui.tools.ShareToTimeLineUI">WeChat anlar</string>
     <string name="com.tencent.mobileqq_com.tencent.mobileqq.activity.JumpActivity">QQ</string>
     <string name="confirm">Tamam</string>
     <string name="confirm_cancel_task_files">"%1$s'a dosya gönderme iptal edilsin mi?"</string>
@@ -1002,10 +1003,10 @@
     <string name="confirm_merge_face_albums">Albümü %s ile birleştirilsin mi?</string>
     <string name="confirm_merge_many_face_albums">Bu albümler %s ile birleştirilsin mi?</string>
     <string name="confirm_not_face">Eşleşme yok</string>
-    <string name="confirm_recommandation_face_is">"&lt;Data> Bu kişinin &lt;font color=#323232>&lt;b>%1$s olduğuna emin misiniz? Bu kişi %2$s albümüne taşınacaktır&lt;/Data>"</string>
-    <string name="confirm_recommandation_face_not">"&lt;Data> Bu kişinin &lt;font color=#323232>&lt;b>%1$s olmadığına emin misiniz?&lt;/Data>"</string>
-    <string name="confirm_recommandation_multiple_faces_are">"&lt;Data> Bu kişilerin &lt;font color=#323232>&lt;b>%1$s olduğuna emin misiniz? Bu kişiler %2$s albümüne taşınacaktır&lt;/Data>"</string>
-    <string name="confirm_recommandation_multiple_faces_not">"&lt;Data> Bu kişilerin &lt;font color=#323232>&lt;b>%1$s olmadığına emin misiniz?&lt;/Data>"</string>
+    <string name="confirm_recommandation_face_is">&lt;Data> Bu kişinin &lt;font color=#323232>&lt;b>%1$s olduğuna emin misiniz? Bu kişi %2$s albümüne taşınacaktır&lt;/Data></string>
+    <string name="confirm_recommandation_face_not">&lt;Data> Bu kişinin &lt;font color=#323232>&lt;b>%1$s olmadığına emin misiniz?&lt;/Data></string>
+    <string name="confirm_recommandation_multiple_faces_are">&lt;Data> Bu kişilerin &lt;font color=#323232>&lt;b>%1$s olduğuna emin misiniz? Bu kişiler %2$s albümüne taşınacaktır&lt;/Data></string>
+    <string name="confirm_recommandation_multiple_faces_not">&lt;Data> Bu kişilerin &lt;font color=#323232>&lt;b>%1$s olmadığına emin misiniz?&lt;/Data></string>
     <string name="contact_tip">Kişi</string>
     <string name="context_menu_add_contact">Kişilere ekle</string>
     <string name="context_menu_copy">Kopyala</string>
@@ -1022,8 +1023,10 @@
     <string name="create_new_album_failed">Oluşturulamadı</string>
     <string name="create_new_face">Yeni kişi</string>
     <string name="create_quick_icon_on_desk">Kısayol oluştur</string>
-    <string name="creating_baby_album">Albüm oluşturuluyor…</string>
+    <string name="creating_baby_album">Albüm oluşturuluyor</string>
     <string name="crop_label">Kesilen fotoğraflar</string>
+    <string name="cta_agreement_declare">Bir kullanıcı olarak haklarınızı ve verilerinizi nasıl kullandığımızı tam olarak anlamak için bu uygulamayı kullanmadan önce <a href="%1$s">Kullanıcı sözleşmemizi</a> ve <a href="%2$s">Gizlilik politikamızı</a> okuyun ve kabul edin</string>
+    <string name="cta_network_declare">Fotoğrafları ve videoları Xiaomi bulut ile senkronize etmek için bu uygulamanın internete bağlanması gerekiyor</string>
     <string name="custom_select_title_deselect_all">Seçimi kaldır</string>
     <string name="custom_select_title_quickly_share">Paylaş</string>
     <string name="custom_select_title_select_all">Tümünü seç</string>
@@ -1064,6 +1067,8 @@
     <string name="detail_hms">%1$d:%2$02d:%3$02d</string>
     <string name="detail_ms">%1$02d:%2$02d</string>
     <string name="detail_title">Detaylı bilgi</string>
+    <string name="device_list_all">Tüm cihazlar</string>
+    <string name="device_list_more">Daha fazla</string>
     <string name="device_name_with_ellipsize">%1$s</string>
     <string name="device_offline">Diğer cihaz çevrimdışı. Baştan başla</string>
     <string name="device_status_failed">Gönderilemedi</string>
@@ -1095,7 +1100,7 @@
     <string name="download_tip">İndir</string>
     <string name="download_title">Dosyalar hazırlanıyor</string>
     <string name="download_type_origin">Orijinal dosya</string>
-    <string name="download_type_origin_subtitle_china">Original images take up more storage space and can only be downloaded via Wi-Fi</string>
+    <string name="download_type_origin_subtitle_china">Orijinal görüntüler daha fazla depolama alanı kaplar ve yalnızca wifi üzerinden indirilebilir</string>
     <string name="download_type_origin_title">Orijinal</string>
     <string name="download_type_thumbnail">Yüksek kalite</string>
     <string name="download_type_thumbnail_subtitle">Yüksek kaliteli görüntüler orijinal olanlarla neredeyse aynı görünür ancak daha az depolama alanı kaplar</string>
@@ -1303,7 +1308,7 @@ Arkadaşlarınızın daha fazla fotoğraflarını çekin"</string>
     <string name="filter_general_japanese">Boya</string>
     <string name="filter_general_lilt">Hava</string>
     <string name="filter_general_nature">Doğa</string>
-    <string name="filter_general_past">Yore</string>
+    <string name="filter_general_past">Eski</string>
     <string name="filter_general_pink">Pembe</string>
     <string name="filter_general_portrait">Portre</string>
     <string name="filter_general_rise">Yükseliş</string>
@@ -1338,8 +1343,9 @@ Arkadaşlarınızın daha fazla fotoğraflarını çekin"</string>
     <string name="filter_movie_to">T&amp;O</string>
     <string name="filter_movie_wonderful">Mucize</string>
     <string name="filter_original">Hiçbiri</string>
+    <string name="filter_popular_agave">Sabır otu</string>
     <string name="filter_popular_autumn">Sonbahar</string>
-    <string name="filter_popular_blackred">Sangria</string>
+    <string name="filter_popular_blackred">Kanama</string>
     <string name="filter_popular_bluedream">Uyuklama</string>
     <string name="filter_popular_coffee">Kahve</string>
     <string name="filter_popular_coldsmoke">Soğuk sis</string>
@@ -1354,9 +1360,12 @@ Arkadaşlarınızın daha fazla fotoğraflarını çekin"</string>
     <string name="filter_popular_icesnow">Kar yağışı</string>
     <string name="filter_popular_kamakura">Kamakura</string>
     <string name="filter_popular_mango">Mango</string>
+    <string name="filter_popular_navy">Donanma</string>
+    <string name="filter_popular_pearl">İnci</string>
     <string name="filter_popular_pinellia">Pinellia</string>
     <string name="filter_popular_polaroid">Anlık film</string>
     <string name="filter_popular_purple">Mor</string>
+    <string name="filter_popular_retro_powder">Pudra</string>
     <string name="filter_popular_shallow_summer">Haziran</string>
     <string name="filter_popular_summercloud">Akşam yemeği</string>
     <string name="filter_popular_sunset">Akşam</string>
@@ -1366,9 +1375,14 @@ Arkadaşlarınızın daha fazla fotoğraflarını çekin"</string>
     <string name="filter_popular_youth">Juventas</string>
     <string name="filter_portrait_greyish">Kül</string>
     <string name="filter_portrait_hint">Renk</string>
+    <string name="filter_portrait_holiday">Tatil</string>
+    <string name="filter_portrait_light_oxygen">Oksijen</string>
+    <string name="filter_portrait_mint">Mint</string>
     <string name="filter_portrait_mist">Sis</string>
     <string name="filter_portrait_mojito">Mojito</string>
     <string name="filter_portrait_painting">Boyama</string>
+    <string name="filter_portrait_pink_orange">Citrus</string>
+    <string name="filter_portrait_protist">Original</string>
     <string name="filter_single_sky">Gökyüzü</string>
     <string name="filter_sky_bikong">Masmavi</string>
     <string name="filter_sky_chenguang">Şafak</string>
@@ -1514,12 +1528,22 @@ Arkadaşlarınızın daha fazla fotoğraflarını çekin"</string>
     <string name="gif_tip">Gif</string>
     <string name="gigabyteShort">GB</string>
     <string name="grant_permission_go_and_set">Ayarla</string>
+    <string name="grant_permission_go_and_set_2">Ayarlar</string>
+    <string name="grant_permission_go_and_set_3">Ayarlar</string>
     <string name="grant_permission_item">%s</string>
+    <string name="grant_permission_shortcut">Bu uygulamanın önce ana ekran kısayolları oluşturmasına izin verin</string>
+    <string name="grant_permission_storage">Önce bu uygulamanın depolama alanına erişmesine izin verin</string>
+    <string name="grant_permission_storage_unlock">Cihazınızın kilidini açın ve önce bu uygulamanın depolama alanına erişmesine izin verin</string>
     <string name="grant_permission_text">"Galeri normal olarak çalışabilmesi için 
 %s
 erişimine ihtiyaç duyuyor. İzinler menüsüne gitmek için ayarla seçeneğine dokunun"</string>
     <string name="grant_permission_title">Erişime izin ver</string>
     <string name="grant_permission_unlock_and_set">Kilidi aç ve ayarla</string>
+    <string name="grant_permission_unlock_and_set_2">Kilidi aç</string>
+    <string name="grant_permission_write_clipboard">Öğeleri kopyalayabilmek için bu uygulamanın öğeleri panoya kaydetmesine izin verin</string>
+    <string name="group_header_title_immutable_album">Fotoğrafları düzenleyin</string>
+    <string name="group_header_title_third_album">Diğer albümler</string>
+    <string name="group_header_title_user_create_album">Albümlerim</string>
     <string name="has_invalid_recipient">Geçersiz alıcı: %1$s</string>
     <string name="have_known">Anladım</string>
     <string name="heavenly_stems_bing">3</string>
@@ -1538,7 +1562,9 @@ erişimine ihtiyaç duyuyor. İzinler menüsüne gitmek için ayarla seçeneğin
     <string name="hidden_album_display_name">Gizli albüm</string>
     <string name="hisense">Hisense</string>
     <string name="hisense_phone">Hisense</string>
-    <string name="home_menu_art_still">Art</string>
+    <string name="home_menu_all_photos">Tüm öğeleri göster</string>
+    <string name="home_menu_art_still">Sanat</string>
+    <string name="home_menu_camera">Yalnızca kamera öğelerini göster</string>
     <string name="home_menu_cleaner">Temizle</string>
     <string name="home_menu_collage">Kolaj</string>
     <string name="home_menu_id_photo">Kimlik kartı</string>
@@ -1603,6 +1629,8 @@ erişimine ihtiyaç duyuyor. İzinler menüsüne gitmek için ayarla seçeneğin
     <string name="input_or_select_a_name">İsim girin veya bir isim seçin</string>
     <string name="input_relation_name">Grup adı girin</string>
     <string name="install_fail">Eklenti bir hata nedeniyle yüklenemedi</string>
+    <string name="install_media_editor_message">Öğeleri düzenleyebilmek için önce eklentiyi indirin. Şimdi indirilsin mi?</string>
+    <string name="install_media_editor_title">Eklentiyi indir</string>
     <string name="internal_storage_device">Dahili depolama</string>
     <string name="invalid_invition_url">Hatalı davet bağlantı adresi</string>
     <string name="invalid_recipient_message">Girmiş olduğunuz alıcı isimleri geçersiz</string>
@@ -1630,7 +1658,7 @@ erişimine ihtiyaç duyuyor. İzinler menüsüne gitmek için ayarla seçeneğin
     <string name="limit_height">Yükseklik > 0 olmalıdır</string>
     <string name="limit_width">Genişlik > 0 olmalıdır</string>
     <string name="live_photo">Canlı fotoğraf</string>
-    <string name="load_complete">Burada daha fazla öge yok</string>
+    <string name="load_complete">Burada daha fazla öğe yok</string>
     <string name="load_failed">Bilgi yüklenemedi. Yeniden denemek için dokunun</string>
     <string name="load_relations">Yükleniyor</string>
     <string name="loading">Yükleniyor</string>
@@ -1679,11 +1707,11 @@ erişimine ihtiyaç duyuyor. İzinler menüsüne gitmek için ayarla seçeneğin
     <string name="magic_compositing">İşleniyor</string>
     <string name="magic_custom_edit">Düzenle</string>
     <string name="magic_cut_video_no_support_image_edit">Bu format desteklenmiyor</string>
-    <string name="magic_cut_video_no_support_video_edit">"Bu format desteklenmiyor</string>
+    <string name="magic_cut_video_no_support_video_edit">Bu format desteklenmiyor</string>
     <string name="magic_edit_cancel">Çık</string>
     <string name="magic_edit_dsc">Kaydedilmemiş tüm değişiklikler kaybolacak. Yine de çıkılsın mı?</string>
     <string name="magic_effect">Efektler</string>
-    <string name="magic_effect_text">Art</string>
+    <string name="magic_effect_text">Sanat</string>
     <string name="magic_effect_video_text">Video efektleri</string>
     <string name="magic_eraser">Silgi</string>
     <string name="magic_error_adding_filter">Filtre uygulanamadı</string>
@@ -1700,7 +1728,7 @@ erişimine ihtiyaç duyuyor. İzinler menüsüne gitmek için ayarla seçeneğin
     <string name="magic_idp_guide_text2">Düz renkli bir arka plan seçin</string>
     <string name="magic_idp_guide_text3">Yüzünüzün eşit şekilde aydınlatıldığından emin olun</string>
     <string name="magic_idp_guide_text4">Basit kıyafetler giyin ve aksesuarlardan kaçının</string>
-    <string name="magic_idp_guide_text5">"Saçın yüzünüzü kapatmasına, kulaklarınızı göstermesine ve doğrudan kameraya bakmasına izin vermeyin</string>
+    <string name="magic_idp_guide_text5">Saçın yüzünüzü kapatmasına, kulaklarınızı göstermesine ve doğrudan kameraya bakmasına izin vermeyin</string>
     <string name="magic_idp_save_type">Sonuçları kaydet</string>
     <string name="magic_idp_search_size">Biçimleri ara</string>
     <string name="magic_idp_search_text">Anahtar kelimeleri, boyutu veya çözünürlüğü girin</string>
@@ -1729,7 +1757,7 @@ erişimine ihtiyaç duyuyor. İzinler menüsüne gitmek için ayarla seçeneğin
     <string name="magic_no_human_face">İnsan bulunamadı</string>
     <string name="magic_ok">Tamam</string>
     <string name="magic_preview_1">Bir fotoğraf</string>
-    <string name="magic_protrait_art">Art</string>
+    <string name="magic_protrait_art">Sanat</string>
     <string name="magic_protrait_art_dsc">Son teknoloji efektlerimizi deneyin</string>
     <string name="magic_recycler_empty_msg">Sonuçlar bulunamadı</string>
     <string name="magic_save">Kaydet</string>
@@ -1763,6 +1791,21 @@ erişimine ihtiyaç duyuyor. İzinler menüsüne gitmek için ayarla seçeneğin
     <string name="main_save_origin">Orijinal dosyayı kaydet</string>
     <string name="manual_hide_manage">.nomedia dosyasını ekle</string>
     <string name="manual_hide_state">.nomedia dosyası başarıyla eklendi</string>
+    <string name="map_album">Harita</string>
+    <string name="map_album_detail_page_title">Konum</string>
+    <string name="map_common_download_failed_for_network_msg">@string/magic_matting_download_failed_for_notwork</string>
+    <string name="map_common_download_failed_msg">@string/art_still_download_failed_for_notwork</string>
+    <string name="map_common_library_loading_msg">@string/loading</string>
+    <string name="map_enable_position_service_message">Fotoğrafları ve videoları haritada görüntülemek için önce konum servislerini açın</string>
+    <string name="map_enable_position_service_title">Konum hizmetlerini aç</string>
+    <string name="map_grant_position_permission_after_declined_twice_message">Fotoğrafları ve videoları haritada görüntülemek için önce galerinin konumunuza erişmesine izin verin</string>
+    <string name="map_grant_position_permission_subtitle">Yakındaki fotoğrafları ve videoları haritada göstermek için</string>
+    <string name="map_guide_message">Fotoğraflarınızı ve videolarınızı haritada görüntüleyin</string>
+    <string name="map_positioning_failed_tip">Zayıf sinyal nedeniyle konum bilgisi alınamıyor</string>
+    <string name="map_privacy_dialog_message">Bu hizmet bir harita üzerinde konum bilgisine sahip fotoğrafları ve videoları görüntülemenizi sağlar. Size bu hizmeti sağlamak için Baidu Map Open SDK kullanıyoruz. Daha fazla bilgi edinmek için açık platform ürünleri ve hizmetleri için <a href="%1$s">Baidu haritası gizlilik politikasını</a> okuyun</string>
+    <string name="map_privacy_dialog_title">Galeri haritası</string>
+    <string name="map_privacy_policy">Galeri haritası gizlilik politikası</string>
+    <string name="map_privacy_policy_1">Gizlilik politikası</string>
     <string name="mark_myself_default_name">Ben</string>
     <string name="mark_myself_suggestion_load_more">O ben değilim</string>
     <string name="mark_myself_suggestion_title">"Kişiselleştirmek için
@@ -1795,15 +1838,23 @@ yüzünüzle fotoğrafları seçin"</string>
     <string name="mi_10i">Mi 10I</string>
     <string name="mi_10t">Mi 10T</string>
     <string name="mi_10t_lite">Mi 10T Lite</string>
+    <string name="mi_11i">Mi 11i</string>
+    <string name="mi_11x">Mi 11X</string>
+    <string name="mi_11x_pro">Mi 11X Pro</string>
     <string name="mi_9_lite">Mi 9 Lite</string>
     <string name="mi_9t">Mi 9T</string>
     <string name="mi_9t_pro">Mi 9T Pro</string>
     <string name="mi_drop">Mi paylaşım</string>
     <string name="mi_mover_working_desc">Öğeler aktarılıyor</string>
     <string name="mi_note_10">Mi Note 10</string>
+    <string name="mi_pad_5">Xiaomi Pad 5</string>
+    <string name="mi_pad_5_pro">Xiaomi Pad 5 Pro</string>
+    <string name="mi_pad_5_pro_5g">Xiaomi Pad 5 Pro 5G</string>
     <string name="micloud_introduce">Fotoğraf ve videoları otomatik olarak yedekleyin (Mi hesabı gerekmektedir)</string>
     <string name="midnight">Gece</string>
     <string name="mishare_all_devices">Tüm cihazlar</string>
+    <string name="miuix_access_state_desc">Seçildi</string>
+    <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Seçimi kaldır</string>
     <string name="miuix_appcompat_action_mode_select_all">Tümünü seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Öğeleri seç</string>
@@ -1818,6 +1869,7 @@ yüzünüzle fotoğrafları seçin"</string>
     <string name="miuix_appcompat_select_all">Tümünü seç</string>
     <string name="miuix_appcompat_select_all_description">Tümünü seç</string>
     <string name="miuix_appcompat_select_item">Öğeleri seç</string>
+    <string name="miuix_indexer_selected">%s seçildi</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için çek</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Yenileme tamamlandı</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor</string>
@@ -1942,7 +1994,7 @@ yüzünüzle fotoğrafları seçin"</string>
     <string name="movie_template_dull3">Güzellik</string>
     <string name="movie_template_food">Gıda</string>
     <string name="movie_template_new_year">Yeni yıl</string>
-    <string name="movie_template_none">None</string>
+    <string name="movie_template_none">Hiçbiri</string>
     <string name="movie_template_normal">Melodi</string>
     <string name="movie_template_party">Parti</string>
     <string name="movie_template_pet">Pençe</string>
@@ -1962,9 +2014,9 @@ yüzünüzle fotoğrafları seçin"</string>
     <string name="need_to_turn_on_network">Cihaz internete bağlı değil</string>
     <string name="need_to_turn_on_sync">Mi bulut ile senkronizasyon özelliğini açın</string>
     <string name="need_to_turn_on_sync_first">Öncelikle Mi bulut ile senkronizasyon özelliğini açın</string>
-    <string name="need_to_turn_on_wlan">Öncelikle Wifi ağına bağlanın</string>
+    <string name="need_to_turn_on_wlan">Öncelikle wifi ağına bağlanın</string>
     <string name="network_connected_rescan">Ağa bağlanılamıyor</string>
-    <string name="network_message">Bu özelliğin normal çalışması için ağa bağlanması gerekir. Görünüşe göre bu cihaz kablosuz ağa bağlı değil. Devam etmek için mobil veri kullanılsın mı? Mobil verileri kullanmak ek operatör ücretleri oluşturabilir"</string>
+    <string name="network_message">Bu özelliğin normal çalışması için ağa bağlanması gerekir. Görünüşe göre bu cihaz kablosuz ağa bağlı değil. Devam etmek için mobil veri kullanılsın mı? Mobil verileri kullanmak ek operatör ücretleri oluşturabilir\"</string>
     <string name="network_title">Ağa bağlanın</string>
     <string name="new_album_invalid_byte">Bu isim çok uzun</string>
     <string name="new_album_invalid_char">İsimler %s karakterini içermemelidir. Bir harf veya rakam girin</string>
@@ -2039,7 +2091,7 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="operation_delete_all_albums_from_rubbish_page_tip">Albümleri sildikten sonra geri yükleyemezsiniz. Yine de silinsin mi?</string>
     <string name="operation_detail">Ayrıntılar</string>
     <string name="operation_disable_auto_upload">Mi bulut ile senkronizasyon özelliğini kapat</string>
-    <string name="operation_doc_correction">Adjust</string>
+    <string name="operation_doc_correction">Ayarla</string>
     <string name="operation_download">Orijinal öğeyi indir (%s)</string>
     <string name="operation_edit">Düzenle</string>
     <string name="operation_edit_video">Düzenle</string>
@@ -2093,14 +2145,15 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="oppo_phone">OPPO</string>
     <string name="orientation_lock_tip">Otomatik döndürme kapalı</string>
     <string name="orientation_unlock_tip">Otomatik döndürme açık</string>
-    <string name="origin_gif_name">orijinal dosya</string>
-    <string name="origin_image_name">orijinal dosya</string>
+    <string name="origin_gif_name">Orijinal dosya</string>
+    <string name="origin_image_name">Orijinal dosya</string>
     <string name="origin_video_name">video</string>
     <string name="other_album">Diğer albümler</string>
     <string name="other_album_operation_move_to_rubbish_albums">Çöp kutusuna taşı</string>
     <string name="other_album_operation_remove_from_other_albums">Kaldır</string>
     <string name="other_settings">Ek ayarlar</string>
     <string name="owner_album_subtitle">%1$s kişi ile paylaşıldı</string>
+    <string name="pad_device_model_name">Xiaomi Pad</string>
     <string name="pc_device_model_name">Bilgisayar</string>
     <string name="people_album_empty_title">Fotoğraflar fotoğraflardaki kişilere göre sıralanabilir</string>
     <string name="people_jump_failed">Kişiler ile çekildiğiniz fotoğraflar Mi bulut ile senkronize olana kadar bekleyin ve tekrar deneyin</string>
@@ -2109,14 +2162,22 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="people_page_label">Kişiler</string>
     <string name="people_page_unname">Adsız</string>
     <string name="percent_sign">%</string>
+    <string name="permission_account_desc">Oturum açmak ve sistem hesabını yönetmek için</string>
+    <string name="permission_account_name">Hesaplara erişim</string>
+    <string name="permission_clipboard_desc">Öğelere erişmek ve panoya kaydetmek için</string>
+    <string name="permission_clipboard_name">Öğelere erişin veya panoya kaydedin</string>
     <string name="permission_contacts_desc">Fotoğraflardaki kişilere kişi atamak için</string>
+    <string name="permission_contacts_desc_2">Fotoğraflardaki kişileri kişilerle ilişkilendirmek için</string>
     <string name="permission_contacts_name">Kişiler</string>
+    <string name="permission_contacts_name_2">Kişilere erişim</string>
     <string name="permission_optional_category">İsteğe bağlı izinler</string>
     <string name="permission_phone_desc">Cihaz kimliğine dayalı ağ istekleri için</string>
     <string name="permission_phone_name">Telefon</string>
     <string name="permission_require_category">Zorunlu izinler</string>
     <string name="permission_storage_desc">Fotoğrafları görüntülemek, düzenlemek ve kaydetmek için</string>
+    <string name="permission_storage_desc_2">@string/permission_storage_desc</string>
     <string name="permission_storage_name">Depolama</string>
+    <string name="permission_storage_name_2">Cihazdaki fotoğraflara ve dosyalara erişin ve kaydedin</string>
     <string name="permission_use_desc">İzinler</string>
     <string name="pet_album_display_name">Evcil hayvan fotoğrafları</string>
     <string name="petabyteShort">PB</string>
@@ -2129,7 +2190,7 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="photo_editor_common_download_failed">Eklenti indirilemedi. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
     <string name="photo_editor_common_download_failed_msg">@string/filter_sky_download_failed_msg</string>
     <string name="photo_editor_common_download_finish">Eklenti başarıyla indirildi</string>
-    <string name="photo_editor_common_download_sdk_without_wifi_msg">"Wifi ağına bağlı olmadığınız anlaşılıyor. Eklenti mobil veri kullanarak indirilsin mi?" (%1$d MB)</string>
+    <string name="photo_editor_common_download_sdk_without_wifi_msg">Wifi ağına bağlı olmadığınız anlaşılıyor. Eklenti mobil veri kullanarak indirilsin mi? (%1$d MB)</string>
     <string name="photo_editor_common_download_sdk_without_wifi_title">Eklentiyi indir</string>
     <string name="photo_editor_compare_tip">Orijinal resmi görüntülemek için basılı tutun</string>
     <string name="photo_editor_crop_and_rotate">Kırp</string>
@@ -2177,8 +2238,8 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="photo_editor_navigator_need_download">%s indirmek için internete bağlanın</string>
     <string name="photo_editor_navigator_sticker_download_failed">İndirilemedi. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
     <string name="photo_editor_navigator_sticker_download_success">Başarıyla indirildi</string>
-    <string name="photo_editor_navigator_sticker_download_without_wifi_msg">"Görünüşe göre wifi ağına bağlı değilsiniz. Eklentiyi indirmek için %1$d MB mobil veri kullanılsın mı?"</string>
-    <string name="photo_editor_navigator_sticker_download_without_wifi_msg_china">"Görünüşe göre wifi ağına bağlı değilsiniz. Eklentiyi indirmek için %1$d MB mobil veri kullanılsın mı?"</string>
+    <string name="photo_editor_navigator_sticker_download_without_wifi_msg">Görünüşe göre wifi ağına bağlı değilsiniz. Eklentiyi indirmek için %1$d MB mobil veri kullanılsın mı?</string>
+    <string name="photo_editor_navigator_sticker_download_without_wifi_msg_china">Görünüşe göre wifi ağına bağlı değilsiniz. Eklentiyi indirmek için %1$d MB mobil veri kullanılsın mı?</string>
     <string name="photo_editor_navigator_sticker_download_without_wifi_title">Eklentiyi indir</string>
     <string name="photo_editor_remove_watermark">Filigranı kaldır</string>
     <string name="photo_editor_remove_watermark_on">Filigran ekle</string>
@@ -2260,8 +2321,11 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="photo_print_menu_loading">Eklenti yükleniyor</string>
     <string name="photo_print_package_finish">Başarıyla yüklendi</string>
     <string name="photo_print_package_installing">Eklenti yükleniyor</string>
+    <string name="photo_purge_dialog_message_cloud">Selected items will be permanently deleted from the cloud and all synced devices. Delete anyway?</string>
     <string name="photo_purge_dialog_message_image">Öğeleri silerseniz geri yükleyemezsiniz. Yine de silinsin mi?</string>
+    <string name="photo_purge_dialog_message_local">Seçilen öğeler kalıcı olarak silinecek. Yine de silinsin mi?</string>
     <string name="photo_purge_dialog_message_video">Öğeleri silerseniz geri yükleyemezsiniz. Yine de silinsin mi?</string>
+    <string name="photo_purge_dialog_title">Seçili öğeleri sil</string>
     <string name="photo_save_to_msg">%s kaydedildi</string>
     <string name="photo_size_not_support">Bu çözünürlük desteklenmiyor</string>
     <string name="photo_video_count">%1$s ve %2$s</string>
@@ -2374,8 +2438,15 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="redmi_k20_pro">Redmi K20 Pro</string>
     <string name="redmi_k30">Redmi K30</string>
     <string name="redmi_k30_5g">Redmi K30 5G</string>
+    <string name="redmi_k30_pro">Redmi K30 Pro</string>
     <string name="redmi_k30_ultra">Redmi K30 Ultra</string>
     <string name="redmi_k30s">Redmi K30S Ultra</string>
+    <string name="redmi_k40">Redmi K40</string>
+    <string name="redmi_k40_g">Redmi K40 Gaming Edition</string>
+    <string name="redmi_k40_pro">Redmi K40 Pro</string>
+    <string name="redmi_note_10">Redmi Note 10</string>
+    <string name="redmi_note_10_lite">Redmi Note 10 Lite</string>
+    <string name="redmi_note_10_pro">Redmi Note 10 Pro</string>
     <string name="redmi_note_5">Redmi Note 5</string>
     <string name="redmi_note_6_pro">Redmi Note 6 Pro</string>
     <string name="redmi_note_7">Redmi Note 7</string>
@@ -2484,7 +2555,7 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="screen_talkback_mosaic">Mozaik</string>
     <string name="screen_talkback_mosaic_size_x">Mozaik alanı: %s</string>
     <string name="screen_talkback_pen">Kalem</string>
-    <string name="screen_talkback_row_x_column_x">"%1$d. satır. - %2$d. konum"</string>
+    <string name="screen_talkback_row_x_column_x">%1$d. satır. - %2$d. konum</string>
     <string name="screen_talkback_shape">Şekil</string>
     <string name="screen_talkback_small">Çok küçük</string>
     <string name="screen_talkback_text">Metin</string>
@@ -2657,8 +2728,8 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="slim_cost_time_second">%d saniye kaldı</string>
     <string name="slim_description_dialog_detail">Yerel fotoğrafların dosya boyutunu düşürür. Orijinal dosyalar Mi bulut alanında saklanır</string>
     <string name="slim_description_dialog_ok">Anladım</string>
-    <string name="slim_description_dialog_slim_after">"Sonra:  167KB"</string>
-    <string name="slim_description_dialog_slim_before">"Önce:  3.07MB"</string>
+    <string name="slim_description_dialog_slim_after">"Sonra:  %d KB"</string>
+    <string name="slim_description_dialog_slim_before">"Önce:  %.2f MB"</string>
     <string name="slim_dialog_empty_message">Optimize edilecek öğeler bulunamadı</string>
     <string name="slim_dialog_empty_positive">Anladım</string>
     <string name="slim_dialog_empty_title">Dikkat</string>
@@ -3032,6 +3103,9 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="trash_menu_delete">Sil</string>
     <string name="trash_menu_recovery">Geri yükle</string>
     <string name="trash_purge_all">Tüm fotoğraflar ve videolar buluttan silinecek. Onları geri yükleyemezsin. Yine de silinsin mi?</string>
+    <string name="trash_purge_all_cloud">Çöp kutusundaki tüm öğeler buluttan ve tüm senkronize edilmiş cihazlardan kalıcı olarak silinecek. Yine de silinsin mi?</string>
+    <string name="trash_purge_all_local">Çöp kutusundaki tüm öğeler kalıcı olarak silinecek. Yine de silinsin mi?</string>
+    <string name="trash_purge_dialog_title">Çöpü temizle</string>
     <string name="trash_purge_positive_button">Sil</string>
     <string name="trash_size">Silinebilir öğe (%s)</string>
     <string name="trash_vip_button_login">Uzat</string>
@@ -3267,7 +3341,7 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="vlog_clip_sort">Videoları yeniden düzenle</string>
     <string name="vlog_clip_zoom">Önizlemedeki kare sayısını artırmak veya azaltmak için iki parmağınızı kullanın</string>
     <string name="vlog_cloud_file_download">Buluttaki öğeler</string>
-    <string name="vlog_download">İndir</string>
+    <string name="vlog_download_btn">İndir</string>
     <string name="vlog_download_cloud_file_retry">Buluttan öğeler indirilemedi. Tekrar deneyin</string>
     <string name="vlog_download_cloud_file_without_wifi_msg">Kablosuz ağa bağlanılamadı. Mobil verileri kullanarak buluttaki öğeleri de indirebilirsiniz (%s)</string>
     <string name="vlog_download_fail">İndirilemedi. Ağ ayarlarınızı kontrol edip tekrar deneyin</string>
@@ -3432,6 +3506,8 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="vlog_video_trans_code_cons">Yüksek çözünürlüklü bir dosya işleniyor</string>
     <string name="voice_assistant">Ses girişi</string>
     <string name="watch_all_photo">Galeri</string>
+    <string name="wave_path_1">M120,40 A80,80,0,0,1,120,200 A80,80,0,0,1,120,40</string>
+    <string name="wave_path_2">M120,0 A120,120,0,0,1,120,240 A120,120,0,0,1,120,0</string>
     <string name="web_sso_login_fail">Tekrar oturum açmanız gerekiyor</string>
     <string name="web_sso_login_message">Oturum açılıyor</string>
     <string name="webview_reload">Tekrar dene</string>
@@ -3465,6 +3541,8 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="xiaomi_10_pro">Mi 10 Pro</string>
     <string name="xiaomi_10_ultra">Mi 10 Ultra</string>
     <string name="xiaomi_11">Mi 11</string>
+    <string name="xiaomi_11_pro">Mi 11 Pro</string>
+    <string name="xiaomi_11_ultra">Mi 11 Ultra</string>
     <string name="xiaomi_6">Mi 6</string>
     <string name="xiaomi_6x">Mi 6X</string>
     <string name="xiaomi_8">Mi 8</string>
@@ -3485,14 +3563,20 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="xiaomi_mix_2s">Mi MIX 2S</string>
     <string name="xiaomi_mix_3">Mi MIX 3</string>
     <string name="xiaomi_mix_3_5g">Mi MIX 3 5G</string>
+    <string name="xiaomi_mix_4">Xiaomi MIX 4</string>
     <string name="xiaomi_mix_alpha">Mi MIX Alpha</string>
+    <string name="xiaomi_mix_fold">Mi MIX FOLD</string>
     <string name="xiaomi_note_10_lite">Mi Note 10 Lite</string>
     <string name="xiaomi_note_3">Mi Note 3</string>
     <string name="xiaomi_phone">Xiaomi</string>
     <string name="xiaomi_poco_f1">POCO F1</string>
+    <string name="xiaomi_poco_f2_pro">POCO F2 Pro</string>
+    <string name="xiaomi_poco_f3">POCO F3</string>
+    <string name="xiaomi_poco_f3_gt">POCO F3 GT</string>
     <string name="xiaomi_poco_m2">POCO M2</string>
     <string name="xiaomi_poco_m2_pro">POCO M2 Pro</string>
     <string name="xiaomi_poco_x3">POCO X3</string>
+    <string name="xiaomi_poco_x3_gt">POCO X3 GT</string>
     <string name="yes">Evet</string>
     <string name="yesterday">Dün</string>
     <string name="you_are">Senin bebeğin</string>
