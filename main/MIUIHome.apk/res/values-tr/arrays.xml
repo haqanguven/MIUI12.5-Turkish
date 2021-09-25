@@ -474,8 +474,9 @@
         <item>Klasik bileşenler</item>
     </string-array>
     <string-array name="widget_component_add_way">
-        <item>Seçiciden sürükleyin</item>
-        <item>Seçici ayrıntıları sayfası ekle düğmesi</item>
+        <item>从picker详情页拖拽</item>
+        <item>picker详情页添加按钮</item>
+        <item>从picker首页拖拽</item>
     </string-array>
     <string-array name="widget_component_default_source">
         <item>Varsayılan olmayan</item>

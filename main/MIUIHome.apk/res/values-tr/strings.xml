@@ -469,6 +469,7 @@
     <string name="gadget_weather_title">Hava durumu</string>
     <string name="gadget_weather_title_14">Hava durumu</string>
     <string name="gadget_weather_title_24">Hava durumu</string>
+    <string name="garbage_count">%1$s eski örnek var</string>
     <string name="global_search_hint">Ara</string>
     <string name="group_folder">Yeni klasör</string>
     <string name="group_live_folders">Klasörler</string>
@@ -541,6 +542,7 @@
     <string name="memory_clear_result">%1$sB temizlendi</string>
     <string name="memory_clear_result_giga">%1$sGB temizlendi</string>
     <string name="memory_clear_result_mega">%1$sMB temizlendi</string>
+    <string name="memory_leak">Bellek sızıntısı</string>
     <string name="menu_add">Ekle</string>
     <string name="menu_auto_fill_of_uninstall">Hücreleri otomatik doldur</string>
     <string name="menu_back_desktop">Ana ekrana dön</string>
@@ -681,6 +683,7 @@
     <string name="noon">Gün ortası</string>
     <string name="normal_wallpaper">Duvar kağıdı</string>
     <string name="not_set">Ayarlanmadı</string>
+    <string name="notification_channel_alerts">Uyarılar</string>
     <string name="notification_installed">Başarıyla yüklendi</string>
     <string name="notification_open_button">Aç</string>
     <string name="notification_reset_title">Simgeler başarıyla düzenlendi</string>

@@ -3099,7 +3099,7 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="trash_bin_key_word">Silinen fotoğraflar</string>
     <string name="trash_bin_summary">Son zamanlarda silinmiş olan fotoğraflarınızı yedeklenen bölümünden görüntüleyin</string>
     <string name="trash_bin_summary_local">Son silinen fotoğrafları ve videoları görüntüleme</string>
-    <string name="trash_empty">Burada ürün yok</string>
+    <string name="trash_empty">Burada öğe yok</string>
     <string name="trash_menu_delete">Sil</string>
     <string name="trash_menu_recovery">Geri yükle</string>
     <string name="trash_purge_all">Tüm fotoğraflar ve videolar buluttan silinecek. Onları geri yükleyemezsin. Yine de silinsin mi?</string>
@@ -3525,7 +3525,7 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="widget_editor_title">Düzenle</string>
     <string name="widget_label_custom">Fotoğraflar</string>
     <string name="widget_label_recommend">Anılar</string>
-    <string name="widget_recommend_default_description_no_story">Burada henüz anı yok</string>
+    <string name="widget_recommend_default_description_no_story">Burada anı yok</string>
     <string name="widget_recommend_default_description_open_story">Anıları açmak için dokunun</string>
     <string name="widget_recommend_default_description_shop">En parlak anlarınızı tekrar ziyaret edin</string>
     <string name="widget_recommend_default_example">Deneme</string>

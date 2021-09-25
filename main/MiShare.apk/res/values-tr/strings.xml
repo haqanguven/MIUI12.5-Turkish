@@ -300,7 +300,7 @@
     <string name="mi_9_lite">Mi 9 Lite</string>
     <string name="mi_9t">Mi 9T</string>
     <string name="mi_9t_pro">Mi 9T Pro</string>
-    <string name="mi_drop">Mi Share</string>
+    <string name="mi_drop">Mi paylaşım</string>
     <string name="mi_note_10">Mi Note 10</string>
     <string name="mi_pad_5">Xiaomi Pad 5</string>
     <string name="mi_pad_5_pro">Xiaomi Pad 5 Pro</string>
@@ -566,7 +566,7 @@ Dosya paylaşımını kullanmadan önce aşağıdaki gerekli izinleri vermeniz v
     <string name="tomorrow">Yarın</string>
     <string name="transfer_intercept_to_remote">Gönderilemedi: %1$s</string>
     <string name="transfer_to_pc_summary">Öğeleri doğrudan Mi Notebooklara göndermek için dosya paylaşımını kullanabilirsiniz. Diğer dizüstü bilgisayarlara önce dosya paylaşımı uygulamasını yüklemelisiniz</string>
-    <string name="transfer_to_pc_summary_new"><Data>"Mi Notebook'larda yüklü olan en son MIUI+ sürümü Mi Share ile uyumludur. MIUI+ internet sitesinde desteklenen dizüstü bilgisayar modellerinin listesini kontrol edebilirsiniz. (&lt;a href=%1$s>%2$s&lt;/a>). Dizüstü bilgisayarınız listedeyse ancak MIUI+ yüklü değilse dizüstü bilgisayarınızın BIOS'unu ve ağ bağdaştırıcı sürücüsünü güncelleyin ve MIUI+'yı indirin"</Data></string>
+    <string name="transfer_to_pc_summary_new"><Data>"Mi Notebook'larda yüklü olan en son MIUI+ sürümü Mi paylaşım ile uyumludur. MIUI+ internet sitesinde desteklenen dizüstü bilgisayar modellerinin listesini kontrol edebilirsiniz. (&lt;a href=%1$s>%2$s&lt;/a>). Dizüstü bilgisayarınız listedeyse ancak MIUI+ yüklü değilse dizüstü bilgisayarınızın BIOS'unu ve ağ bağdaştırıcı sürücüsünü güncelleyin ve MIUI+'yı indirin"</Data></string>
     <string name="transfer_to_pc_title">Dosyaları bilgisayarlara gönder</string>
     <string name="transfer_to_phone_summary">Fotoğrafları ve dosyaları yakındaki Mi telefonlara ve diğer uyumlu Android cihazlarına göndermenize olanak sağlar</string>
     <string name="transfer_to_phone_title">Dosyaları telefonlara gönder</string>
@@ -579,8 +579,8 @@ Dosya paylaşımını kullanmadan önce aşağıdaki gerekli izinleri vermeniz v
     <string name="unrecognized_manufacture">Bilinmeyen</string>
     <string name="unrecognized_model">Bilinmeyen cihaz</string>
     <string name="user_instructions">Uyarı</string>
-    <string name="uwb_guide_summary_1">"Hedef cihazı bulamazsanız diğer kişiden kontrol merkezinde Mi Share geçişine dokunmasını isteyin"</string>
-    <string name="uwb_guide_title_1">"Diğer kişiden Mi Share'i açmasını isteyin"</string>
+    <string name="uwb_guide_summary_1">"Hedef cihazı bulamazsanız diğer kişiden kontrol merkezinde Mi paylaşım geçişine dokunmasını isteyin"</string>
+    <string name="uwb_guide_title_1">"Diğer kişiden Mi paylaşım'ı açmasını isteyin"</string>
     <string name="uwb_guide_title_2">Işın ile hedef cihazı daha hızlı bulun</string>
     <string name="uwb_setting_guide">Daha fazla bilgi</string>
     <string name="uwb_setting_guide_summary">Işın hedef cihazları kablosuz olarak tanımak için UWB teknolojisini kullanır. Hedef cihaz tanındığında simgesi ön plana çıkacaktır</string>

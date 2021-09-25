@@ -601,6 +601,7 @@ Bu özelliği kullanmadan önce "<a href="%1$s">Kullanıcı Sözleşmesi</a> ve 
     <string name="title_activity_permission">İzin etkinliği</string>
     <string name="toast_guide_show_more">Daha fazla bilgi edinin</string>
     <string name="toast_guide_title">Yeni özelliklerimizi burada keşfedin</string>
+    <string name="toast_invisible_mode">Gizlisin. Şu anda yayın kullanamazsınız</string>
     <string name="toast_msg_for_multi_window">Bu özellik, Ekran bölme ile birlikte kullanılamaz</string>
     <string name="toast_msg_for_small_window">Yansıtma işlemini bölmeden cihazınızdaki diğer özellikleri kullanabilmek için yansıtılan pencereyi küçültebilirsiniz</string>
     <string name="toast_nfc_dont_move">Telefonunuzu uzaklaştırmayın</string>

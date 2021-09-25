@@ -204,6 +204,7 @@
     <string name="content_desc_activity_main_add_city">Şehir ekle</string>
     <string name="content_desc_activity_main_add_city_manage">Şehirleri yönet</string>
     <string name="content_desc_activity_main_more_settings">Daha fazla ayar</string>
+    <string name="content_desc_activity_main_page">Sayfa %1$d/%2$d</string>
     <string name="content_desc_back_button">Geri</string>
     <string name="content_desc_city_manage_del">Sil</string>
     <string name="content_desc_city_manage_edit">Düzenle</string>
@@ -423,6 +424,7 @@ Konumu el ile değiştirmek veya şehir seçmek için dokunun"</string>
     <string name="manager_city_option_add_city_title">Başarıyla eklendi</string>
     <string name="manager_city_option_add_home">Başlangıç sayfasına ekle</string>
     <string name="manager_city_option_view_on_home">Başlangıç sayfasında görüntüle</string>
+    <string name="marketSdkVersion">3.2.9</string>
     <string name="menu_location">Konumlar</string>
     <string name="menu_speaker">Sesli yayın</string>
     <string name="midnight">Gece</string>
@@ -772,6 +774,9 @@ aç"</string>
     <string name="wind_direction_no_data">Rüzgar</string>
     <string name="wind_power_unit_default">0</string>
     <string name="wind_unit">%1$skm/h</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Şimdi değil</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Güncelle</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Bir güncelleme mevcut</string>
     <string name="xiaomi_weather_description_content">Hava durumu uygulaması size mümkün olan en doğru hava durumu bilgilerini sunar. Bu uygulama olmadan durum çubuğu ve ana ekranınızdaki hava durumu aracı düzgün çalışmayacaktır. Uygulamayı kaldırmadan önce uygulamaya gerçekten ihtiyacınız olmadığından emin olun</string>
     <string name="xiaomi_weather_description_title">Hava durumu hakkında</string>
     <string name="yes_vote_ratio">%%%1$s için</string>
