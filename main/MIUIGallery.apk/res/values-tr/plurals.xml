@@ -544,9 +544,17 @@
         <item quantity="other">%1$s, %2$s öğe</item>
         <item quantity="one">%1$s, %2$s öğe</item>
     </plurals>
+    <plurals name="trash_purge_dialog_message_cloud">
+        <item quantity="other">%d seçili öğe buluttan ve tüm senkronize edilmiş cihazlardan kalıcı olarak silinecek. Yine de silinsin mi?</item>
+        <item quantity="one">%d seçili öğe buluttan ve tüm senkronize edilmiş cihazlardan kalıcı olarak silinecek. Yine de silinsin mi?</item>
+    </plurals>
     <plurals name="trash_purge_dialog_message_image">
         <item quantity="other">%d seçili öğelerini silerseniz geri yükleyemezsiniz. Yine de silinsin mi?</item>
         <item quantity="one">%d seçili öğelerini silerseniz geri yükleyemezsiniz. Yine de silinsin mi?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_local">
+        <item quantity="other">%d seçili öğe kalıcı olarak silinecek. Yine de silinsin mi?</item>
+        <item quantity="one">%d seçili öğe kalıcı olarak silinecek. Yine de silinsin mi?</item>
     </plurals>
     <plurals name="trash_purge_dialog_message_media">
         <item quantity="other">%d seçili öğelerini silerseniz geri yükleyemezsiniz. Yine de silinsin mi?</item>

@@ -165,6 +165,7 @@
     <string name="bh_pay_success_desc">Bakiyeniz gecikmeli olarak yatırılabilir</string>
     <string name="bh_perm_ask_read_contacts">Önce Mi taşıyıcı hizmetlerinin kişilerinize erişmesine izin verin</string>
     <string name="bh_perm_desc_read_contacts">Yükleme sırasında kişileri görüntülemek için</string>
+    <string name="bh_permission_contact_desc">Kişilerinizin bakiyesini doldurmak için</string>
     <string name="bh_permission_get_accounts_desc">Sipariş vermek ve durumlarını kontrol etmek için</string>
     <string name="bh_permission_read_call_log_desc">Arama süresini görüntülemek için</string>
     <string name="bh_permission_read_phone_state_desc">Telefon numaralarını ve ilgili operatör bilgilerini görüntülemek için</string>
@@ -1027,7 +1028,6 @@ Neden: %s"</string>
     <string name="people">Kişiler</string>
     <string name="permission_access_fine_location_desc">Yerel ağ sinyalini iyileştirmek için</string>
     <string name="permission_camera_desc">Kimlik doğrulama sırasında fotoğraf çekmek için</string>
-    <string name="permission_contact_desc">Kişilerinizin bakiyesini doldurmak için</string>
     <string name="permission_dailog_positive_button">Git</string>
     <string name="permission_dailog_title">İzinler gerekli</string>
     <string name="permission_record_audio_desc">Kimlik doğrulama sırasında sesinizi kullanmak için</string>
@@ -1405,7 +1405,7 @@ Başlamak için ekranınızın altındaki birleştir simgesine dokunun"</string>
     <string name="unknown_details_add_to_contact">Mevcut</string>
     <string name="unknown_details_new_contact">Yeni</string>
     <string name="update_sim_contact_photo_toast">Sim kartta kayıtlı kişiler için profil fotoğrafı ayarlanamıyor</string>
-    <string name="upgrade_in_progress">Kişi listesi güncellenmektedir</string>
+    <string name="upgrade_in_progress">Kişi listesi güncelleniyor</string>
     <string name="upgrade_out_of_memory">"Kişi listesi güncelleme işlemi sürecindedir
 
 Güncelleme işlemi dahili depolama biriminde yaklaşık olarak %s MB boş alana ihtiyaç duyar

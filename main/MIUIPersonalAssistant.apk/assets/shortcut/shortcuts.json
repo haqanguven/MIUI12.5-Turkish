@@ -1,0 +1,160 @@
+{
+  "version":42,
+  "default2x2":["131","10","51"],
+  "default4x2":["131","10","51"],
+  "data": [
+    {
+      "title": "Utilities",
+      "array": [
+        {
+         "id":"130",
+         "uri":"intent:#Intent;action=miui.intent.action.GARBAGE_CLEANUP;category=android.intent.category.DEFAULT;launchFlags=0x10000000;component=com.miui.cleanmaster/com.miui.optimizecenter.MainActivity;end",
+         "icon":"https://cdn.cnbj1.fds.api.mi-img.com/shortcut-widget/shortcut-icon/system-cleaner.png",
+         "name":"Cleaner",
+         "title":"Cleaner",
+         "action":"deeplink",
+         "packageName":"com.miui.cleanmaster",
+         "type":"shortcut",
+         "subtitle":"Security"
+        },
+        {
+          "title": "Clear memory",
+		  "name": "Clear memory",
+          "subtitle": "Security",
+          "icon": "https://cdn.cnbj1.fds.api.mi-img.com/shortcut-widget/shortcut-icon/system-memory-cleaning.png",
+          "packageName": "com.miui.securitycenter",
+          "id": "131",
+          "category": 1,
+          "type":"shortcut",
+          "action": "local"
+        },
+        {
+          "title": "Note",
+		  "name": "Note",
+          "subtitle": "Note",
+          "icon": "https://cdn.cnbj1.fds.api.mi-img.com/shortcut-widget/shortcut-icon/system-note.png",
+          "packageName": "com.miui.notes",
+          "uri": "intent:#Intent;action=android.intent.action.INSERT_OR_EDIT;launchFlags=0x10000000;component=com.miui.notes/.ui.NotesListActivity;end",
+          "id": "20",
+          "category": 1,
+          "type":"shortcut",
+          "action": "deeplink"
+        },
+        {
+          "title": "Currency",
+		  "name": "Currency",
+          "subtitle": "Calculator",
+          "icon": "https://cdn.cnbj1.fds.api.mi-img.com/shortcut-widget/shortcut-icon/system-currency.png",
+          "packageName": "com.miui.calculator",
+          "className": ".convert.CurrencyActivity",
+          "uri": "intent:#Intent;launchFlags=0x10080000;component=com.miui.calculator/.convert.CurrencyActivity;S.miref=PersonalAssistant_QuickStart;end",
+          "id": "51",
+          "category": 1,
+          "type":"shortcut",
+          "action": "deeplink"
+        },
+        {
+          "title": "Calculator",
+		  "name": "Calculator",
+          "subtitle": "Calculator",
+          "icon": "https://cdn.cnbj1.fds.api.mi-img.com/shortcut-widget/shortcut-icon/system-calculator.png",
+          "packageName": "com.miui.calculator",
+          "uri": "intent:#Intent;launchFlags=0x10080000;component=com.miui.calculator/.cal.AllInOneCalculatorActivity;B.extra_is_scientific=true;S.miref=PersonalAssistant_QuickStart;end",
+          "id": "50",
+          "category": 1,
+          "type":"shortcut",
+          "action": "deeplink"
+        },
+        {
+          "title": "Recorder",
+		  "name": "Recorder",
+          "subtitle": "Recorder",
+          "icon": "https://cdn.cnbj1.fds.api.mi-img.com/shortcut-widget/shortcut-icon/system-new-recording.png",
+          "packageName": "com.android.soundrecorder",
+          "uri": "intent:#Intent;launchFlags=0x10000000;action=;component=com.android.soundrecorder/.SoundRecorder;S.miref=PersonalAssistant_QuickStart;end",
+          "id": "30",
+          "category": 1,
+          "type":"shortcut",
+          "action": "deeplink"
+        },
+        {
+          "title": "Event calendar",
+		  "name": "Event calendar",
+          "subtitle": "Calendar",
+          "icon": "https://cdn.cnbj1.fds.api.mi-img.com/shortcut-widget/shortcut-icon/calendar-new-agenda.png",
+          "packageName": "com.android.calendar",
+          "uri": "intent:#Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10000000;package=com.android.calendar;component=com.android.calendar/.event.EditEventActivity;end",
+          "id": "40",
+          "category": 1,
+          "type":"shortcut",
+          "action": "deeplink"
+        },
+        {
+          "title": "QR code",
+		  "name": "QR code",
+          "subtitle": "Scanner",
+          "icon": "https://cdn.cnbj1.fds.api.mi-img.com/shortcut-widget/shortcut-icon/system-scanner.png",
+          "packageName": "com.xiaomi.scanner",
+          "uri": "intent:#Intent;action=miui.intent.action.scanner;launchFlags=0x10000000;component=com.xiaomi.scanner/.app.ScanActivity;i.extra_intent_module_index=0;S.fromApp=com.miui.personalassistant;S.miref=PersonalAssistant_QuickStart;end",
+          "id": "10",
+          "category": 1,
+          "type":"shortcut",
+          "action": "deeplink"
+        },
+        {
+          "title": "Document",
+		  "name": "Document",
+          "subtitle": "Scanner",
+          "icon": "https://cdn.cnbj1.fds.api.mi-img.com/shortcut-widget/shortcut-icon/system-document.png",
+          "packageName": "com.xiaomi.scanner",
+          "uri": "intent:#Intent;action=miui.intent.action.scanner;launchFlags=0x10000000;component=com.xiaomi.scanner/.app.ScanActivity;i.extra_intent_module_index=5;S.fromApp=com.miui.personalassistant;S.miref=PersonalAssistant_QuickStart;end",
+          "id": "15",
+          "category": 1,
+          "type":"shortcut",
+          "action": "deeplink"
+        }
+      ]
+    },
+    {
+      "title": "Other",
+      "array": [
+        {
+          "title": "Music",
+		  "name": "Music",
+          "subtitle": "Music",
+          "icon": "https://cdn.cnbj1.fds.api.mi-img.com/shortcut-widget/shortcut-icon/recognize-music.png",
+          "packageName": "com.miui.player",
+          "className": ".ui.MusicBrowserActivity",
+          "id": "75",
+          "category": 1,
+          "type":"shortcut",
+          "action": "deeplink"
+        },
+		{
+          "title": "Battery",
+		  "name": "Battery",
+          "subtitle": "Security",
+          "icon": "https://i.hizliresim.com/2xw8n46.png",
+          "packageName": "com.miui.securitycenter",
+          "className": "com.miui.powercenter.PowerMainActivity",
+          "id": "76",
+          "category": 1,
+          "type":"shortcut",
+          "action": "deeplink"
+        },
+		{
+          "title": "Alarm",
+		  "name": "Alarm",
+          "subtitle": "DeskClock",
+          "icon": "https://i.hizliresim.com/p7wty12.png",
+		  "packageName": "com.android.deskclock",
+          "className": ".alarm.SetAlarmActivity",
+          "id": "77",
+          "category": 1,
+          "type":"shortcut",
+          "action": "local"
+        }
+      ]
+    }
+  ]
+}

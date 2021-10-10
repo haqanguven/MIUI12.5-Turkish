@@ -259,6 +259,14 @@
         <item>Erkek</item>
         <item>Kadın</item>
     </string-array>
+    <string-array name="hearing_reference">
+        <item>ISO 1999:2013 Standardı</item>
+        <item>ISO 8253-1</item>
+        <item>Çevresel gürültü standart sisteminin tasarımı ve ilişkisi üzerine araştırma[J] çevresel izleme yönetimi ve teknolojisi, 2007, 19(6):18-21.</item>
+        <item>Demiryolu çevresel gürültü standartlarını formüle etmenin temel yöntemi[J] Demiryolu enerji koruması, Çevre koruma, Güvenlik ve Sağlık, 2005, 32(3):108-111.</item>
+        <item>"Akustik çevre kalite standartları". Pekin: Çin çevre bilimleri basını, 2008: Tam metin</item>
+        <item>"Sosyal yaşamda gürültü emisyon standardı". Pekin: Çin çevre bilimleri basını, 2008: Tam metin</item>
+    </string-array>
     <string-array name="heavenly_stems">
         <item>@string/heavenly_stems_jia</item>
         <item>@string/heavenly_stems_yi</item>

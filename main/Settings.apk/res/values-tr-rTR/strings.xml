@@ -629,6 +629,7 @@ Yöneticiniz ağ etkinliği ve cihazınızın konum bilgileri de dahil olmak üz
     <string name="app_sees_restricted_accounts_and_controlled_by">Bu uygulama hesaplarınıza erişebilir. %1$s tarafından kontrol edilmektedir</string>
     <string name="app_settings_link">Uygulamadaki ek ayarlar</string>
     <string name="app_switch_key">Son kullanılanlar</string>
+    <string name="app_uninstall_sounds_enable_title">Uygulama kaldırma sesi</string>
     <string name="app_usage_cycle">Uygulama veri kullanım döngüsü</string>
     <string name="app_usage_preference">Uygulama kullanım tercihleri</string>
     <string name="app_version">Sürüm</string>
@@ -3982,6 +3983,7 @@ Xiaomi bulutu açın ve oradan öğeleri geri yükleyin"</string>
     <string name="lock_settings_title">Cihaz güvenliği</string>
     <string name="lock_settings_with_fingerprint">Kilit ekranı &amp; şifre</string>
     <string name="lock_setup">Kurulum tamamlandı</string>
+    <string name="lock_sound_effect_enable_title">Cihazı kilitleme sesi</string>
     <string name="lock_sounds_enable_title">Ekran kilitleme sesi</string>
     <string name="lockdown_settings_summary">Kilit ekranında akıllı kilit parmak iziyle kilit açma ve bildirimler özelliğini kapatan güç düğmesi seçeneğini görüntüleyin</string>
     <string name="lockdown_settings_title">Kilitleme seçeneğini göster</string>

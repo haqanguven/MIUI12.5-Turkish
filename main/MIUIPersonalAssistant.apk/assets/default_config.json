@@ -1,0 +1,96 @@
+[
+  {
+    "providerName": "com.miui.personalassistant.service.shortcut.widget.shortcut.MediumShortcutWidgetProvider",
+    "spanX": 4,
+    "spanY": 2,
+    "serviceKey": "shortcut_suggest"
+  },
+  {
+    "productId": "maml_memory_2x2",
+    "tag": "",
+    "resource": "maml_memory_2x2.zip",
+    "spanX": 2,
+    "spanY": 2,
+    "serviceKey": "memory"
+  },
+  {
+    "productId": "320d64ce-5383-43c1-be27-a16e411f78cb",
+    "tag": "",
+    "resource": "320d64ce-5383-43c1-be27-a16e411f78cb.zip",
+    "spanX": 2,
+    "spanY": 2,
+    "serviceKey": "clock"
+  },
+  {
+    "productId": "c989887f-fa0d-4963-8c57-896c03e37efc",
+    "tag": "",
+    "resource": "c989887f-fa0d-4963-8c57-896c03e37efc.zip",
+    "spanX": 4,
+    "spanY": 4,
+    "serviceKey": "weather"
+  },
+  {
+    "productId": "maml_weather_2x2",
+    "tag": "",
+    "resource": "maml_weather_2x2.zip",
+    "spanX": 2,
+    "spanY": 2,
+    "serviceKey": "weather"
+  },
+  {
+    "providerName": "com.mi.health.exercise.widget.StepRemoteWidgetProvider",
+    "spanX": 2,
+    "spanY": 2,
+    "serviceKey": "steps"
+  },
+  {
+    "productId": "f45ca1ae-5574-45d5-98da-f3601d07fab1",
+    "tag": "",
+    "resource": "f45ca1ae-5574-45d5-98da-f3601d07fab1.zip",
+    "spanX": 2,
+    "spanY": 2,
+    "serviceKey": "security"
+  },
+  {
+    "productId": "31c9a11e-d376-49ce-afd0-945dd4d8aeeb",
+    "tag": "",
+    "resource": "31c9a11e-d376-49ce-afd0-945dd4d8aeeb.zip",
+    "spanX": 2,
+    "spanY": 2,
+    "serviceKey": "security"
+  },
+  {
+    "productId": "a71db3f8-fc64-428c-8a80-5d11cf75be09",
+    "tag": "",
+    "resource": "a71db3f8-fc64-428c-8a80-5d11cf75be09.zip",
+    "spanX": 2,
+    "spanY": 2,
+    "serviceKey": "security"
+  },
+  {
+    "productId": "c48cd1fa-c71f-468e-823f-f417c7d8f4c0",
+    "tag": "",
+    "resource": "c48cd1fa-c71f-468e-823f-f417c7d8f4c0.zip",
+    "spanX": 2,
+    "spanY": 2,
+    "serviceKey": "security"
+  },
+  {
+    "providerName": "com.android.calendar.widget.NormalAgendaWidgetProvider",
+    "spanX": 4,
+    "spanY": 4,
+    "serviceKey": "agenda"
+  },
+  {
+    "providerName": "com.miui.notes.widget.NoteWidgetProvider_4x2",
+    "spanX": 4,
+    "spanY": 2,
+    "serviceKey": "noteboard"
+  },
+  {
+    "providerName": "com.xiaomi.misettings.usagestats.widget.desktop.widget.NormalUsageStatsWidget",
+    "spanX": 4,
+    "spanY": 4,
+    "serviceKey": "screen_duration"
+  }
+]
