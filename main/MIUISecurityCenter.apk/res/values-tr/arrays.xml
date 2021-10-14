@@ -146,6 +146,18 @@
         <item>Desen</item>
         <item>Pin</item>
         <item>Şifre</item>
+    <string-array name="auto_task_screen_zoom_level">
+        <item>ÇK</item>
+        <item>K</item>
+        <item>B</item>
+    </string-array>
+    <string-array name="auto_task_text_layout_size_level">
+        <item>Çok küçük</item>
+        <item>Küçük</item>
+        <item>Normal</item>
+        <item>Büyük</item>
+        <item>Çok büyük</item>
+        <item>Daha büyük</item>
     </string-array>
     <string-array name="cellular_data_unit">
         <item>GB</item>

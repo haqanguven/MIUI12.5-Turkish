@@ -55,6 +55,7 @@
     <string name="app_name_miuimusic">Müzikler</string>
     <string name="app_name_miuiringtone">Zil sesi</string>
     <string name="app_name_miuiwallpaper">Duvar kağıtları</string>
+    <string name="app_name_recorder">Kaydedici</string>
     <string name="app_name_screenshot">Ekran görüntüleri</string>
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="available_size">Kullanılabilir: %s</string>
@@ -179,6 +180,7 @@
     <string name="chinese_symbol_animals_tiger">Kaplan</string>
     <string name="chip_text">Çip metni</string>
     <string name="clean_hint">Alan boşaltmak için dokunun</string>
+    <string name="clean_hint_pad">Depolama alanını boşaltmak için çöp kutusunu temizleyin</string>
     <string name="clear_text_end_icon_content_description">Metni temizle</string>
     <string name="clearable_edittext_clear_description">Temizle</string>
     <string name="click_to_switch_volume">Dahili depolama alanı ve SD kart arasında geçiş yapmak için dokunun</string>

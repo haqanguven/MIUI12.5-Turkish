@@ -854,13 +854,29 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
         <item quantity="other">%d numara</item>
         <item quantity="one">%d numara</item>
     </plurals>
+    <plurals name="summary_absorbed_time_foramt">
+        <item quantity="other">%d dakika boyunca odak modunu aç</item>
+        <item quantity="one">%d dakika boyunca odak modunu aç</item>
+    </plurals>
     <plurals name="summary_app_update">
         <item quantity="other">%d adet uygulama için güncelleme mevcut</item>
         <item quantity="one">%d adet uygulama için güncelleme mevcut</item>
     </plurals>
+    <plurals name="summary_condition_lock_screen_format">
+        <item quantity="other">Ekran kilitlendikten %d dakika sonra</item>
+        <item quantity="one">Ekran kilitlendikten %d dakika sonra</item>
+    </plurals>
     <plurals name="summary_flow_verify">
         <item quantity="other">Operatör veri kullanım istatistikleri %d gündür senkronize edilmedi</item>
         <item quantity="one">Operatör veri kullanım istatistikleri %d gündür senkronize edilmedi</item>
+    </plurals>
+    <plurals name="summary_result_absorbed_time_format">
+        <item quantity="other">%d dakika</item>
+        <item quantity="one">%d dakika</item>
+    </plurals>
+    <plurals name="summary_result_lock_screen_format">
+        <item quantity="other">%d dakika sonra ekranı kilitle</item>
+        <item quantity="one">%d dakika sonra ekranı kilitle</item>
     </plurals>
     <plurals name="system_check_content">
         <item quantity="other">%1$d öğe güvenli</item>

@@ -503,8 +503,8 @@
     <string name="copy_text">Panoya kopyala</string>
     <string name="create_group_dialog_title">Yeni grup oluştur</string>
     <string name="create_qrcode_fail_message">QR kodu oluşturulamıyor</string>
-    <string name="cta_content_seg1">"Önemli uyarı:
-Kabul ediyoruma dokunarak "<a href;="'https://static.account.xiaomi.com/html/agreement/account/en.html'"><font color="#33aaff">Mi hesabı hizmet sözleşmesi, <a href;="'https://cnbj1-fds.api.xiaomi.com/mimobile-static/mi-carrier-services-useragreement.html'"><font color="#33aaff">Mi dolaşım kullanıcı sözleşmesi ve <a href;="'http://www.miui.com/res/doc/privacy/en.html'"><font color="#33aaff">Gizlilik politikasını kabul etmiş olursunuz. Kabul etmeden önce  </font></a>bu belgeleri dikkatlice okuyun ve</font></a></font></a>ilgili tüm hüküm ve koşulları tam olarak anlayın"</string>
+    <string name="cta_content_seg1"><Data>"&lt;strong>Önemli uyarı
+Aşağıdaki kabul et seçeneğine dokunarak şunları kabul ediyorsunuz: &lt;font color=#33aaff>&lt;a href ='https://static.account.xiaomi.com/html/agreement/account/en.html'>Mi hesabı hizmet sözleşmesi&lt;/a>&lt;/font>, &lt;font color=#33aaff>&lt;a href ='https://cnbj1-fds.api.xiaomi.com/mimobile-static/mi-carrier-services-useragreement.html'>Mi dolaşım kullanıcı sözleşmesi&lt;/a>&lt;/font>, ve &lt;font color=#33aaff>&lt;a href ='http://www.miui.com/res/doc/privacy/en.html'>gizlilik politikası&lt;/a>&lt;/font>. Kabul etmeden önce bu belgeleri dikkatlice okuyun ve ilgili tüm hüküm ve koşulları tam olarak anlayın&lt;/strong>"</Data></string>
     <string name="cta_content_seg2">"
 Mi dolaşımın normal şekilde çalışması için internete bağlanması ve konum bilgilerinize erişmesi gerekir. Ek olarak Mi dolaşım kişisel bilgilerinizi toplayabilir, kullanabilir ve paylaşabilir. Kişisel bilgileriniz yerel yasa ve yönetmeliklere uygun olarak korunacaktır"</string>
     <string name="cta_dialog_cancel">Çıkış</string>

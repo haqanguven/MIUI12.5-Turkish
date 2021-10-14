@@ -6647,6 +6647,17 @@ Not: Bu cihazın kilidini açmak için parmak izinizi kullanamazsınız. Daha fa
     <string name="shared_data_title">Paylaşılan veri</string>
     <string name="sharing_remote_bugreport_dialog_message">Bu hata raporu BT yöneticinizle paylaşılıyor. Daha fazla ayrıntı için kendisiyle iletişim kurun</string>
     <string name="short_summary_font_size">Metni daha büyük veya daha küçük yapın</string>
+    <string name="shoulder_key_game_light_settings">Renkli animasyonlar</string>
+    <string name="shoulder_key_settings">Omuz düğmeleri</string>
+    <string name="shoulder_key_settings_title">Omuz düğmeleri</string>
+    <string name="shoulder_key_sound_settings">Ses efektleri</string>
+    <string name="shoulder_key_sound_switch_title">Ses efektleri</string>
+    <string name="shoulder_key_sound_text_bullet">Mermi</string>
+    <string name="shoulder_key_sound_text_current">Gelecek</string>
+    <string name="shoulder_key_sound_text_sword">Kılıç</string>
+    <string name="shoulder_key_sound_text_wind">Motor</string>
+    <string name="shoulder_key_switch_status_close">Kapalı</string>
+    <string name="shoulder_key_switch_status_open">Açık</string>
     <string name="show_all_anrs">"Tüm arkaplan UYV'lerini göster"</string>
     <string name="show_all_anrs_summary">Arkaplan uygulamaları için uygulama yanıt vermiyor diyaloğunu gösterir</string>
     <string name="show_all_apps">Tam cihaz kullanımını göster</string>
