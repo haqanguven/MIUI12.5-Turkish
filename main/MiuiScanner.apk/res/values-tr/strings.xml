@@ -73,6 +73,8 @@
     <string name="calories_logo_text">Sağlık tarafından sağlanan AI desteği</string>
     <string name="calories_request_interface_text">AI desteği</string>
     <string name="camera_error_title">Kamera hatası</string>
+    <string name="camera_stealth_mode_message">Kameraya bağlanılamıyor. Kamera gerekiyorsa gizli modu kapatın</string>
+    <string name="camera_stealth_mode_title">Gizli mod etkinleştirildi</string>
     <string name="can_only_be_English_Chinese">Çevrimiçi çevirinin dili yalnızca İngilizce ve Basitleştirilmiş Çince olabilir</string>
     <string name="cancel">İptal et</string>
     <string name="cancel_pdf_save">PDF kaydetmeyi iptal et</string>
@@ -381,6 +383,7 @@
     <string name="general_title">Lütfen tanınacak nesneyi fotoğraflayın</string>
     <string name="general_wifi_data_wrong_data">"Hem SSID'yi hem de parolayı girin"</string>
     <string name="global_default_language">@string/language_value_english</string>
+    <string name="go_shut_down">Kapat</string>
     <string name="goods_query">Emtia sorgulama</string>
     <string name="got_it">Anladım</string>
     <string name="gps">Git</string>
@@ -462,6 +465,8 @@
     <string name="miracast_switch_off">Kablosuz ekran kapalı</string>
     <string name="miracast_switch_tip">Bu özelliği kullanmak için kablosuz ekranı açın</string>
     <string name="mishop">Mi mağaza</string>
+    <string name="miuix_access_state_desc">Seçildi</string>
+    <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Seçimi kaldır</string>
     <string name="miuix_appcompat_action_mode_select_all">Tümünü seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Öğeleri seç</string>
@@ -476,6 +481,7 @@
     <string name="miuix_appcompat_select_all">Tümünü seç</string>
     <string name="miuix_appcompat_select_all_description">Tümünü seç</string>
     <string name="miuix_appcompat_select_item">Öğeleri seç</string>
+    <string name="miuix_indexer_selected">%s seçildi</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için çek</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Yenileme tamamlandı</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor</string>
@@ -942,6 +948,7 @@ Cihazı yerleştirmek için lütfen resimdeki açıya bakın ve tekrar deneyin"<
     <string name="word_to_be_recognized_is_aligned_with_cross">Tanınacak kelime çarpı işareti ile hizalı</string>
     <string name="word_translation">Kelime çevirisi</string>
     <string name="wx_not_installed_toast">"Bu özellik WeChat'i kullanmaya ihtiyaç duyar. Önce WeChat'i yükleyin"</string>
+    <string name="xiaoai_classmate_scan_text">Mi AI ile tarayın</string>
     <string name="xiaoai_dialog">"Mi AI'ye taramak
 istediğinizi söylemeyi deneyin"</string>
     <string name="xiaoai_text">Küçük aşk düğmesi</string>

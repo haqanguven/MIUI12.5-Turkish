@@ -1227,6 +1227,12 @@ Kişisel kırmızı zarfı destekleyin ve kırmızı zarfı gruplayın
     <string name="cta_main_purpose">Güvenlik uygulamasına hoşgeldiniz. Cihazınızdaki çöpleri temizlemek, virüsleri bulmak ve etkisizleştirmek, oyun performansını artırmak, pil tasarrufu yapmak, uygulamaları yönetmek ve daha fazlasını yapmak için bu uygulamayı kullanabilirsiniz</string>
     <string name="cta_settings">İnternet bağlantısına izin ver</string>
     <string name="current_network_state_not_need_diagnose">İnternet bağlantısı normaldir</string>
+    <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Engellenenler listesine öğe eklemek için</string>
+    <string name="custom_define_permission_desc_android.permission.READ_CALL_LOG">Engellenen öğeleri görüntülemek amacıyla arama geçmişine erişmek için</string>
+    <string name="custom_define_permission_desc_android.permission.READ_CONTACTS">Engelleme listesi işlevi sağlamak ve acil durumda irtibat kurulacak kişileri aramak için</string>
+    <string name="custom_define_permission_desc_android.permission.SEND_SMS">Engellenen kişilere mesaj göndermek için</string>
+    <string name="custom_define_permission_desc_android.permission.WRITE_CALL_LOG">Arama geçmişine öğe eklemek ve engellenen aramaları silmek için</string>
+    <string name="custom_define_permission_desc_android.permission_group.STORAGE">Virüs taraması yapmak ve cihazınızı optimize etmek için</string>
     <string name="customize_limit_pkg">%s (Özel)</string>
     <string name="customizer_mode_user_define_name">Kurallarım</string>
     <string name="daily_card_setting_fragment_daily_card_brand">Taşıyıcı</string>

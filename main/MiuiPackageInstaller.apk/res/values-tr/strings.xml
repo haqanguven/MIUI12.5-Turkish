@@ -31,6 +31,8 @@
     <string name="about_pure_mode">Güvensiz mod hakkında</string>
     <string name="about_safe_mode">Güvenli mod hakkında</string>
     <string name="actionbar_button_up_description">Geri</string>
+    <string name="ad_permissions">&lt;u>Uygulama izinleri&lt;u/></string>
+    <string name="ad_privacy">&lt;u>Gizlilik politikası&lt;u/></string>
     <string name="ads">Reklamlar</string>
     <string name="ads_install_button">Yükle</string>
     <string name="ads_install_button_installed">Aç</string>
@@ -601,6 +603,7 @@
     <string name="virus_install_confirm_cancel">İptal et</string>
     <string name="virus_install_confirm_install">Yükle</string>
     <string name="virus_safe_install_mode_security_tips">" Yine de bu uygulamayı yüklemek istiyorsanız Ayarlar > Güvenli modda kuruluma izin verebilirsiniz"</string>
+    <string name="virus_safe_install_mode_security_tips_pi">" Yine de bu uygulamayı yüklemek istiyorsanız Ayarlar > Güvenli modda kuruluma izin verebilirsiniz"</string>
     <string name="virus_scanning">Kontrol ediliyor</string>
     <string name="virus_scanning_please_wait">Kontrol ediliyor</string>
     <string name="virus_warning_title">Virüsler tespit edildi</string>

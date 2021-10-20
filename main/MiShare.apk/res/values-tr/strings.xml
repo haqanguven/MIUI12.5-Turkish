@@ -127,6 +127,8 @@
     <string name="confirm_cancel_task_files">%1$s için dosya gönderme iptal edilsin mi?</string>
     <string name="confirm_cancel_task_images">%1$s için resim gönderme iptal edilsin mi?</string>
     <string name="copy">Kopyala</string>
+    <string name="custom_define_permission_desc_android.permission_group.LOCATION">Bluetooth ve wifi ağını kullanarak dosya aktarmak için</string>
+    <string name="custom_define_permission_desc_android.permission_group.STORAGE">Dosya göndermek ve almak için</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -290,6 +292,7 @@
     <string name="location_enabled">Yakındaki cihazları bulmak için konum servisleri açıldı</string>
     <string name="meizu">Meizu</string>
     <string name="meizu_phone">Meizu</string>
+    <string name="menu_item_permission_title">İzin ayrıntıları</string>
     <string name="menu_item_privacy_title">Gizlilik politikası</string>
     <string name="mi_10i">Mi 10I</string>
     <string name="mi_10t">Mi 10T</string>

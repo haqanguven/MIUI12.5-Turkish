@@ -88,6 +88,14 @@
     "serviceKey": "noteboard"
   },
   {
+    "productId": "0fe4f0c0-1687-4b82-b0f1-86d0f598cbbb",
+    "tag": "",
+    "resource": "0fe4f0c0-1687-4b82-b0f1-86d0f598cbbb.zip",
+    "spanX": 2,
+    "spanY": 2,
+    "serviceKey": "noteboard"
+  },
+  {
     "providerName": "com.xiaomi.misettings.usagestats.widget.desktop.widget.NormalUsageStatsWidget",
     "spanX": 4,
     "spanY": 4,

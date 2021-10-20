@@ -146,6 +146,7 @@
         <item>Desen</item>
         <item>Pin</item>
         <item>Şifre</item>
+    </string-array>
     <string-array name="auto_task_screen_zoom_level">
         <item>ÇK</item>
         <item>K</item>

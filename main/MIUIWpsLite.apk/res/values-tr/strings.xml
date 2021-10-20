@@ -184,12 +184,6 @@
     <string name="help_send_editing_file">Geliştiricinin sorunu bulmasına yardımcı olmak için %s gönderin</string>
     <string name="highlight">Vurgula</string>
     <string name="online_security_error_code_no_operation_permission">Bu işlemi gerçekleştirmek için yeterli izin yok</string>
-    <string name="oppo_app_packageName">OPPO belge görüntüleyici (WPS özelleştirilmiş)</string>
-    <string name="oppo_scre_dialog_message" formatted="false">"WPS belge görüntüleyici ofisi belgelerini görüntülemek için kullanılan bir yazılımdır. Normal şekilde kullanabilmek için depolama izni vermeniz gerekir. Ürün deneyimini daha iyi geliştirmek için WPS ofis kullanım bilgilerini toplar ve bilgi güvenliğinizi korumak için <a href="%s">Kullanıcı sözleşmesi</a>ve<a href="%s">Gizlilik politikasına</a> göre kullanacaktır"</string>
-    <string name="oppo_scre_dialog_smallTip">Kabul ederek yukarıdaki içeriği kabul etmiş olursunuz</string>
-    <string name="oppo_scre_dialog_title">WPS belge görüntüleyici bildirimi</string>
-    <string name="oppo_search_next">Sonraki</string>
-    <string name="oppo_search_prev">Önceki</string>
     <string name="pdf_comment">Açıklama</string>
     <string name="pdf_decrypt_edit_tips">Yazar belge için düzenleme şifresi koymuştur. Devam etmek için şifreyi girin</string>
     <string name="pdf_decrypt_edit_title">Korumalı belge</string>
@@ -230,6 +224,7 @@
     <string name="projection_fail">Yayınlanamadı. Harici monitörünüzü kontrol edin ve tekrar deneyin</string>
     <string name="public_amazon_autosave_finished">Belge otomatik olarak kaydedildi</string>
     <string name="public_app_language">2052</string>
+    <string name="public_app_packageName">OPPO belge görüntüleyici (WPS özelleştirilmiş)</string>
     <string name="public_bad_doc_to_process">Geçersiz belge. İşlem tamamlanamıyor</string>
     <string name="public_bookmark">Yer işareti</string>
     <string name="public_cancel">İptal et</string>
@@ -357,9 +352,14 @@
     <string name="public_saveDocumentError">Dosya kaydedilemedi</string>
     <string name="public_saveDocumentLackOfStorageError">Yetersiz depolama alanı. Dosya kaydedilemiyor</string>
     <string name="public_saving">Yükleniyor</string>
+    <string name="public_scre_dialog_message" formatted="false">"<Data>WPS belge görüntüleyicinin normal şekilde kullanmak için dosya depolama izni vermenizi gerektiren kullanıcı ofis belgelerini görüntülemek için kullanılan bir yazılımdır. Ürün deneyimini daha iyi hale getirmek için WPS ofis işlev kullanım bilgilerini toplayacak ve bilgi güvenliğinizi korumak için &lt;a href=\"%s\">son kullanıcı lisansı sözleşmesi&lt;/a>ve&lt;a href=\"%s\">gizlilik politikası&lt;/a> okuyun ve kabul edin</Data></string>
+    <string name="public_scre_dialog_smallTip">Kabul et seçeneğine tıklayarak yukarıdaki içeriği kabul etmiş olursunuz</string>
+    <string name="public_scre_dialog_title">WPS belge görüntüleyici ifadesi</string>
     <string name="public_search">Bul</string>
     <string name="public_search_empty">Önce içeriği girin</string>
     <string name="public_search_hint">Lütfen aradığınızı girin</string>
+    <string name="public_search_next">Sonraki</string>
+    <string name="public_search_prev">Önceki</string>
     <string name="public_searchnotfound">Sonuç yok</string>
     <string name="public_secre_dialog_content_1">Size hizmetlerimizi sağlamak ve ürünlerimizi geliştirmek için depolamaya erişmek ve özelliklerimizi nasıl kullandığınızı tanımlayan bilgileri toplamak için izinlerinize ihtiyacımız var</string>
     <string name="public_secre_dialog_content_2" formatted="false">&lt;Veri>&lt;a href=\"%s\">Kullanıcı sözleşmesi&lt;/a > ve &lt;a href=\"%s\">Gizlilik politikası&lt;/a > gereğince kişisel bilgilerinizi koruyacağız&lt;/Veri></string>

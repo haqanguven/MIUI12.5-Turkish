@@ -39,6 +39,7 @@
     <string name="added_category">Eklendi</string>
     <string name="afternoon">Öğleden sonra</string>
     <string name="aggree_desc">Bu uygulamanın internete bağlanmasına ve yukarıda listelenen zorunlu izinleri vermesine izin verin</string>
+    <string name="agree">Kabul et</string>
     <string name="am">ÖÖ</string>
     <string name="aosp_appbar_scrolling_view_behavior">com.android.fileexplorer.view.aosp.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="app_all_purpose">Cihazınızdaki dosyaların işlevlerini yönetmek için bu uygulamayı kullanabilirsiniz</string>
@@ -298,7 +299,8 @@
     <string name="error_invalid_path">Yanlış dosya yolu</string>
     <string name="error_not_support">Desteklenmiyor</string>
     <string name="error_open_file_failed_no_app_found">Bu dosyayı açabilecek uygulama bulunamadı</string>
-    <string name="evening">ÖS</string>
+    <string name="evening">Öğleden sonra</string>
+    <string name="exit">Çıkış</string>
     <string name="expand_button_title">Gelişmiş</string>
     <string name="exposed_dropdown_menu_content_description">Açılır menüyü göster</string>
     <string name="extended_storage_file_can_not_open">Dosya açılamıyor. Lütfen dosyayı dahili depolama alanına kopyalayın</string>
@@ -634,6 +636,7 @@
     <string name="notif_server_starting">FTP sunucusu başlatılıyor</string>
     <string name="notif_title">FTP sunucusu çalışıyor</string>
     <string name="online_not_support">Bu dosya şu anda görüntülenemiyor</string>
+    <string name="open_or_close_wlan">Wifi ağını açma ve kapatma</string>
     <string name="open_private_folder">Gizli klasörleri görüntülemek için bırakın</string>
     <string name="operation_add_fav">Favorilere ekleniyor</string>
     <string name="operation_cancel">İptal et</string>
@@ -688,6 +691,7 @@
     <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
     <string name="permission_denial">Dosyalara erişilemedi. Dosyalar uygulamasına ayarlar menüsünde dosya erişim izni verin</string>
+    <string name="permission_description">İzin ayrıntıları</string>
     <string name="permission_required">Dosyalara erişilemedi. Dosyalar uygulamasına ayarlar menüsünde dosya erişim izni verin</string>
     <string name="petabyteShort">PB</string>
     <string name="phone">Depolama</string>
@@ -709,8 +713,13 @@
     <string name="pkgname_zsxq">Bilgi gezegeni</string>
     <string name="pm">ÖS</string>
     <string name="port_range">Bağlantı noktası 1024-65535 aralığında olmalıdır</string>
+    <string name="pref_permission_allowed">Onayla</string>
+    <string name="pref_permission_manage_key_storage">Cihazdaki fotoğraflara ve dosyalara erişin</string>
+    <string name="pref_permission_not_allowed">Onaylama</string>
     <string name="preference_copied">%1$s panoya kopyalandı</string>
     <string name="privacy_policy">Gizlilik politikası</string>
+    <string name="privacy_policy_renew">Güncellenmiş gizlilik politikası</string>
+    <string name="privacy_policy_renew_content"><Data>"Dosya yöneticisinin &lt;a href=\"%1$s\">Gizlilik politikası&lt;/a> güncellendi. Bir kullanıcı olarak haklarınızı ve verilerinizi nasıl kullandığımızı tam olarak anlamak için devam etmeden önce gizlilik politikasının yeni sürümünü okuyun ve kabul edin"</Data></string>
     <string name="private_files">Gizli</string>
     <string name="private_folder">Gizli klasörler</string>
     <string name="private_folder_no_file_hints">Gizli dosya yok</string>
@@ -947,7 +956,11 @@
     <string name="wednesday">Çarşamba</string>
     <string name="wednesday_short">Çarşamba</string>
     <string name="wednesday_shortest">Ç</string>
-    <string name="wifi_state">Wifi durumu</string>
+    <string name="wifi_state">Wifi ağı</string>
+    <string name="withdraw">Geri çek</string>
+    <string name="withdraw_consent">İznin geri alınması</string>
+    <string name="withdraw_consent_content">"Devam ederseniz dosyaların gizlilik politikasına verdiğiniz onayı geri çekeceksiniz. Halihazırda toplanan ve saklanan kişisel bilgiler aksi gerekmedikçe yürürlükteki yasa ve yönetmeliklere uygun olarak belirli bir süre içinde silinecektir. Dosyaların hizmetlerini gerekli kişisel bilgilerin toplanmasına dayalı olarak sağladığından onayınızı geri çekmeniz dosyaların hizmetlerini kabul etmeyi reddetmeniz olarak değerlendirilecektir"</string>
+    <string name="withdraw_consent_summary">Dosyaların gizlilik politikasına ilişkin onayınızı geri çekin</string>
     <string name="year_month_day_format">dd MMM yyyy</string>
     <string name="yes">Evet</string>
     <string name="yesterday">Dün</string>

@@ -395,7 +395,6 @@
     <string name="loading_text">Yükleniyor</string>
     <string name="login_sync">Giriş &amp; Senkronizasyon</string>
     <string name="lunar_day">%1$s ay günü</string>
-    <string name="marketSdkVersion">3.2.9</string>
     <string name="material_clock_display_divider">:</string>
     <string name="material_clock_toggle_content_description">"ÖÖ veya ÖS'yi seçin"</string>
     <string name="material_hour_selection">Saat seçin</string>
@@ -595,6 +594,7 @@
     <string name="note_gesture_guide_step3">Bir nota basılı tutun ve sonra oradaki notu taşımak için başka bir klasörün üzerine sürükleyin</string>
     <string name="note_header_first_enter_guide">Daha fazlasını görüntülemek için aşağı çekin</string>
     <string name="note_invalid_mindnote_hint">Zihin haritaları bu sürümde mevcut değildir. Bu özelliği kullanmak için uygulamayı güncelleyin</string>
+    <string name="note_item_default_title">Not boş</string>
     <string name="note_link_email">E-posta oluştur</string>
     <string name="note_link_other">Harita uygulamasını kullanarak aç</string>
     <string name="note_link_select">Metni seç</string>
@@ -671,6 +671,12 @@
     <string name="pref_desc_skip_confirm_for_quick_delete">Doğrulama olmadan notları silmek için 2 parmağınızla yukarı kaydırın</string>
     <string name="pref_desc_todo_float_mode">Görev araç kutusunu açmak için ekranın kenarından itibaren kaydırın</string>
     <string name="pref_excerpt_link_float">Bir bağlantı kopyalandığında bir alıntı oluşturmak için hatırlatıcı alın</string>
+    <string name="pref_permission_allowed">Onayla</string>
+    <string name="pref_permission_manage">İzin ayrıntıları</string>
+    <string name="pref_permission_manage_key_contact">Kişilere erişin</string>
+    <string name="pref_permission_manage_key_recording">Ses kaydı</string>
+    <string name="pref_permission_manage_key_storage">Depolama alanına erişin</string>
+    <string name="pref_permission_not_allowed">Onaylama</string>
     <string name="pref_quick_note_desc">Not ve görev oluşturmak, ayrıca kopyalanan bağlantıları, metinleri ve görüntüleri notlara kaydetmek için ekranın kenarındaki kısayolu kullanın</string>
     <string name="pref_remind_type_summary">Sessiz modda hatırlatıcı seslerini çal</string>
     <string name="pref_remind_type_summary_new">Sessiz modu yoksay ve alarm kapatılana kadar ses çalmaya devam et</string>
@@ -1016,10 +1022,10 @@ Ses kaydetmek için notlar uygulamasına izin verin"</string>
     <string name="widget_size_item_2x2">%1$d×%2$d</string>
     <string name="widget_size_item_4x2">%1$d×%2$d</string>
     <string name="widget_size_item_4x4">%1$d×%2$d</string>
+    <string name="widget_size_item_big">Büyük</string>
+    <string name="widget_size_item_medium">Orta</string>
+    <string name="widget_size_item_small">Küçük</string>
     <string name="widget_take_notes_title">Notlar</string>
     <string name="xiaomi_account_type">com.xiaomi</string>
-    <string name="xiaomi_market_sdk_update_dialog_cancel">Şimdi değil</string>
-    <string name="xiaomi_market_sdk_update_dialog_ok">Güncelle</string>
-    <string name="xiaomi_market_sdk_update_dialog_title">Bir güncelleme mevcut</string>
     <string name="yesterday">Dün</string>
 </resources>
