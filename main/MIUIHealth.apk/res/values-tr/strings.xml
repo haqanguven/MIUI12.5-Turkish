@@ -92,6 +92,8 @@ Egzersizlerinizi ve aktivitenizi takip edebileceksiniz"</string>
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="audio_permission_dialog_desc">Uyku döngünüzü analiz etmek ve konuşma ve horlamayı kaydetmek için Xiaomi sağlığın ses kaydı için izne ihtiyacı var</string>
     <string name="audio_permission_dialog_title">Ses kaydetmeye izin ver</string>
+    <string name="audio_permission_subtitle">Horlamayı ve konuşmayı algılamak için</string>
+    <string name="audio_permission_title">Ses kaydı</string>
     <string name="audio_record_perm_description">Uyku döngüsünü analiz ederken horlamayı ve konuşmayı kaydetmek için</string>
     <string name="audio_record_permission_description">Uyku döngünüzü analiz ederken konuşma ve horlamayı kaydetmek için</string>
     <string name="auth_description">"%1$s'nin aşağıdaki cihazlardan veri senkronize etmesine izin ver"</string>
@@ -172,6 +174,8 @@ Size öneriler sunmak için sağlık verilerinizi üçüncü taraf bir hizmet sa
     <string name="bmi_label">Vücut kitle indeksi</string>
     <string name="body_bmi_descripe_content">Vücut kitle indeksi kilogram cinsinden vücut kütlesinin, vücut yüksekliğinin metre cinsinden karesine bölünmesiyle tanımlanır. Vücut kitle indeksinizi bilmek kilonuzun sağlığınız üzerinde olumsuz bir etkisi olup olmadığını anlamanıza yardımcı olabilir</string>
     <string name="body_composition">Vücut kompozisyonu</string>
+    <string name="body_sport_permission_subtitle">Adımlarınızı takip etmek için</string>
+    <string name="body_sport_permission_title">Sağlık ve aktivite verilerine erişin</string>
     <string name="body_water">Su</string>
     <string name="body_water_descripe_content">Vücut su yüzdesi insan vücudunun toplam ağırlığındaki su oranını ifade eder. Genellikle kas dokusu diğer vücut kısımlarından daha fazla su içerir</string>
     <string name="body_weight">Kilo</string>
@@ -196,6 +200,8 @@ Size öneriler sunmak için sağlık verilerinizi üçüncü taraf bir hizmet sa
     <string name="buy">Satın al</string>
     <string name="calories">kalori</string>
     <string name="camera_permission_desc">Profil fotoğraflarını ayarlamak için</string>
+    <string name="camera_permission_subtitle">Kalp atış hızı tespiti ve profil fotoğraflarının ayarlanması için kan akışı değişiklikleri elde etmek için</string>
+    <string name="camera_permission_title">Kamera kullanımı</string>
     <string name="cancel">İptal et</string>
     <string name="cancel_edit">Değişiklikleri iptal et</string>
     <string name="cancel_mark_end">Adet dönemi bitmedi</string>
@@ -305,6 +311,8 @@ Size öneriler sunmak için sağlık verilerinizi üçüncü taraf bir hizmet sa
 %2$s | %3$s"</string>
     <string name="contact_format3">%1$s | %2$s | %3$s</string>
     <string name="contact_permission_desc">Acil durum kişilerini ayarlamak için</string>
+    <string name="contact_permission_subtitle">Acil durum kişilerini ayarlamak için</string>
+    <string name="contact_permission_title">Kişilere erişin</string>
     <string name="copy">Kopyala</string>
     <string name="copy_done">Başarıyla kopyalandı</string>
     <string name="copyright_statement">Telif hakkı © Xiaomi Inc. Her hakkı saklıdır</string>
@@ -623,6 +631,8 @@ Eğer cihazınız bu listede ise Xiaomi sağlık > Menü > Veri kaynakları > Ve
     <string name="expand_all">Tümünü göster</string>
     <string name="expand_button_title">Gelişmiş</string>
     <string name="exposed_dropdown_menu_content_description">Açılır menüyü göster</string>
+    <string name="external_storage_permission_subtitle">Profil fotoğraflarını ayarlamak için</string>
+    <string name="external_storage_permission_title">Öğelere erişin ve depoya kaydedin</string>
     <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
     <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
     <string name="fall_sleep_hard">Uykuya dalma sorunu</string>
@@ -672,8 +682,8 @@ Yatakta 30 dakika geçirdikten sonra uykuya dalmakta hala zorlanıyorsanız bu d
     <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
     <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
     <string name="fmt_time_12hour_pm">ha</string>
-    <string name="fmt_time_24hour">H</string>
-    <string name="fmt_time_24hour_minute">HH:mm</string>
+    <string name="fmt_time_24hour">"H 'o''clock'"</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
     <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
     <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
     <string name="fmt_time_millis">"S'ms'"</string>
@@ -917,6 +927,8 @@ Baştan başla"</string>
     <string name="location_permission_dialog_negative">Kullanımda değil</string>
     <string name="location_permission_dialog_positive">Yetkilendirmeye git</string>
     <string name="location_permission_dialog_title">Yetkisiz konum izni</string>
+    <string name="location_permission_subtitle">Açık hava antrenmanlarını izlemek ve rotaları kaydetmek için</string>
+    <string name="location_permission_title">Konuma erişim</string>
     <string name="location_service_dialog_content">Mevcut cihazın konum hizmeti işlevi etkinleştirilmedi ve konumunuz açık havada egzersiz kayıt işlevi sağlamak için elde edilemez. Lütfen etkinleştirmek için konum bilgisi ayarına gidin</string>
     <string name="location_service_dialog_negative">Açık değil</string>
     <string name="location_service_dialog_positive">Açmak için git</string>
@@ -1613,6 +1625,9 @@ bulunamadı"</string>
     <string name="sport_btn_pause">Duraklat</string>
     <string name="sport_btn_unlock">Kilidi aç</string>
     <string name="sport_counter_begin">Doğrudan başla</string>
+    <string name="sport_data_use_subtitle">Antrenmanlarınızı ve fitness ilerlemenizi takip etmek için antrenman rotaları, uyku verileri, kalp atış hızı ve kilo gibi bilgilerinizi toplar ve işleriz</string>
+    <string name="sport_data_use_tip">"Bilgilerinizi nasıl topladığımızı ve işlediğimizi daha iyi anlamak için &lt;font color=\"#0D84FF\">&lt;a href=%1$s>sağlık ve faaliyet verileri kullanım politikamızı&lt;/a>&lt;/font> okuyun ve kabul edin. Toplama ve işlememize izin vermezseniz bu hizmeti kullanamazsınız"</string>
+    <string name="sport_data_use_title">Veri izinleri</string>
     <string name="sport_home_begin">Başlat</string>
     <string name="sport_home_set_goal">Hedef belirle</string>
     <string name="sport_invalid_dialog_distance_content">Bu egzersizin mesafesi çok kısa. Spor kaydı oluşturulamıyor</string>
@@ -1735,6 +1750,7 @@ bulunamadı"</string>
     <string name="sync_status_never_done">Senkronize edilemedi</string>
     <string name="sync_status_oauth_error">Veriler senkronize edilemedi. Önce gerekli izinleri verin</string>
     <string name="system_app_setting">Sistem uygulama ayarları</string>
+    <string name="system_permission">İzin ayrıntıları</string>
     <string name="systolic_pressure">Sistolik</string>
     <string name="tb_audio_progress_bar">Ses çalma çubuğu</string>
     <string name="tb_blood_pressure_day_chart">%1$s. En yüksek sistolik basınç: %2$d milimetre cıva. En düşük diyastolik basınç: %3$d milimetre cıva</string>

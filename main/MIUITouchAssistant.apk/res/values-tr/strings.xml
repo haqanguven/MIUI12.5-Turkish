@@ -311,6 +311,7 @@
     <string name="open_panel">Hızlı erişimi aç</string>
     <string name="pay_entry_dialog_title_select">Açmak için uygulamayı seçin</string>
     <string name="pay_entry_dialog_title_setting">Uygulama ayarla</string>
+    <string name="permission_desc">İzin ayrıntıları</string>
     <string name="pm">ÖS</string>
     <string name="pref_category_mipay">NFC kısayolları</string>
     <string name="pref_category_others">Diğer</string>
@@ -318,6 +319,7 @@
     <string name="pref_category_quick_settings">Hızlı ayarlar</string>
     <string name="pref_category_system">Sistem ayarları</string>
     <string name="preference_copied">%1$s panoya kopyalandı</string>
+    <string name="privacy_settings">Gizlilik</string>
     <string name="process_name">:float</string>
     <string name="restore_default">Varsayılan ayarlara sıfırla</string>
     <string name="restore_intro">Kısayolları ve kısayol sıralarını ile birlikte varsayılan ayarlara geri yükleyin. Uygulama verileri işlemden etkilenmeyecektir</string>
@@ -414,6 +416,7 @@
     <string name="vector_large_circle">m93,200c0,-59.11602 47.88398,-107 107,-107c59.11602,0 107,47.88398 107,107c0,59.11602 -47.88398,107 -107,107c-59.11602,0 -107,-47.88398 -107,-107z</string>
     <string name="vector_large_crossA">M160,160 L240,240</string>
     <string name="vector_large_crossB">M240,160 L160,240</string>
+    <string name="view_privacy">Gizlilik politikasını görüntüle</string>
     <string name="wechat_package">com.tencent.mm</string>
     <string name="wednesday">Çarşamba</string>
     <string name="wednesday_short">Çarşamba</string>

@@ -495,7 +495,7 @@
     <string name="home_pull_down_action">Ana ekranda aşağı kaydırma</string>
     <string name="home_screen">Ana ekran</string>
     <string name="home_slide_up_action">Ana ekranda yukarı kaydırma</string>
-    <string name="home_switch_personal_assistant">-1 ekran</string>
+    <string name="home_switch_personal_assistant">Uygulama kasası</string>
     <string name="icon_customize_summary">Stili seçin ve boyutu ayarlayın</string>
     <string name="icon_form">Simgeler</string>
     <string name="icon_reorganize_channel">Simgeleri düzenle</string>
@@ -881,7 +881,7 @@
     <string name="sunday_shortest">Paz</string>
     <string name="swipe_the_desktop_to_the_left">Ana ekranda sola kaydırın</string>
     <string name="swipe_the_desktop_to_the_right">Ana ekranda sağa kaydırın</string>
-    <string name="switch_personal_assistant_app_vault">Uygulama kasası</string>
+    <string name="switch_personal_assistant_app_vault">MIUI</string>
     <string name="switch_personal_assistant_google">Google</string>
     <string name="switch_personal_assistant_none">Hiçbiri</string>
     <string name="switch_screen_button_order">Tuşları ters çevir</string>

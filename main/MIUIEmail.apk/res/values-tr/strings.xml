@@ -107,7 +107,7 @@
     <string name="account_settings_param">Hesap ayarları</string>
     <string name="account_settings_preference_att_save_path">Eklentiler için varsayılan konum</string>
     <string name="account_settings_preference_head_icon">Profil fotoğrafları</string>
-    <string name="account_settings_preference_head_icon_summary">Posta listesi gönderenin avatarını gösterir</string>
+    <string name="account_settings_preference_head_icon_summary">E-posta listesi gönderenin avatarını gösterir</string>
     <string name="account_settings_preference_notify">Bildir</string>
     <string name="account_settings_receive">account_settings_receive</string>
     <string name="account_settings_receive_title">Gelen e-postalar</string>
@@ -467,7 +467,7 @@
     <string name="compose_picturesexceedlimits">Bir iletide 5 satır-içi resim miktarı aşılamıyor</string>
     <string name="compose_send">Gönder</string>
     <string name="compose_sent">E-posta gönderildi</string>
-    <string name="compose_to_label">To</string>
+    <string name="compose_to_label">Kime</string>
     <string name="compress_failed_and_retry">Sıkıştıramadı. Tekrar deneyin</string>
     <string name="compress_img">Görüntüleri sıkıştır</string>
     <string name="confirm">Tamam</string>
@@ -573,7 +573,7 @@
     <string name="delete_message_event">Bu davetiye silinsin mi?</string>
     <string name="deleted">Silindi</string>
     <string name="device_activity_btn_str">Etkinleştir</string>
-    <string name="device_activity_lint_str">Posta hizmeti tam güncelleme özelliğini aktif hale getirin ve güvenlik ayarlarınızı etkinleştirin</string>
+    <string name="device_activity_lint_str">E-posta hizmeti tam güncelleme özelliğini aktif hale getirin ve güvenlik ayarlarınızı etkinleştirin</string>
     <string name="device_admin_description">Sunucu tarafından belirlenen güvenlik politikalarını etkinleştirir</string>
     <string name="device_admin_label">E-posta</string>
     <string name="device_not_activiey_lint1">Aygıt yöneticisi etkin durumda değil</string>
@@ -879,7 +879,7 @@
     <string name="help_and_info">Yardım</string>
     <string name="help_email_title">Mi mail</string>
     <string name="help_me_get_qq_auth">QQ kodunu al</string>
-    <string name="help_weixin_title">"Herhangi bir sorunuz varsa resmi WeChat hesabımıza bir satır bırakmaktan çekinmeyin: "</string>
+    <string name="help_weixin_title">"Geri bildirim için WeChat hesabı: "</string>
     <string name="hide_attachment">Eki gizle</string>
     <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="hide_elided">▼ Alıntı metni gizle</string>
@@ -964,7 +964,7 @@ Lütfen uygulama şifresinin açık olup olmadığını onaylayın. Eğer açık
     <string name="login_tip">%s protocol will be used for signing in by default. If you want to use a different protocol select it manually among the sign-in options.</string>
     <string name="long_press_to_select_tip">Bir konuşmayı seçmek için konuşmanın üzerine basın &amp; basılı tutun. Ardından daha fazla seçim için diğerlerine dokunun</string>
     <string name="long_string">looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong</string>
-    <string name="mail">Posta</string>
+    <string name="mail">E-posta</string>
     <string name="mail_body_turncated">E-posta boyutu yüklenemeyecek kadar büyük. Lütfen e-postayı daha sonra bilgisayarınız üzerinden görüntüleyin</string>
     <string name="mail_description_content">E-posta uygulaması birden çok e-posta hesabını yönetebileceğiniz, takvim bilgilerinizi ve kişilerinizi senkronize etmekle birlikte e-posta alıp gönderebileceğiniz bir e-posta istemcisidir. Uygulamayı kaldırmadan önce uygulamaya gerçekten ihtiyacınız olmadığından emin olun. Exchange kişileriniz ve takvim bilgileriniz de silinecektir</string>
     <string name="mail_description_title">E-posta hakkında</string>
@@ -1288,7 +1288,7 @@ Farklı bir e-posta hesabı kullanmayı deneyin"</string>
     <string name="open_external_storage_and_contacts_permission">E-posta uygulamasına ayarlar menüsünde depolama alanına ve kişilere erişim izni verin</string>
     <string name="open_notification_kingagent">Mezarlık noktası bildirimini aç</string>
     <string name="open_pdf_error">Pdf dosyası açılamadı. Lütfen diğer PDF açma araçlarını indirin ve daha sonra tekrar deneyin</string>
-    <string name="operation_settging">Actions</string>
+    <string name="operation_settging">Eylemler</string>
     <string name="optimization_suggestion">Optimizasyon önerisi</string>
     <string name="others_mail">Diğer</string>
     <string name="others_mail_des">Bu diğer e-posta veya kurumsal e-posta servisleri içindir</string>
@@ -1301,7 +1301,7 @@ Farklı bir e-posta hesabı kullanmayı deneyin"</string>
     <string name="outbox_alert_description_fail_authentication">Kullanıcı adı veya şifre hatalı</string>
     <string name="outbox_alert_description_fail_network">Ağa bağlanılamadı</string>
     <string name="outbox_alert_description_http_error">Giden kutusu eşitlemesinde HTTP hatası</string>
-    <string name="outbox_alert_description_insufficient_storage_error">Posta sunucusunda yetersiz depolama alanı</string>
+    <string name="outbox_alert_description_insufficient_storage_error">E-posta sunucusunda yetersiz depolama alanı</string>
     <string name="outbox_alert_description_provision_error">Giden kutusu eşitlemesinde sunucu karşılama hatası</string>
     <string name="outbox_alert_description_reject_by_server">%s tarafından reddedildi</string>
     <string name="outbox_alert_description_sent_failed">Eklenti boyutu sunucu sınırını aşıyor</string>
@@ -1363,11 +1363,18 @@ Farklı bir e-posta hesabı kullanmayı deneyin"</string>
     <string name="perference_setup_send_tag">Giden posta sunucusu</string>
     <string name="permission_access_provider_desc">Uygulamaya; alınan ve gönderilen iletilerinize, kullanıcı adlarınıza ve şifrelerinize erişim izni verir</string>
     <string name="permission_access_provider_label">Kullanıcı verilerine erişim</string>
+    <string name="permission_calendar_subtitle">Etkinlikleri e-postadan takviminize senkronize etmek için</string>
+    <string name="permission_calendar_title">Takvim etkinliklerine erişin ve ekleyin</string>
     <string name="permission_des_calendar">Takvim mesajlarını sizin için senkronize etmek için kullanılır</string>
-    <string name="permission_des_contact">Posta kişisini hızlı bir şekilde doldurmanız için iletişim e-posta adresini okumak için kullanılır</string>
+    <string name="permission_des_contact">E-posta kişisini hızlı bir şekilde doldurmanız için iletişim e-posta adresini okumak için kullanılır</string>
     <string name="permission_des_external_storage">Ek eklemei kaydetme işlemini tamamlamai postanızı oluşturma ve yerel dosyaları okuma için kullanılır</string>
+    <string name="permission_get_accounts_subtitle">Sistem hesaplarında oturum açmak ve yönetmek için</string>
+    <string name="permission_phone_status_subtitle">Farklı cihazları tanımlamak için</string>
+    <string name="permission_phone_status_title">Cihazdaki hesaplara erişin</string>
     <string name="permission_read_attachment_desc">Uygulamaya e-posta eklentilerini okuma izni verir</string>
     <string name="permission_read_attachment_label">Eklentileri oku</string>
+    <string name="permission_write_contacts_subtitle">Kişilerin e-posta adreslerini görüntülemek ve değiştirmek için</string>
+    <string name="permission_write_external_storage_title">Cihazdaki fotoğraflara ve dosyalara erişin ve kaydedin</string>
     <string name="personal_data_collection_summary">Anahtar açıldığında kişisel verilerinizi toplayabileceğimizi kabul edersiniz. İstediğiniz zaman kapatmayı değiştirebilir, yetkilendirmenizi iptal edebilir ve verilerinizi sunucularımızdan silebilirsiniz</string>
     <string name="personal_data_collection_title">Kişisel verilerin toplanması</string>
     <string name="photo_view_count">%1$d - %2$d</string>
@@ -1408,7 +1415,7 @@ e-postanızdaki fatura ve seyahat bilgilerini analiz edin"</string>
     <string name="previous_action">Geri</string>
     <string name="print">Yazdır</string>
     <string name="print_scheduler_title">Tüm zamanlayıcıları yazdır</string>
-    <string name="privacy_and_help">Privacy and help</string>
+    <string name="privacy_and_help">Gizlilik ve yardım</string>
     <string name="privacy_des">Günlükler e-posta istemcisinin hata ayıklama bilgilerini ve cihaz bilginizi içerir. Bu bilgiler sorunları daha hızlı bir şekilde bulmak için kullanılır. Aşağıdaki %1$s seçeneğine dokunarak %2$s sözleşmemizi kabul etmiş sayılıyorsunuz</string>
     <string name="privacy_policy">Gizlilik politikası</string>
     <string name="privacy_policy_url">https://miui.wpsmail.net/policy.html</string>
@@ -1611,7 +1618,7 @@ Tamamen senkronize edilmesini bekleyin veya mesajı bilgisayarınızda görünt�
     <string name="settings_account_category">settings_account_category</string>
     <string name="settings_activity_title">Ayarlar</string>
     <string name="settings_add_account">settings_add_account</string>
-    <string name="settings_attachment">Attachments</string>
+    <string name="settings_attachment">Ekler</string>
     <string name="settings_display">settings_display</string>
     <string name="settings_notification">settings_notification</string>
     <string name="share_choose">Paylaşılacak dosyayı seçin</string>
@@ -1698,7 +1705,7 @@ Tamamen senkronize edilmesini bekleyin veya mesajı bilgisayarınızda görünt�
     <string name="sunday_shortest">P</string>
     <string name="sync_calendra_fail_per_content">Takvime erişim izini vermek için dokunun</string>
     <string name="sync_calendra_fail_per_title">Takvim senkronize edilemedi</string>
-    <string name="sync_calendra_fail_permission">Takvim senkronize edilemedi. Posta uygulamasının ayarlardan takviminize erişmesine izin verin</string>
+    <string name="sync_calendra_fail_permission">Takvim senkronize edilemedi. E-posta uygulamasının ayarlardan takviminize erişmesine izin verin</string>
     <string name="sync_contacts_fail_per_content">Kişilere erişime izin vermek için dokunun</string>
     <string name="sync_contacts_fail_per_title">Kişiler senkronize edilemedi</string>
     <string name="sync_contacts_req_per_ignored">Senkronizasyon için E-posta uygulamasına kişilerinize erişim izni verin</string>
@@ -1832,7 +1839,7 @@ Hesap kaldırılsın mı?"</string>
     <string name="upload_log_failed">Günlükler gönderilemedi</string>
     <string name="upload_log_no">İptal et</string>
     <string name="upload_log_success">Başarıyla gönderildi. Yakında size döneceğiz</string>
-    <string name="upload_log_title">Posta uygulamasını geliştirmemize yardımcı olmak için hata günlüklerini bize gönderin</string>
+    <string name="upload_log_title">E-posta uygulamasını geliştirmemize yardımcı olmak için hata günlüklerini bize gönderin</string>
     <string name="upload_log_yes">Gönder</string>
     <string name="uploading_logs">Yükleniyor</string>
     <string name="user_experience_content">Lütfen kullanıcı deneyimi planını okuduğunuzu ve kabul ettiğinizi onaylayın</string>

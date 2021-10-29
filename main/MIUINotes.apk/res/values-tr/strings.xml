@@ -27,6 +27,8 @@
     <string name="abc_shareactionprovider_share_with">Şununla paylaş:</string>
     <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
     <string name="abc_toolbar_collapse_description">Daralt</string>
+    <string name="action_collapse">Gizle</string>
+    <string name="action_expand">Göster</string>
     <string name="action_folder_description">Klasörleri görüntüle</string>
     <string name="action_mode_cancel_folder_priority">Önce klasörleri gösterme</string>
     <string name="action_mode_switcher_folder_priority">Önce klasörleri göster</string>
@@ -71,6 +73,7 @@
     <string name="btn_next">Sonraki</string>
     <string name="call_folder_name">Arama notları</string>
     <string name="cancel_alarm_description">Alarmı iptal et</string>
+    <string name="canvas_is_too_large_to_share_phone">Bu öğe paylaşılamayacak kadar büyük</string>
     <string name="character_counter_content_description">Girilen karakter: %1$d / %2$d</string>
     <string name="character_counter_overflowed_content_description">Karakter sınırı aşıldı %1$d / %2$d</string>
     <string name="character_counter_pattern">%1$d/%2$d</string>
@@ -362,6 +365,7 @@
     <string name="gesture_guide_ok">Öğren</string>
     <string name="gesture_guide_title">Hareketler</string>
     <string name="hand_write_only_support_tablet_editing">El yazısı notları yalnızca tabletlerde düzenlenebilir</string>
+    <string name="hand_write_syncing_phone">Senkronize ediliyor</string>
     <string name="handwrite_description">El yazısı ile not</string>
     <string name="hear_note">Dikte edilmiş notlar</string>
     <string name="heavenly_stems_bing">3</string>

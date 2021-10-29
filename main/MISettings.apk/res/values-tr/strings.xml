@@ -38,7 +38,7 @@
     <string name="all_ringtone_summary">Çevrimiçi zil sesi seçin</string>
     <string name="all_ringtone_summary_pad">Zil sesi seçin</string>
     <string name="am">ÖÖ</string>
-    <string name="amazon_introduction">\"Gezegenimizdeki en biyolojik çeşitlilikteki bölge dünyanın akciğerleri olarak anılır</string>
+    <string name="amazon_introduction">Gezegenimizdeki en biyolojik çeşitlilikteki bölge dünyanın akciğerleri olarak anılır</string>
     <string name="amazon_orange_winged_info">Turuncu kanatlı amazon yüksek tiz çığlıklar atan büyük gürültülü bir papağandır</string>
     <string name="animal_branch">Aile</string>
     <string name="animal_class">Sınıf</string>
@@ -228,6 +228,7 @@
     <string name="dc_lignt_enable_hint">"Titreşim önleme modu 60 Hz'ye kadar ekran yenileme hızını ayarlar. Titreşim önleme moduna değiştirilsin mi?"</string>
     <string name="delete_first_to_add_animal">Yeni bir öğe eklemek için önce birini silin</string>
     <string name="desktop_widget_authorization">İstatistikleri görüntüleyebilmek ve izin vermek için dokunun</string>
+    <string name="desktop_widget_authorization_new">Ekran süresi istatistiklerini görüntülemek için dokunun</string>
     <string name="desktop_widget_not_support">"Ekran süresi istatistikleri
 ikinci alanda oluşturulmaz"</string>
     <string name="desktop_widget_screen_use_time">Ekran süresi</string>
@@ -816,12 +817,15 @@ ikinci alanda oluşturulmaz"</string>
     <string name="usage_app_over_content">Bu uygulamayı bugün %s süre kullandınız</string>
     <string name="usage_app_over_summary">Limitinize ulaştınız. Zaman doldu</string>
     <string name="usage_app_set_limit_time">Limit ayarla</string>
+    <string name="usage_app_stop_desc">Bireysel ayarlar da dahil olmak üzere tüm ekran süresi verileri ve izinleri ile yerel olarak depolanan ilgili öğeler bu özelliği kapattıktan sonra silinecektir​</string>
     <string name="usage_app_system_app_summary">Sistem uygulamaları için ekran süresi kısıtlanamaz</string>
     <string name="usage_app_weekday_limit">Hafta içi</string>
     <string name="usage_app_weekend_limit">Hafta sonları</string>
     <string name="usage_beat_fans">"Mi Fan'ın %s uygulamasından daha iyi"</string>
     <string name="usage_continuous_days">Seri</string>
-    <string name="usage_creating_weekly_report">Haftalık rapor oluşturuluyor…</string>
+    <string name="usage_creating_weekly_report">Haftalık rapor oluşturuluyor</string>
+    <string name="usage_cta_desc">"Ayarlar'a hoş geldiniz. Ekran süresi ve odak modu istatistiklerini size sağlamak için bu uygulamanın aşağıdaki verileri toplaması gerekir. Cihazın kilidini açma sayısı, ilgili kullanım süresiyle birlikte uygulamalarınızın listesi, ekranınızın aydınlanma sayısı, ve odak modu ayarları. Toplanan veriler yalnızca bu cihazda yerel olarak depolanacaktır
+"</string>
     <string name="usage_current_week_usage">Son 7 gün içinde ortalama %s</string>
     <string name="usage_device_limit_app_prolong">Zaman ekle</string>
     <string name="usage_device_limit_app_prolong_time1">20 dakika ekle</string>

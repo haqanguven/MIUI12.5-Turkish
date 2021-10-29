@@ -499,6 +499,7 @@ EEEE"</string>
     <string name="super_wallpaper_date_lunar">"N-e
 YY"</string>
     <string name="temporary_style">10 saniye</string>
+    <string name="temporary_style_5">5 saniye</string>
     <string name="temporary_style_summary">Önerilen</string>
     <string name="text_color">Metin rengi</string>
     <string name="text_length_exceed_limit_alert">* Girdiğiniz metin çok uzun</string>

@@ -50,7 +50,6 @@
     <string name="agree_storage_permission">Fotoğraflara ve cihazınızda saklanan dosyalara erişmek için</string>
     <string name="always">Her zaman</string>
     <string name="am">ÖÖ</string>
-    <string name="androidx_camera_default_config_provider" />
     <string name="app_description_content">Barkod okuyucu QR kodlarını, dökümanları, iş kartlarını ve daha fazlasını taramanıza olanak sağlar. Uygulamayı silmeden önce uygulamaya ihtiyacınız olmadığından emin olun</string>
     <string name="app_description_title">Barkod okuyucu hakkında</string>
     <string name="app_details">Uygulama:</string>
@@ -70,6 +69,7 @@
     <string name="business_no_result">İş kartı tanımlanamadı. Tekrar deneyin</string>
     <string name="calender">Takvim</string>
     <string name="call_anyone">Ara</string>
+    <string name="call_phone_permissions_text">Bu özelliği kullanabilmek için barkod okuyucunun arama yapmasına izin verin</string>
     <string name="calories_logo_text">Sağlık tarafından sağlanan AI desteği</string>
     <string name="calories_request_interface_text">AI desteği</string>
     <string name="camera_error_title">Kamera hatası</string>
@@ -180,7 +180,7 @@
     <string name="close">Kapat</string>
     <string name="close_hotspot_when_connecting_to_wifi">Bağlantı noktası açık. Wifi ağını açın</string>
     <string name="code_always">Bu seçenek bir dahaki sefere varsayılan olarak ayarlanmıştır ve sorulmayacaktır</string>
-    <string name="code_determine">Belirle</string>
+    <string name="code_determine">Geri al</string>
     <string name="code_result">Tanıma sonucu</string>
     <string name="common_retake_picture">Tekrar çek</string>
     <string name="common_retry">Tekrar deneyin</string>
@@ -447,6 +447,7 @@
     <string name="local_ocr_recognition">Yerel ocr tanıma</string>
     <string name="local_ocr_recognition_str">Çevrimdışı çeviriye geçildi</string>
     <string name="logistics">Hızlı teslimat</string>
+    <string name="logout_service">İzni geri al</string>
     <string name="low_version_tip">"Barkod okuyucuyu kullanabilmek için Miui'yi en yeni sürümüne güncelleyin"</string>
     <string name="midnight">Gece</string>
     <string name="mihome_goto_install">Şimdi kur</string>
@@ -611,6 +612,7 @@ Cihazı yerleştirmek için lütfen resimdeki açıya bakın ve tekrar deneyin"<
     <string name="pdf_is_being_saved">PDF kaydediliyor</string>
     <string name="pdf_name">PDF adı</string>
     <string name="pdf_save_sucess">Kaydedildi</string>
+    <string name="permission_management">İzinler</string>
     <string name="personalassistant_not_install">Bu özellik henüz desteklenmiyor</string>
     <string name="phone">Telefon:</string>
     <string name="phone_can_not_be_empty">Telefon numarası boş olamaz</string>
@@ -632,8 +634,10 @@ Cihazı yerleştirmek için lütfen resimdeki açıya bakın ve tekrar deneyin"<
     <string name="picture_confirm">Onayla</string>
     <string name="picture_data_exception">Albüm verilerinin anormal edinimi</string>
     <string name="picture_data_null">Burayı boşalt</string>
+    <string name="picture_default_original_image">Orijinal</string>
     <string name="picture_done">Bitti</string>
     <string name="picture_done_front_num">%1$d/%2$d bitti</string>
+    <string name="picture_editor">Editör</string>
     <string name="picture_empty">Fotoğraf veya video çekmek için kamerayı kullanabilirsiniz</string>
     <string name="picture_empty_audio_title">"Ses dosyası yok
 "</string>
@@ -681,6 +685,7 @@ Cihazı yerleştirmek için lütfen resimdeki açıya bakın ve tekrar deneyin"<
     <string name="picture_video_error">Video bozuk</string>
     <string name="picture_video_toast">Video önizlenebilir değil</string>
     <string name="picture_warning">Medya dosyası yok</string>
+    <string name="picture_webp_tag">webp</string>
     <string name="place_barcode_into_rectangle">Kodu çerçevenin içerisine hizalayın</string>
     <string name="plant_fail">Tanımlanamadı</string>
     <string name="plant_loading">Tanımlanıyor</string>
@@ -698,6 +703,11 @@ Cihazı yerleştirmek için lütfen resimdeki açıya bakın ve tekrar deneyin"<
     <string name="preparing_sd">Dahili depolama alanı hazırlanıyor</string>
     <string name="previous">Geri</string>
     <string name="privacy_policy">Gizlilik politikası</string>
+    <string name="privacy_policy_update">Güncellenmiş gizlilik politikası</string>
+    <string name="privacy_policy_update_message"><Data>"&lt;a href=\"%1$s\">Gizlilik politikasının&lt;/a> yeni sürümünü kabul etmedikçe barkod okuyucuyu kullanmaya devam edemezsiniz. Güncellenen gizlilik politikasını şimdi kabul ediyor musunuz?"</Data></string>
+    <string name="privacy_policy_update_welcome">Barkod okuyucunun gizlilik politikası güncellendi:</string>
+    <string name="privacy_policy_withdrawal_error">Onay geri alınamadı. Bir veya iki dakika bekleyin ve tekrar deneyin</string>
+    <string name="privacy_policy_withdrawal_message"><Data>"Devam ederseniz barkod okuyucunun gizlilik politikasına verdiğiniz izni geri çekeceksiniz. Bu barkod okuyucu hizmetlerini kabul etmeyi reddetmek olarak değerlendirilecektir. Tarayıcıyı kullanmaya karar verirseniz &lt;a href=\"%1$s\">Gizlilik Politikasını&lt;/a> tekrar kabul etmeniz gerekecektir"</Data></string>
     <string name="processing">İşleniyor</string>
     <string name="prompt">Uyarı</string>
     <string name="qr_code_details">QR kod ayrıntıları:</string>
@@ -711,6 +721,7 @@ Cihazı yerleştirmek için lütfen resimdeki açıya bakın ve tekrar deneyin"<
     <string name="query_tracking">Ekspres teslimatı kontrol et</string>
     <string name="query_tracknum">Ekspres teslimat siparişini kontrol edin</string>
     <string name="qureyGoods">Ürün ara</string>
+    <string name="read_contacts_permissions_text">Bu özelliği kullanabilmek için barkod okuyucunun kişilere erişmesine izin verin</string>
     <string name="recognize">Tara</string>
     <string name="recognize_fail">Kod okunamadı</string>
     <string name="release_lock">Kilidi serbest bırak</string>
@@ -905,12 +916,10 @@ Cihazı yerleştirmek için lütfen resimdeki açıya bakın ve tekrar deneyin"<
     <string name="tuesday_short">Salı</string>
     <string name="tuesday_shortest">S</string>
     <string name="ucrop_crop">Kırp</string>
-    <string name="ucrop_error_input_data_is_absent">Hem giriş hem de çıkış URI belirtilmelidir</string>
     <string name="ucrop_gif_tag">GIF</string>
     <string name="ucrop_label_edit_photo">Fotoğrafı düzenle</string>
     <string name="ucrop_label_original">Orijinal</string>
     <string name="ucrop_menu_crop">Kırp</string>
-    <string name="ucrop_mutate_exception_hint">Bu nedenle L öncesi cihazlarda çalışmasını sağlamak için uygulamanızda renk kaynağını geçersiz kılın (ucrop_color_toolbar_widget)</string>
     <string name="ucrop_rotate">Döndür</string>
     <string name="ucrop_scale">Ölçek</string>
     <string name="uninstall_prompt">Kurulum sırasında sorun oluşursa Ayarlar > Uygulamalar > Uygulamaları yönet > Tarayıcı kısmına gidin kaldıra dokunun ve uygulamayı tekrar kurmayı deneyin</string>
@@ -918,9 +927,12 @@ Cihazı yerleştirmek için lütfen resimdeki açıya bakın ve tekrar deneyin"<
     <string name="url_is_safety">Bu internet sitesi güvenli</string>
     <string name="url_is_unknown">İnternet sitesi güvenliği kontrol edilemiyor</string>
     <string name="url_is_unsafety">Bu internet sitesi güvenli değil</string>
+    <string name="user_agreement">Kullanıcı sözleşmesi</string>
+    <string name="user_notification">İznin geri alınması</string>
     <string name="v7_preference_off">Kapalı</string>
     <string name="v7_preference_on">Açık</string>
     <string name="vender_info_translation_kingsoft">Kingsoft tarafından sağlanmaktadır</string>
+    <string name="version_code">"Sürüm: "</string>
     <string name="visit">Giriş</string>
     <string name="waybill_num">"Sipariş: "</string>
     <string name="web">İnternet sitesi:</string>

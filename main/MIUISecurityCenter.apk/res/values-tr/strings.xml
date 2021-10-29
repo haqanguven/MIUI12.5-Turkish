@@ -158,6 +158,9 @@
     <string name="adjust_traffic_carrier_summary_two_day_before">2 gün önce güncellendi</string>
     <string name="adjust_traffic_carrier_summary_yesterday">Dün güncellendi: %s</string>
     <string name="adjust_traffic_data">Veri kullanımını ayarlayın</string>
+    <string name="adv_permission_text">İzinler</string>
+    <string name="adv_privacy_text">Gizlilik</string>
+    <string name="adv_version_text">Sürüm: %s</string>
     <string name="after_the_lock_screen">Uygulamaları ekranla birlikte kilitleyin</string>
     <string name="afternoon">Öğleden sonra</string>
     <string name="ai_allow_all">Herkes için izin kullanıldığında bildir</string>
@@ -917,6 +920,15 @@ Kişisel kırmızı zarfı destekleyin ve kırmızı zarfı gruplayın
     <string name="battery_status_overheat">Aşırı ısındı</string>
     <string name="battery_status_unknown">Bilinmeyen hata</string>
     <string name="battery_temperature_title">Sıcaklık</string>
+    <string name="beauty_fc_assistant">Ön kamera asistanı</string>
+    <string name="beauty_fc_assistant_summary">Işık doldurmayı kullanın ve ön kamerayla güzelleştirin</string>
+    <string name="beauty_fc_fill_lamp">Işık doldurma</string>
+    <string name="beauty_fc_light">Işık doldurma parlaklığı</string>
+    <string name="beauty_fc_video_call">Görüntülü aramalar için güzelleştirin</string>
+    <string name="beauty_fc_video_call_summary">WeChat görüntülü görüşmeleri sırasında güzelleştirme seçeneklerini gösterir</string>
+    <string name="beauty_fun_filter">Güzelleştirme</string>
+    <string name="beauty_fun_light">Işık doldurma</string>
+    <string name="beauty_settings">Ayarlar</string>
     <string name="before_execute_notify">before_exclude_notify</string>
     <string name="begin_date">Kullanım periyodu sıfırlama tarihi</string>
     <string name="behavior_widget_get_installed_apps">Erişilen uygulamalar</string>
@@ -1230,8 +1242,10 @@ Kişisel kırmızı zarfı destekleyin ve kırmızı zarfı gruplayın
     <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Engellenenler listesine öğe eklemek için</string>
     <string name="custom_define_permission_desc_android.permission.READ_CALL_LOG">Engellenen öğeleri görüntülemek amacıyla arama geçmişine erişmek için</string>
     <string name="custom_define_permission_desc_android.permission.READ_CONTACTS">Engelleme listesi işlevi sağlamak ve acil durumda irtibat kurulacak kişileri aramak için</string>
+    <string name="custom_define_permission_desc_android.permission.READ_SMS">Engellenenler listesini kullanmak ve operatörünüzden gelen mesajları tanımak için</string>
     <string name="custom_define_permission_desc_android.permission.SEND_SMS">Engellenen kişilere mesaj göndermek için</string>
     <string name="custom_define_permission_desc_android.permission.WRITE_CALL_LOG">Arama geçmişine öğe eklemek ve engellenen aramaları silmek için</string>
+    <string name="custom_define_permission_desc_android.permission_group.LOCATION">Konum bilgilerinizi MIUI uyarı merkezine ve acil yardıma sağlamak için</string>
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Virüs taraması yapmak ve cihazınızı optimize etmek için</string>
     <string name="customize_limit_pkg">%s (Özel)</string>
     <string name="customizer_mode_user_define_name">Kurallarım</string>
@@ -1642,6 +1656,7 @@ gönüllüsü"</string>
     <string name="exception_titile">Bir hata oluştu</string>
     <string name="execute_notify">exclude_notify</string>
     <string name="exit">Çıkış</string>
+    <string name="exit_category">exit_category</string>
     <string name="exit_dialog_exit">Çıkış</string>
     <string name="exit_dialog_garbage_clean_message">"Cihazınızdaki çöp miktarı %s'den fazla. Çöp temizlensin mi?"</string>
     <string name="exit_dialog_garbage_clean_message_new">Temizleyici <font color="#0099ff">%s</font> depolama alanı boşaltabilir. Şimdi temizlensin mi?</string>
@@ -2296,6 +2311,12 @@ ve ses değiştiricimizi keşfedin"</string>
     <string name="gtb_dialog_btn_close">Kapalı</string>
     <string name="gtb_dialog_btn_open">Açık</string>
     <string name="gtb_dialog_hint_smart_5g">Bu özelliği ayarlardan açıp kapatabilirsiniz</string>
+    <string name="gtb_dialog_privacy_speed_message">Xunyou oyun hızlandırıcı kullanmak üzeresiniz. Bu hizmet üyelik sürenizi kaydetmek için Mi hesap kimliğinizi toplayacaktır</string>
+    <string name="gtb_dialog_privacy_speed_tips">Xunyou oyun hızlandırıcı gizlilik politikasını okudum ve kabul ediyorum</string>
+    <string name="gtb_dialog_privacy_speed_title">Xunyou oyun hızlandırıcı</string>
+    <string name="gtb_dialog_privacy_voice_message">Xunyou oyun ses değiştirici kullanmak üzeresiniz. Bu hizmet üyelik sürenizi kaydetmek için Mi Hesap Kimliğinizi toplayacaktır</string>
+    <string name="gtb_dialog_privacy_voice_tips">Xunyou oyun ses değiştirici gizlilik politikasını okudum ve kabul ediyorum</string>
+    <string name="gtb_dialog_privacy_voice_title">Xunyou oyun ses değiştirici</string>
     <string name="gtb_dialog_summary_smart_5g">Oyun hızlandırıcı bir 5G ağı algıladığında ağ gecikmesini azaltmak için cihazınızı mevcut en iyi ağa bağlayabilir. Bu özellik şimdi açılsın mı?</string>
     <string name="gtb_dialog_title_smart_5g">5G ağ optimizasyonu</string>
     <string name="gtb_exit_game_to_gtb">Oyun kutusunu aç</string>
@@ -3056,6 +3077,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="open_now">Mobil veriyi kullan</string>
     <string name="open_right_now">Kırmızı zarfları derhal tut</string>
     <string name="open_right_now_short">Hemen kap</string>
+    <string name="open_shut_down_password">@string/ew_guide_start_agree</string>
     <string name="operator_name_cmcc">Çin Mobil</string>
     <string name="operator_name_mi_mobile">Mi Mobil</string>
     <string name="operator_name_telcom">Çin Telekom</string>
@@ -5434,12 +5456,17 @@ Kalan veri miktarı geçen aydan kalan veri miktarınıda içerir"</string>
     <string name="vb_ve_settings_display_style_tips_new">* Bu efektler yalnızca video oynatma alanına uygulanacak</string>
     <string name="vb_ve_settings_pic_border_stronger">Geliştirilmiş konturlar</string>
     <string name="vb_ve_settings_picture_stronger">Geliştirilmiş animasyonlar</string>
+    <string name="vb_video_effects_3d">Surround ses</string>
+    <string name="vb_video_effects_3d_summary">Kulaklıklar ve hoparlörler için ses üretiminin derinliğini artırın</string>
+    <string name="vb_video_effects_3d_surround">Surround ses</string>
     <string name="vb_video_effects_display_style">Stil</string>
     <string name="vb_video_effects_dolby">Dolby Atmos</string>
     <string name="vb_video_effects_dolby_dialog_enhancer">Gelişmiş diyalog</string>
     <string name="vb_video_effects_dolby_headset">" (Yalnızca kulaklıklar)"</string>
     <string name="vb_video_effects_dolby_open">Dolby Atmos açık</string>
     <string name="vb_video_effects_dolby_stereo_expansion">Genişletilmiş stereo</string>
+    <string name="vb_video_effects_liquid_summary">Videolarda diyalog netliğini geliştirin</string>
+    <string name="vb_video_effects_only_headphone">Sadece kulaklıkla çalışır</string>
     <string name="vb_video_effects_setting_black_white">S&amp;B</string>
     <string name="vb_video_effects_setting_cinema">Sinema</string>
     <string name="vb_video_effects_setting_girl">Kızarma</string>
@@ -5457,6 +5484,10 @@ Kalan veri miktarı geçen aydan kalan veri miktarınıda içerir"</string>
     <string name="vb_video_effects_setting_warmth">Ilık</string>
     <string name="vb_video_effects_settings_liquid">Netlik</string>
     <string name="vb_video_effects_settings_stereo">Ses</string>
+    <string name="vb_video_effects_some_headphone">Seçilen kulaklık modelleri tarafından desteklenir</string>
+    <string name="vb_video_effects_spatial">Kafa hareketini takip edin</string>
+    <string name="vb_video_effects_spatial_summary">"Kafa hareketine göre surround sesi ayarlayın
+* Yalnızca oyun kulaklığı modellerinde desteklenir"</string>
     <string name="vb_video_effects_srs_premium_sound">Ses</string>
     <string name="vb_video_super_division">Lüks</string>
     <string name="vb_video_super_division_desc">"≤720p olduğunda otomatik olarak lüks çözünürlük

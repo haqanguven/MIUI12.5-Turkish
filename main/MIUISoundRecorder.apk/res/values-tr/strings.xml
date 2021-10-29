@@ -28,6 +28,8 @@
     <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
     <string name="abc_toolbar_collapse_description">Daralt</string>
     <string name="actionbar_button_up_description">Geri</string>
+    <string name="add_remark_hint">Yorumunuzu buraya girin</string>
+    <string name="add_remark_tip">Açıklama eklemek için dokunun</string>
     <string name="afternoon">ÖS</string>
     <string name="agree_description">Daha eksiksiz bir işlevsel deneyim için lütfen uygulama ağını kabul edin</string>
     <string name="alert_message_clear_records">Seçili kayıtlar silinsin mi?</string>
@@ -35,6 +37,7 @@
     <string name="alert_message_delete_record">Kaydı cihazınızdan silmeniz aynı zamanda kaydın Mi bulutdan da silinmesine neden olacaktır. Şimdi silinsin mi?</string>
     <string name="alert_message_delete_record_title">Kayıt silinsin mi?</string>
     <string name="all_record">Tüm kayıtlar</string>
+    <string name="allowed">Onayla</string>
     <string name="am">ÖÖ</string>
     <string name="app_name">Ses kaydedici</string>
     <string name="app_record">Uygulama kayıtları</string>
@@ -172,6 +175,7 @@
     <string name="earthly_branches_zi">11</string>
     <string name="empty" />
     <string name="empty_recognition_tip">Boş</string>
+    <string name="empty_tips">Kaydı başlatmak için düğmeye dokunun</string>
     <string name="eras_ad">CE</string>
     <string name="eras_bc">BCE</string>
     <string name="err_msg_abandon">Sipariş iptal edildi</string>
@@ -197,6 +201,7 @@
     <string name="error_filename_illegal_char">Dosya adı geçersiz karakterler içeriyor</string>
     <string name="error_filename_too_long">Dosya adı çok uzun</string>
     <string name="error_icon_content_description">Hata</string>
+    <string name="error_remark_too_long">Yorumunuz çok uzun</string>
     <string name="error_sdcard_access">SD karta ulaşılamıyor</string>
     <string name="error_sdcard_unmounted">SD kartı takın</string>
     <string name="evening">Öğleden sonra</string>
@@ -445,8 +450,10 @@ Metne kaydetme şu anda yalnızca mandarin aktarımını desteklemektedir. Aktar
     <string name="no_file">Boş</string>
     <string name="no_network">Ağa bağlanılamadı</string>
     <string name="no_playback_file">Ayrıntıları görüntülemek için bir kayıt seçin</string>
+    <string name="no_records">Burada henüz kayıt yok</string>
     <string name="noon">Öğlen</string>
     <string name="normal_settings_pref_title">Genel ayarlar</string>
+    <string name="not_allowed">Onaylama</string>
     <string name="not_set">Ayarlanmadı</string>
     <string name="notification_message_all_paused">Wifi bağlantısı için bekleniyor</string>
     <string name="notification_playback">Oynatılıyor</string>
@@ -496,6 +503,15 @@ Metne kaydetme şu anda yalnızca mandarin aktarımını desteklemektedir. Aktar
     <string name="pay_error_cancel">Ödeme iptal edildi</string>
     <string name="pay_error_null">Ödeme tamamlanamadı. Hesabınızı kontrol edin</string>
     <string name="pay_error_unknown">Bilinmeyen hata</string>
+    <string name="permission_desc">İzin ayrıntıları</string>
+    <string name="permission_dialog_cancel">İptal et</string>
+    <string name="permission_dialog_ok">Ayarlar</string>
+    <string name="permission_record">Ses kaydı</string>
+    <string name="permission_record_description">Ses kayıt hizmetleri sağlamak için</string>
+    <string name="permission_storage">Depolama alanına erişme</string>
+    <string name="permission_storage_description">Kayıtları yönetmek ve buluttan indirmek için</string>
+    <string name="permission_storage_description_for_download">Buluttan kayıtları indirmek için</string>
+    <string name="permission_storage_description_for_manage_files">Kayıtları yönetmek için</string>
     <string name="play_speed">%1$.1fX hız</string>
     <string name="playback_delete_records">Kaydı sil</string>
     <string name="playback_share_records">Kaydı paylaş</string>
@@ -517,6 +533,7 @@ Metne kaydetme şu anda yalnızca mandarin aktarımını desteklemektedir. Aktar
     <string name="preference_status_bar_indicator_prompt">Kayıt sırasında durum çubuğu kısayolunu göster</string>
     <string name="preference_tip_rename">Kayıtları otomatik olarak adlandır</string>
     <string name="privacy_policy_title">Gizlilik politikası</string>
+    <string name="privacy_settings">Gizlilik</string>
     <string name="recognition_button_add_to_queue">Sıraya ekle</string>
     <string name="recognition_button_cancel">Şimdi değil</string>
     <string name="recognition_button_start">Deşifre et</string>
@@ -586,6 +603,9 @@ Metin ses servisinden daha iyi yararlanmak için aşağıdakileri de bilmeniz ge
     <string name="record_downloading_notification_complete">İndirme işlemi tamamlandı</string>
     <string name="record_downloading_notification_count">%d indiriliyor</string>
     <string name="record_format_preference_title">Kayıt biçimi</string>
+    <string name="record_item_title_multi_choice">Seç</string>
+    <string name="record_item_title_remark">Açıklama ekle</string>
+    <string name="record_item_title_send">Paylaş</string>
     <string name="record_list">Kayıtlar</string>
     <string name="record_list_app">Uygulama kayıtları</string>
     <string name="record_list_call">Arama kayıtları</string>
@@ -597,7 +617,8 @@ Metin ses servisinden daha iyi yararlanmak için aşağıdakileri de bilmeniz ge
     <string name="record_list_item_recognize_text">Metin</string>
     <string name="record_mark_point">İşaretle: %s</string>
     <string name="record_name_hour">.</string>
-    <string name="record_name_minute" />
+    <string name="record_name_minute">​</string>
+    <string name="record_permission_dialog_title">Mikrofon izinleri gerekli</string>
     <string name="record_quliaty_preference_title">Kayıt kalitesi</string>
     <string name="record_resotre">Kayıtları kurtar</string>
     <string name="recorder_record">Ses</string>
@@ -695,10 +716,15 @@ Metin ses servisinden daha iyi yararlanmak için aşağıdakileri de bilmeniz ge
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_recording">Kayıt ediliyor</string>
     <string name="status_bar_recording_pause">Kayıt duraklatıldı</string>
+    <string name="storage_permission_dialog_title">Depolama izinleri gerekli</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Pazar</string>
     <string name="sunday_short">Pazar</string>
     <string name="sunday_shortest">P</string>
+    <string name="tab_all">Tümü</string>
+    <string name="tab_apps">Uygulamalar</string>
+    <string name="tab_call">Aramalar</string>
+    <string name="tab_fm">Radyo</string>
     <string name="tap_to_record">Kayda başlamak için düğmeye dokunun</string>
     <string name="text_btn_backward_3_seconds">3 saniye geri</string>
     <string name="text_btn_complete">Durdur</string>
@@ -781,6 +807,7 @@ Metin ses servisinden daha iyi yararlanmak için aşağıdakileri de bilmeniz ge
     <string name="user_feedback">Geri bildirim</string>
     <string name="v7_preference_off">Kapalı</string>
     <string name="v7_preference_on">Açık</string>
+    <string name="view_privacy">Gizlilik politikasını görüntüle</string>
     <string name="webview_check_network">Ağ ayarları</string>
     <string name="webview_data_error">Bir hata meydana geldi</string>
     <string name="webview_locating_fail">Konumunuz bulunamadı</string>

@@ -64,6 +64,9 @@
     <string name="action_label">Geri dön</string>
     <string name="action_text_card_manager">İptal et</string>
     <string name="actionbar_button_up_description">Geri</string>
+    <string name="ad_card_appPermission">| Yetki</string>
+    <string name="ad_card_appPrivacy">| Gizlilik</string>
+    <string name="ad_card_appVersion">Sürüm: %1$s</string>
     <string name="ad_card_app_size_text">%dM</string>
     <string name="ad_card_down">Şimdi indir</string>
     <string name="ad_card_download_count">%1$d kişi indirdi</string>
@@ -541,6 +544,8 @@
     <string name="gas_detail_title">Doğal gaz ödemesi</string>
     <string name="gas_event_delete_successfully">Doğal gaz ödeme etkinliği başarıyla silindi</string>
     <string name="gas_interval_label">Fatura dönemi</string>
+    <string name="go_open">Ayarlar</string>
+    <string name="go_to_set">Ayarlar</string>
     <string name="grain_buds">Tomurcuk</string>
     <string name="grain_buds_tradition">Tomurcuk</string>
     <string name="grain_in_ear">Mango türleri</string>
@@ -1011,6 +1016,11 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin"</string>
     <string name="premission_description_access_calendar">Takvim etkinliklerine erişmek ve bunları düzenlemek için</string>
     <string name="premission_description_agree">Bu uygulamanın internete bağlanmasına ve yukarıda listelenen zorunlu izinleri vermesine izin verin</string>
     <string name="premission_description_calendar">Etkinliklerinizi eklemek ve görüntülemek için</string>
+    <string name="premission_description_cannot_access_calendar">Bu uygulamayı kullanabilmek için takvim uygulamasına erişim izni verin</string>
+    <string name="premission_description_cannot_access_ringtone">Zil seslerini kullanabilmek için önce gerekli izinleri verin</string>
+    <string name="premission_description_cannot_import_schedule">Takvim dosyalarını içe aktarabilmek için önce gerekli izinleri verin</string>
+    <string name="premission_description_cannot_obtain_contact">Kişilere erişebilmek için önce gerekli izinleri verin</string>
+    <string name="premission_description_cannot_save_picture">Fotoğraf ve videoları kaydedebilmek için önce gerekli izinleri verin</string>
     <string name="premission_description_contact">Kişilerinizin doğum günlerini görüntülemek için</string>
     <string name="premission_description_log">Günlükleri kaydetmek için</string>
     <string name="premission_description_phone_state">Cihaz kimliğini temel alarak cihazınızı tanımlamak için</string>

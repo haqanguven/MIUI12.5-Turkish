@@ -28,9 +28,11 @@
     <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
     <string name="abc_toolbar_collapse_description">Daralt</string>
     <string name="about_device_info">Cihaz detaylarını görüntüle</string>
+    <string name="accept">İzin ver</string>
     <string name="access_token_expired_warning">Weibo hesabının süresi doldu</string>
     <string name="access_token_invalid_warning">Weibo hesabı geçersiz</string>
     <string name="account">Hesap</string>
+    <string name="account_and_password">Şifre</string>
     <string name="account_bind_devices">Cihazlar</string>
     <string name="account_bind_secure_email_title">E-posta adresi ekle</string>
     <string name="account_bind_secure_phone_title">Telefon numarası ekle</string>
@@ -75,7 +77,11 @@ Hesap kimliğiniz: %s"</string>
     <string name="account_user_name_dialog_title">Kullanıcı adınızı girin</string>
     <string name="account_user_other_info">Daha fazla kaynak</string>
     <string name="account_user_phone">Telefon</string>
+    <string name="account_user_phone_show">Telefon: %s</string>
     <string name="account_user_region">Bölge</string>
+    <string name="account_verify_guide_bind_mail_desc">Kurtarma e-postası ekle</string>
+    <string name="account_verify_guide_bind_phone_desc">Kurtarma telefonu ekle</string>
+    <string name="account_verify_guide_set_password_desc">Bir şifre belirle</string>
     <string name="account_xiaomi_service">Hizmetler</string>
     <string name="action_add_phone">Telefon numarası ekle</string>
     <string name="action_retry">Tekrar dene</string>
@@ -103,7 +109,11 @@ Hesap kimliğiniz: %s"</string>
     <string name="binded_description" formatted="false">"%s Mi hesabınıza bağlandı
 Profiliniz %s hesabınızdaki bilgiler doğrultusunda güncellendi"</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
+    <string name="button_agree">Kabul et</string>
+    <string name="button_close">Kapat</string>
+    <string name="button_refuse">Kabul etme</string>
     <string name="button_unbind">Bağlantıyı kes</string>
+    <string name="cancel">İptal et</string>
     <string name="change_activate_email">E-posta adresini değiştir</string>
     <string name="change_email_address">E-posta adresini değiştir</string>
     <string name="change_password">Şifreyi değiştir</string>
@@ -247,6 +257,7 @@ Profiliniz %s hesabınızdaki bilgiler doğrultusunda güncellendi"</string>
     <string name="delete_device_btn">Kaldır</string>
     <string name="delete_device_failed">Cihaz kaldırılamıyor</string>
     <string name="delete_device_notice">Cihaz silindikten sonra cihaz oturumu Mi hesabınızda otomatik olarak kapatılacaktır. Resimlerinize, mesajlarınıza veya hesabınızda depoladığınız diğer içeriklerinize ulaşmak için bu cihazı kullanamayacaksınız</string>
+    <string name="deny">Reddet</string>
     <string name="device_delete_success_message">Eğer bu cihazda oturum açan siz değilseniz, şifrenizi en kısa sürede değiştirin</string>
     <string name="device_delete_success_title">Oturum kapatıldı</string>
     <string name="device_list__header">Cihazlarım</string>
@@ -272,6 +283,7 @@ Bu kodu amirinize gönderin"</string>
     <string name="earthly_branches_zi">11</string>
     <string name="empty" />
     <string name="empty_device_list_notice">Cihaz yok</string>
+    <string name="enable">Ayarlar</string>
     <string name="ep_unsupported">Cihazınız Xiaomi hesabına giriş yapmayı desteklemiyor</string>
     <string name="eras_ad">CE</string>
     <string name="eras_bc">BCE</string>
@@ -287,6 +299,7 @@ Bu kodu amirinize gönderin"</string>
     <string name="facebook_app_id">2263965750590514</string>
     <string name="facebook_login">Facebook ile giriş yap</string>
     <string name="failed_dup_secure_phone_number">Bu telefon numarası zaten başka bir Mi hesabı ile ilişkilendirilmiş durumda</string>
+    <string name="family_share">Aile paylaşımı</string>
     <string name="fb_login_protocol_scheme">fb2263965750590514</string>
     <string name="find_device">Cihazı bul</string>
     <string name="find_device_access_denied">Durum alınamıyor. Erişim engellendi</string>
@@ -316,62 +329,64 @@ Bu kodu amirinize gönderin"</string>
     <string name="find_device_set_lost_model">Kayıp modu</string>
     <string name="find_device_title">Cihazı bul</string>
     <string name="find_device_unknown_error">Cihaz durumu alınamıyor. Bir veya iki dakika bekleyin ve tekrar deneyin</string>
+    <string name="find_equipment">Cihazı bul</string>
     <string name="fmt_chinese_date">N-e</string>
     <string name="fmt_date">D</string>
-    <string name="fmt_date_day">dd</string>
+    <string name="fmt_date_day">d</string>
     <string name="fmt_date_long_month">MMMM</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month">MMMM yyyy</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
-    <string name="fmt_date_numeric_day">dd</string>
-    <string name="fmt_date_numeric_month">MM</string>
-    <string name="fmt_date_numeric_month_day">dd/MM</string>
+    <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
+    <string name="fmt_date_numeric_day">d</string>
+    <string name="fmt_date_numeric_month">M</string>
+    <string name="fmt_date_numeric_month_day">d-M</string>
     <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">MM/yyyy</string>
-    <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
-    <string name="fmt_date_short_month">MM</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
+    <string name="fmt_date_numeric_year_month">M-yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
+    <string name="fmt_date_short_month">MMM</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
     <string name="fmt_date_time">D T</string>
-    <string name="fmt_date_time_timezone">zD T</string>
-    <string name="fmt_date_timezone">zD</string>
+    <string name="fmt_date_time_timezone">D T z</string>
+    <string name="fmt_date_timezone">D z</string>
     <string name="fmt_date_year">yyyy</string>
     <string name="fmt_time">T</string>
-    <string name="fmt_time_12hour">hh</string>
-    <string name="fmt_time_12hour_minute">hh:mm</string>
-    <string name="fmt_time_12hour_minute_pm">hh:mm aa</string>
-    <string name="fmt_time_12hour_minute_second">hh:mm:ss</string>
-    <string name="fmt_time_12hour_minute_second_millis">hh:mm:ss.S</string>
-    <string name="fmt_time_12hour_minute_second_millis_pm">hh:mm:ss.S aa</string>
-    <string name="fmt_time_12hour_minute_second_pm">hh:mm:ss aa</string>
-    <string name="fmt_time_12hour_pm">hh aa</string>
-    <string name="fmt_time_24hour">H</string>
-    <string name="fmt_time_24hour_minute">HH:mm</string>
-    <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
-    <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
-    <string name="fmt_time_millis">S</string>
-    <string name="fmt_time_minute">m</string>
-    <string name="fmt_time_minute_second">m:s</string>
-    <string name="fmt_time_minute_second_millis">m:s.S</string>
-    <string name="fmt_time_second">s</string>
-    <string name="fmt_time_second_millis">s.S</string>
-    <string name="fmt_time_timezone">zT</string>
+    <string name="fmt_time_12hour">"h 'o''clock'"</string>
+    <string name="fmt_time_12hour_minute">h:mm</string>
+    <string name="fmt_time_12hour_minute_pm">h:mm a</string>
+    <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
+    <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
+    <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
+    <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
+    <string name="fmt_time_12hour_pm">ha</string>
+    <string name="fmt_time_24hour">"H 'o''clock'"</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
+    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
+    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
+    <string name="fmt_time_millis">"S'ms'"</string>
+    <string name="fmt_time_minute">"m'min'"</string>
+    <string name="fmt_time_minute_second">"m'min' s's'"</string>
+    <string name="fmt_time_minute_second_millis">"m'min' s.S's'"</string>
+    <string name="fmt_time_second">"s's'"</string>
+    <string name="fmt_time_second_millis">"s.S's'"</string>
+    <string name="fmt_time_timezone">T z</string>
     <string name="fmt_timezone">z</string>
     <string name="fmt_weekday">W</string>
-    <string name="fmt_weekday_date">DW</string>
-    <string name="fmt_weekday_date_time">DW T</string>
-    <string name="fmt_weekday_date_time_timezone">zDW T</string>
-    <string name="fmt_weekday_date_timezone">zDW</string>
+    <string name="fmt_weekday_date">W, D</string>
+    <string name="fmt_weekday_date_time">W, D T</string>
+    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
+    <string name="fmt_weekday_date_timezone">W, D z</string>
     <string name="fmt_weekday_long">EEEE</string>
     <string name="fmt_weekday_short">E</string>
     <string name="fmt_weekday_time">W T</string>
-    <string name="fmt_weekday_time_timezone">zW T</string>
-    <string name="fmt_weekday_timezone">zW</string>
+    <string name="fmt_weekday_time_timezone">W T z</string>
+    <string name="fmt_weekday_timezone">W z</string>
     <string name="for_diagnosis_usage_only">Yalnızca sorunları bulmak için kullanılır</string>
     <string name="friday">Cuma</string>
     <string name="friday_short">Cuma</string>
     <string name="friday_shortest">C</string>
+    <string name="get_back_password">Şifreyi sıfırla</string>
     <string name="get_back_pwd">Şifre sıfırlama</string>
     <string name="get_device_list_failed">Cihaz listesi alınamıyor</string>
     <string name="get_identity_auth_url_failed">Kimlik doğrulanamadı</string>
@@ -379,6 +394,7 @@ Bu kodu amirinize gönderin"</string>
     <string name="get_phone_verifycode_exceed_limit">Bu numaraya çok fazla sayıda doğrulama kodu gönderildi. 24 saat bekleyin ve ardından yeniden deneyin</string>
     <string name="google">Google</string>
     <string name="google_login">Google ile giriş yap</string>
+    <string name="goto_accept">Tamam</string>
     <string name="guest_account_label">Mi ziyaretçi hesabı</string>
     <string name="health_action_activate">Etkinleştir</string>
     <string name="health_action_install">Yükle</string>
@@ -414,15 +430,18 @@ Bu kodu amirinize gönderin"</string>
     <string name="kr_permission_sms_desc">Otomatik doldurma doğrulama kodları için</string>
     <string name="kr_permission_storage_desc">Kayıt günlüğünü kaydetmek için</string>
     <string name="loading_micloud_sync_data">Yalnızca bir saniye</string>
+    <string name="login_3rd_app_with_system_account">"%s'de oturum açın"</string>
     <string name="login_check_find_device">Cihaz güvenlik bilgileri alınıyor</string>
     <string name="login_check_find_device_failed_title">Cihazı bul durumu kontrol edilemedi</string>
-    <string name="login_find_device_bind">Bu cihaz mevcut Mi hesabı (%s) ile ilişkilendirilmiş durumda. Cihazı doğrulamak için şifreyi girin</string>
+    <string name="login_find_device_bind">Bu cihaz mevcut Mi hesabı (%s) ile ilişkilendirilmiş durumdadır</string>
+    <string name="login_with_other">Daha fazla seçenek</string>
     <string name="logout_account">Oturumu kapat</string>
     <string name="logout_failed">Oturum kapatılamıyor</string>
     <string name="mi_account_identity_title">Kimliğinizi doğrulayın</string>
     <string name="mi_finance">Finansım</string>
     <string name="mi_finance_info">Yeni kullanıcılar için bonuslar</string>
     <string name="mi_health">Xiaomi sağlık</string>
+    <string name="mi_member">Mi topluluk</string>
     <string name="mi_vip_info">Ayrıcalıkları görüntüle</string>
     <string name="midnight">Gece</string>
     <string name="mipay">Ödeme</string>
@@ -433,6 +452,8 @@ Bu kodu amirinize gönderin"</string>
     <string name="mipay_indentity_done">Doğrulandı</string>
     <string name="mipay_others">Diğer</string>
     <string name="mipay_transit_card">Toplu taşıma kartı</string>
+    <string name="miuix_access_state_desc">Seçildi</string>
+    <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Seçimi kaldır</string>
     <string name="miuix_appcompat_action_mode_select_all">Tümünü seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Öğeleri seç</string>
@@ -447,6 +468,7 @@ Bu kodu amirinize gönderin"</string>
     <string name="miuix_appcompat_select_all">Tümünü seç</string>
     <string name="miuix_appcompat_select_all_description">Tümünü seç</string>
     <string name="miuix_appcompat_select_item">Öğeleri seç</string>
+    <string name="miuix_indexer_selected">%s seçildi</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için çek</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Yenileme tamamlandı</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor</string>
@@ -503,14 +525,18 @@ Bu kodu amirinize gönderin"</string>
     <string name="my_device_title">Mevcut cihaz</string>
     <string name="need_install_wechat">"Önce WeChat'i yükleyin"</string>
     <string name="night">ÖS</string>
+    <string name="no_install">Yüklü değil</string>
     <string name="no_network_btn">Yenile</string>
     <string name="no_network_title">Ağa bağlanılamıyor</string>
+    <string name="no_password_set">Ayarlanmadı</string>
     <string name="no_phone">Telefon numarası yok</string>
     <string name="no_response_retry">Cevap yok. Lütfen yeniden deneyin</string>
     <string name="no_sim_card_or_unactivated">Sim kart yok veya etkinleştirilmedi</string>
     <string name="nobind">Bağlı değil</string>
     <string name="noon">ÖS</string>
     <string name="not_set">Ayarlanmadı</string>
+    <string name="notify_bind_security_phone">Kurtarma telefonu ekle</string>
+    <string name="notify_complete_security_info">Kurtarma bilgisi ekle</string>
     <string name="notify_network_restricted_content_bg_network">Mi hesabı hizmetinin internet erişimi kısıtlandı. İzin vermek için dokunun</string>
     <string name="notify_network_restricted_content_hidden_state">Mi hesabı hizmetinin arkaplan etkinliği kısıtlandı. İzin vermek için dokunun</string>
     <string name="notify_network_restricted_content_mobile_network">Mi hesabı hizmetinin internet erişimi kısıtlandı. İzin vermek için dokunun</string>
@@ -520,6 +546,13 @@ Bu kodu amirinize gönderin"</string>
     <string name="oauth_scopes_intro"><font color="#%1$s">&lt;fon</font>t color=#%1$s>%2$s&lt;/font> aşağıdaki izinleri alacak:&lt;br> &lt;br> %3$s</string>
     <string name="oauth_title">Mi hesabı ile oturum açın</string>
     <string name="ok">Tamam</string>
+    <string name="operator_mobile">Çin Mobil</string>
+    <string name="operator_mobile_agreement">China Mobil tarafından sağlanan doğrulama hizmetleri</string>
+    <string name="operator_other">Phone number</string>
+    <string name="operator_telecom">Çin Telekom</string>
+    <string name="operator_telecom_agreement">eSurfing hesabı tarafından sağlanan doğrulama hizmetleri</string>
+    <string name="operator_unicom">Çin Unicom</string>
+    <string name="operator_unicom_agreement">Çin Unicom tarafından sağlanan doğrulama hizmetleri</string>
     <string name="optional_permissions">İsteğe bağlı izinler</string>
     <string name="passport_Resend">Yeniden gönder</string>
     <string name="passport_access_denied">Erişim engellendi</string>
@@ -536,6 +569,7 @@ Bu kodu amirinize gönderin"</string>
     <string name="passport_activing_account">Etkinleştiriliyor</string>
     <string name="passport_adding_account">Hesap ekleniyor</string>
     <string name="passport_area_code_hot">Sık kullanılanlar</string>
+    <string name="passport_area_code_others">Farklı bir önek kullan</string>
     <string name="passport_area_code_title">Ülke kodu</string>
     <string name="passport_auto_generate_pwd">Güvenli şifre oluştur</string>
     <string name="passport_back">Geri</string>
@@ -587,6 +621,7 @@ Bu kodu amirinize gönderin"</string>
     <string name="passport_error_sim_not_ready">Sim kart bulunamıyor</string>
     <string name="passport_error_ssl_hand_shake">Sunucuya bağlanılamadı</string>
     <string name="passport_error_unknown">Oturum açılamıyor</string>
+    <string name="passport_error_user_agreement_error">Önce şartlar ve koşulları kabul edin</string>
     <string name="passport_error_user_name">Girmiş olduğunuz kullanıcı adı geçersiz</string>
     <string name="passport_error_verify_activator_phone_message">Sim kart hizmetinizin etkin durumda olduğundan ve cihazın bir ağa bağlı olduğundan emin olun</string>
     <string name="passport_error_verify_activator_phone_title">Telefon numarası doğrulanamadı</string>
@@ -732,6 +767,7 @@ Bu kodu amirinize gönderin"</string>
     <string name="passport_title_reg">Bir hesap oluşturun</string>
     <string name="passport_trust_device">Bu cihazı onaylı cihazlara ekle</string>
     <string name="passport_trying_read_verify_code_sms">Doğrulama kodu alınıyor</string>
+    <string name="passport_tz_invalid">Güvenlik riskleri bulundu. Bu cihaz rootlanmış veya flash edilmiş olabilir. Diğer oturum açma seçeneklerini deneyin</string>
     <string name="passport_uplink_reg">Telefon numarası kullan</string>
     <string name="passport_uplink_send_sms_hint">Oluşturulmuş bir mesajın bulunduğu sayfaya yeniden yönlendirildikten sonra gönder düğmesine dokunun</string>
     <string name="passport_uplink_slot1_reg">"Sim 1'i kullan"</string>
@@ -770,14 +806,25 @@ Bu kodu amirinize gönderin"</string>
     <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="permission_desc_read_sms">Otomatik doldurma doğrulama kodları için</string>
+    <string name="permission_desc_write_external_storage">Geri bildirim günlükleri yüklemek için</string>
     <string name="permission_group_contacts">Kişiler</string>
     <string name="permission_group_phone">Telefon</string>
     <string name="permission_group_sms">Mesaj</string>
     <string name="permission_group_storage">Depolama</string>
+    <string name="permission_instructions">İzin kullanımı</string>
+    <string name="permission_read_sms">Mesajlara erişim</string>
+    <string name="permission_withdraw">Geri çek</string>
+    <string name="permission_write_external_storage">Öğelere erişin ve depoya kaydedin</string>
+    <string name="personal_info_desc">Photo, nickname, and more</string>
     <string name="phone_num_use_for">Telefon numarası aşağıdakiler için kullanılır:</string>
     <string name="photoPickerNotFoundText">Kullanılabilir fotoğraf yok</string>
     <string name="pm">ÖS</string>
     <string name="preference_copied">%1$s panoya kopyalandı</string>
+    <string name="privacy_policy_reject_confirm_msg">"Gizlilik politikasının yeni sürümünü kabul etmedikçe Mi hesabını kullanmaya devam edemezsiniz. Güncellenen Mi hesabı &lt;a href=%1$s>gizlilik politikasını&lt;/a> kabul ediyor musunuz?"</string>
+    <string name="privacy_policy_reject_confirm_title">"Mi hesabını kullanamıyorum"</string>
+    <string name="privacy_policy_update_msg">Mi hesabı gizlilik politikası güncellendi:&lt;br/>%1$s&lt;br/>Yeni sürüm &lt;a href=%2$s>&lt;u>gizlilik politikasını &lt;/u>&lt;/a> okuyun ve kabul edin</string>
+    <string name="privacy_policy_update_title">Güncellenmiş gizlilik politikası</string>
     <string name="provision_back">Geri</string>
     <string name="provision_next">Sonraki</string>
     <string name="provision_skip_underline">Atla</string>
@@ -791,6 +838,12 @@ Bu kodu amirinize gönderin"</string>
     <string name="recycle_phone_notification_title">Mi hesabı güvenlik riski</string>
     <string name="removing_account">Oturum kapatılıyor</string>
     <string name="replace_binded_phone">Telefonu değiştir</string>
+    <string name="request_open_permission">Gerekli izinler</string>
+    <string name="request_use_camera_message">"Mi hesabının telefonunuzun kamerasına erişmesine izin verilsin mi?"</string>
+    <string name="request_use_camera_title">Kameraya erişim</string>
+    <string name="request_use_gallery_message">Mi hesabının galeriye erişmesine izin verilsin mi?</string>
+    <string name="request_use_gallery_title">Galeriye erişim</string>
+    <string name="request_use_writing_clipboard_message">Mi hesabı kimliğinizi kopyalamak için Mi hesabının öğeleri panoya kaydetmesine izin verin</string>
     <string name="resend_active_email">Tekrar gönder</string>
     <string name="resend_email_reach_limit_message">Çok fazla sayıda doğrulama e-postası talep ettiniz. Doğrulama e-postasının gelen kutunuzun gereksiz klasöründe olup olmadığından emin olun</string>
     <string name="resend_email_reach_limit_title">E-posta gönderilemiyor</string>
@@ -798,6 +851,9 @@ Bu kodu amirinize gönderin"</string>
     <string name="restart_action">Yeniden başlat</string>
     <string name="restart_phone_bind_message">Kısa mesajın size ulaşması biraz zaman alabilir. Yinede yeniden başlamak istiyor musunuz?</string>
     <string name="restart_phone_bind_title">Kurtarma telefon numarasını değiştir</string>
+    <string name="revoke_privacy_policy">İzni geri al</string>
+    <string name="revoke_privacy_policy_instructions">"Devam ederseniz Mi hesabı gizlilik politikasına verdiğiniz izni geri çekeceksiniz. Kişisel bilgilerinizi toplamaya son vereceğiz. Halihazırda toplanan ve saklanan kişisel bilgiler, aksi gerekmedikçe yürürlükteki kanun ve yönetmeliklere uygun olarak belirli bir süre içinde silinecektir. Mi hesap hizmetlerini gerekli kişisel bilgilerin toplanmasına dayalı olarak sunduğundan onayınızı geri çekmeniz Mi hesap hizmetlerini kabul etmeyi reddetmeniz olarak değerlendirilecektir. İzni şimdi geri almak istiyor musunuz?"</string>
+    <string name="revoke_privacy_policy_title">İzni geri al</string>
     <string name="risky_pwd_not_allow">Yeni şifre güvenli değil. Başka bir tane ayarla</string>
     <string name="same_new_and_old_pwd">Mevcut şifre ile aynı olamaz</string>
     <string name="saturday">Cumartesi</string>
@@ -820,6 +876,7 @@ Bu kodu amirinize gönderin"</string>
     <string name="search_user_detail_path">Ayarlar/Mi hesabı/Kişisel bilgiler</string>
     <string name="search_user_detail_top_key_words">Kişisel bilgiler,Profil fotoğrafını değiştir,Kullanıcı adını değiştir,Takma adı değiştir,Doğum gününü değiştir,Cinsiyeti değiştir</string>
     <string name="select_all">Tümünü seç</string>
+    <string name="self_account_info">Kişisel bilgi</string>
     <string name="send">Gönder</string>
     <string name="send_diagnosis_log">Kayıt günlüğü gönder</string>
     <string name="send_email_activate_message">Doğrulama e-postası gönderildi</string>
@@ -832,6 +889,7 @@ Bu kodu amirinize gönderin"</string>
     <string name="sim_changed_notification_msg">Kurtarma telefonunuzu güncellemek ve hesabınızı daha güvenli tutmak için dokunun</string>
     <string name="sim_changed_notification_title">Telefon numarası değişti mi?</string>
     <string name="sina_weibo">Sina Weibo</string>
+    <string name="skip_query_account">Atla</string>
     <string name="sms_send_success">Gönderildi</string>
     <string name="sns_access_token_expired_warning">Hesap oturumu sona erdi. Bu hesaba yeniden bağlanmak için tekrar oturum açın</string>
     <string name="solar_term_autumn_begins">Sonbahar başlıyor</string>
@@ -912,6 +970,7 @@ Bu kodu amirinize gönderin"</string>
     <string name="the_united_nations_day">Birleşmiş milletler günü</string>
     <string name="the_valentines_day">Sevgililer günü</string>
     <string name="the_water_lantern_festival">Su feneri festivali</string>
+    <string name="third_party_login">Üçüncü taraf hesaplar</string>
     <string name="thursday">Perşembe</string>
     <string name="thursday_short">Perşembe</string>
     <string name="thursday_shortest">P</string>
@@ -944,6 +1003,18 @@ Bu kodu amirinize gönderin"</string>
     <string name="used_cloud_storage_info">Kullanılan depolama alanı: %s</string>
     <string name="user_avatar_update_title">Profil resmini değiştir</string>
     <string name="user_avatar_uploading">Yükleniyor</string>
+    <string name="user_instruction_all_purpose">Mi hesaba hoş geldiniz. Hesabınızı Xiaomi, Mi.com, Xiaomi bulut ve GetApps gibi bağlı şirketler tarafından sağlanan hizmetlere erişmek için kullanabilirsiniz. Mi paraları alabilir, sanal ürünler satın alabilir ve oyunlar, temalar vede e-kitaplar dahil değerli hizmetlerden yararlanabilirsiniz</string>
+    <string name="user_instruction_tip">Giriş yapabilme, şartlar ve koşulları okuyup kabul edebilmek için</string>
+    <string name="user_license_with_3rd_app"><Data>"Mi hesabımla oturum açarak &lt;a href=%1$s>kullanıcı sözleşmesini&lt;/a> ve &lt;a href=%2$s>gizlilik politikasını &lt;/a> vede Mi hesabı &lt;a href=%3$s>kullanıcı sözleşmesi&lt;/a> ve &lt;a href=%4$s>gizlilik politikasını&lt;/a> okuduğumu ve kabul ettiğimi onaylıyorum"</Data></string>
+    <string name="user_license_with_3rd_app_mobile"><Data>"&lt;a href=%1$s>Kullanıcı sözleşmesini&lt;/a> ve &lt;a href=%2$s>gizlilik politikasını&lt;/a> Mi hesabının &lt;a href=%3$s>kullanıcı sözleşmesini&lt;/a> ve &lt;a href=%4$s>gizlilik politikasını&lt;/a> ayrıca &lt;a href=%5$s>China Mobil doğrulama hizmetlerinin hüküm ve koşullarını okudum ve kabul ediyorum&lt;/a>."</Data></string>
+    <string name="user_license_with_3rd_app_no_operator"><Data>"I've read and agreed to &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a> and Mi Account's &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>."</Data></string>
+    <string name="user_license_with_3rd_app_telcom"><Data>"I've read and agreed to &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, Mi Account's &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>, as well as &lt;a href=%5$s>Terms and conditions of eSurfing account verification services&lt;/a>."</Data></string>
+    <string name="user_license_with_3rd_app_unicom"><Data>"I've read and agreed to &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, Mi Account's &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>, as well as &lt;a href=%5$s>Terms and conditions of China Unicom verification services&lt;/a>."</Data></string>
+    <string name="user_license_with_out_3rd_app_no_operator"><Data>"I've read and agreed to Mi Account's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>."</Data></string>
+    <string name="user_license_without_3rd_app"><Data>"I've read and agreed to Mi Account's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>."</Data></string>
+    <string name="user_license_without_3rd_mobile"><Data>"I've read and agreed to Mi Account's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, as well as &lt;a href=%3$s>Terms and conditions of China Mobile verification services&lt;/a>."</Data></string>
+    <string name="user_license_without_3rd_telcom"><Data>"I've read and agreed to Mi Account's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, as well as &lt;a href=%3$s>Terms and conditions of eSurfing account verification services&lt;/a>."</Data></string>
+    <string name="user_license_without_3rd_unicom"><Data>"I've read and agreed to Mi Account's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, as well as &lt;a href=%3$s>Terms and conditions of China Unicom verification services&lt;/a>."</Data></string>
     <string name="v7_preference_off">Kapalı</string>
     <string name="v7_preference_on">Açık</string>
     <string name="vip_account_settings">Vip ayarları</string>

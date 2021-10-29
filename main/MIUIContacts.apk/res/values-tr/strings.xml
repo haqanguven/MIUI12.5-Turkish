@@ -129,6 +129,8 @@
     <string name="bh_gb">GB</string>
     <string name="bh_get_balance_success">Başarıyla kontrol edildi. Bilgiler burada gecikmeli olarak güncellenebilir</string>
     <string name="bh_get_charge_phone_number">Kişilerden seç</string>
+    <string name="bh_goto_granted">Onayla</string>
+    <string name="bh_goto_open">Aç</string>
     <string name="bh_goto_set">Ayarla</string>
     <string name="bh_input_hint">Telefon numarasını gir</string>
     <string name="bh_input_total_limit">Veri miktarını gir</string>
@@ -168,7 +170,10 @@
     <string name="bh_permission_contact_desc">Kişilerinizin bakiyesini doldurmak için</string>
     <string name="bh_permission_get_accounts_desc">Sipariş vermek ve durumlarını kontrol etmek için</string>
     <string name="bh_permission_read_call_log_desc">Arama süresini görüntülemek için</string>
+    <string name="bh_permission_read_call_log_desc_and_reason">Arama süresini görüntülemek için arama kaydını okuyun</string>
+    <string name="bh_permission_read_contact_desc_and_reason">Kişilerinizin bakiyesini doldurmak için kişileri okuyun</string>
     <string name="bh_permission_read_phone_state_desc">Telefon numaralarını ve ilgili operatör bilgilerini görüntülemek için</string>
+    <string name="bh_permission_showing">İzin ayrıntıları</string>
     <string name="bh_pkg_data_cant_query">Operatör kısıtlamaları nedeniyle ayrıntılar görüntülenemiyor</string>
     <string name="bh_please_check_operation">Lütfen taşıyıcının doğru ayarlanıp ayarlanmadığını kontrol edin</string>
     <string name="bh_please_complete_sim_before_charge">Yüklemek için önce bir telefon numarası ekleyin</string>
@@ -504,7 +509,7 @@
     <string name="create_group_dialog_title">Yeni grup oluştur</string>
     <string name="create_qrcode_fail_message">QR kodu oluşturulamıyor</string>
     <string name="cta_content_seg1"><Data>"&lt;strong>Önemli uyarı
-Aşağıdaki kabul et seçeneğine dokunarak şunları kabul ediyorsunuz: &lt;font color=#33aaff>&lt;a href ='https://static.account.xiaomi.com/html/agreement/account/en.html'>Mi hesabı hizmet sözleşmesi&lt;/a>&lt;/font>, &lt;font color=#33aaff>&lt;a href ='https://cnbj1-fds.api.xiaomi.com/mimobile-static/mi-carrier-services-useragreement.html'>Mi dolaşım kullanıcı sözleşmesi&lt;/a>&lt;/font>, ve &lt;font color=#33aaff>&lt;a href ='http://www.miui.com/res/doc/privacy/en.html'>gizlilik politikası&lt;/a>&lt;/font>. Kabul etmeden önce bu belgeleri dikkatlice okuyun ve ilgili tüm hüküm ve koşulları tam olarak anlayın&lt;/strong>"</Data></string>
+Aşağıdaki kabul et seçeneğine dokunarak &lt;font color=#33aaff>&lt;a href ='https://static.account.xiaomi.com/html/agreement/account/en.html'>Mi hesabı hizmet sözleşmesini&lt;/a>&lt;/font>, &lt;font color=#33aaff>&lt;a href ='https://cnbj1-fds.api.xiaomi.com/mimobile-static/mi-carrier-services-useragreement.html'>Mi dolaşım kullanıcı sözleşmesini&lt;/a>&lt;/font>, ve &lt;font color=#33aaff>&lt;a href ='http://www.miui.com/res/doc/privacy/en.html'>Gizlilik politikasını&lt;/a>&lt;/font> kabul etmiş olursunuz. Kabul etmeden önce bu belgeleri dikkatlice okuyun ve ilgili tüm hüküm ve koşulları tam olarak anlayın&lt;/strong>"</Data></string>
     <string name="cta_content_seg2">"
 Mi dolaşımın normal şekilde çalışması için internete bağlanması ve konum bilgilerinize erişmesi gerekir. Ek olarak Mi dolaşım kişisel bilgilerinizi toplayabilir, kullanabilir ve paylaşabilir. Kişisel bilgileriniz yerel yasa ve yönetmeliklere uygun olarak korunacaktır"</string>
     <string name="cta_dialog_cancel">Çıkış</string>
@@ -900,6 +905,8 @@ Neden: %s"</string>
     <string name="miprofile_switch_off_alertdialog_message">Diğer kişilerle kişi kartı değişimi yapamayacaksınız</string>
     <string name="missing_name">(İsim yok)</string>
     <string name="missing_required_permission">Bir gerekli izni devre dışı bıraktınız</string>
+    <string name="miuix_access_state_desc">Seçildi</string>
+    <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Seçimi kaldır</string>
     <string name="miuix_appcompat_action_mode_select_all">Tümünü seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Öğeleri seç</string>
@@ -917,6 +924,8 @@ Neden: %s"</string>
     <string name="miuix_appcompat_select_all">Tümünü seç</string>
     <string name="miuix_appcompat_select_all_description">Tümünü seç</string>
     <string name="miuix_appcompat_select_item">Öüeleri seç</string>
+    <string name="miuix_indexer_collect">Koleksiyonlar</string>
+    <string name="miuix_indexer_selected">%s seçildi</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için çek</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Yenileme tamamlandı</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor</string>
@@ -1033,6 +1042,7 @@ Neden: %s"</string>
     <string name="permission_notice_desc_access_fine_location">Bluetooth aracılığıyla diğer cihazlardan kişileri içe aktarmak için</string>
     <string name="permission_notice_desc_add_voicemail">Sesli posta ve sesli mesaj işlevini kullanmak için</string>
     <string name="permission_notice_desc_call_phone">Üçüncü taraf uygulamalarda arama yapmak için</string>
+    <string name="permission_notice_desc_call_phone_for_pad">Üçüncü taraf uygulamalarda arama yapmak için</string>
     <string name="permission_notice_desc_camera">Profil fotoğrafları çekmek için</string>
     <string name="permission_notice_desc_read_call_logs">Arama geçmişini görüntülemek için</string>
     <string name="permission_notice_desc_read_contacts">Kişileri görüntülemek için</string>
@@ -1129,7 +1139,10 @@ Neden: %s"</string>
     <string name="privacy_password_title4">Şifre güncellendi</string>
     <string name="privacy_settings_call_phone">Yap</string>
     <string name="privacy_settings_call_phone_description">Üçüncü taraf uygulamalarda arama yapmak için</string>
+    <string name="privacy_settings_call_phone_description_for_pad">Üçüncü taraf uygulamalarda arama yapmak için</string>
+    <string name="privacy_settings_call_phone_for_pad">Arama yapma</string>
     <string name="privacy_settings_contacts">Kişiler ve telefon</string>
+    <string name="privacy_settings_contacts_for_pad">Gizlilik</string>
     <string name="privacy_settings_mallowed">Onayla</string>
     <string name="privacy_settings_mnotallowed">Onaylama</string>
     <string name="privacy_settings_permission_description">İzin ayrıntıları</string>
@@ -1438,6 +1451,7 @@ Başlamak için ekranınızın altındaki birleştir simgesine dokunun"</string>
     <string name="toast_not_show_read_contacts_perm_req">Kişileri görüntüleyebilmek için önce bu uygulamanın kişilere erişmesine izin verin</string>
     <string name="toast_not_show_read_phone_state_perm_req">Bu uygulamayı Sim kartınızla kullanabilmek için önce bu uygulamanın cihaz bilgilerine erişmesine izin verin</string>
     <string name="toast_not_show_storage_perm_req">Profil fotoğrafları ekleyebilmek ve vKartları içe aktarabilmek için önce bu uygulamanın depolama alanına erişmesine izin verin</string>
+    <string name="toast_not_show_storage_perm_req_for_pad">Profil fotoğrafları ekleyebilmek ve vKartları içe aktarabilmek için önce bu uygulamanın depolama alanına erişmesine izin verin</string>
     <string name="toast_not_show_write_calllogs_perm_req">Arama geçmişini güncel tutabilmek için önce bu uygulamanın arama geçmişini düzenlemesine izin verin</string>
     <string name="toast_not_show_write_contacts_perm_req">Kişileri görüntüleyebilmek için önce bu uygulamanın kişileri düzenlemesine izin verin</string>
     <string name="toast_start_intent_failed">Bu işlemi yapabilecek uygulama bulunamadı</string>

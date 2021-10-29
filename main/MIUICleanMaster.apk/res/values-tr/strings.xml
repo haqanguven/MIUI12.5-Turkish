@@ -55,7 +55,13 @@
     <string name="activity_title_white_list">İstisnalar</string>
     <string name="ad_install_success_dialog_lunch">Aç</string>
     <string name="ad_install_success_dialog_title">%1$s başarıyla yüklendi. Şimdi açılsın mı?</string>
-    <string name="afternoon">ÖS</string>
+    <string name="ad_text_adx">Reklam</string>
+    <string name="ad_text_btn_download">Yükle</string>
+    <string name="ad_text_develop">Geliştirici: %1$s</string>
+    <string name="ad_text_permission">Yetki</string>
+    <string name="ad_text_privacy">Gizlilik</string>
+    <string name="ad_text_version">Sürüm: %1$s</string>
+    <string name="afternoon">Öğleden sonra</string>
     <string name="am">ÖÖ</string>
     <string name="analying">Analiz ediliyor</string>
     <string name="apk_status_damage">Bozuk</string>
@@ -730,6 +736,7 @@
     <string name="miuix_appcompat_select_all">Tümünü seç</string>
     <string name="miuix_appcompat_select_all_description">Tümünü seç</string>
     <string name="miuix_appcompat_select_item">Öğeleri seç</string>
+    <string name="miuix_indexer_collect">Koleksiyonlar</string>
     <string name="miuix_indexer_selected">%s seçildi</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için çek</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Yenileme tamamlandı</string>

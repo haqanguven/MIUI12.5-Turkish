@@ -268,6 +268,9 @@
     <string name="friday_short">Cum</string>
     <string name="friday_shortest">Cum</string>
     <string name="functions_are_being_developed">Bu özellik yakında hazır olacak. Bizi izlemeye devam edin</string>
+    <string name="global_pad">Tabletim</string>
+    <string name="global_pc">Laptobum</string>
+    <string name="global_phone">Telefonum</string>
     <string name="go_to_settings">Ayarlar</string>
     <string name="guide_summary_1">Diğer kişi bildirim çubuğunda anahtara dokunabilir</string>
     <string name="guide_summary_2">Öğeleri göndermek istediğiniz cihazı seçin ve simgeye dokunun</string>
