@@ -267,6 +267,10 @@
     <string name="night">Akşam</string>
     <string name="noon">Gün ortası</string>
     <string name="not_set">Ayarlanmadı</string>
+    <string name="pa_accessibility_home_search">Aramayı etkinleştirmek için iki kez dokunun</string>
+    <string name="pa_accessibility_home_widget_drag">Sürükle</string>
+    <string name="pa_accessibility_home_widget_drag_move">%1$d satır %2$d sütununa git</string>
+    <string name="pa_accessibility_home_widget_drop_workspace">%1$d satır %2$d sütununa yerleştirildi</string>
     <string name="pa_accessibility_picker_back">Araç mağazası. Geri dönme eylemi seçildi. Geri gitmek için iki kez dokunun</string>
     <string name="pa_accessibility_picker_search_cancel">Araç arama çubuğu. İptal etmek için iki kez dokunun</string>
     <string name="pa_accessibility_picker_search_tips">Araç arama çubuğu. Aramak için iki kez dokunun</string>
@@ -511,6 +515,7 @@
     <string name="pa_stock_nsdk">Nasdaq</string>
     <string name="pa_stock_red_grow">Kırmızı - yukarı. Yeşil - aşağı</string>
     <string name="pa_stock_search_failure">Sonuç bulunamadı</string>
+    <string name="pa_stock_search_input_hint">Stok kodunu veya stok adını girin</string>
     <string name="pa_stock_search_loading">Yükleniyor</string>
     <string name="pa_stock_szzs">SSE</string>
     <string name="pa_stock_update_limitation_tip">ABD ve Hong Kong borsaları ile ilgili bilgiler 15 dakikalık gecikmeyle güncelleniyor</string>

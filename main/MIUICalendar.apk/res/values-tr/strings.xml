@@ -102,18 +102,12 @@
     <string name="all_events">Tüm etkinlikler</string>
     <string name="am">ÖÖ</string>
     <string name="anniversary_event_title">Yıl dönümü: %1$s</string>
-    <string name="anniversary_of_lifting_martial_law">Ciddi çözünürlük günü</string>
-    <string name="anniversary_of_lifting_martial_law_tradition">Ciddi çözünürlük günü</string>
     <string name="anniversary_secondary_tag">Yıl dönümü</string>
-    <string name="anti_aggression_day">Saldırganlık günü</string>
-    <string name="anti_aggression_day_tradition">Saldırganlık günü</string>
     <string name="app_label">Takvim</string>
     <string name="app_name">Takvim</string>
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="arbor_day">Ağaç dikme günü</string>
     <string name="arbor_day_tradition">Ağaç dikme günü</string>
-    <string name="armed_forces_day">Askeri bayram</string>
-    <string name="armed_forces_day_tradition">Askeri bayram</string>
     <string name="at_least_one_channel">En az bir kanala odaklanmalısınız</string>
     <string name="attendees">Katılımcılar</string>
     <string name="autumn_begins">Sonbahar başlangıcı</string>
@@ -272,6 +266,7 @@
     <string name="close_alarm">Kapat</string>
     <string name="cold_dews">Soğuk çığ</string>
     <string name="cold_dews_tradition">Soğuk çığ</string>
+    <string name="color">Renk: %d</string>
     <string name="content_confirm_close_chinese_calendar">Bu özelliği kapattıktan sonra geleneksel Çin takvimine göre tüm etkinlikleriniz miladi takvimine dönüştürülür. Miladi takviminin yılları ve ayları tekrarlanan etkinlikler için kullanılacak</string>
     <string name="copy">Kopyala</string>
     <string name="copy_email">E-posta adresini kopyala</string>
@@ -764,7 +759,7 @@
     <string name="miuishare_account_login_ok">Oturum aç</string>
     <string name="miuishare_account_need_activate">Weibo üzerinden paylaşmak için Mi hesabınızla ilişkili Weibo hesabını gerektirir. Devam etmek için Mi hesabınızı etkinleştirin</string>
     <string name="miuishare_account_need_login">Weibo üzerinden paylaşmak için Mi hesabınızla ilişkili Weibo hesabını gerektirir. Devam etmek için Mi hesabınızda oturum açın</string>
-    <string name="miuishare_app_name">Miui paylaşma</string>
+    <string name="miuishare_app_name">Miui paylaşım</string>
     <string name="miuishare_no_network">Ağa bağlanılamadı</string>
     <string name="miuishare_publish">Gönder</string>
     <string name="miuishare_qzone_title">Qzone</string>
@@ -775,6 +770,8 @@
     <string name="miuishare_wechat_timeline_title">WeChat anlar</string>
     <string name="miuishare_wechat_title">WeChat</string>
     <string name="miuishare_weibo_title">Weibo</string>
+    <string name="miuix_access_state_desc">Seçildi</string>
+    <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Seçimi kaldır</string>
     <string name="miuix_appcompat_action_mode_select_all">Tümünü seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Öğeleri seç</string>
@@ -789,6 +786,8 @@
     <string name="miuix_appcompat_select_all">Tümünü seç</string>
     <string name="miuix_appcompat_select_all_description">Tümünü seç</string>
     <string name="miuix_appcompat_select_item">Öğeleri seç</string>
+    <string name="miuix_indexer_collect">Koleksiyonlar</string>
+    <string name="miuix_indexer_selected">%s seçildi</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için aşağı çekin</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Başarıyla yenilendi</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor</string>
@@ -909,8 +908,6 @@
     <string name="n_week_last">hafta sonra</string>
     <string name="national_day">Ulusal gün</string>
     <string name="national_day_tradition">Ulusal gün</string>
-    <string name="national_father_day">Babalar günü</string>
-    <string name="national_father_day_tradition">Babalar günü</string>
     <string name="near_agenda_view">Yaklaşan etkinlikler</string>
     <string name="network_not_available">Ağa bağlanılamıyor</string>
     <string name="new_event_description">Yeni</string>
@@ -929,7 +926,7 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin"</string>
     <string name="no_visiable_calendar_message_only_for_xiaomi_account">Bir takvim hesabı eklemeniz gerekiyor. Devam etmek için hesap ekle seçeneğine dokunun</string>
     <string name="no_visiable_calendar_select_account">Hesap ekle</string>
     <string name="no_visiable_calendar_title">Hesap ekle</string>
-    <string name="noon">ÖS</string>
+    <string name="noon">Öğlen</string>
     <string name="not_set">Ayarlanmadı</string>
     <string name="notification_channel_description" />
     <string name="notification_channel_name">Takvim hatırlatıcıları</string>
@@ -955,8 +952,6 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin"</string>
     <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
-    <string name="peace_day">Barış anıtı</string>
-    <string name="peace_day_tradition">Barış anıtı</string>
     <string name="pengzu">Peng Zu</string>
     <string name="permission_accounts">Oturum açma, sistem hesabınızı yönetme ve öğeleri kendisiyle ilişkilendirmek için</string>
     <string name="permission_allowed">Onayla</string>
@@ -1101,8 +1096,6 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin"</string>
     <string name="response_yes">Evet</string>
     <string name="rest_day_indication">: )</string>
     <string name="rest_day_indication_chinese_calendar">Gösterge</string>
-    <string name="retrocession_day">Işık festivali</string>
-    <string name="retrocession_day_tradition">Işık festivali</string>
     <string name="saturday">Cumartesi</string>
     <string name="saturday_short">Cumartesi</string>
     <string name="saturday_shortest">C</string>
@@ -1490,9 +1483,7 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin"</string>
     <string name="txt_caldav_account_info_not_found">Caldav hesap bilgisi alınamıyor</string>
     <string name="txt_password">Şifre</string>
     <string name="txt_server_url">Sunucu</string>
-    <string name="united_nations_day">Birleşmiş milletler günü</string>
-    <string name="united_nations_day_tradition">Birleşmiş milletler günü</string>
-    <string name="unsubscribe_card">Aboneliği sonlandır</string>
+    <string name="unsubscribe_card">Abonelikten çık</string>
     <string name="unsubscribe_card_success">%1$s aboneliği başarıyla sonlandırıldı</string>
     <string name="unsubscribing_card">Sonlandırılıyor</string>
     <string name="user_notice_button_exit">İptal et</string>

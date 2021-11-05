@@ -299,6 +299,14 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
         <item quantity="other">%d günlük ücretsiz deneme edinin</item>
         <item quantity="one">%d günlük ücretsiz deneme edinin</item>
     </plurals>
+    <plurals name="gd_app_edit_desc">
+        <item quantity="other">En fazla %d uygulama ekleyin. Yeniden düzenlemek için eklenen öğeleri sürükleyin</item>
+        <item quantity="one">En fazla %d uygulama ekleyin. Yeniden düzenlemek için eklenen öğeleri sürükleyin</item>
+    </plurals>
+    <plurals name="gd_app_edit_desc_new">
+        <item quantity="other">En fazla %d uygulama ekleyin. Yeniden düzenlemek için basılı tutun</item>
+        <item quantity="one">En fazla %d uygulama ekleyin. Yeniden düzenlemek için basılı tutun</item>
+    </plurals>
     <plurals name="gtb_brightness_dialog_message">
         <item quantity="other">Bu özellik güç tasarrufu yapmak için %d dakika işlem yapılmadığında ekran parlaklığını otomatik olarak düşürür. Bu özellik açık kalsın mı?</item>
         <item quantity="one">Bu özellik güç tasarrufu yapmak için %d dakika işlem yapılmadığında ekran parlaklığını otomatik olarak düşürür. Bu özellik açık kalsın mı?</item>

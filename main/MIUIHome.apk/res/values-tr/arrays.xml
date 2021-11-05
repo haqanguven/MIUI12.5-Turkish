@@ -467,11 +467,12 @@
         <item>@string/saturday_shortest</item>
     </string-array>
     <string-array name="widget_component_add_source">
-        <item>Masaüstü seçici</item>
-        <item>Uygulama içi</item>
-        <item>Uygulama kısayolu</item>
-        <item>Tema sayfası</item>
-        <item>Klasik bileşenler</item>
+        <item>桌面picker</item>
+        <item>应用端内</item>
+        <item>应用shortcut</item>
+        <item>主题专题页</item>
+        <item>经典组件</item>
+        <item>负一屏picker</item>
     </string-array>
     <string-array name="widget_component_add_way">
         <item>从picker详情页拖拽</item>

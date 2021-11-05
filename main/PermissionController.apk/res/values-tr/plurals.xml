@@ -16,6 +16,22 @@
         <item quantity="other">%s gün</item>
         <item quantity="one">1 gün</item>
     </plurals>
+    <plurals name="duration_used_days">
+        <item quantity="other">%s gün</item>
+        <item quantity="one">1 gün</item>
+    </plurals>
+    <plurals name="duration_used_hours">
+        <item quantity="other">%s saat</item>
+        <item quantity="one">1 saat</item>
+    </plurals>
+    <plurals name="duration_used_minutes">
+        <item quantity="other">%s dakika</item>
+        <item quantity="one">1 dakika</item>
+    </plurals>
+    <plurals name="duration_used_seconds">
+        <item quantity="other">%s saniye</item>
+        <item quantity="one">1 saniye</item>
+    </plurals>
     <plurals name="hours">
         <item quantity="other">%s saat</item>
         <item quantity="one">1 saat</item>
@@ -24,8 +40,56 @@
         <item quantity="other">%s dakika</item>
         <item quantity="one">1 dakika</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d yeni bildirim</item>
+        <item quantity="one">%d yeni bildirim</item>
+    </plurals>
+    <plurals name="permission_usage_bar_label">
+        <item quantity="other">%s uygulama</item>
+        <item quantity="one">1 uygulama</item>
+    </plurals>
+    <plurals name="permission_usage_permission_filter_subtitle">
+        <item quantity="other">%s uygulama</item>
+        <item quantity="one">1 uygulama</item>
+    </plurals>
+    <plurals name="permission_usage_preference_label">
+        <item quantity="other">%1$d uygulama tarafından kullanıldı</item>
+        <item quantity="one">1 uygulama tarafından kullanıldı</item>
+    </plurals>
+    <plurals name="permission_usage_summary">
+        <item quantity="other">"Son erişim: %1$s
+%2$s erişim"</item>
+        <item quantity="one">"Son erişim: %1$s
+%2$s erişim"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background">
+        <item quantity="other">"Son erişim: %1$s - 
+ %2$s erişim (Arka planda %3$s erişim)"</item>
+        <item quantity="one">"Son erişim: %1$s
+%2$s erişim (Arka planda %3$serişim)"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background_duration">
+        <item quantity="other">"Son erişim: %1$s
+%2$s erişim (Arka planda %3$s erişim)
+Süre: %3$s"</item>
+        <item quantity="one">"Son erişim: %1$s
+%2$s erişim (Arka planda %3$s erişim)
+Süre: %3$s"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_duration">
+        <item quantity="other">"Son erişim: %1$s
+%2$s erişim
+Süre: %3$s"</item>
+        <item quantity="one">"Son erişim: %1$s
+%2$s erişim
+Süre: %3$s"</item>
+    </plurals>
     <plurals name="seconds">
         <item quantity="other">%s saniye</item>
         <item quantity="one">1 saniye</item>
+    </plurals>
+    <plurals name="unused_apps_notification_title">
+        <item quantity="other">%1$d kullanılmayan uygulama</item>
+        <item quantity="one">%1$d kullanılmayan uygulama</item>
     </plurals>
 </resources>

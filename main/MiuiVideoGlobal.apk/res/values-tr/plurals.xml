@@ -164,4 +164,8 @@
         <item quantity="other">Altyazı %.1f saniye geri alındı</item>
         <item quantity="one">Altyazı %.1f saniye geri alındı</item>
     </plurals>
+    <plurals name="toast_bookmark_max_size">
+        <item quantity="other">En fazla %d yer işareti ekleyin</item>
+        <item quantity="one">En fazla %d yer işareti ekleyin</item>
+    </plurals>
 </resources>

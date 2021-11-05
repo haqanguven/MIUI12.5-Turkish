@@ -121,6 +121,8 @@
     <string name="before_yestoday">2 gün önce</string>
     <string name="bind_sign_in_title">Hesap ekle</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
+    <string name="box_title_gallery">Video araç kutusu</string>
+    <string name="box_title_mivideo">Ek özellikler</string>
     <string name="brvah_app_name">Kütüphane</string>
     <string name="brvah_load_end">Daha fazla veri yok</string>
     <string name="brvah_load_failed">Yükleme başarısız oldu. Tekrar denemek için lütfen beni tıklayın</string>
@@ -252,6 +254,7 @@
     <string name="choose_to_signup">Hayır. Yeni bir hesap oluşturacağım</string>
     <string name="clearable_edittext_clear_description">Temizle</string>
     <string name="click_to_open_pip">Resim içinde resime geçmek için dokunun</string>
+    <string name="click_to_play_video_push_context">Videoyu oynatmak için dokunun</string>
     <string name="click_to_reload_more">Daha fazla yüklemek için dokunun</string>
     <string name="click_to_retry">Yeniden dene</string>
     <string name="close">Kapat</string>
@@ -379,8 +382,15 @@ Bu kodu gönderin"</string>
     <string name="dialog_app_comment_select_feedback">Bize geri bildirimde bulunabilir misiniz?</string>
     <string name="dialog_app_comment_select_praise">"Harika! Videolar'a Play Store'da da puan verir misiniz?"</string>
     <string name="dialog_app_comment_title">Uygulamamıza puan verin</string>
+    <string name="dialog_bookmark_add">Ekle</string>
+    <string name="dialog_bookmark_cancel">İptal et</string>
     <string name="dialog_disagree_privacychange_info">Gizlilik politikamızı kabul etmezseniz videolar uygulamasının çevrim içi yayın hizmetlerini kullanamayacaksınız. Geri gitmek için iptal et seçeneğine veya devam etmek için reddet seçeneğine dokunun ve videoları yalnızca yerel bir oynatıcı olarak kullanın</string>
     <string name="dialog_disagree_privacychange_title">Reddedilsin mi?</string>
+    <string name="dialog_edit_hint_bookmarks_name">Yer imi adı</string>
+    <string name="dialog_edit_hint_bookmarks_url">Bağlantı</string>
+    <string name="dialog_jumpto_choose">Tekrar gösterme</string>
+    <string name="dialog_jumpto_content">Ek oynatma özelliklerine erişmek için videolar uygulamasına geçilsin mi?</string>
+    <string name="dialog_jumpto_title">Videolar</string>
     <string name="dialog_privacy_change_info">Sunduğumuz hizmetlerdeki düzenlemelerden dolayı videolar gizlilik politikasını güncelledik. Bir kullanıcı olarak tüm haklarınızı ayrıca verilerinizi kullanma yöntemlerimizi anlamak için uygulamayı kullanmadan önce <a href="%1$s">Kullanıcı sözleşmesi</a> ve <a href="%2$s">Gizlilik politikamızı</a> okuyun ve kabul edin</string>
     <string name="dialog_privacy_change_title">Gizlilik politikası güncellemesi</string>
     <string name="dialog_privacy_info_new2">Hizmetleri kullanabilmek için kişisel bilgilerinizin %1$s tarafından toplanılacağını, işleneceğini ve kullanılacağını kabul etmeniz gerekmektedir. Kabul et seçeneğine dokunduğunuzda <a href="%2$s">Gizlilik politikasını</a> okuyup kabul etmiş sayılırsınız</string>
@@ -396,12 +406,16 @@ Bu kodu gönderin"</string>
     <string name="dialog_privacy_title">Yetkilendirme</string>
     <string name="dialog_revoke_privacy_info_new2">Yetkilendirmeyi kaldırdıktan sonra uygulama veri toplamayı durdurur ve tüm ilgili veriler sunucularımızdan silinir. Bu işlem uygulamayı kullanılamaz hale getirebilir. Yetki yine de kaldırılsın mı?</string>
     <string name="dialog_revoke_privacy_title">Yetkilendirme geri alınıyor</string>
+    <string name="dialog_set_default_later">Hayır</string>
+    <string name="dialog_set_default_set">Ayarla</string>
+    <string name="dialog_set_default_text">Videolar varsayılan video oynatıcı olarak ayarlansın mı?</string>
     <string name="disagree">Reddet</string>
     <string name="diy_channels_tips">Artık kanal listenizi özelleştirebilirsiniz</string>
     <string name="do_not_show_again">Tekrar gösterme</string>
     <string name="download">İndir</string>
     <string name="download_checking_tip">İndirmeye hazırlanıyor</string>
     <string name="download_complete">İndirildi</string>
+    <string name="download_completed_push_title">İndirme tamamlandı</string>
     <string name="download_delete_tip">Seçilen öğeler silinsin mi?</string>
     <string name="download_delete_title">Sil</string>
     <string name="download_guide_click_icon_to_website_or_enter_url">Bir internet sitesini açmak veya bağlantı girmek için bir kısayola dokunun</string>
@@ -704,6 +718,8 @@ Bu kodu gönderin"</string>
     <string name="hidden_channels">Aşağıdaki kanallar ana ekranda görüntülenmeyecek</string>
     <string name="hide">Gizle</string>
     <string name="hide_bottom_view_on_scroll_behavior">android.support.design.behavior.HideBottomViewOnScrollBehavior</string>
+    <string name="hint_icon_ad_title">Önerilen</string>
+    <string name="hint_in_mivideo">Ek özellikler için yan paneli şimdi kontrol edebilirsiniz</string>
     <string name="history">Geçmiş</string>
     <string name="history_local_video">Yerel</string>
     <string name="history_online_video">Çevrimiçi</string>
@@ -1617,6 +1633,7 @@ Hiçbir şey göstermiyor"</string>
     <string name="tag_index">tag_index</string>
     <string name="tag_key">tag_key</string>
     <string name="tag_object">tag_object</string>
+    <string name="target_sdk_version_30_upgrade_tips">Android 11 kısıtlamaları nedeniyle bazı videolar burada görüntülenemeyebilir. Diğer videoları bulmak için dosyalara dokunun</string>
     <string name="temporary_not_available">Bu özellik henüz kullanılamamaktadır</string>
     <string name="the_anniversary_of_lifting_martial_law">Sıkıyönetim Kanunun Yıldönümü</string>
     <string name="the_anti_aggression_day">Saldırganlık Karşıtı Günü</string>
@@ -1676,6 +1693,13 @@ Hiçbir şey göstermiyor"</string>
     <string name="title_firework_recommend">Firework önerileri</string>
     <string name="title_publisher">Yayıncılar</string>
     <string name="title_subscribe">Aboneliklerim</string>
+    <string name="toast_bookmark_add_success">Yer imi eklendi</string>
+    <string name="toast_bookmark_already_created">Bu yer imi zaten var</string>
+    <string name="toast_bookmark_input_name">Yer imi adını girin</string>
+    <string name="toast_bookmark_input_url">Bağlantı girin</string>
+    <string name="toast_bookmark_success_to_add">Yer imi eklendi</string>
+    <string name="toast_bookmark_success_to_delete">Yer imi silindi</string>
+    <string name="toast_bookmark_url_error">Geçerli bir bağlantı girin</string>
     <string name="toast_no_data">Bu ürün şu anda mevcut değil. Daha sonra gel</string>
     <string name="toast_request_too_frequently">Çok hızlı değil</string>
     <string name="toast_share_failed">Paylaşılamadı. Bir veya iki dakika bekleyin ve tekrar deneyin</string>
@@ -1773,6 +1797,7 @@ Hiçbir şey göstermiyor"</string>
     <string name="vp_replay">Yeniden oynat</string>
     <string name="vp_upcoming_auto_play">Otomatik oynatma</string>
     <string name="vp_upcoming_title">Sıradaki</string>
+    <string name="website_button_add_bookmarks">Yer imi ekle</string>
     <string name="wechat_application_id" />
     <string name="wechat_scope" />
     <string name="wechat_state" />
