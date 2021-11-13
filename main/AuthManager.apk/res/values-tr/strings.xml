@@ -90,7 +90,11 @@
     <string name="HIPS_Perm_install_shortcut_Desc">Ana ekrana kısayollar ekler</string>
     <string name="HIPS_Perm_mediaVolume">Medya ses seviyesini ayarla</string>
     <string name="HIPS_Perm_mediaVolume_Desc">Uygulamanın medya ses seviyesini ayarlamasına izin verir</string>
-    <string name="HIPS_Perm_process_nfc">Nfc</string>
+    <string name="HIPS_Perm_operator_get_phonenumbner">Oturum açmak için telefon numarasına erişin</string>
+    <string name="HIPS_Perm_operator_get_phonenumbner_Desc">Oturum açmak için operatörden telefon numarası alın</string>
+    <string name="HIPS_Perm_operator_get_phonenumbner_Hint">Şimdi tek dokunuşla oturum açamıyorsanız oturum açma sayfasına geri dönün ve tekrar deneyin</string>
+    <string name="HIPS_Perm_operator_get_phonenumbner_Message">Bu uygulama oturum açmak için operatörden telefon numaranızı almak istiyor. İzin verilsin mi?</string>
+    <string name="HIPS_Perm_process_nfc">NFC</string>
     <string name="HIPS_Perm_process_nfc_Desc">Yakın alan iletişim donanımına erişir</string>
     <string name="HIPS_Perm_process_outgoing_calls">Telefon uygulamasına erişim</string>
     <string name="HIPS_Perm_process_outgoing_calls_Desc">Aramaları takip eder ve sonlandırır</string>
@@ -148,6 +152,9 @@
     <string name="actionbar_button_up_description">Geri</string>
     <string name="afternoon">ÖS</string>
     <string name="am">ÖÖ</string>
+    <string name="animator_property_name_alpha">alpha</string>
+    <string name="animator_property_name_translationX">translationX</string>
+    <string name="animator_property_name_translationY">translationY</string>
     <string name="app_name">İzin yöneticisi</string>
     <string name="background_location_access_reminder_notification_content">Bu uygulama her zaman konumunuza erişebilir. Değiştirmek için dokunun</string>
     <string name="background_location_access_reminder_notification_title">%s konumunuzu kullanıyor</string>

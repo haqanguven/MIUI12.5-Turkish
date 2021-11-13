@@ -754,7 +754,7 @@ Bu kodu amirinize gönderin"</string>
     <string name="passport_sms_send_success">Gönderildi</string>
     <string name="passport_sms_verification_code_login">Mesaj doğrulama kodu ile oturum açın</string>
     <string name="passport_sms_verification_code_login_or_register">Mesaj ile giriş yapın veya hesap oluşturun</string>
-    <string name="passport_sync_account_data">Hesap bilgileri senkronize ediliyor…</string>
+    <string name="passport_sync_account_data">Hesap bilgileri senkronize ediliyor</string>
     <string name="passport_sync_account_data_failed_warning">Hesap bilgileriniz şu anda senkronize ediliyor. Mi hesap kimliğinizi kullanarak oturum açabilirsiniz. Telefon numaranız veya e-posta adresinizi kullanarak oturum açmak istiyorsanız veriler tamamen senkronize edilene kadar bekleyin</string>
     <string name="passport_talkback_image_captcha">Resim doğrulama kodu</string>
     <string name="passport_talkback_switch_image_captcha">Resim doğrulama koduna geç</string>
@@ -816,7 +816,7 @@ Bu kodu amirinize gönderin"</string>
     <string name="permission_read_sms">Mesajlara erişim</string>
     <string name="permission_withdraw">Geri çek</string>
     <string name="permission_write_external_storage">Öğelere erişin ve depoya kaydedin</string>
-    <string name="personal_info_desc">Photo, nickname, and more</string>
+    <string name="personal_info_desc">Fotoğraf, kullanıcı adı ve daha fazlası</string>
     <string name="phone_num_use_for">Telefon numarası aşağıdakiler için kullanılır:</string>
     <string name="photoPickerNotFoundText">Kullanılabilir fotoğraf yok</string>
     <string name="pm">ÖS</string>
@@ -1011,10 +1011,10 @@ Bu kodu amirinize gönderin"</string>
     <string name="user_license_with_3rd_app_telcom"><Data>"I've read and agreed to &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, Mi Account's &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>, as well as &lt;a href=%5$s>Terms and conditions of eSurfing account verification services&lt;/a>."</Data></string>
     <string name="user_license_with_3rd_app_unicom"><Data>"I've read and agreed to &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, Mi Account's &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>, as well as &lt;a href=%5$s>Terms and conditions of China Unicom verification services&lt;/a>."</Data></string>
     <string name="user_license_with_out_3rd_app_no_operator"><Data>"I've read and agreed to Mi Account's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>."</Data></string>
-    <string name="user_license_without_3rd_app"><Data>"I've read and agreed to Mi Account's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>."</Data></string>
-    <string name="user_license_without_3rd_mobile"><Data>"I've read and agreed to Mi Account's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, as well as &lt;a href=%3$s>Terms and conditions of China Mobile verification services&lt;/a>."</Data></string>
-    <string name="user_license_without_3rd_telcom"><Data>"I've read and agreed to Mi Account's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, as well as &lt;a href=%3$s>Terms and conditions of eSurfing account verification services&lt;/a>."</Data></string>
-    <string name="user_license_without_3rd_unicom"><Data>"I've read and agreed to Mi Account's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, as well as &lt;a href=%3$s>Terms and conditions of China Unicom verification services&lt;/a>."</Data></string>
+    <string name="user_license_without_3rd_app"><Data>"Mi hesabı &lt;a href=%1$s>Kullanıcı sözleşmesi&lt;/a> ve &lt;a href=%2$s>Gizlilik politikasını&lt;/a> okudum ve kabul ediyorum"</Data></string>
+    <string name="user_license_without_3rd_mobile"><Data>"Mi hesabının &lt;a href=%1$s>Kullanıcı sözleşmesi&lt;/a> ve &lt;a href=%2$s>Gizlilik politikası&lt;/a>, ayrıca &lt;a href=%3$s> Çin Mobil doğrulama hizmetlerinin hüküm ve koşullarını okudum ve kabul ediyorum&lt;/a>"</Data></string>
+    <string name="user_license_without_3rd_telcom"><Data>"Mi hesabının &lt;a href=%1$s>Kullanıcı sözleşmesi&lt;/a> ve &lt;a href=%2$s>Gizlilik politikası&lt;/a>, ayrıca &lt;a href=%3$s> eSurfing hesap doğrulama hizmetlerinin şartlar ve koşullarını okudum ve kabul ediyorum&lt;/a>"</Data></string>
+    <string name="user_license_without_3rd_unicom"><Data>"Mi hesabının &lt;a href=%1$s>Kullanıcı sözleşmesi&lt;/a> ve &lt;a href=%2$s>Gizlilik politikası&lt;/a>, ayrıca &lt;a href=%3$s> Çin Unicom doğrulama hizmetlerinin şartlar ve koşullarını okudum ve kabul ediyorum&lt;/a>"</Data></string>
     <string name="v7_preference_off">Kapalı</string>
     <string name="v7_preference_on">Açık</string>
     <string name="vip_account_settings">Vip ayarları</string>

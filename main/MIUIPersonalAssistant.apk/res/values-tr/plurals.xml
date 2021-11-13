@@ -56,9 +56,33 @@
         <item quantity="other">%d dakika önce</item>
         <item quantity="one">1 dakika önce</item>
     </plurals>
+    <plurals name="pa_base_time_hour_ago">
+        <item quantity="other">%d saat önce</item>
+        <item quantity="one">%d saat önce</item>
+    </plurals>
+    <plurals name="pa_base_time_minute_ago">
+        <item quantity="other">%d dakika önce</item>
+        <item quantity="one">%d dakika önce</item>
+    </plurals>
     <plurals name="pa_edit_text_min_length">
         <item quantity="other">En az %1$d karakter</item>
         <item quantity="one">En az %1$d karakter</item>
+    </plurals>
+    <plurals name="pa_express_content_title_1">
+        <item quantity="other">%d paket yolda</item>
+        <item quantity="one">%d paket yolda</item>
+    </plurals>
+    <plurals name="pa_express_history_dialog_delete_message">
+        <item quantity="other">%s öğe şimdi silinsin mi?</item>
+        <item quantity="one">%s öğe şimdi silinsin mi?</item>
+    </plurals>
+    <plurals name="pa_express_history_menu_select_num">
+        <item quantity="other">%s öğe seçildi</item>
+        <item quantity="one">%s öğe seçildi</item>
+    </plurals>
+    <plurals name="pa_express_settings_title_2">
+        <item quantity="other">%d telefon numarası eklediniz</item>
+        <item quantity="one">%d telefon numarası eklediniz</item>
     </plurals>
     <plurals name="pa_picker_app_list_widget_count">
         <item quantity="other">%1$d</item>

@@ -114,6 +114,7 @@
     <string name="click_to_restore">"Fabrika ayarlarına sıfırlandıktan sonra MIUI'yi normal şekilde kullanabilmek için sistem öğelerini geri yükleyin. Başlatmak için dokunun"</string>
     <string name="com_android_email">Mail</string>
     <string name="com_android_soundrecorder">Ses kaydedici</string>
+    <string name="com_mi_globalbrowser">Mi tarayıcı</string>
     <string name="com_mi_liveassistant">Canlı yayın asistanı</string>
     <string name="com_miui_calculator">Hesaplayıcı</string>
     <string name="com_miui_cleanmaster">Temizleyici</string>

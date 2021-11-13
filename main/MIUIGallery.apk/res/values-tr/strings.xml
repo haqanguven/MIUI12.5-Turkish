@@ -1024,6 +1024,8 @@
     <string name="create_new_face">Yeni kişi</string>
     <string name="create_quick_icon_on_desk">Kısayol oluştur</string>
     <string name="creating_baby_album">Albüm oluşturuluyor</string>
+    <string name="creativity_summary">Ek yaratıcılık ve düzenleme özellikleri göster</string>
+    <string name="creativity_title">Yaratıcılık</string>
     <string name="crop_label">Kesilen fotoğraflar</string>
     <string name="cta_agreement_declare">Bir kullanıcı olarak haklarınızı ve verilerinizi nasıl kullandığımızı tam olarak anlamak için bu uygulamayı kullanmadan önce <a href="%1$s">Kullanıcı sözleşmemizi</a> ve <a href="%2$s">Gizlilik politikamızı</a> okuyun ve kabul edin</string>
     <string name="cta_network_declare">Fotoğrafları ve videoları Xiaomi bulut ile senkronize etmek için bu uygulamanın internete bağlanması gerekiyor</string>
@@ -1869,6 +1871,7 @@ yüzünüzle fotoğrafları seçin"</string>
     <string name="miuix_appcompat_select_all">Tümünü seç</string>
     <string name="miuix_appcompat_select_all_description">Tümünü seç</string>
     <string name="miuix_appcompat_select_item">Öğeleri seç</string>
+    <string name="miuix_indexer_collect">Koleksiyonlar</string>
     <string name="miuix_indexer_selected">%s seçildi</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için çek</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Yenileme tamamlandı</string>

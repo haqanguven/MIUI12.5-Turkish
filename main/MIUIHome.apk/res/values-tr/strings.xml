@@ -40,7 +40,9 @@
     <string name="accessibility_recent_task_exit">En son kapatılan</string>
     <string name="accessibility_recent_task_locked_state">Kilitli</string>
     <string name="accessibility_recent_task_memory_info">Toplam hafıza: %2$s | kullanılabilir hafıza: %1$s. Temizlemek için iki kez dokunun</string>
+    <string name="accessibility_recent_task_show_menu">Daha fazla seçenek</string>
     <string name="accessibility_recent_task_unlocked_state">Kilid aç</string>
+    <string name="accessibility_recents_item_dismissed">%1$s temizlendi</string>
     <string name="accessibility_recents_item_open_app_info">%s uygulamasının bilgilerini açın</string>
     <string name="accessibility_splite_screen_primary">Bölünmüş ekranda birincil uygulama olarak eklendi</string>
     <string name="accessibility_splite_screen_secondary">Bölünmüş ekranda ikincil uygulama olarak eklendi</string>
@@ -256,10 +258,10 @@
     <string name="clearable_edittext_clear_description">Temizle</string>
     <string name="close">Kapat</string>
     <string name="cloud_app_restore_title">Beklemede</string>
-    <string name="common_home_search_delete">Ana ekran arama çubuğu siliniyor</string>
+    <string name="common_home_search_delete">Ana ekran arama çubuğunu kaldır</string>
     <string name="common_home_search_delete_cancle">İptal et</string>
-    <string name="common_home_search_delete_confirm">Sil</string>
-    <string name="common_home_search_delete_content">Sildikten sonra ana ekran arama çubuğunu kullanarak öğeleri arayamazsınız. Yine de silinsin mi?</string>
+    <string name="common_home_search_delete_confirm">Kaldır</string>
+    <string name="common_home_search_delete_content">Ana ekran arama çubuğunu kaldırdıktan sonra ana ekranda öğeleri arayamazsınız. Yine de kaldırılsın mı?</string>
     <string name="configure_wallpaper">Ayarlar</string>
     <string name="confirm_btn_label">Tamam</string>
     <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Çift uygulamalar bunlarla birlikte kaldırılacaktır</string>
@@ -316,6 +318,7 @@
     <string name="dialog_work_profile_title">İş profili</string>
     <string name="disable_wallpaper_scroll">Yatay kaydırmayı kapat</string>
     <string name="download_action">İndir</string>
+    <string name="drag_icon_to_homescreen_guide">Bir uygulama simgesine basılı tutun ve ana ekrana kısayolunu eklemek için onu sürükleyin</string>
     <string name="drag_multiple_item_name" />
     <string name="drag_single_item_name" />
     <string name="drawer_background">Arka plan</string>

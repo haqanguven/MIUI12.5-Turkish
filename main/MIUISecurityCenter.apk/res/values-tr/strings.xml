@@ -1329,6 +1329,8 @@ Mobil veriyi tekrar açtığınızda operatörünüz size ek ücretler talep ede
     <string name="descx_quick_scan_preparation">Yükleniyor</string>
     <string name="detail_app_button">Uygulama bilgisi</string>
     <string name="details_subtitle">Kullanım ayrıntıları</string>
+    <string name="dev_sign_notification_content">"Şu anda Android 12 beta kullanıyorsunuz. Sağladığınız geri bildirim sorunları belirlememize ve düzeltmemize yardımcı olacaktır. Bu programa katıldığınız için teşekkürler"</string>
+    <string name="dev_sign_notification_title">Android 12 beta</string>
     <string name="device_manager_apply_step_1">Bu uygulama için cihaz yöneticisi etkinleştirilsin mi?</string>
     <string name="device_manager_apply_step_2">"Bu uygulama için cihaz yöneticisini etkinleştirmek ile kişisel bilgilerinizin açığa çıkmasına neden olabilir
 Cihazınızdaki tüm veriler silinebilir ve kilit ekranı şifreniz sıfırlanabilir"</string>
@@ -2356,9 +2358,9 @@ ve ses değiştiricimizi keşfedin"</string>
     <string name="gtb_guide_gtb_func_title">Oyun asistanı</string>
     <string name="gtb_guide_gtb_game_effected">Uygulandı</string>
     <string name="gtb_guide_gtb_game_new">Yeni</string>
-    <string name="gtb_guide_gtb_line_new">En iyi oyun deneyimi için yeni oyun hızlandırıcıyı çağırın</string>
+    <string name="gtb_guide_gtb_line_new">En iyi oyun deneyimi için yeni oyun hızlandırıcıyı kullanın</string>
     <string name="gtb_guide_small_window_app_desc">Tek adımda konuşun ve oynayın</string>
-    <string name="gtb_guide_small_window_app_title">Küçük pencere uygulaması</string>
+    <string name="gtb_guide_small_window_app_title">Küçük pencere uygulamaları</string>
     <string name="gtb_setting_item_summary_smart_5g">Oyun hızlandırıcı bir 5G ağı algıladığında ağ gecikmesini azaltmak için cihazınızı mevcut en iyi ağa bağlayabilir</string>
     <string name="gtb_setting_item_summary_smart_wlan_speed" formatted="false">Mi veya Redmi yönlendiricilerine bağlandığında bağlantı hızını %10-%20 artırın</string>
     <string name="gtb_setting_item_title_brightness">Ekran parlaklığını otomatik olarak azalt</string>
