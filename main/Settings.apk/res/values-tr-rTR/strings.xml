@@ -3177,6 +3177,7 @@ Otomatik yedeklemeyi açtığınızda cihaz ve uygulama verileri periyodik olara
     <string name="game_booster_title">Oyun hızlandırıcı</string>
     <string name="game_controller_settings_category">Oyun denetleyici</string>
     <string name="game_storage_settings">Oyunlar</string>
+    <string name="gd_setting_title">Akıllı araç kutusu</string>
     <string name="gentle_notifications_also_display">Ayrıca şurada da gösterilir:</string>
     <string name="gentle_notifications_display_lock">Kilit ekranı</string>
     <string name="gentle_notifications_display_status">Durum çubuğu</string>
@@ -7950,7 +7951,7 @@ Kelime eklemek için artı simgesine dokunun"</string>
     <string name="vibrate_when_ringing_option_ramping_ringer">Önce titreştir, sonra sesi yavaşça yükselt</string>
     <string name="vibrate_when_ringing_title">Arama titreşimi</string>
     <string name="video_calling_settings_title">Operatör görüntülü görüşmesi</string>
-    <string name="video_tool_box_title">Akıllı araç kutusu</string>
+    <string name="video_tool_box_title">Video araç kutusu</string>
     <string name="view_saved_network">Görüntülemek için kaydedilmiş ağı seçin</string>
     <string name="vip_list">Gelen arama izinleri</string>
     <string name="virtual_keyboard_category">Sanal klavye</string>
