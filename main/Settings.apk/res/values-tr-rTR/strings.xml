@@ -7618,8 +7618,8 @@ Kaydedilmiş dijital parmak iziniz de bu profilden kaldırılacak ve profilinizi
     <string name="unlock_set_unlock_summary">Ekran kilidi belirleyin</string>
     <string name="unlock_setup_wizard_fingerprint_details">Ekran kilidi ayarladığınızda Ayarlar ve Güvenlik bölümünden ayrıca parmak izinizi de ayarlayabilirsiniz</string>
     <string name="unlock_type_category_title">Tanıma yöntemi</string>
-    <string name="unlogin_account_summary">Tüm Mi hizmetleri. Tek bir Mi hesabı</string>
-    <string name="unlogin_account_title">Mi hesabınızda oturum açın</string>
+    <string name="unlogin_account_summary">Tek bir Mi hesabı ile tüm hizmetleri yönetin</string>
+    <string name="unlogin_account_title">Mi hesabında oturum aç</string>
     <string name="unmount_inform_text">USB belleğin bağlantısı kesilecek</string>
     <string name="unrestrict_max_aspect_ratio_title">Bu uygulamalar tam ekran modu için optimize edilmiştir</string>
     <string name="unrestricted_app_summary">Veri tasarrufu açıkken sınırsız veri erişimine izin ver</string>

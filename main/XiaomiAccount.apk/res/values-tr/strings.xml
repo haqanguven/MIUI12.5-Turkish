@@ -664,10 +664,10 @@ Bu kodu amirinize gönderin"</string>
     <string name="passport_login_other_account">Diğer hesaplar</string>
     <string name="passport_login_other_phone">Başka bir hesap kullan</string>
     <string name="passport_login_other_way">Oturum açmanın diğer yolları</string>
-    <string name="passport_login_prompt">Tek bir Mi hesabı. Tüm Mi hizmetleri</string>
+    <string name="passport_login_prompt">Tek bir Mi hesabı ile tüm hizmetleri yönetin</string>
     <string name="passport_login_recycle_account_no">Hayır</string>
     <string name="passport_login_recycle_account_yes">Evet</string>
-    <string name="passport_login_title">Mi hesabınızda oturum açın</string>
+    <string name="passport_login_title">Mi hesabında oturum aç</string>
     <string name="passport_login_using_other_ways">Diğer oturum açma yolları</string>
     <string name="passport_message_dialog_title">Doğrulama kodu içeren mesajlar</string>
     <string name="passport_new_user_register">Hesap oluştur</string>
