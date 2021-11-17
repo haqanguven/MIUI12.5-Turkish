@@ -38,7 +38,7 @@
     <string name="add_common_timer">Zamanlayıcı ekle</string>
     <string name="add_timer">Sık zamanlayıcı</string>
     <string name="add_timezone_title">Zaman dilimi ekle</string>
-    <string name="afternoon">ÖS</string>
+    <string name="afternoon">Öğleden sonra</string>
     <string name="agree">Kabul et</string>
     <string name="alarm_alert_alert_silenced">Alarm %d dakika sonra susturuldu</string>
     <string name="alarm_alert_disabled">Kapalı</string>
@@ -67,6 +67,7 @@
     <string name="alert_vibrate_enable_summary">Alarm çaldığında titret</string>
     <string name="alert_volume">Zil sesi seviyesi</string>
     <string name="alert_volume_summary">Alarmlar ve zamanlayıcılar için zil sesi seviyesini ayarlama</string>
+    <string name="alert_xiaoai_ringtone_desc">Mi AI konuşuyor</string>
     <string name="already_exist">Bu zamanlayıcı zaten mevcut</string>
     <string name="am">ÖÖ</string>
     <string name="analog_gadget">Analog saat</string>
@@ -425,13 +426,13 @@
     <string name="module_download_cancel">Şimdi değil</string>
     <string name="module_download_data_msg">Akıllı alarmlar doğa sesleri ve doğum günü alarmları yapmak için saatin internete bağlanıp kişilerinize erişmesi gerekir. Ayrıca ek ses indirmeniz gerekecek. Ek ses indirmek için mobil veri kullanılsın mı?</string>
     <string name="module_download_data_msg_golbal">Akıllı alarmların doğa seslerini kullanılabilir hale getirmesi için saatin ek ses indirmesi gerekiyor. Ek ses indirmek için mobil veri kullanılsın mı?</string>
-    <string name="module_download_data_msg_replace">Miui akıllı alarmlar için güncel ses mevcut. Bu indirme işlemi için tahmini 20MB mobil veri gereklidir. Şimdi indirilsin mi?</string>
+    <string name="module_download_data_msg_replace">MIUI akıllı alarmlar için güncel ses mevcut. Bu indirme işlemi için tahmini 20MB mobil veri gereklidir. Şimdi indirilsin mi?</string>
     <string name="module_download_data_msg_timer">Saat ortam sesi zamanlayıcıları için ses dosyalarını indirmelidir. Bu indirme işlemi için tahmini 20MB mobil veri gereklidir. Şimdi indirilsin mi?</string>
     <string name="module_download_fail">Ek ses dosyaları indirilemedi</string>
     <string name="module_download_failure">Ses dosyası indirilemedi. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
     <string name="module_download_msg">Akıllı alarmlar doğa sesleri ve doğum günü alarmları yapmak için saatin internete bağlanıp kişilerinize erişmesi gerekir. Ayrıca ek ses indirmeniz gerekecek. Kabul ediyor musunuz?</string>
     <string name="module_download_msg_golbal">Akıllı alarmların doğa seslerini kullanılabilir hale getirmesi için saatin ek ses indirmesi gerekiyor. Kabul ediyor musunuz?</string>
-    <string name="module_download_msg_replace">Miui akıllı alarmlar için güncel ses mevcut. Şimdi indirilsin mi?</string>
+    <string name="module_download_msg_replace">MIUI akıllı alarmlar için güncel ses mevcut. Şimdi indirilsin mi?</string>
     <string name="module_download_msg_timer">Saat ortam sesi zamanlayıcıları için ses dosyalarını indirmelidir. Şimdi indirilsin mi?</string>
     <string name="module_download_no_network">Ağa bağlanılamadı. Ağ bağlantılarınızı kontrol edin ve tekrar deneyin</string>
     <string name="module_download_ok">Kabul et &amp; indir</string>
@@ -439,7 +440,7 @@
     <string name="module_download_title">Ek ses gerekli</string>
     <string name="module_downloading">Ek ses indiriliyor</string>
     <string name="module_unzipping">Ses açılıyor</string>
-    <string name="module_update_success">Miui akıllı alarmları için güncellenmiş ses dosyaları başarıyla indirildi. Miui akıllı alarmları saat ayarlarında ayarlayabilirsiniz</string>
+    <string name="module_update_success">MIUI akıllı alarmları için güncellenmiş ses dosyaları başarıyla indirildi. MIUI akıllı alarmları saat ayarlarında ayarlayabilirsiniz</string>
     <string name="module_update_success_control">Anladım</string>
     <string name="module_weather_ringtone_download_data">Hava durumu alarmı mevcut hava durumuna göre farklı zil sesleri seçer. Saat uygulaması bu hizmeti sunabilmek için yaklaşık 30MB boyutunda ses dosyası indirmelidir. Şimdi indirilsin mi?</string>
     <string name="module_weather_ringtone_download_data_privacy">Hava durumu alarmı mevcut hava durumuna göre farklı zil sesleri seçer. Saat uygulaması bu hizmeti sunabilmek için yaklaşık 30MB boyutunda ses dosyası indirmelidir. Saat uygulamasını kullanmadan önce, <a href="">Kullanıcı sözleşmesi</a> ve <a href="%2$s">Gizlilik Politikası</a> anlaşmalarımızı okuyup kabul etmelisiniz. Kabul ediyor musunuz?</string>
@@ -547,6 +548,7 @@
     <string name="repeat_count_value_ten">10</string>
     <string name="repeat_count_value_three">3</string>
     <string name="repeat_count_value_two">2</string>
+    <string name="repeat_type">Tekrar</string>
     <string name="required_permissions">;</string>
     <string name="reset">Sıfırla</string>
     <string name="revert">Geri al</string>
@@ -571,7 +573,9 @@
     <string name="search_timer_keywords">Zamanlayıcı</string>
     <string name="search_worldclock">@string/worldclock_title</string>
     <string name="search_worldclock_keywords">Zaman;Dünya saati;Saat</string>
+    <string name="select_all">Tümünü seç</string>
     <string name="select_operation">Seç</string>
+    <string name="selected">Seçildi</string>
     <string name="send">Gönder</string>
     <string name="set_alarm">Zaman seçin</string>
     <string name="set_alarm_choose_ringtone">Zil sesi seçin</string>
@@ -790,6 +794,7 @@
     <string name="tv_blank_list_show_text">Burada henüz bir şey yok. Dünya saatinizi eklemek için bir konum arayın</string>
     <string name="tv_world_clock_edit_title1">Ana ekranda görüntülenen konumlar</string>
     <string name="tv_world_clock_edit_title2">Diğer kaydedilen konumlar</string>
+    <string name="unselect_all">Tüm seçimi kaldır</string>
     <string name="upcoming_alarm">Yaklaşan alarm: %s</string>
     <string name="upcoming_alarm_hint">Alarmı zamanından önce kapatabilirsiniz</string>
     <string name="update_health_app">Mi sağlığı güncelle</string>
@@ -838,6 +843,7 @@
     <string name="worldcolock_timezone_date">dd MMM</string>
     <string name="worldcolock_timezone_gap">%s saat</string>
     <string name="worldcolock_timezone_local">Yerel saatle aynı</string>
+    <string name="xiaoai_ringtone_title">Mi AI zil sesleri</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Şimdi değil</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Güncelle</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Bir güncelleme mevcut</string>

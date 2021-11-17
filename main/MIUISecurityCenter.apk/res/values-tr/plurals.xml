@@ -738,6 +738,10 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
         <item quantity="other">%s uygulamasının kalıcı erişimi var</item>
         <item quantity="one">%s uygulamasının kalıcı erişimi var</item>
     </plurals>
+    <plurals name="privacy_permission_summary_allow">
+        <item quantity="other">%s uygulama için izin verildi</item>
+        <item quantity="one">%s uygulama için izin verildi</item>
+    </plurals>
     <plurals name="privacy_pop_times">
         <item quantity="other">%s kez</item>
         <item quantity="one">%s kez</item>

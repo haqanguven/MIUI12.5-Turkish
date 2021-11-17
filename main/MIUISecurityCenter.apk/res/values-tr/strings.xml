@@ -1983,6 +1983,7 @@ gönüllüsü"</string>
     <string name="gamebooster_network_dialog_cn_message">Güvenliğin internete bağlanmasına ve konumunuza erişmesine izin verilmediğinde oyun hızlandırıcıyı kullanamazsınız. Şimdi izin verilsin mi?</string>
     <string name="gamebooster_network_dialog_message">Güvenlik uygulamasına oyun hız arttırmanın tüm özelliklerini kullanmak için ağa bağlanma izni verilsin mi?</string>
     <string name="gamebooster_network_dialog_title">Bazı özellikler kullanılabilir durumda değil</string>
+    <string name="gamebox_ai_subtitle">AI alt yazılar</string>
     <string name="gamebox_app_not_find">İlk önce uygulamayı yükleyin</string>
     <string name="gamebox_brightness">Parlaklık</string>
     <string name="gamebox_browser_not_find">Önce Mi tarayıcıyı yükleyin</string>
@@ -3496,6 +3497,11 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="power_center_super_wireless_charge_noti_title">Hızlı kablosuz şarj açık</string>
     <string name="power_center_super_wireless_charge_summary">Kablosuz şarj cihazının soğutucusunun fan hızını artırın</string>
     <string name="power_center_super_wireless_charge_toast_close">Hızlı kablosuz şarj kapalı</string>
+    <string name="power_center_surface_temp_high">Sıcak</string>
+    <string name="power_center_surface_temp_higher">Ilık</string>
+    <string name="power_center_surface_temp_low">Soğuk</string>
+    <string name="power_center_surface_temp_lower">Güzel</string>
+    <string name="power_center_surface_temp_normal">Normal</string>
     <string name="power_center_time_to_boot">Açılış zamanı</string>
     <string name="power_center_time_to_shutdown">Kapanış zamanı</string>
     <string name="power_center_title">Pil</string>

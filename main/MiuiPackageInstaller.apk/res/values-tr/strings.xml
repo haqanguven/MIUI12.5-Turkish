@@ -31,8 +31,10 @@
     <string name="about_pure_mode">Güvensiz mod hakkında</string>
     <string name="about_safe_mode">Güvenli mod hakkında</string>
     <string name="actionbar_button_up_description">Geri</string>
+    <string name="ad_developer">Geliştirici: %1$s</string>
     <string name="ad_permissions">&lt;u>Uygulama izinleri&lt;u/></string>
     <string name="ad_privacy">&lt;u>Gizlilik politikası&lt;u/></string>
+    <string name="ad_publisher">Geliştirici: %1$s</string>
     <string name="ads">Reklamlar</string>
     <string name="ads_install_button">Yükle</string>
     <string name="ads_install_button_installed">Aç</string>
@@ -52,6 +54,7 @@
     <string name="app_detail_other_version">Sürüm: %1$s</string>
     <string name="app_info_permissions">İzinler</string>
     <string name="app_info_permissions_format">%1$s %2$s</string>
+    <string name="app_info_permissions_format_color">%1$s &lt;font color=#F22424>%2$s&lt;/font></string>
     <string name="app_info_size">Boyut: %1$s</string>
     <string name="app_info_version_replace">Sürüm: %1$s -> %2$s</string>
     <string name="app_installing_not_allow">"%1$s uygulamasının uygulama yüklemesine izin vermediniz. Bunu Ayarlar'dan değiştirebilirsiniz"</string>
@@ -479,6 +482,7 @@
     <string name="saturday_short">Cts</string>
     <string name="saturday_shortest">Cts</string>
     <string name="search_menu_title">Ara</string>
+    <string name="second_recomment_ad_title">&lt;font color=#0BAE73>%1$s&lt;/font>yükleyen kullanıcılar şunları da beğendi:</string>
     <string name="send">Gönder</string>
     <string name="settings">Ayarlar</string>
     <string name="size_byte">B</string>

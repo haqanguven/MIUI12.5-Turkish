@@ -616,6 +616,8 @@
     <string name="mtrl_picker_toggle_to_text_input_mode">Metin giriş moduna geç</string>
     <string name="mtrl_picker_toggle_to_year_selection">Bir yıl seçmeye geçmek için dokunun</string>
     <string name="name_empty">Yeni bir isim girmelisiniz</string>
+    <string name="need_open_content">Bu özelliği kullanmak için dosyaların fotoğraflarınıza ve dosyalarınıza erişmesine izin verin</string>
+    <string name="need_open_permission">Gerekli izinler</string>
     <string name="need_read_storage_permission">Dosyalar uygulaması tasarlandığı gibi çalışabilmesi için cihazınızın depolama alanına erişime ihtiyaç duyar</string>
     <string name="network_not_available">Ağa bağlanılamıyor</string>
     <string name="new_folder_name">Yeni klasör</string>
@@ -627,6 +629,7 @@
     <string name="no_enough_storage_indication">Cihaz depolama alanı dolu</string>
     <string name="no_enough_storage_title">Yeterli depolama alanı yok</string>
     <string name="no_file">Boş</string>
+    <string name="no_permission">Bu özelliğe erişmek için gerekli izinleri verin</string>
     <string name="no_wifi">Wifi ağı bulunamadı</string>
     <string name="noon">öğlen</string>
     <string name="not_added_category">Kullanılabilir</string>
@@ -919,6 +922,8 @@
     <string name="title_expire_video">Süresi dolmak üzere</string>
     <string name="title_recent">Son kullanılanlar</string>
     <string name="title_select_volume">Klasör seçin</string>
+    <string name="to_open">Ayarlar</string>
+    <string name="to_setting">Ayarlar</string>
     <string name="toast_file_not_can_read">Bu işlemi yapabilecek uygulama bulunamadı</string>
     <string name="today">Bugün</string>
     <string name="tomorrow">Yarın</string>

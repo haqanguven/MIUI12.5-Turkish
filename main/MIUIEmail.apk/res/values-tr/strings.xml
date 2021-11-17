@@ -37,6 +37,12 @@
     <string name="account_add_title">Bir e-posta servisi seçin</string>
     <string name="account_cache_provider">Hesap ön bellek sağlayıcısı</string>
     <string name="account_change">Hesap değiştir</string>
+    <string name="account_child_dialog_neg_text">Çıkış</string>
+    <string name="account_child_dialog_pos_text">Koruyucuyu kabul et</string>
+    <string name="account_child_dialog_text">"14 yaşının altında bir reşit değilseniz vasinizi Kingsoft reşit olmayanların kişisel verilerinin korunmasına ilişkin bildirimi okuyup kabul etmesi gerektiğini bildirin. Ayrıca hizmetlerimizi kullanmadan veya bize herhangi bir kişisel bilgi vermeden önce onların onayını ve rehberliğini almalısınız
+Bir kullanıcı olarak haklarınızı ve verilerinizi nasıl işlediğimizi tam olarak anlamak için reşit olmayanların kişisel verilerinin korunmasına ilişkin Kingsoft beyannamesini okuyun"</string>
+    <string name="account_child_dialog_title">Küçüklerin kişisel verilerinin korunmasına ilişkin açıklama</string>
+    <string name="account_child_save_statement">Küçüklerin kişisel verilerinin korunmasına ilişkin Kingsoft beyanı</string>
     <string name="account_duplicate_dlg_message_fmt">Bu kullanıcı adını %s hesabı için zaten kullanıyorsunuz</string>
     <string name="account_duplicate_dlg_title">Çift hesap</string>
     <string name="account_failure">Oturum zaman aşımına uğradı</string>
@@ -51,6 +57,12 @@
     <string name="account_options_sync_title">Senkronizasyon</string>
     <string name="account_password_spaces_error">"Şifre bir veya daha fazla boşluk karakteriyle başlıyor
         veya bitiyor. Bir çok sunucu boşluk içeren şifreleri desteklememektedir"</string>
+    <string name="account_permission_child_statement">Küçüklerin kişisel verilerinin korunmasına ilişkin açıklama</string>
+    <string name="account_permission_dialog_cancel_text">Geri çek</string>
+    <string name="account_permission_dialog_text">"Devam ederseniz son kullanıcı lisans sözleşmesi Gizlilik politikası ve reşit olmayanların kişisel verilerinin korunmasına ilişkin açıklamaya verdiğiniz onayı geri çekeceksiniz. Bundan sonra WPS Mail'i kullanamayacaksınız ve bu cihazda oluşturulan tüm veriler silinecek"</string>
+    <string name="account_permission_dialog_title">İzni geri al</string>
+    <string name="account_permission_private_policy">Gizlilik politikası</string>
+    <string name="account_permission_user_privacy">Son kullanıcı lisans sözleşmesi</string>
     <string name="account_security_dialog_content_fmt">"%s hesabının güvenlik ayarlarını
          güncellemeniz gerekmektedir"</string>
     <string name="account_security_dialog_title">Güvenlik güncellemesi</string>
@@ -376,6 +388,7 @@
     <string name="chat_item_msg_people_unit">kişi</string>
     <string name="chat_item_msg_user_etc">vb.</string>
     <string name="check_setup_data">"    Sunucu ayarları doğrulanıyor"</string>
+    <string name="child_policy_url">https://www.wps.cn/privacy/full_kids</string>
     <string name="chinese_day_1">1. gün</string>
     <string name="chinese_day_10">10. gün</string>
     <string name="chinese_day_11">11. gün</string>
@@ -586,6 +599,7 @@
     <string name="dialog_system_auto_sync_account_no_open">E-postaları otomatik olarak almak için hesap senkronizasyonunu açın</string>
     <string name="dialog_system_auto_sync_master_no_open">E-postaları otomatik olarak almak için senkronizasyonu açın</string>
     <string name="disable_admin_warning">Uyarı: E-posta uygulamasının izinlerinin devre dışı bırakılması bunu gerektiren tüm e-posta hesaplarının yanı sıra bu hesaplara ait e-postaları, kişileri, takvim etkinliklerini ve diğer verileri siler</string>
+    <string name="disallow_qq_auth_how_get_auth_code">Yetkilendirme kodunu nasıl alabilirim?</string>
     <string name="discard_drafts">Taslağı iptal et</string>
     <string name="dismiss_tip_hover_text">İpucunu yoksay</string>
     <string name="disturb_switch">Rahatsız etme</string>
@@ -1273,6 +1287,7 @@ Farklı bir e-posta hesabı kullanmayı deneyin"</string>
     <string name="ntes_send_to_content">"Mevcut telefon numarası hesap ile ilişkilendirildiyse, ''Mesaj gönder'' seçeneğine dokunun"</string>
     <string name="ntes_verification_code">Kodu girin: %s</string>
     <string name="oauth_error_description">Kimlik doğrulanamadı</string>
+    <string name="oauth_find_browser_error_description">Lütfen oturum açmadan önce tarayıcıyı kurun</string>
     <string name="oauth_gmail_login_notify">Takip eden oturum açma sayfasında Google hesap adı ve şifrenizi girin</string>
     <string name="oauth_login_continue">Devam et</string>
     <string name="oauth_login_continue_qq">Bir giriş kodu alın ve oturum açın ></string>
@@ -1416,6 +1431,8 @@ e-postanızdaki fatura ve seyahat bilgilerini analiz edin"</string>
     <string name="print">Yazdır</string>
     <string name="print_scheduler_title">Tüm zamanlayıcıları yazdır</string>
     <string name="privacy_and_help">Gizlilik ve yardım</string>
+    <string name="privacy_and_private_permission">Kullanıcı sözleşmesine ve gizlilik politikasına onayı</string>
+    <string name="privacy_and_private_permission_key">privacy_and_private_permission</string>
     <string name="privacy_des">Günlükler e-posta istemcisinin hata ayıklama bilgilerini ve cihaz bilginizi içerir. Bu bilgiler sorunları daha hızlı bir şekilde bulmak için kullanılır. Aşağıdaki %1$s seçeneğine dokunarak %2$s sözleşmemizi kabul etmiş sayılıyorsunuz</string>
     <string name="privacy_policy">Gizlilik politikası</string>
     <string name="privacy_policy_url">https://miui.wpsmail.net/policy.html</string>
@@ -1429,7 +1446,7 @@ e-postanızdaki fatura ve seyahat bilgilerini analiz edin"</string>
     <string name="protocol_pop3">pop3</string>
     <string name="protocol_setting_toast">Kabul etmenizden sonra ayarlara gitmek için sağ üst köşeye dokunun</string>
     <string name="pull_to_refresh">Yenilemek için aşağı doğru çekin</string>
-    <string name="push">Push notifications</string>
+    <string name="push">İtme bildirimleri</string>
     <string name="push_wps_better_confirm_download">İndir</string>
     <string name="push_wps_better_confirm_exit">Şimdi değil</string>
     <string name="push_wps_better_confirm_message">Bu eklentiyi açmak için WPS ofis yazılımını kullanmayı deneyin</string>
@@ -1631,6 +1648,7 @@ Tamamen senkronize edilmesini bekleyin veya mesajı bilgisayarınızda görünt�
     <string name="show_images_all">Tüm görüntüleri yükle ve göster</string>
     <string name="show_password">Şifreyi göster</string>
     <string name="show_server_cet">Sertifikayı görüntüle</string>
+    <string name="sign_in_dialog_office365">Ofis 365</string>
     <string name="sign_in_dialog_outlook_enterprise">İş (Takvimsiz)</string>
     <string name="sign_in_dialog_outlook_exchange">Exchange (Takvimli)</string>
     <string name="sign_in_dialog_outlook_imap">IMAP (Takvimsiz)</string>
