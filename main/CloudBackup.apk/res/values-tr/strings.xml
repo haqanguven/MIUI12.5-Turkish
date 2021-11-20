@@ -295,8 +295,8 @@ Not: Yüklemiş olduğunuz uygulamara ait veriler Xiaomi bulut alanınıza yedek
     <string name="earthly_branches_you">20</string>
     <string name="earthly_branches_zi">11</string>
     <string name="empty" />
-    <string name="eras_ad">M.S.</string>
-    <string name="eras_bc">M.Ö.</string>
+    <string name="eras_ad">CE</string>
+    <string name="eras_bc">BCE</string>
     <string name="error_num_placeholder">--</string>
     <string name="error_retry_later">İşlem tamamlanamadı. Bir iki dakika bekleyin ve tekrar deneyin</string>
     <string name="error_unknown">Bir şeyler ters gitti</string>

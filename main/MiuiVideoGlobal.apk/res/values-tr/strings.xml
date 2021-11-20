@@ -258,6 +258,7 @@
     <string name="click_to_reload_more">Daha fazla yüklemek için dokunun</string>
     <string name="click_to_retry">Yeniden dene</string>
     <string name="close">Kapat</string>
+    <string name="close_notify_panel_tips">Mini oynatıcı arka planda oynatma açıkken bildirim gölgesinde görüntülenecektir</string>
     <string name="cloud_auto_pip_play_switch">Pencere içinde pencere özelliğini otomatik olarak kullan</string>
     <string name="cloud_online_player">Oynatıcı</string>
     <string name="cloud_online_switch">Kişiselleştirilmiş öneriler</string>
@@ -361,8 +362,6 @@
     <string name="date_picker_lunar">Çin Geleneksel Takvimi</string>
     <string name="date_time_picker_dialog_title">Tarih ve saati ayarla</string>
     <string name="day">gün</string>
-    <string name="default_filedownloader_notification_content">Dosya indirici çalışıyor</string>
-    <string name="default_filedownloader_notification_title">Dosya indirici</string>
     <string name="default_localization_key">system</string>
     <string name="default_upgrade_hint">"Selam!
 Videolar güncelleme için hazır
@@ -675,6 +674,25 @@ Bu kodu gönderin"</string>
     <string name="galleryplus_subtitle_edit_literal_edit">Metni düzenle</string>
     <string name="galleryplus_subtitle_edit_reminder">Girdiğiniz metin çok uzun</string>
     <string name="galleryplus_subtitle_recognized_empty_subtitles">Kayıt yaparken konuşma tanınamadı</string>
+    <string name="galleryplus_talkback_btn_back">Geri</string>
+    <string name="galleryplus_talkback_btn_cancel">İptal et</string>
+    <string name="galleryplus_talkback_btn_fold_speed_view">Oynatma hızını gizle</string>
+    <string name="galleryplus_talkback_btn_lock_orientation">Döndürme kapalı</string>
+    <string name="galleryplus_talkback_btn_mute">Sessize al</string>
+    <string name="galleryplus_talkback_btn_pause">Duraklat</string>
+    <string name="galleryplus_talkback_btn_play">Oynat</string>
+    <string name="galleryplus_talkback_btn_rotate_screen">Ekranı döndür</string>
+    <string name="galleryplus_talkback_btn_save">Kaydet</string>
+    <string name="galleryplus_talkback_btn_send">Gönder</string>
+    <string name="galleryplus_talkback_btn_unfold_speed_view">Oynatma hızı</string>
+    <string name="galleryplus_talkback_btn_unmute">Sesi aç</string>
+    <string name="galleryplus_talkback_focused_speed">Seçildi, %sX</string>
+    <string name="galleryplus_talkback_sound_track_item_ai_music">Otomatik film müziği</string>
+    <string name="galleryplus_talkback_sound_track_item_local_music">Yerel film müziği</string>
+    <string name="galleryplus_talkback_sound_track_item_no_music">Film müziği yok</string>
+    <string name="galleryplus_talkback_speed_view_item">%sX</string>
+    <string name="galleryplus_talkback_subtitle_time">%1$s, %2$s - %3$s</string>
+    <string name="galleryplus_talkback_unfocused_speed">Seçilmedi, %sX</string>
     <string name="galleryplus_v_agree">Onayla</string>
     <string name="galleryplus_v_cancel">İptal et</string>
     <string name="galleryplus_v_confirm_cancel_edit_subtitle_msg">Tüm değişiklikleri yoksay ve altyazıları düzenlemeyi şimdi durdur?</string>
@@ -760,6 +778,12 @@ tercih ettiğiniz dili seçin"</string>
     <string name="live_title">Canlı</string>
     <string name="live_tv_title">Canlı TV</string>
     <string name="loading">Yükleniyor</string>
+    <string name="local_diversion_close_recommend">Kapat</string>
+    <string name="local_diversion_download_more_video">Daha fazla video</string>
+    <string name="local_diversion_manage_local_video">Dosyaları yönet</string>
+    <string name="local_diversion_open_mivideo">"En iyi görüntüleme deneyimi için
+videolarda izleyin"</string>
+    <string name="local_diversion_recommend_title">Popüler</string>
     <string name="local_empty_guide">Çektiğiniz videolar burada görünecek</string>
     <string name="local_play_tip">Yerel video oynatılıyor</string>
     <string name="local_push_setting_power_tag">Yerel videolar hakkında bildirimler</string>
@@ -1286,6 +1310,7 @@ Hesap güvenliğinin arttırılması"</string>
     <string name="phone_number">Telefon numarası</string>
     <string name="photoPickerNotFoundText">Kullanılabilir fotoğraf yok</string>
     <string name="pip">Resim içinde resim</string>
+    <string name="pip_not_supported_toast">Resim içinde resim kullanabilmek için MIUI sürümünü güncelleyin</string>
     <string name="playlist_create">Oluştur</string>
     <string name="playlist_detail_recomm_title">Önerilen çalma listeleri</string>
     <string name="playlist_finish">Bitti</string>
@@ -1421,8 +1446,12 @@ Hesap güvenliğinin arttırılması"</string>
     <string name="plus_tab_time">Zaman tüneli</string>
     <string name="pm">ÖS</string>
     <string name="popup_click_for_download_video">Video indir</string>
+    <string name="popup_pip_activate_button">Ayarlar</string>
+    <string name="popup_pip_not_activated">Öncelikle resim içinde resim özelliğini kullanmak için videolara izin verin</string>
     <string name="privacy_revoke_setting">"Anahtarı kapatarak videolar uygulamasının Gizlilik Politikası'na verdiğiniz izni geri çekersiniz"</string>
     <string name="privacy_revoke_title">İznin geri çekilmesi</string>
+    <string name="pro_prize_popup_style_one">%s karşılığında reklamları kaldırın</string>
+    <string name="pro_prize_popup_style_two">%s karşılığında daha fazla özelliğin kilidini açın</string>
     <string name="project_id">global-video-5cd70</string>
     <string name="psw_hint">Şifre</string>
     <string name="psw_sign_in">Şifre kullanarak oturum aç</string>

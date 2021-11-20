@@ -49,6 +49,14 @@
         <item quantity="other">Bir seferde en fazla %d klon oluşturabilirsiniz</item>
         <item quantity="one">Bir seferde en fazla %d klon oluşturabilirsiniz</item>
     </plurals>
+    <plurals name="exit_camera_hint">
+        <item quantity="other">&lt;Data>"Kameraya bağlanılamıyor.&lt;br>Bu uygulama &lt;font color=#FFCE16>&lt;b>%1$d saniye&lt;/b>&lt;/font> içinde kapatılacak. Bundan sonra bir veya iki dakika bekleyin ve tekrar deneyin"&lt;/Data></item>
+        <item quantity="one">&lt;Data>"Kameraya bağlanılamıyor.&lt;br>Bu uygulama &lt;font color=#FFCE16>&lt;b>%1$d saniye&lt;/b>&lt;/font> içinde kapatılacak. Bundan sonra bir veya iki dakika bekleyin ve tekrar deneyin"&lt;/Data></item>
+    </plurals>
+    <plurals name="exit_thermal_hint">
+        <item quantity="other">&lt;Data>Bu cihaz artık çok sıcak.&lt;br>Bu uygulama &lt;font color=#FFCE16>&lt;b>%1$d saniye&lt;/b>&lt;/font> içinde kapatılacak. Mevcut ilerleme otomatik olarak kaydedildi&lt;/Data></item>
+        <item quantity="one">&lt;Data>Bu cihaz artık çok sıcak.&lt;br>Bu uygulama &lt;font color=#FFCE16>&lt;b>%1$d saniye&lt;/b>&lt;/font> içinde kapatılacak. Mevcut ilerleme otomatik olarak kaydedildi&lt;/Data></item>
+    </plurals>
     <plurals name="fastmotion_pro_min_unit">
         <item quantity="other">%1$d dakika</item>
         <item quantity="one">%1$d dakika</item>
@@ -87,6 +95,10 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">%d dakika önce</item>
         <item quantity="one">1 dakika önce</item>
+    </plurals>
+    <plurals name="pad_ccc_temperature_warning_msg">
+        <item quantity="other">Cihazınız aşırı ısınmış. Kamera %d saniye içinde kapanacak. Fotoğraflarınız veya videolarınız otomatik olarak kaydedilecektir</item>
+        <item quantity="one">Cihazınız aşırı ısınmış. Kamera %d saniye içinde kapanacak. Fotoğraflarınız veya videolarınız otomatik olarak kaydedilecektir</item>
     </plurals>
     <plurals name="pref_camera_fastmotion_duration_unit">
         <item quantity="other">%1$s dakika</item>

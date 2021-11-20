@@ -2,17 +2,6 @@
 <resources>
     <string name="android_ringtone_silent">Hiçbiri</string>
     <string name="android_ringtone_unknown">Bilinmeyen zil sesi</string>
-    <string name="def_alarm_alert">/system/media/audio/alarms/Fireflies.ogg</string>
-    <string name="def_notification_sound">/system/media/audio/ui/WaterDrop_preview.ogg</string>
-    <string name="def_ringtone">/system/media/audio/ringtones/MiRemix.ogg</string>
-    <string name="def_ringtone_slot_1">/system/media/audio/ringtones/MiRemix.ogg</string>
-    <string name="def_ringtone_slot_2">/system/media/audio/ringtones/MiRemix.ogg</string>
-    <string name="def_sms_delivered_sound">/system/media/audio/notifications/MessageSent.ogg</string>
-    <string name="def_sms_delivered_sound_slot_1">/system/media/audio/notifications/MessageSent.ogg</string>
-    <string name="def_sms_delivered_sound_slot_2">/system/media/audio/notifications/MessageSent.ogg</string>
-    <string name="def_sms_received_sound">/system/media/audio/ui/WaterDrop_preview.ogg</string>
-    <string name="def_sms_received_sound_slot_1">/system/media/audio/ui/WaterDrop_preview.ogg</string>
-    <string name="def_sms_received_sound_slot_2">/system/media/audio/ui/WaterDrop_preview.ogg</string>
     <string name="presentation_payphone">Ankesörlü telefon</string>
     <string name="presentation_private">Özel numara</string>
     <string name="presentation_unknown">Bilinmeyen numara</string>
@@ -56,8 +45,6 @@ mm"</string>
     <string name="atlantis">Atlantis (Stereo)</string>
     <string name="miui_clock_fancy_colon"></string>
     <string name="miui_clock_city_name_second">İkinci saat</string>
-    <string name="def_calendar_alert">/system/media/audio/ui/StoneSkimming_preview.ogg</string>
-    <string name="def_notes_alert">/system/media/audio/ui/StoneSkimming_preview.ogg</string>
     <string name="australiaanimals_preview">Avustralya</string>
     <string name="autumn_begins">Sonbahar başlangıcı</string>
     <string name="autumn_equinox">Sonbahar noktası</string>
@@ -244,11 +231,13 @@ mm"</string>
     <string name="vip_sign">İmza:</string>
     <string name="wallpaper_group_black_white_title">Siyah ve beyaz</string>
     <string name="wallpaper_group_color_move_title">Sıvı renkler</string>
+    <string name="wallpaper_group_concerto_title">Konser</string>
     <string name="wallpaper_group_dynamic_nebula_subtitle">Teun van der Zalm</string>
     <string name="wallpaper_group_dynamic_nebula_title">Dinamik bulutsu</string>
     <string name="wallpaper_group_geometric_subtitle">Rutger Paulusse</string>
     <string name="wallpaper_group_geometric_title">Geometri</string>
     <string name="wallpaper_group_minimalist_scenery_title">Minimalizm</string>
+    <string name="wallpaper_group_molten_glass_title">Erimiş cam</string>
     <string name="wallpaper_group_more_system_wallpaper_title">Daha fazla sistem duvar kağıdı</string>
     <string name="wallpaper_group_natural_texture_subtitle">Tom Hegen ve diğerleri</string>
     <string name="wallpaper_group_natural_texture_title">Doğa desenleri</string>

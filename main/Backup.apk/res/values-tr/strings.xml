@@ -566,6 +566,10 @@ http://www.miliao.com
     <string name="new_local_detail_description">"Not:
 %1$d. Veri kaybını önlemek için yedeklemeleri bilgisayarınıza kopyalayın. %2$s
 %3$d. Yedeklemeler MIUI-Backup-AllBackup klasörüne kaydedilir"</string>
+    <string name="new_local_detail_description_global">"Not:
+%1$d. Veri kaybını önlemek için yedekleri bilgisayarınıza kopyalayın. %2$s
+%3$d. Yedeklemeler MIUI-Backup-AllBackup'a kaydedilecektir
+%4$d. Bazı uygulamalar yedeklemeyi desteklemeyebilir"</string>
     <string name="new_local_tab_backup">Yedekle</string>
     <string name="new_local_tab_backup_pad">Yedekle</string>
     <string name="new_local_tab_restore">Geri yükle</string>

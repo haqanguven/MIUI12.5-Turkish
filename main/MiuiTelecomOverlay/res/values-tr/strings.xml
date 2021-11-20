@@ -34,5 +34,5 @@
     <string name="phone_strings_emergency_call_made_dialog_call_blocking_text_txt">Acil durumda müdahale edenlerin sizinle iletişim kurmasına izin vermek için çağrı engelleme kapatıldı</string>
     <string name="phone_strings_emergency_call_made_dialog_title_txt">Acil arama yapıldı</string>
     <string name="respond_via_sms_failure_format">"%s'ye mesaj gönderilemedi"</string>
-    <string name="telecommAppLabel">Manage calls</string>
+    <string name="telecommAppLabel">Aramaları yönet</string>
 </resources>

@@ -468,7 +468,7 @@
     <string name="safe_mode_authorize_once_install_sucess">%1$s yüklemesine izin verdiniz. İndirilen kurulum paketini bulun ve devam edin</string>
     <string name="safe_mode_close_tip">Güvenli modu kapat</string>
     <string name="safe_mode_close_tip_des">Güvenli modu kapattıktan sonra yüklediğiniz uygulamaların güvenlik testlerimizi geçip geçmediğini öğrenemezsiniz. Yine de kapatılsın mı?</string>
-    <string name="safe_mode_in_service">Hizmette güvenli mod</string>
+    <string name="safe_mode_in_service">Güvenli mod hizmeti</string>
     <string name="safe_mode_is_open">Açık</string>
     <string name="safe_mode_none_networkd_msg">Bu uygulamanın güvenlik testlerimizi geçip geçmediğini kontrol etmek için ağa bağlanın</string>
     <string name="safe_mode_none_networkd_title">Ağa bağlan</string>

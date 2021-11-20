@@ -168,4 +168,8 @@
         <item quantity="other">En fazla %d yer işareti ekleyin</item>
         <item quantity="one">En fazla %d yer işareti ekleyin</item>
     </plurals>
+    <plurals name="video_view_count">
+        <item quantity="other">%d görüntüleme</item>
+        <item quantity="one">%d görüntüleme</item>
+    </plurals>
 </resources>
