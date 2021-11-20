@@ -5,7 +5,7 @@
         <item quantity="one">%d radyo kaydı</item>
     </plurals>
     <plurals name="toast_channel_searched">
-        <item quantity="other">%1$d istasyon tarandı</item>
-        <item quantity="one">%1$d istasyon tarandı</item>
+        <item quantity="other">%1$d kanal tarandı</item>
+        <item quantity="one">%1$d kanal tarandı</item>
     </plurals>
 </resources>

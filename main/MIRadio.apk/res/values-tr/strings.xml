@@ -109,8 +109,8 @@
 2．数字音频作品购买成功后不可退回"</string>
     <string name="album_pay_refresh">加载失败刷新一下</string>
     <string name="albun_publish_time">Released on %1$s</string>
-    <string name="alert_frequency_duplicate">Bu frekans zaten mevcut</string>
-    <string name="alert_invalid_frequency">Geçersiz frekans</string>
+    <string name="alert_frequency_duplicate">Bu kanal zaten mevcut</string>
+    <string name="alert_invalid_frequency">Geçersiz kanal</string>
     <string name="alert_message_delete_station">Bu kayıtlı kanal silinecektir.</string>
     <string name="all_chapter_count">共%d集</string>
     <string name="all_comment">全部评论(%s条)</string>
@@ -121,10 +121,10 @@
     <string name="already_download">Downloading…</string>
     <string name="already_favorited">Already favorited</string>
     <string name="am">ÖÖ</string>
-    <string name="apk_filter">APK</string>
-    <string name="app_downloads">%s downloads</string>
-    <string name="app_label">Downloads</string>
-    <string name="app_name">Mi ayarlar</string>
+    <string name="apk_filter">Apk</string>
+    <string name="app_downloads">%s indirme</string>
+    <string name="app_label">İndirmeler</string>
+    <string name="app_name">Radyo</string>
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="artist_album">Albums</string>
     <string name="artist_area_all">All</string>
@@ -433,7 +433,7 @@ Bu kodu yöneticiye gönderin."</string>
     <string name="dialog_recall_soundrecord_title">未安装录音机</string>
     <string name="dialog_show_more_backup">Back up local songs</string>
     <string name="dialog_show_more_optimize_all">Optimize song info</string>
-    <string name="dialog_sleep_title">Uyku zamanlayıcısı ayarlayın</string>
+    <string name="dialog_sleep_title">Uyku zamanlayıcısı</string>
     <string name="dialog_song_sort_type">Sort songs</string>
     <string name="dialog_song_sort_type_name">By name</string>
     <string name="dialog_song_sort_type_playing_times">By the number of times played</string>
@@ -623,7 +623,7 @@ Bu kodu yöneticiye gönderin."</string>
     <string name="fm_browser_label">FM</string>
     <string name="fm_detai_add_icon">%s Created Home screen shortcut successfully</string>
     <string name="fm_detail_hint">收藏专辑获取最新节目动态!精彩内容不错过！</string>
-    <string name="fm_has_turned_off">FM radyo kapatıldı</string>
+    <string name="fm_has_turned_off">Radyo kapatıldı</string>
     <string name="fm_headline">News</string>
     <string name="fm_headline_title">今日精选</string>
     <string name="fm_history">Playback history</string>
@@ -1060,7 +1060,7 @@ Bu kodu yöneticiye gönderin."</string>
     <string name="network_timeout_info">"Couldn't connect to the network. Try again."</string>
     <string name="never_subscribe_radio">Remove this station from favorites/</string>
     <string name="new_comment">最新评论(%s条)</string>
-    <string name="new_frequency">Yeni frekans</string>
+    <string name="new_frequency">Yeni kanal</string>
     <string name="new_search_instant_header">\"%1$s\"</string>
     <string name="new_search_instant_title">Search：%1$s</string>
     <string name="news">News</string>
@@ -1442,7 +1442,7 @@ Bu kodu yöneticiye gönderin."</string>
     <string name="save">Save</string>
     <string name="save_to_playlist">Save as playlist</string>
     <string name="scanned_list">Available channels</string>
-    <string name="search_dialog_title">İstasyonları tara</string>
+    <string name="search_dialog_title">Kanalları tara</string>
     <string name="search_empty">Hiçbir uygulama bulunamadı</string>
     <string name="search_fail">订单状态获取失败</string>
     <string name="search_fail_msg">请联系客服：点击下方联系客服按钮，查看页面底部联系方式。</string>
@@ -1597,7 +1597,7 @@ Bu kodu yöneticiye gönderin."</string>
     <string name="start_to_play">Play</string>
     <string name="station_check_favorite">Kanallara ekle</string>
     <string name="station_freq_format">%sMHz</string>
-    <string name="stations_list">İstasyon listesi</string>
+    <string name="stations_list">Kanal listesi</string>
     <string name="stations_list_empty">Kanal yok</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stop">Stop</string>
@@ -1843,7 +1843,7 @@ Bu kodu yöneticiye gönderin."</string>
     <string name="version_info">Version</string>
     <string name="view_all_comment">查看全部%s条评论</string>
     <string name="view_all_news">View all news</string>
-    <string name="view_stations_list">İstasyon listesini görüntüle</string>
+    <string name="view_stations_list">Kanal listesini görüntüle</string>
     <string name="vip_after_tomorrow_auto_renew_message">Your Music subscription will be renewed automatically the evening of day after tomorrow. Make sure you have enough Mi Credits in your account to complete this payment.</string>
     <string name="vip_after_tomorrow_renew_message">"You won't be able to stream high quality audio, but some songs will be available in regular quality."</string>
     <string name="vip_album_tip_not_open">0元开会员，免费畅听本专辑</string>
