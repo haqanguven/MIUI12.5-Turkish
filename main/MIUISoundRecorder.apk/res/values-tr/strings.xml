@@ -292,6 +292,7 @@ Metne kaydetme şu anda yalnızca mandarin aktarımını desteklemektedir. Aktar
     <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="icon_content_description">İletişim simgesi</string>
     <string name="invalid_argument">Geçersiz değişken</string>
+    <string name="invisible_mode_error_tip">Mikrofonu kullanabilmek için ayarlardan gizli modu kapatın</string>
     <string name="item_view_role_description">Sekme</string>
     <string name="keywords_search_call_record">Aramaları kaydet;Aramayı kaydet;Arama kaydı;Arama kayıtları</string>
     <string name="keywords_search_record">Yeni kayıt;Kayıt ekle;Kayıt;Kayıtlar;Transkript;Kopyasını yaz;Kaydedici;Konuşma kaydedici;Ses kaydedici;Kayıt uygulaması;Kayıt etme uygulaması;Nasıl kayıt yaparım;Nasıl ses kaydederim;Kaydedici nerede;Miui kaydedici</string>
@@ -338,6 +339,8 @@ Metne kaydetme şu anda yalnızca mandarin aktarımını desteklemektedir. Aktar
     <string name="mi_account_ok">Oturum açın</string>
     <string name="mi_account_title">Mi hesabı ile oturum açın</string>
     <string name="midnight">Gece</string>
+    <string name="miuix_access_state_desc">Seçildi</string>
+    <string name="miuix_alphabet_indexer_name">Dizin çunuğu</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Seçimi kaldır</string>
     <string name="miuix_appcompat_action_mode_select_all">Tümünü seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Öğeleri seç</string>
@@ -355,6 +358,8 @@ Metne kaydetme şu anda yalnızca mandarin aktarımını desteklemektedir. Aktar
     <string name="miuix_appcompat_select_all">Tümünü seç</string>
     <string name="miuix_appcompat_select_all_description">Tümünü seç</string>
     <string name="miuix_appcompat_select_item">Ögeleri seç</string>
+    <string name="miuix_indexer_collect">Koleksiyonlar</string>
+    <string name="miuix_indexer_selected">%s seçildi</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için çek</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Yenileme tamamlandı</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor</string>
@@ -534,6 +539,7 @@ Metne kaydetme şu anda yalnızca mandarin aktarımını desteklemektedir. Aktar
     <string name="preference_tip_rename">Kayıtları otomatik olarak adlandır</string>
     <string name="privacy_policy_title">Gizlilik politikası</string>
     <string name="privacy_settings">Gizlilik</string>
+    <string name="progress">Oynatma ilerleme çubuğu</string>
     <string name="recognition_button_add_to_queue">Sıraya ekle</string>
     <string name="recognition_button_cancel">Şimdi değil</string>
     <string name="recognition_button_start">Deşifre et</string>
@@ -651,9 +657,14 @@ Metin ses servisinden daha iyi yararlanmak için aşağıdakileri de bilmeniz ge
     <string name="rename_duplicate">Aynı isime sahip başka bir kayıt zaten mevcut</string>
     <string name="rename_fail_tip">Yeniden adlandırılamadı. Bu adı taşıyan başka bir öge zaten mevcut</string>
     <string name="rename_no_more_tip">Tekrar gösterme</string>
-    <string name="required_permissions">android.permission.RECORD_AUDIO;android.permission.READ_EXTERNAL_STORAGE;android.permission.WRITE_EXTERNAL_STORAGE;</string>
+    <string name="required_permissions">;</string>
     <string name="retry">Yeniden dene</string>
     <string name="runtime_permission_ungranted">Gerekli izinler sağlanmadığından ses kaydedici kullanılamıyor</string>
+    <string name="saf_permission_dialog_content">Android kısıtlamaları nedeniyle kaydedicinin diğer uygulamalar tarafından yapılan kayıtlara erişmek için izne ihtiyacı var. Kaydedicinin bu kayıtları görüntüleyebilmesi için bu kayıtlara erişmesine izin verin</string>
+    <string name="saf_permission_dialog_grant_permission_immediately">Ayarlar</string>
+    <string name="saf_permission_dialog_later">Hayır</string>
+    <string name="saf_permission_dialog_no_more_tip">Bir daha gösterme</string>
+    <string name="saf_permission_dialog_title">Gerekli izinler</string>
     <string name="saturday">Cumartesi</string>
     <string name="saturday_short">Cumartesi</string>
     <string name="saturday_shortest">C</string>
@@ -672,6 +683,7 @@ Metin ses servisinden daha iyi yararlanmak için aşağıdakileri de bilmeniz ge
     <string name="search_tip_rename">Kayıtları otomatik olarak adlandır</string>
     <string name="send">Gönder</string>
     <string name="service_instructions">iflyrec.com hakkında</string>
+    <string name="settings_saf_permission">Dosya yönetimi izinleri</string>
     <string name="share">Paylaş</string>
     <string name="share_dialog_title">Şunu kullanarak paylaş</string>
     <string name="shortcut_records">Kayıtlar</string>

@@ -2067,8 +2067,8 @@ Ağ etkinliğinizi izleyebilecek bir VPN'ye de bağlısınız"</string>
     <string name="show_silently">Bildirimleri sessizce göster</string>
     <string name="show_touches">Hafifçe dokunmayı göster</string>
     <string name="show_touches_summary">Hafifçe dokunmalarda görsel geri bildirim göster</string>
-    <string name="shut_down_password_forget_password_suggesstion_one_content">&lt;Data>Görene kadar <font color="#e6e6e6">&lt;</font>font <font color="#e6e6e6">color=#e6e</font>6e6>[Güç]&lt;/font> ve &lt;font color=#e6e6e6>[Ses +]&lt;/font> düğmelerini basılı tutun&lt;img src=\"\">&lt;/Data></string>
-    <string name="shut_down_password_forget_password_suggesstion_two_content"><font color="#e6e6e6">[Veriyi sil]</font> öğesini seçin ve ardından <font color="#e6e6e6">[Yeniden başlat]</font> öğesine dokunun</string>
+    <string name="shut_down_password_forget_password_suggesstion_one_content">"<Data>Görene kadar &lt;font color=#e6e6e6>[Güç]&lt;/font> ve &lt;font color=#e6e6e6>[Ses +]&lt;/font> düğmelerini basılı tutun&lt;img src=\"\"></Data>"</string>
+    <string name="shut_down_password_forget_password_suggesstion_two_content">"<Data>&lt;font color=#e6e6e6>[Veriyi sil]&lt;/font> öğesini seçin ve ardından &lt;font color=#e6e6e6>[Yeniden başlat]&lt;/font> öğesine dokunun</Data>"</string>
     <string name="sim_state_locked_dialog_title">Geçersiz Sim kart</string>
     <string name="sim_state_locked_puk_dialog_message">En az %d kez yanlış Puk kodu girdiniz. Sim kartınız şu anda geçersiz. Bu Sim kartı bir başkasıyla değiştirin</string>
     <string name="simulate_color_space">Renk uzayını simüle et</string>

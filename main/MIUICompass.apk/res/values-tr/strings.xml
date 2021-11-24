@@ -330,6 +330,7 @@
     <string name="open_perm_msg">Pusula konum bilgisine ve kameraya erişim iznine ihtiyaç duyar. Bu durum koordinatların belirlenmesi ve canlı ön izlemelerin sağlanması için gereklidir. İzin verilsin mi?</string>
     <string name="open_perm_msg_no_camera">Pusulanın koordinatları belirleyebilmesi için konum bilgisine erişmesi gerekmektedir. İzin verilsin mi?</string>
     <string name="open_perm_title">İzin gerekli</string>
+    <string name="pageIndicator">%1$s. %2$s.</string>
     <string name="permission_camera_desc">Canlı önizlemede azimut görüntülemek için</string>
     <string name="permission_description">İzin ayrıntıları</string>
     <string name="permission_location_desc">Koordinatlar ve atmosfer basıncı görüntüleniyor</string>

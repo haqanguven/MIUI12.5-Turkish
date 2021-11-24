@@ -29,6 +29,10 @@
         <item quantity="other">%d dakika önce</item>
         <item quantity="one">1 dakika önce</item>
     </plurals>
+    <plurals name="current_page_number">
+        <item quantity="other">%d sayfa görüntüleniyor</item>
+        <item quantity="one">%d sayfa görüntüleniyor</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Yarım saat önce</item>
     </plurals>
@@ -55,5 +59,9 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">%d dakika önce</item>
         <item quantity="one">1 dakika önce</item>
+    </plurals>
+    <plurals name="total_pages">
+        <item quantity="other">Toplam %d sayfa</item>
+        <item quantity="one">Toplam %d sayfa</item>
     </plurals>
 </resources>

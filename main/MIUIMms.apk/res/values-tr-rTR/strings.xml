@@ -262,6 +262,12 @@
     <string name="context_menu_send_sms">Mesaj gönder</string>
     <string name="context_menu_view_contact">Kişiyi görüntüle</string>
     <string name="context_menu_view_mms">Multimedya mesajını görüntüle</string>
+    <string name="conv_content_defraud_tip">Sahtekarlığı bildir</string>
+    <string name="conv_content_risk">Bilinmeyen numaradan gönderildi</string>
+    <string name="conv_head_link_tip">Sahtekarlığı bildir</string>
+    <string name="conv_head_risk_tip">Yurtdışı dolandırıcılık olabilir</string>
+    <string name="conv_item_official">Redmi</string>
+    <string name="conv_item_risk_tip">Risk</string>
     <string name="conversation">Mesajlar</string>
     <string name="conversation_listitem_avatar">Avatar</string>
     <string name="converting_to_picture_message">Multimedya mesajına dönüştürülüyor</string>
@@ -567,6 +573,7 @@
     <string name="menu_new_manual">Telefon numarasını girin</string>
     <string name="menu_pick_from_contact">Kişilerden seçin</string>
     <string name="menu_preferences">Ayarlar</string>
+    <string name="menu_report">Geri bildirim</string>
     <string name="menu_send_as_common">Mesaj olarak gönder</string>
     <string name="menu_sms_block">Engelleme listesi</string>
     <string name="menu_traffic_destination">Hedef</string>
@@ -1157,6 +1164,7 @@ Mobil veriyi açın ve bu sayfayı tekrar açın"</string>
     <string name="replace">Değiştir</string>
     <string name="replace_image">Resmi değiştir</string>
     <string name="reply_button_msg">Yanıtla</string>
+    <string name="required_permissions">android.permission.READ_SMS;android.permission.RECEIVE_SMS;android.permission.SEND_SMS;android.permission.RECEIVE_MMS;android.permission.READ_CONTACTS</string>
     <string name="resent_message">Tekrar gönder</string>
     <string name="resize_image_error_information">Bu resim yeniden boyutlandırıldığında dahi gönderilemeyecek kadar büyük</string>
     <string name="resource_price_free">Ücretsiz</string>
