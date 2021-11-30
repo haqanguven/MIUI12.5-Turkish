@@ -759,7 +759,7 @@
     <string name="miuishare_account_login_ok">Oturum aç</string>
     <string name="miuishare_account_need_activate">Weibo üzerinden paylaşmak için Mi hesabınızla ilişkili Weibo hesabını gerektirir. Devam etmek için Mi hesabınızı etkinleştirin</string>
     <string name="miuishare_account_need_login">Weibo üzerinden paylaşmak için Mi hesabınızla ilişkili Weibo hesabını gerektirir. Devam etmek için Mi hesabınızda oturum açın</string>
-    <string name="miuishare_app_name">Miui paylaşım</string>
+    <string name="miuishare_app_name">MIUI paylaşım</string>
     <string name="miuishare_no_network">Ağa bağlanılamadı</string>
     <string name="miuishare_publish">Gönder</string>
     <string name="miuishare_qzone_title">Qzone</string>
@@ -1119,7 +1119,7 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin"</string>
     <string name="setting">Ayarlar</string>
     <string name="setting_about_calendar_version">Takvim sürümü: %1$s-%2$s</string>
     <string name="setting_about_imei">İmei: %1$s</string>
-    <string name="setting_about_miui_version">Miui sürümü: %1$s-%2$s</string>
+    <string name="setting_about_miui_version">MIUI sürümü: %1$s-%2$s</string>
     <string name="setting_about_oaid">OA kimliği: %1$s</string>
     <string name="setting_about_summary">Sürüm:</string>
     <string name="setting_accounts">Takvim hesapları</string>
@@ -1147,6 +1147,8 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin"</string>
     <string name="setting_title_debug">Günlüğü dışa aktar</string>
     <string name="setting_title_holiday_display">Tatilleri göster</string>
     <string name="setting_title_import_todo">Görevleri içe aktar</string>
+    <string name="setting_title_subscription_desc">Kapattıktan sonra abonelik kartı ve giriş görüntülenmeyecek vede abonelik hizmeti kullanılamayacak</string>
+    <string name="setting_title_subscription_display">Abonelik hizmetini göster</string>
     <string name="setting_title_weather_card_desc">Ay takvimi kartının sağ tarafında hava durumu bilgilerini gösterir</string>
     <string name="setting_title_weather_card_display">Hava durumunu göster</string>
     <string name="setting_title_yiji_display">Göster</string>

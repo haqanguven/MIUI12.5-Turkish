@@ -66,6 +66,7 @@
     <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
     <string name="abc_toolbar_collapse_description">Daralt</string>
     <string name="aboard_mail_body_content">Uygulama küçük boyutlu ve sürekli olarak ücretsiz şekilde birden fazla dosya biçimiyle uyumludur. Buradan edinin:</string>
+    <string name="app_name">pdf-android-tools</string>
     <string name="app_unknownError">Bilinmeyen hata sebebiyle kapatıldı</string>
     <string name="chart_NotSupportedPic_bmw">Bu resim şu anda görüntülenemiyor</string>
     <string name="chart_OtherCategoryName_bmw">Diğer</string>
@@ -140,6 +141,7 @@
     <string name="et_sort_ascend">Artan</string>
     <string name="et_sort_descend">Azalan</string>
     <string name="et_sort_empty">Sıralanacak içerik bulunamıyor. Başka bir alanı seçin</string>
+    <string name="et_sort_hint_title">Geçerli seçim alanını sırala</string>
     <string name="et_sort_title_tips">Veri üst bilgilerinin sıralanması gerekiyor</string>
     <string name="et_sorter_expand_selection">Seçimin yanında veri bulunduğu algılandı. Hangi verileri sıralamak istiyorsunuz?</string>
     <string name="et_sorter_expand_selection_cancel">Mevcut seçim</string>

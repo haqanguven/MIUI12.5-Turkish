@@ -264,8 +264,14 @@
     <string name="install_package_error">Kurulum paketi sisteminizle uyumlu değil</string>
     <string name="install_package_error_des">"Uyumluluk açısından test edilmiş uygulamayı yüklemek için lütfen ilgili geliştiriciyle iletişime geçin veya Mi App Store'a gidin"</string>
     <string name="install_unknow_source">Bilinmeyen uygulamaları yükle</string>
+    <string name="install_version">Sürüm: %1$s</string>
+    <string name="install_version_replace">Sürüm: %1$s -> %2$s</string>
     <string name="item_view_role_description">Sekme</string>
     <string name="learn_more">Daha fazla bilgi</string>
+    <string name="lock_screen_risk">Parmak izi veya kilit ekranı şifresi yetkilendirme</string>
+    <string name="login_to_install">Giriş yaptıktan sonra yüklemeye devam edin</string>
+    <string name="login_to_install_des">Kuruluma devam etmek için Xiaomi hesabınıza giriş yapabilir veya yetkilendirme yöntemini değiştirmek için Yükleyici Ayarları > Riskli uygulama kurulum yetkilendirmesine gidebilirsiniz</string>
+    <string name="login_xiaomi_account">Xiaomi hesabına giriş yap</string>
     <string name="manage_device_administrators">Cihaz yöneticilerini yönet</string>
     <string name="manage_users">Kullanıcıları yönet</string>
     <string name="marketSdkVersion">3.2.9</string>
@@ -420,10 +426,12 @@
     <string name="net_work_error_msg">Güvenlik kontrolü yapmak için ağa bağlanılamadı</string>
     <string name="net_work_error_retry">Tekrar dene</string>
     <string name="night">Akşam</string>
+    <string name="no_set_lock_screen_tip">Parmak izi veya kilit ekranı şifresi belirlemediniz. Lütfen parmak izi veya kilit ekranı şifresi ayarlamak için sistem ayarlarına gidin</string>
     <string name="noon">Gün ortası</string>
     <string name="not_safe">" (Güvenli değil)"</string>
     <string name="not_set">Ayarlanmadı</string>
     <string name="ok">Tamam</string>
+    <string name="open_install_authorization">Kurulum yetkilendirmesini aç</string>
     <string name="open_now">Aç</string>
     <string name="open_pure_mode_sucess_toast">Güvenli mod açıldı ve bir sonraki uygulama yüklemesi geçerli olacak</string>
     <string name="open_to_pure_mode">Güvenli modu aç</string>
@@ -453,10 +461,13 @@
     <string name="risk_app_install_agree_message">Bu uygulama bir üçüncü tarafça geliştirilmiştir ve yerel yasaları ve düzenlemeleri ihlal edebilir. Xiaomi bu uygulama tarafından sağlanan içerik ve hizmetlerin kullanılabilirliğini, sürekliliğini ve erişilebilirliğini garanti etmez. Bu uygulamanın kullanımından kaynaklanan herhangi bir kayıp veya hasar sizin tarafınızdan karşılanacaktır</string>
     <string name="risk_app_install_agree_title">Sorumluluk reddi</string>
     <string name="risk_app_install_auth_result">%1$s kurulumuna yetki verdiniz. Kurulum paketi algılandığında devam edebilirsiniz</string>
+    <string name="risk_app_install_authorization">Riskli uygulama yükleme yetkisi</string>
     <string name="risk_app_install_empty_text">Burada henüz öğe yok</string>
     <string name="risk_app_install_history">Yetkilendirme geçmişi</string>
     <string name="risk_app_install_item_des">Sürüm: %1$s</string>
     <string name="risk_app_install_manager">Olası riskleri olan uygulamalar</string>
+    <string name="risk_close_tip">Riskli uygulamalar için yükleme yetkilendirmesini kapatın</string>
+    <string name="risk_close_tip_des">Kapattıktan sonra riskli uygulama sizin yetkiniz olmadan direkt olarak yüklenecektir. Kapatma işleminin kendi işleminiz olduğundan emin olmak için şifrenizi veya parmak izinizi doğrulaması gerekir. Parmak izi veya şifre belirlemediyseniz doğrudan kapatabilirsiniz</string>
     <string name="safe_des_once">Mod açıldıktan sonra Xiaomi güvenliği tarafından denetlenmemiş uygulamaların yüklenmesi kısıtlanacaktır</string>
     <string name="safe_des_two">Mod açıldıktan sonra Xiaomi güvenliği tarafından denetlenmemiş uygulamaların yüklenmesi kısıtlanacaktır</string>
     <string name="safe_high_speed_installing">Güvenli sürüm yükleniyor</string>
@@ -601,6 +612,7 @@
     <string name="v7_preference_off">Kapalı</string>
     <string name="v7_preference_on">Açık</string>
     <string name="verify_account_title">Kimliği doğrulayın ve yüklemeyi onaylayın</string>
+    <string name="verify_to_sure_close">Doğrula ve kapat</string>
     <string name="virus_install_authorize_dialog_msg">Bu uygulama risk altındadır ve kişisel verilerinize zarar verebilir. Yüklemeden önce kimliğinizi doğrulamanız gerekir</string>
     <string name="virus_install_authorize_dialog_negative">Kimliği doğrula</string>
     <string name="virus_install_authorize_dialog_title">Riskli uygulamaların yüklenmesi kimlik doğrulaması gerektirir</string>
@@ -616,6 +628,7 @@
     <string name="wednesday">Çarşamba</string>
     <string name="wednesday_short">Çrş</string>
     <string name="wednesday_shortest">Çrş</string>
+    <string name="xiaomi_account_risk">Mi hesabı şifre yetkilendirmesi</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Şimdi değil</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Güncelle</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Bir güncelleme mevcut</string>

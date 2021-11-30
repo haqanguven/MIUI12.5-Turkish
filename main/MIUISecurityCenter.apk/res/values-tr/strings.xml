@@ -1715,6 +1715,7 @@ gönüllüsü"</string>
     <string name="exo_download_notification_channel_name">İndirmeler</string>
     <string name="exo_download_removing">İndirmeleri kaldır</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_player_time_seperate">/</string>
     <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
     <string name="exo_track_resolution">%1$d × %2$d</string>
@@ -2332,7 +2333,7 @@ ve ses değiştiricimizi keşfedin"</string>
     <string name="gs_show_way">Ana sayfa yönü</string>
     <string name="gs_show_way_horizontal">Yatay</string>
     <string name="gs_show_way_vertical">Dikey</string>
-    <string name="gs_sign_notification">20:00 saatinde yer bildirimi yapmayı hatırlat</string>
+    <string name="gs_sign_notification">"Her gün saat 20.00'de check-in yapmayı hatırlat"</string>
     <string name="gs_slip_gamebox_detail">Kısayol panelinin görünmesini sağlamak için kaydırıcıyı kullanın veya ekranın üst kenarından kaydırın</string>
     <string name="gtb_brightness_dialog_right_btn">Devam et</string>
     <string name="gtb_brightness_dialog_sub_message">* Bu özelliği ayarlardan açıp kapatabilirsiniz</string>
@@ -3583,6 +3584,8 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="power_optimize_save_on_lockscreen">Cihaz kilitliyken güç tasarrufu yapın</string>
     <string name="power_optimize_set_lockscreen_time_holder">%s saniye işlem yapılmadığında cihazı kilitle</string>
     <string name="power_phone">Sesli arama</string>
+    <string name="power_rank_surface_flinger">İşleniyor</string>
+    <string name="power_rank_system">Android sistemi</string>
     <string name="power_save_mode">Pil tasarrufu</string>
     <string name="power_save_mode_auto_exit_summary_new">Pil %s veya tamamen şarj olduğunda kapatın​</string>
     <string name="power_save_mode_auto_exit_title">Şarj edildiğinde kapat</string>
@@ -4982,6 +4985,11 @@ Biçimlendirme ^2 üzerindeki mevcut içeriği silecektir. İçerik kaybını ö
     <string name="sys_freememory_title">Kullanılabilir</string>
     <string name="sys_title_gamebooster_unit_gb">GB</string>
     <string name="sys_title_gamebooster_unit_mb">MB</string>
+    <string name="system_anti_fraud_dialog_confirm_btn_txt">Tamam</string>
+    <string name="system_anti_fraud_dialog_content">Az önce bir dolandırıcı araması veya mesajı almış gibisiniz. Bu ödemeye devam etmek mali kayıplara neden olabilir</string>
+    <string name="system_anti_fraud_dialog_hint">&lt;font = color=#747474>Müşteri hizmetleri personeli, yetkililer veya tanıyabileceğiniz kişiler sizden bu ödemeyi tamamlamanızı isterse &lt;/font>&lt;font = color=#F22424>devam etmeden önce kimliklerini doğrulayın&lt;/font></string>
+    <string name="system_anti_fraud_dialog_image_txt">Dolandırıcılığa karşı koruma</string>
+    <string name="system_anti_fraud_dialog_title">Dolandırıcılığa karşı uyarı</string>
     <string name="system_app">Sistem uygulamaları</string>
     <string name="system_app_permission_instruction">Bu uygulama temel sistem hizmetlerini sağlamak için aşağıdaki izinlere ihtiyaç duyar. İzin durumlarının değiştirilmesi sistem çalışmasında anormalliklere yol açacağından bu uygulama için izinlerin yönetimi kısıtlanmıştır</string>
     <string name="system_application">Sistem uygulamaları</string>

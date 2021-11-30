@@ -984,6 +984,7 @@
     <string name="collage_title_poster">Poster</string>
     <string name="collage_title_stitching">Film şeridi</string>
     <string name="collaps_people">Gizle</string>
+    <string name="com.crashlytics.android.build_id">00000000000000000000000000000000</string>
     <string name="com.qzone_com.qzonex.module.operation.ui.QZonePublishMoodActivity">Qzone</string>
     <string name="com.sina.weibo_com.sina.weibo.composerinde.ComposerDispatchActivity">Weibo</string>
     <string name="com.tencent.mm_com.tencent.mm.ui.tools.ShareImgUI">WeChat</string>
@@ -1047,6 +1048,7 @@
     <string name="decrypting_video">Video hazırlanıyor</string>
     <string name="default_device_name">Bilinmeyen aygıt</string>
     <string name="default_relation_name">Yeni grup</string>
+    <string name="default_web_client_id">184486664684-e0h3j1dpl78mpu5sj8a1j6v8i358j772.apps.googleusercontent.com</string>
     <string name="define_by_user">Özel</string>
     <string name="delete">Sil</string>
     <string name="delete_album_failed">Albüm silinemedi</string>
@@ -1524,11 +1526,19 @@ Arkadaşlarınızın daha fazla fotoğraflarını çekin"</string>
     <string name="functions_are_being_developed">Bu özellik yakında hazır olacak. Bizi takip etmeye devam edin</string>
     <string name="gallery_setting">Ayarlar</string>
     <string name="gallery_sync_disable_toast">Galeri senkronizasyonu kapalı</string>
+    <string name="gcm_defaultSenderId">184486664684</string>
     <string name="generate_story_summary">MIUI fotoğraflarınızı analiz eder ve anılar oluşturur. Anılar oluşturmayı durdurmak için bu özelliği kapatın</string>
     <string name="generate_story_title">Anılar</string>
     <string name="get_album_info_in_process">Paylaşılan albüm detayları alınıyor</string>
     <string name="gif_tip">Gif</string>
     <string name="gigabyteShort">GB</string>
+    <string name="global_pad">Tabletim</string>
+    <string name="global_pc">Laptobum</string>
+    <string name="global_phone">Telefonum</string>
+    <string name="google_api_key">AIzaSyDrIWMNmfvO2-ocgfe0_EakzdN4xF8QCMs</string>
+    <string name="google_app_id">1:184486664684:android:f43ea4abe65a1a6b7008c9</string>
+    <string name="google_crash_reporting_api_key">AIzaSyDrIWMNmfvO2-ocgfe0_EakzdN4xF8QCMs</string>
+    <string name="google_storage_bucket">migallery-global.appspot.com</string>
     <string name="grant_permission_go_and_set">Ayarla</string>
     <string name="grant_permission_go_and_set_2">Ayarlar</string>
     <string name="grant_permission_go_and_set_3">Ayarlar</string>
@@ -1816,6 +1826,7 @@ yüzünüzle fotoğrafları seçin"</string>
     <string name="mark_operation_processing">İşleniyor</string>
     <string name="mark_operation_succeeded">Eklendi</string>
     <string name="mark_people_ignore_info_message">Kişilerin fotoğraflarını gruplara eklemek için basılı tutun</string>
+    <string name="marketSdkVersion">3.2.9</string>
     <string name="megabyteShort">MB</string>
     <string name="meizu">Meizu</string>
     <string name="meizu_phone">Meizu</string>
@@ -2158,6 +2169,8 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="owner_album_subtitle">%1$s kişi ile paylaşıldı</string>
     <string name="pad_device_model_name">Xiaomi Pad</string>
     <string name="pc_device_model_name">Bilgisayar</string>
+    <string name="pc_redmi_device_model_name">Redmi laptop</string>
+    <string name="pc_xiaomi_device_model_name">Xiaomi laptop</string>
     <string name="people_album_empty_title">Fotoğraflar fotoğraflardaki kişilere göre sıralanabilir</string>
     <string name="people_jump_failed">Kişiler ile çekildiğiniz fotoğraflar Mi bulut ile senkronize olana kadar bekleyin ve tekrar deneyin</string>
     <string name="people_mark_mode_title">%s seç</string>
@@ -2427,6 +2440,7 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="produce_dialog_text_multi">Birden çok öğe</string>
     <string name="produce_dialog_text_single">Bir öğe</string>
     <string name="progress" formatted="false">%s%</string>
+    <string name="project_id">migallery-global</string>
     <string name="projection_cancel">İptal et</string>
     <string name="projection_checkbox_text">Bu ekranı hatırla</string>
     <string name="projection_device_connection_failed">Projektöre bağlanılamadı</string>
@@ -2483,7 +2497,6 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="redmi_k40_g">Redmi K40 Gaming Edition</string>
     <string name="redmi_k40_pro">Redmi K40 Pro</string>
     <string name="redmi_note_10">Redmi Note 10</string>
-    <string name="redmi_note_10_lite">Redmi Note 10 Lite</string>
     <string name="redmi_note_10_pro">Redmi Note 10 Pro</string>
     <string name="redmi_note_5">Redmi Note 5</string>
     <string name="redmi_note_6_pro">Redmi Note 6 Pro</string>
@@ -3173,6 +3186,18 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="unsupported_media_downloading_tip_format">"Orijinal %s görüntünün izlenmesi Android'in bu sürümünde desteklenmiyor. Yine de indirilsin mi?"</string>
     <string name="unsupported_media_scanned_tip">"%1$s görüntü tespit edildi. %2$s görüntünün izlenmesi Android'in bu sürümünde desteklenmiyor"</string>
     <string name="unsupported_media_view_tip">"Orijinal %s görüntünün izlenmesi Android'in bu sürümünde desteklenmiyor"</string>
+    <string name="update_apk_size">Boyutu güncelle: %s MB</string>
+    <string name="update_btn_exit">Çıkış</string>
+    <string name="update_btn_negative">Daha sonra</string>
+    <string name="update_btn_positive">Güncelle</string>
+    <string name="update_check">Güncellemeleri kontrol et</string>
+    <string name="update_check_title">Mevcut sürüm: %s</string>
+    <string name="update_ignore">Yoksay</string>
+    <string name="update_latest_version">Mevcut sürüm güncel</string>
+    <string name="update_log_format" formatted="false">%s %s</string>
+    <string name="update_network_error">Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
+    <string name="update_new_version">Bir güncelleme mevcut</string>
+    <string name="update_title">%s sürümü şimdi mevcut</string>
     <string name="user_agree">Kabul et</string>
     <string name="user_agreement2">Hizmet şartları</string>
     <string name="user_agreement4">Gizlilik politikası</string>
@@ -3596,6 +3621,9 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="xiaomi_cc_9_custom">Mi CC9 Meitu Edition</string>
     <string name="xiaomi_cc_9_pro">Mi CC9 Pro</string>
     <string name="xiaomi_cc_9e">Mi CC9e</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Not now</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Update</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">An update is available</string>
     <string name="xiaomi_max_3">Mi MAX 3</string>
     <string name="xiaomi_mix_2">Mi MIX 2</string>
     <string name="xiaomi_mix_2s">Mi MIX 2S</string>
