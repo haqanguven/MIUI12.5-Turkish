@@ -614,6 +614,8 @@ Sim kartınızı kontrol edin"</string>
     <string name="mi_message_title">Mi mesaj</string>
     <string name="midnight">Gece</string>
     <string name="millionbyte">MB</string>
+    <string name="miuix_access_state_desc">Seçildi</string>
+    <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Seçimi kaldır</string>
     <string name="miuix_appcompat_action_mode_select_all">Tümünü seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Öğeleri seç</string>
@@ -631,6 +633,8 @@ Sim kartınızı kontrol edin"</string>
     <string name="miuix_appcompat_select_all">Tümünü seç</string>
     <string name="miuix_appcompat_select_all_description">Tümünü seç</string>
     <string name="miuix_appcompat_select_item">Öğeleri seç</string>
+    <string name="miuix_indexer_collect">Koleksiyonlar</string>
+    <string name="miuix_indexer_selected">%s seçildi</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için çek</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Yenileme tamamlandı</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor</string>
@@ -1254,6 +1258,9 @@ Mobil veriyi açın ve bu sayfayı tekrar açın"</string>
     <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">Gönderilme zamanı: %1s</string>
     <string name="sent_label">"Gönderildi: "</string>
+    <string name="service_abandon_alert">Dikkat</string>
+    <string name="service_abandon_retry_deny">Geri</string>
+    <string name="service_abandon_retry_setting">Ayarlar</string>
     <string name="service_message_not_found">Mesajın süresi doldu veya kullanılamıyor</string>
     <string name="service_network_problem">Ağ sorunu nedeniyle gönderilemedi</string>
     <string name="service_not_activated">Hizmet ağ üzerinde etkin değil</string>
@@ -1267,6 +1274,7 @@ Mobil veriyi açın ve bu sayfayı tekrar açın"</string>
     <string name="show_sender">Gönderen bilgisini göster</string>
     <string name="sim1">Sim 1</string>
     <string name="sim2">Sim 2</string>
+    <string name="sim_activation_service_retry_main_purpose">Mi mesajın normal çalışması için Sim aktivasyonunun açık olması gerekir. Sim aktivasyonunu Ayarlar > Uygulamaları yönet bölümünden açabilirsiniz</string>
     <string name="sim_card1">Sim kart 1</string>
     <string name="sim_card2">Sim kart 2</string>
     <string name="sim_card_cloud">%s (Mi mesaj)</string>
@@ -1564,9 +1572,10 @@ Son deneme: %s"</string>
     <string name="wednesday_shortest">Ç</string>
     <string name="wild_msg_processing">Çalışıyor</string>
     <string name="wild_msg_title">Senkronize edilecek telefon numaralarını seçin</string>
-    <string name="xiaomi_market_sdk_update_dialog_cancel">İptal et</string>
+    <string name="xiaomi_account_service_retry_main_purpose">Bu özelliğin normal şekilde çalışması için Mi hesap hizmetlerinin açık olması gerekir. Ayarlar > Uygulamaları yönet bölümünde Mi hesabı hizmetlerini açabilirsiniz</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Şimdi değil</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Tamam</string>
-    <string name="xiaomi_market_sdk_update_dialog_title">%s yeni sürüm</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Bir güncelleme mevcut</string>
     <string name="yellowpage_recommend_msg">"MIUI'nın mesajlaşma özelliklerini kontrol edin"</string>
     <string name="yes">Tamam</string>
     <string name="yesterday">Dün</string>
