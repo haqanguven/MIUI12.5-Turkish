@@ -460,6 +460,7 @@
     <string name="combined_title_and_miprofile_swaped">%1$s, %2$s</string>
     <string name="combined_title_and_miprofile_swaped_huge_mode">"%1$s
 %2$s"</string>
+    <string name="comma">Paragraf</string>
     <string name="composer_failed_to_get_database_infomation">Veri tabanı bilgileri alınamadı</string>
     <string name="composer_has_no_exportable_contact">Dışa aktarabilir kişi bulunmamaktadır. Telefonunuzda kişileriniz varsa bazı veri sağlayıcıları kişilerin telefondan dışa aktarılmasına izin vermiyor olabilir</string>
     <string name="composer_not_initialized">vKart oluşturucu düzgün bir şekilde başlayamadı</string>
@@ -862,6 +863,7 @@ Neden: %s"</string>
     <string name="importing_vcard_finished_title">%s vKart dosyasının içe aktarımı tamamlandı</string>
     <string name="insertContactDescription">Kişi oluştur</string>
     <string name="invalidContactMessage">Kişi mevcut değil</string>
+    <string name="item_offical">Resmi</string>
     <string name="keep_local">Senkronize etme</string>
     <string name="keep_local_btn">Telefonun dahili depolama alanını kullan</string>
     <string name="label_custom_type">Özel</string>
