@@ -29,6 +29,7 @@
     <string name="abc_toolbar_collapse_description">Daralt</string>
     <string name="about_app_name">Hakkında</string>
     <string name="about_version_update">Yenilikler</string>
+    <string name="accessibiliy_ad">Reklam</string>
     <string name="accessibiliy_description_content_account">Profil</string>
     <string name="accessibiliy_description_content_ad">Reklam</string>
     <string name="accessibiliy_description_content_add_resource">Öğe ekle</string>
@@ -64,6 +65,7 @@
     <string name="add_resource_detail_fail">Kaynak eklenemedi</string>
     <string name="afternoon">Öğleden sonra</string>
     <string name="all_resources">Tümü</string>
+    <string name="allow">Granted</string>
     <string name="already_latest_version">Güncel</string>
     <string name="already_newest_version">Mevcut sürüm güncel</string>
     <string name="am">ÖÖ</string>
@@ -86,7 +88,9 @@
     <string name="app_disable_transparent_wallpaper">Saydam duvar kağıdı yok</string>
     <string name="app_enable_transparent_wallpaper">Saydam duvar kağıtlı</string>
     <string name="app_name">Temalar</string>
+    <string name="app_name_pad">Kişiselleştirme</string>
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="application_list_permission_desc">Şeffaf duvar kağıtları ile uyumlu uygulamaları göstermek içindir</string>
     <string name="apply_choosen_type_resource">Seçili öğeleri uygula</string>
     <string name="apply_default_font_tip">Sistem geçerli yazı tipi kullanılmaya devam edilsin mi?</string>
     <string name="apply_failed">Uygulanamadı</string>
@@ -100,6 +104,7 @@
     <string name="apply_success_not_enable_aod">Önce ayarlardan her zaman açık ekranı açın</string>
     <string name="apply_success_not_support_aod">Her zaman açık ekran bu cihazdaki temalarla birleştirilemiyor. Bu temanın diğer bileşenleri başarıyla uygulandı</string>
     <string name="apply_theme_with_ringtones">Tema zil sesi</string>
+    <string name="apply_warning_get_device_dialog_message">İndirilen içeriği kullanabilmek için önce bu özelliğin cihaz kimliğinize erişmesine izin verin. Bu izni Ayarlar > Gizlilikten verebilirsiniz</string>
     <string name="apply_warning_tip_get_device_status">"Bu uygulamanın önce Profil > Ayarlar'da cihaz kimliğinize erişmesine izin verin"</string>
     <string name="audio_duration_minutes_format">%1$d dakika</string>
     <string name="audio_duration_seconds_format">%1$d saniye</string>
@@ -116,6 +121,8 @@
     <string name="backup_theme_name">Tema yedeği</string>
     <string name="backup_theme_progress_message">Yedekleniyor</string>
     <string name="backup_theme_success_message">Kullanılan tema ayarlarınız yedeklendi</string>
+    <string name="basic_mode">Çevrimdışı mod</string>
+    <string name="basic_mode_desc">Temalar internete bağlanmayacak ve yalnızca yerel içerikler kullanacaktır. Kişisel bilgileriniz toplanmayacaktır</string>
     <string name="boot_audio_dialog_cancel">İptal et</string>
     <string name="boot_audio_dialog_confirm">Tamam</string>
     <string name="boot_audio_dialog_content">Önyükleme sesi şimdi kapalı. Tekrar açıp bu sesi uygulamak mı istiyorsunuz?</string>
@@ -123,9 +130,13 @@
     <string name="both_all_apply_failured">Duvar kağıdı uygulanamıyor</string>
     <string name="both_all_apply_success">Duvar kağıdı uygulandı</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
+    <string name="bottomsheet_action_expand_halfway">Yarıya kadar genişlet</string>
+    <string name="browse_mode">Çevrimiçi mod</string>
+    <string name="browse_mode_desc">Temalar internete bağlanacak ve hem yerel hem de çevrimiçi içeriği kullanacaktır. Kişisel bilgileriniz toplanmayacaktır</string>
     <string name="browser_local_resource">Yerel kaynaklar</string>
     <string name="can_not_apply">Uygulanamıyor</string>
     <string name="can_not_apply_error">Bu video formatı desteklenmiyor</string>
+    <string name="can_not_apply_pc_video">PC modu canlı duvar kağıtlarını desteklemiyor</string>
     <string name="can_not_apply_size_invalid">Bu video çok büyük</string>
     <string name="cancel_download">İndirme iptal edildi</string>
     <string name="card_data_request_error">Bir hata meydana geldi. Bir veya iki dakika bekleyin ve ardından tekrar deneyin</string>
@@ -211,6 +222,7 @@
     <string name="clear_text_end_icon_content_description">Metni temizle</string>
     <string name="clearable_edittext_clear_description">Temizle</string>
     <string name="close">Kapat</string>
+    <string name="close_custom_permission_warning_text">Depolama izinleri olmadan bu uygulama öğeleri indiremez ve cihazınızı kişiselleştiremez. Yine de kapatılsın mı?</string>
     <string name="common_applying">Uygulanıyor</string>
     <string name="common_downloading">İndiriliyor</string>
     <string name="common_format_date_no_year">dd/MM</string>
@@ -242,6 +254,7 @@
     <string name="current_using_lockscreen_wallpaper_text">Kilit ekranı</string>
     <string name="current_version">Mevcut sürüm: %1$s</string>
     <string name="current_version_incompatible">Uyumlu değil</string>
+    <string name="custom_storage_permission_desc">Kişiselleştirme tercihlerini değiştirebilmek ve indirilen öğeleri kaydedebilmek için önce bu özelliğin depolama alanına erişmesine izin verin. Bu izni Ayarlar > Gizlilikten verebilirsiniz</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -325,8 +338,15 @@
     <string name="dialog_apply_lock_screen_wallpaper_content">Mevcut tema kilit ekranı duvar kağıdının değiştirilmesini desteklemeyebilir</string>
     <string name="dialog_apply_lock_screen_wallpaper_warning">Kilit ekranı duvar kağıdı</string>
     <string name="dialog_content_get_device_status">Bu uygulamanın diğer cihazlarınızda satın alınan öğelerin kimliğini doğrulayabilmesi için cihaz kimliğinize erişmesi gerekir. Bu özelliği kapattıktan sonra satın aldığınız bazı öğeleri kullanamayabilirsiniz. Yine de kapatılsın mı?</string>
+    <string name="dialog_negative_button_text">Şimdi değil</string>
+    <string name="dialog_positive_button_text">İzin ver</string>
     <string name="dialog_show_never">Tekrar gösterme</string>
+    <string name="dialog_trans_wallpaper_offline_detail">Şeffaf duvar kağıtları Android 12 tarafından desteklenmediği için artık mevcut değil</string>
+    <string name="dialog_trans_wallpaper_offline_inform_detail">Şeffaf duvar kağıtları Android 12 kısıtlamaları ve uyumluluk sorunları nedeniyle artık mevcut değil</string>
+    <string name="dialog_trans_wallpaper_offline_inform_title">Şeffaf duvar kağıtları</string>
+    <string name="dialog_trans_wallpaper_offline_title">Şeffaf duvar kağıtları mevcut değil</string>
     <string name="display">Ekran</string>
+    <string name="do_not_allow">Kısıtlı</string>
     <string name="download_failed">İndirilemedi</string>
     <string name="download_preview_failed">Önizleme yüklenemiyor</string>
     <string name="download_success">İndirme işlemi tamamlandı</string>
@@ -474,6 +494,23 @@
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
+    <string name="fold_close_failed">Kapatılamadı</string>
+    <string name="fold_close_incall_dialog_content">Profil videoları artık desteklenmiyor. Bundan sonra bu özelliği tekrar açamazsınız. Yine de kapatılsın mı?</string>
+    <string name="fold_close_incall_dialog_title">Profil videolarını kapat</string>
+    <string name="fold_close_success">Başarıyla kapatıldı</string>
+    <string name="fold_preference_btn_close">Kapat</string>
+    <string name="fold_preference_btn_restore">Geri yükle</string>
+    <string name="fold_preference_close_incall">Profil videolarını kapat</string>
+    <string name="fold_preference_restore_default_icon">Varsayılan simgeleri geri yükle</string>
+    <string name="fold_preference_restore_default_theme">Varsayılan temayı geri yükle</string>
+    <string name="fold_restore_default_failed">Geri yüklenemedi</string>
+    <string name="fold_restore_default_icon_dialog_content">Simgeler artık bu cihazda kişiselleştirilemez. Simgeleri daha önce değiştirdiyseniz şimdi varsayılan simgeleri geri yükleyebilirsiniz. Bundan sonra simgeleri bir daha kişiselleştiremeyeceksiniz</string>
+    <string name="fold_restore_default_icon_dialog_title">Varsayılan simgeleri geri yükle</string>
+    <string name="fold_restore_default_success">Başarıyla geri yüklendi</string>
+    <string name="fold_restore_default_theme_dialog_agree">Geri yükle</string>
+    <string name="fold_restore_default_theme_dialog_content">Temalar artık bu cihazda kullanılamıyor. Temanızı daha önce değiştirdiyseniz varsayılan temayı şimdi geri yükleyebilirsiniz. Bundan sonra temanızı bir daha değiştiremezsiniz</string>
+    <string name="fold_restore_default_theme_dialog_disagree">Hayır</string>
+    <string name="fold_restore_default_theme_dialog_title">Varsayılan temayı geri yükle</string>
     <string name="font_compat_dialog_buy_confirm">Satın al</string>
     <string name="font_compat_dialog_buy_content">Üçüncü taraf yazı tipleri bazı uygulamalar tarafından desteklenmeyebilir. Bu uyumluluk sorunu yakında çıkacak bir sistem güncellemesiyle giderilecektir. Yine de bu yazı tipi satın alınsın mı?</string>
     <string name="font_compat_dialog_cancel">İptal et</string>
@@ -482,6 +519,11 @@
     <string name="font_compat_dialog_title">Uyumluluk sorunları</string>
     <string name="font_compat_dialog_trial_confirm">Dene</string>
     <string name="font_compat_dialog_trial_content">Üçüncü taraf yazı tipleri bazı uygulamalar tarafından desteklenmeyebilir. Bu uyumluluk sorunu yakında çıkacak bir sistem güncellemesiyle giderilecektir. Yine de bu yazı tipini dene?</string>
+    <string name="font_pad_setting_charge_font">Paralı</string>
+    <string name="font_pad_setting_find_more_title">Daha fazla yazı tipi</string>
+    <string name="font_pad_setting_free_font">Ücretsiz</string>
+    <string name="font_pad_setting_local_font">Yerel yazı tipi</string>
+    <string name="font_pad_setting_title">Yazı tipi</string>
     <string name="font_trial_end_purchase">Yazı tipi satın al</string>
     <string name="forbid_transparent_wallpaper_by_second_space">İlk alana şeffaf duvar kağıdı uygulayın</string>
     <string name="forbid_video_wallpaper_by_second_space">İlk alana dinamik duvar kağıdı uygulayın</string>
@@ -500,6 +542,7 @@
     <string name="has_mamual_hide_icons">Gizli simgeler</string>
     <string name="has_mamual_hide_theme">Gizli</string>
     <string name="has_mamual_hide_wallpaper">Gizli</string>
+    <string name="head_portraits">Profil fotoğrafı</string>
     <string name="heavenly_stems_bing">3</string>
     <string name="heavenly_stems_ding">4</string>
     <string name="heavenly_stems_geng">7</string>
@@ -524,6 +567,7 @@
     <string name="hide_mamual_hide_miwallpaper">Gizlenmiş ana ekran efektlerini gizle</string>
     <string name="hide_mamual_hide_theme">Gizlenmiş temaları gizle</string>
     <string name="hide_mamual_hide_wallpaper">Gizlenmiş duvar kağıtlarını gizle</string>
+    <string name="hide_phone_wallpaper">Telefon duvar kağıtlarını gizle</string>
     <string name="hide_pull_down_message">Biblo gizlensin mi?</string>
     <string name="hide_pull_down_negative">Gizlenemedi</string>
     <string name="hide_pull_down_positive">Gizle</string>
@@ -533,6 +577,9 @@
     <string name="home_daily">Günlük önemli noktalar</string>
     <string name="i_know">Anladım</string>
     <string name="icon_content_description">İletişim kutusu simgesi</string>
+    <string name="icon_pad_setting_find_more_title">Daha fazla simge</string>
+    <string name="icon_pad_setting_local_icon">Yerel simge</string>
+    <string name="icon_pad_setting_title">Simgeler</string>
     <string name="in_the_end">Görüntülenecek öğe yok</string>
     <string name="incall_show_apply">Giden aramalar için profil videosu</string>
     <string name="incall_show_apply_fail">Ayarlanamadı</string>
@@ -562,6 +609,7 @@ Bu özelliği kapatmak için Ayarlar > ses &amp; titreşim > Profil videosu ayar
     <string name="lab">Diğer</string>
     <string name="like_list">Beğendiklerim</string>
     <string name="live_wallpaper">Canlı duvar kağıtları</string>
+    <string name="load_from_local_photos">Galeri</string>
     <string name="loading">Yükleniyor</string>
     <string name="loading_picture">Resim yükleniyor</string>
     <string name="loading_resource_detail_fail">Kaynak yüklenemiyor</string>
@@ -581,10 +629,29 @@ Bu özelliği kapatmak için Ayarlar > ses &amp; titreşim > Profil videosu ayar
     <string name="lockscreen_magazine_title">Duvar kağıdı döngüsü</string>
     <string name="lockscreen_wallpaper">Kilit ekranı</string>
     <string name="lockstyle_personal_settings">Kişiselleştir</string>
+    <string name="login_theme">Temalarda oturum açın</string>
     <string name="long_click_can_hide_resource">Öğeleri gizlemek için basılı tutun</string>
     <string name="marketSdkVersion">3.2.4</string>
+    <string name="material_clock_display_divider">:</string>
+    <string name="material_clock_toggle_content_description">"ÖÖ veya ÖS'yı seçin"</string>
+    <string name="material_hour_selection">Saat seçin</string>
+    <string name="material_hour_suffix">"%1$s o'clock"</string>
+    <string name="material_minute_selection">Dakika seçin</string>
+    <string name="material_minute_suffix">%1$s dakika</string>
+    <string name="material_motion_easing_accelerated">cubic-bezier(0.4, 0.0, 1.0, 1.0)</string>
+    <string name="material_motion_easing_decelerated">cubic-bezier(0.0, 0.0, 0.2, 1.0)</string>
+    <string name="material_motion_easing_emphasized">path(M 0,0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1)</string>
+    <string name="material_motion_easing_linear">cubic-bezier(0.0, 0.0, 1.0, 1.0)</string>
+    <string name="material_motion_easing_standard">cubic-bezier(0.4, 0.0, 0.2, 1.0)</string>
     <string name="material_slider_range_end">Aralık sonu,</string>
     <string name="material_slider_range_start">Aralık başlangıcı,</string>
+    <string name="material_timepicker_am">ÖÖ</string>
+    <string name="material_timepicker_clock_mode_description">Zaman girişi için saat moduna geçin</string>
+    <string name="material_timepicker_hour">Saat</string>
+    <string name="material_timepicker_minute">Dakika</string>
+    <string name="material_timepicker_pm">ÖS</string>
+    <string name="material_timepicker_select_time">Zaman seçin</string>
+    <string name="material_timepicker_text_input_mode_description">Zaman girişi için metin giriş moduna geçin</string>
     <string name="mi_wallpaper">MIUI duvar kağıtları</string>
     <string name="midnight">ÖÖ</string>
     <string name="mine_tab_not_login">"Öğeleri görüntülemek için oturum açın
@@ -618,7 +685,7 @@ mm"</string>
     <string name="miuishare_account_login_ok">Oturum aç</string>
     <string name="miuishare_account_need_activate">"Weibo'da paylaşım yapmak için Mi hesabınızla ilişkilendirilmiş bir Weibo hesabı gereklidir. Devam etmek için Mi hesabınızı etkinleştirin"</string>
     <string name="miuishare_account_need_login">"Weibo'da paylaşım yapmak için Mi hesabınızla ilişkilendirilmiş bir Weibo hesabı gereklidir. Devam etmek için Mi hesabınızı oturum açın"</string>
-    <string name="miuishare_app_name">MIUI Paylaşım</string>
+    <string name="miuishare_app_name">MIUI paylaşım</string>
     <string name="miuishare_mini_program_title">Bulduğum duvar kağıdına bir göz at</string>
     <string name="miuishare_no_network">Ağa bağlanamadı</string>
     <string name="miuishare_please_retry">Bilgiler alınamadı. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
@@ -633,6 +700,8 @@ mm"</string>
     <string name="miuishare_title_share">Paylaş</string>
     <string name="miuishare_wechat_timeline_title">WeChat anlar</string>
     <string name="miuishare_weibo_title">Weibo</string>
+    <string name="miuix_access_state_desc">Seçildi</string>
+    <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Seçimi kaldır</string>
     <string name="miuix_appcompat_action_mode_select_all">Tümünü seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Öğeleri seç</string>
@@ -656,6 +725,8 @@ mm"</string>
     <string name="miuix_compat_dialog_title">%s öğesine varsayılan tema uygulandı</string>
     <string name="miuix_compat_dialog_update_title">Bir güncelleme gerekli</string>
     <string name="miuix_compat_mms">Mesajlaşma</string>
+    <string name="miuix_indexer_collect">Koleksiyonlar</string>
+    <string name="miuix_indexer_selected">%s seçildi</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için çek</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Yenileme tamamlandı</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor</string>
@@ -756,18 +827,22 @@ mm"</string>
     <string name="multi_sim_ringtone_settings_dialog_title">Uyumluluk sorunları</string>
     <string name="multiwindow_no_support">Bu eylem Bölünmüş ekranda desteklenmiyor</string>
     <string name="multiwindow_no_support_icon">Bölünmüş ekran kullanılırken simgeler değiştirilemiyor</string>
+    <string name="need_to_open_application_permission_desc">Hangi uygulamaların şeffaf duvar kağıtlarıyla uyumlu olduğunu öğrenebilmek için temaların cihazınızda yüklü uygulamaların listesine erişmesine izin verin</string>
+    <string name="need_to_open_permission">Gerekli izinler</string>
+    <string name="need_to_open_storage_permission_desc">Temalardaki öğeleri kullanabilmek ve indirebilmek için önce uygulamanın depolama alanına erişmesine izin verin</string>
     <string name="network_exception">Ağa bağlanılamadı. Ağ bağlantılarınızı kontrol edin ve tekrar deneyin</string>
     <string name="new_resource_price_unit"> Mi</string>
     <string name="night">ÖS</string>
     <string name="no_cta_agreed">"GetApps'in CTA izinleri yok"</string>
     <string name="no_data">Ağa bağlanılamıyor</string>
     <string name="no_install_permission">Bu öğeyi yükleme izniniz yok</string>
-    <string name="no_more_notice">"Don't show again"</string>
+    <string name="no_more_notice">Tekrar gösterme</string>
     <string name="no_net_work_connection">Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
     <string name="no_network_desc">Ağa bağlanılamadı</string>
     <string name="no_network_please_retry">Ağ ayarlarınızı kontrol edip tekrar deneyin</string>
     <string name="no_wallpaper">Burada henüz öğe yok</string>
     <string name="noon">ÖS</string>
+    <string name="not_allow">Reddet</string>
     <string name="not_set">Ayarlanmadı</string>
     <string name="not_support_incall_show">Bu duvar kağıdı profil videolarıyla çalışmıyor</string>
     <string name="official_accounts">WeChat</string>
@@ -788,11 +863,19 @@ mm"</string>
     <string name="ota_recovery_theme_notity_btn">Geri yükle</string>
     <string name="ota_recovery_theme_notity_content">Güncellemeden önce kullandığınız temaya geri dönebilirsiniz</string>
     <string name="ota_recovery_theme_notity_title">Temanızı geri yükleyin</string>
+    <string name="pad_fold_exit_wallpaper_warning_content">"Oturumu kapattıktan sonra aşağıdaki işlemleri gerçekleştiremezsiniz:
+Satın aldığınız veya favorilere eklediğiniz öğeleri görüntüleyin ve kullanın"</string>
+    <string name="pad_fold_exit_wallpaper_warning_title">Duvar kağıdı ve kişiselleştirme oturumu kapatılsın mı?</string>
+    <string name="pad_fold_log_in_theme_detail"><Data>"Duvar kağıdı ve kişiselleştirmenin &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Kullanıcı sözleşmesi&lt;/a>&lt;/font> ve &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">gizlilik politikasının&lt;/a>&lt;/font> yanı sıra Mi hesabının &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Kullanıcı sözleşmesi&lt;/a>&lt;/font>&lt;font color=\"#37A5FF\"> ve &lt;a href=\"%4$s\">gizlilik politikası&lt;/a>&lt;/font> okudum ve kabul ediyorum"</Data></string>
+    <string name="pad_fold_log_in_wallpaper">Duvar kağıdı ve kişiselleştirmede oturum açın</string>
+    <string name="pad_fold_no_permission">Depolama izinleri gerekli</string>
+    <string name="pad_fold_no_permission_detail">Kişiselleştirme tercihlerini değiştirebilmek ve indirilen öğeleri kaydedebilmek için önce bu özelliğin depolama alanına erişmesine izin verin</string>
     <string name="password_toggle_content_description">Şifreyi göster</string>
     <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
     <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="personalize">Kişiselleştirme</string>
     <string name="personalize_alarm_ringtone_title">Alarmlar</string>
     <string name="personalize_aod_title">Her zaman açık</string>
     <string name="personalize_call_ringtone_title">Zil sesleri</string>
@@ -803,16 +886,26 @@ mm"</string>
     <string name="personalize_icon_title">Simgeler</string>
     <string name="personalize_notify_ringtone_title">Bildirimler</string>
     <string name="personalize_notify_style_title">Efektler</string>
+    <string name="personalize_recommend_switch_desc">Cihaz kimliğine göre kişiselleştirilmiş içerik önerileri alın</string>
     <string name="personalize_second_space_not_support_set_font">İkinci alanda yazı tipi değiştirilemiyor</string>
     <string name="personalize_theme_entrance">Temalar</string>
     <string name="personalize_third_font">Yazı tipleri</string>
     <string name="personalize_title">Duvar kağıdı ve kişiselleştirme</string>
     <string name="personalize_wallpaper_sub_title">Süper duvar kağıtları ve öne çıkan görüntüler</string>
     <string name="personalize_wallpaper_title">Duvar kağıtları</string>
+    <string name="personalized_cta_content_text">Temalara hoş geldiniz. Duvar kağıtlarınızı, zil seslerinizi, yazı tiplerinizi ve daha fazlasını yönetmek için bu uygulamayı kullanabilirsiniz</string>
+    <string name="phone_exit_theme_warning_content">"Oturumu kapattıktan sonra aşağıdaki işlemleri gerçekleştiremezsiniz:
+1. Satın aldığınız veya favorilere eklediğiniz öğeleri görüntüleyin ve kullanın
+2. Yorum ve beğeni ekleyin, diğer insanları takip edin ve onlarla etkileşime geçin"</string>
+    <string name="phone_exit_theme_warning_title">Temalardan çıkış yapılsın mı?</string>
+    <string name="phone_log_in_theme">Temalarda oturum açın</string>
+    <string name="phone_log_in_theme_detail"><Data>"Temaların &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Kullanıcı sözleşmesi&lt;/a>&lt;/font> ve &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">gizlilik politikası&lt;/a>&lt;/font> yanı sıra Mi hesabının &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Kullanıcı sözleşmesi&lt;/a>&lt;/font>&lt;font color=\"#37A5FF\"> ave &lt;a href=\"%4$s\">gizlilik politikasını&lt;/a>&lt;/font> okudum ve kabul ediyorum"</Data></string>
     <string name="playing_ringtone">Oynatılıyor</string>
     <string name="pm">ÖS</string>
     <string name="pref_lockscreen_magazine_summary">Duvar kağıdını çeşitli kategorilerdeki slayt gösterileriyle değiştirin</string>
     <string name="pref_privacy_policy">Gizlilik politikası</string>
+    <string name="pref_read_write_function_detail">Kişiselleştirme tercihlerini değiştirmek ve indirilen öğeleri kaydetmek içindir</string>
+    <string name="pref_reading_the_application_list_detail">Şeffaf duvar kağıtları kullanmak içindir</string>
     <string name="preference_copied">%1$s panoya kopyalandı</string>
     <string name="preference_subtitle_get_device_status">Diğer cihazlarınızda satın alınan öğeleri indirebilmek için uygulamanın cihaz kimliğinize erişmesine izin verin</string>
     <string name="preference_title_get_device_status">Cihaz kimliği erişimi</string>
@@ -821,13 +914,128 @@ mm"</string>
     <string name="present_local_themes_subtitle">Cihazınızı özelleştirin</string>
     <string name="present_official_themes">Seçtiklerimiz</string>
     <string name="present_online_themes">Daha fazla çevrimiçi temalar</string>
+    <string name="privacy_action_failed_net_content">Bir ağ hatası oluştu. Bir veya iki dakika bekleyin ve tekrar deneyin</string>
+    <string name="privacy_action_failed_server_content">Bir sunucu hatası oluştu. Bir veya iki dakika bekleyin ve tekrar deneyin</string>
+    <string name="privacy_action_failed_title">Hata</string>
+    <string name="privacy_confirm_logoff_and_exit">Hizmetleri iptal et</string>
+    <string name="privacy_confirm_revoke_and_exit_btn">İzni geri al</string>
+    <string name="privacy_exit_btn">Çıkış</string>
+    <string name="privacy_give_up_logoff">Geri</string>
+    <string name="privacy_give_up_revoke_btn">Geri</string>
+    <string name="privacy_i_know_btn">Devam et</string>
+    <string name="privacy_important_prompt_title">Dikkat</string>
+    <string name="privacy_log_off_succeed">Canceled services successfully</string>
+    <string name="privacy_loging_off_warning">Canceling services…</string>
+    <string name="privacy_logoff_services_title">Cancel services</string>
+    <string name="privacy_logoff_theme_content_1">1. All the orders (including paid orders) made on the Xiaomi devices. You will no longer be able to use the items you purchased.</string>
+    <string name="privacy_logoff_theme_content_2">2. All the information about your likes, comments, ratings, and followers generated on the Xiaomi devices.</string>
+    <string name="privacy_logoff_theme_content_5">5. All the personalization items currently used on this device. Default personalization preferences will be restored.</string>
+    <string name="privacy_logoff_theme_service_warning">The following items will be deleted permanently after the services are canceled:</string>
+    <string name="privacy_network_exception">A network error occurred. Wait a minute or two and try again.</string>
+    <string name="privacy_pad_fold_Read_write_storage">Access storage</string>
+    <string name="privacy_pad_fold_entry">Privacy</string>
+    <string name="privacy_pad_fold_logoff_service_content">Cancel Wallpaper and personalization services</string>
+    <string name="privacy_pad_fold_logoff_wallpaper_content_3">3. All the wallpapers, fonts, and ringtones downloaded to this device.</string>
+    <string name="privacy_pad_fold_logoff_wallpaper_content_4">4. All the permissions preferences, settings, and cached items generated on this device.</string>
+    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_content_1">"1. Make sure that you have the right to cancel services before you continue.
+2. Cancelation of Wallpaper and personalization services won't affect the normal usage of other Xiaomi products.
+3. Service cancelation is an irreversible action. Back up all the important items before you continue, as they might be deleted permanently. Remember that you won't be able to reconsider your decision once the services are canceled. The following data will be permanently deleted or anonymized after service cancelation (except as otherwise provided by laws and regulations, or otherwise required by regulatory authorities):"</string>
+    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_content_2">"All the orders (including paid orders) made on the Xiaomi devices. You will no longer be able to use the items you purchased.
+All the information about your likes, comments, ratings, and followers generated on the Xiaomi devices.
+All the wallpapers, fonts, and ringtones downloaded to this device.
+All the permissions preferences, settings, and cached items generated on this device.
+All the personalization items currently used on this device. Default personalization preferences will be restored."</string>
+    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_content_3">4. Service cancelation does not imply exemption or mitigation in regard to the responsibilities brought about by actions performed prior to canceling the services.</string>
+    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_prompt">Statement on the Cancelation of Wallpaper and Personalization Services</string>
+    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_title">Read and agree to the \"Statement on the Cancelation of Wallpaper and Personalization Services\" before canceling our services.</string>
+    <string name="privacy_pad_fold_logoff_wallpaper_service_introduce">"You're about to cancel Wallpaper and personalozation services."</string>
+    <string name="privacy_pad_fold_read_wallpaper_logoff_privacy_policy">"&lt;Data>\"I've read and agreed to"<font color="#8E92B0"> the \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Statement on the Cancelation of Wallpaper and </font>Personalization Services&lt;/a>&lt;/font>\".\"&lt;/Data></string>
+    <string name="privacy_pad_fold_read_wallpaper_privacy_policy">"&lt;Data>\"I've read and agreed to"<font color="#8E92B0"> the \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Statement on the Withdrawal of Consent to the Privacy Policy of Wallp</font>aper and Personalization&lt;/a>&lt;/font>\".\"&lt;/Data></string>
+    <string name="privacy_pad_fold_revoke_agree_content_3">3. All the wallpapers, fonts, and ringtones downloaded to this device.</string>
+    <string name="privacy_pad_fold_revoke_agree_content_4">4. All the permissions preferences, settings, and cached items generated on this device.</string>
+    <string name="privacy_pad_fold_revoke_agree_detail_prompt">Statement on the Withdrawal of Consent to the Privacy Policy of Wallpaper and Personalization</string>
+    <string name="privacy_pad_fold_revoke_agree_detail_title">Read and agree to the \"Statement on the Withdrawal of Consent to the Privacy Policy of Wallpaper and Personalization\" before withdrawing your consent.</string>
+    <string name="privacy_pad_fold_revoke_agree_introduce">"If you continue, you'll withdraw your consent to the Privacy Policy of Wallpaper and personalization. The personal information already collected and retained will be deleted within the specific period in accordance with applicable laws and regulations unless required otherwise. As Wallpaper and personalization provides its services based on the collection of the necessary personal information, your withdrawal of consent will be held as refusing to accept Wallpaper and personalization services."</string>
+    <string name="privacy_pad_fold_update_content">Wallpaper and personalization Privacy Policy was updated:</string>
+    <string name="privacy_pad_important_prompt_content">"Looks like you haven't agreed to our User Agreement and Privacy Policy yet. However, the basic features and services of Wallpaper and personalization are still available to you.
+Whenever you use the items stored on this device for personalization (e.g. set them as wallpapers or ringtones), we'll ask you to allow this app to access device storage."</string>
+    <string name="privacy_permission_management_description">Permissions details</string>
+    <string name="privacy_permission_related_content">Permissions</string>
+    <string name="privacy_permit_privacy_policy_content">"You won't be able to keep using our unless you agree to the new version of "<a href="'%1$s'"><font color;="'#37A5FF'">Privacy Policy. Agree to the </font></a>updated Privacy Policy now?</string>
+    <string name="privacy_phone_important_prompt_content">"Looks like you haven't agreed to our User Agreement and Privacy Policy yet. However, the basic features and services of Themes are still available to you.
+Whenever you use the items stored on this device for personalization (e.g. set them as wallpapers or ringtones), we'll ask you to allow this app to access device storage."</string>
+    <string name="privacy_phone_logoff_service_content">Cancel Themes services</string>
+    <string name="privacy_phone_logoff_theme_content_3">3. All the themes, wallpapers, dynamic wallpapers, fonts, icons, and ringtones downloaded to this device.</string>
+    <string name="privacy_phone_logoff_theme_content_4">4. All the search history records, permissions preferences, settings, and cached items generated on this device.</string>
+    <string name="privacy_phone_logoff_theme_service_detail_content_1">"1. Make sure that you have the right to cancel services before you continue.
+2. Cancelation of Themes services won't affect the normal usage of other Xiaomi products.
+3. Service cancelation is an irreversible action. Back up all the important items before you continue, as they might be deleted permanently. Remember that you won't be able to reconsider your decision once the services are canceled. The following data will be permanently deleted or anonymized after service cancelation (except as otherwise provided by laws and regulations, or otherwise required by regulatory authorities):"</string>
+    <string name="privacy_phone_logoff_theme_service_detail_content_2">"All the orders (including paid orders) made on the Xiaomi devices. You will no longer be able to use the items you purchased.
+All the information about your likes, comments, ratings, and followers generated on the Xiaomi devices.
+All the themes, wallpapers, dynamic wallpapers, fonts, icons, and ringtones downloaded to this device.
+All the search history records, permissions preferences, settings, and cached items generated on this device.
+All the personalization items currently used on this device. Default personalization preferences will be restored."</string>
+    <string name="privacy_phone_logoff_theme_service_detail_content_3">4. Service cancelation does not imply exemption or mitigation in regard to the responsibilities brought about by actions performed prior to canceling the services.</string>
+    <string name="privacy_phone_logoff_theme_service_detail_prompt">Statement on the Cancelation of Themes Services</string>
+    <string name="privacy_phone_logoff_theme_service_detail_title">Read and agree to the \"Statement on the Cancelation of Themes Services\" before canceling our services.</string>
+    <string name="privacy_phone_logoff_theme_service_introduce">"You're about to cancel Themes services."</string>
+    <string name="privacy_phone_read_and_write_storage">Access storage</string>
+    <string name="privacy_phone_read_theme_logoff_privacy_policy">"&lt;Data>\"I've read and agreed to"<font color="#8E92B0"> the \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Statement on the Cancel</font>ation of Themes Services&lt;/a>&lt;/font>\".\"&lt;/Data></string>
+    <string name="privacy_phone_read_theme_privacy_policy">"&lt;Data>\"I've read and agreed to"<font color="#8E92B0"> the \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Statement on the Withdrawal of Consent to the </font>Privacy Policy of Themes&lt;/a>&lt;/font>\".\"&lt;/Data></string>
+    <string name="privacy_phone_revoke_agree_content_3">3. All the themes, wallpapers, dynamic wallpapers, fonts, icons, and ringtones downloaded to this device.</string>
+    <string name="privacy_phone_revoke_agree_content_4">4. All the search history records, permissions preferences, settings, and cached items generated on this device.</string>
+    <string name="privacy_phone_revoke_agree_detail_content_1">"1. Make sure that you have the right to withdraw consent before you continue.
+2. Your withdrawal of consent to the Privacy Policy of Themes won't affect the normal usage of other Xiaomi products.
+3. Withdrawal of consent is an irreversible action. Back up all the important items before you continue, as they might be deleted permanently. Remember that you won't be able to reconsider your decision once your consent is withdrawn. The following data will be permanently deleted or anonymized after withdrawal of consent (except as otherwise provided by laws and regulations, or otherwise required by regulatory authorities):"</string>
+    <string name="privacy_phone_revoke_agree_detail_content_2">"All the orders (including paid orders) made on the Xiaomi devices where you used your Mi Account. You will no longer be able to use the items you purchased.
+All the information about your likes, comments, ratings, and followers generated on the Xiaomi devices where you used your Mi Account.
+All the themes, wallpapers, dynamic wallpapers, fonts, icons, and ringtones downloaded to this device.
+All the search history records, permissions preferences, settings, and cached items generated on this device.
+All the personalization items currently used on this device. Default personalization preferences will be restored."</string>
+    <string name="privacy_phone_revoke_agree_detail_content_3">"4. After you withdraw your consent to the Privacy policy of Themes, we will cease to collect your personal information. The personal information already collected and retained will be deleted within the specific period in accordance with applicable laws and regulations unless required otherwise. 
+5. Withdrawal of consent does not imply exemption or mitigation in regard to the responsibilities brought about by actions performed prior to the withdrawal of consent."</string>
+    <string name="privacy_phone_revoke_agree_detail_prompt">Statement on the Withdrawal of Consent to the Privacy Policy of Themes</string>
+    <string name="privacy_phone_revoke_agree_detail_title">Read and agree to the \"Statement on the Withdrawal of Consent to the Privacy Policy of Themes\" before withdrawing your consent.</string>
+    <string name="privacy_phone_revoke_agree_introduce">"If you continue, you'll withdraw your consent to the Privacy Policy of Themes. The personal information already collected and retained will be deleted within the specific period in accordance with applicable laws and regulations unless required otherwise. As Themes provides its services based on the collection of the necessary personal information, your withdrawal of consent will be held as refusing to accept Themes services."</string>
+    <string name="privacy_phone_update_content">Themes Privacy Policy was updated:</string>
+    <string name="privacy_read_statement">Agree to the terms and conditions first</string>
+    <string name="privacy_read_the_updated_privacy_policy_content">Read and agree to the new version of <a href="'%1$s'"><font color;="'#37A5FF'">Privacy Policy before you con</font></a>tinue.</string>
+    <string name="privacy_reading_the_application_list">Access the list of apps installed on this device</string>
+    <string name="privacy_remind_user_mode_agree">Agree</string>
+    <string name="privacy_remind_user_mode_content">&lt;Data>Agree to our Privacy Policy to use this feature. Rea<font color="#37A5FF">d our &lt;font color=\"#37A5FF\">&lt;/color>&lt;a hr</font>ef=\"%1$s\">Privacy Policy&lt;/a>&lt;/font> to learn how we collect, use, disclose, process, and store the personal information you provide to us when you use Themes.&lt;/Data></string>
+    <string name="privacy_remind_user_mode_title">Dikkat</string>
+    <string name="privacy_revoke_agree_content">Withdrawal of consent</string>
+    <string name="privacy_revoke_agree_content_1">1. Mi hesabınızı kullandığınız Xiaomi cihazlarında yapılan tüm siparişler. Satın aldığınız ürünleri artık kullanamayacaksınız</string>
+    <string name="privacy_revoke_agree_content_2">2. Mi hesabınızı kullandığınız Xiaomi cihazlarında oluşturulan beğenileriniz, yorumlarınız, puanlarınız ve takipçilerinizle ilgili tüm bilgiler</string>
+    <string name="privacy_revoke_agree_content_5">5. Şu anda bu cihazda kullanılan tüm kişiselleştirme öğeleri. Varsayılan kişiselleştirme tercihleri geri yüklenecek</string>
+    <string name="privacy_revoke_agree_data_warning">Aşağıdaki veriler onayın geri alınmasından sonra kalıcı olarak silinecek veya anonim hale getirilecektir:</string>
+    <string name="privacy_revoke_succeed">İzin başarıyla geri alındı</string>
+    <string name="privacy_revoking_warning">İzin geri alınıyor</string>
+    <string name="privacy_select_mode">Mod seç</string>
+    <string name="privacy_select_mode_desc">"Gizlilik politikamızı kabul etmediğiniz için aşağıdaki modlardan birini seçin:"</string>
+    <string name="privacy_settings">Gizlilik</string>
+    <string name="privacy_update_prompt_title">Güncellenmiş gizlilik politikası</string>
+    <string name="private_pad_fold_revoke_agree_detail_content_1">"1. Devam etmeden önce onayınızı geri çekme hakkınız olduğundan emin olun
+2. Duvar kağıdının gizlilik politikasına ve kişiselleştirmeye ilişkin onayınızı geri çekmeniz diğer Xiaomi ürünlerinin normal kullanımını etkilemeyecektir
+3. İznin geri alınması geri dönüşü olmayan bir işlemdir. Kalıcı olarak silinebileceklerinden, devam etmeden önce tüm önemli öğeleri yedekleyin. Onayınız geri çekildikten sonra kararınızı yeniden gözden geçiremeyeceğinizi unutmayın. Aşağıdaki veriler onayın geri alınmasından sonra kalıcı olarak silinecek veya anonim hale getirilecektir:"</string>
+    <string name="private_pad_fold_revoke_agree_detail_content_2">"Mi hesabınızı kullandığınız Xiaomi cihazlarında yapılan tüm siparişler. Satın aldığınız ürünleri artık kullanamayacaksınız
+Mi hesabınızı kullandığınız Xiaomi cihazlarında oluşturulan beğenileriniz, yorumlarınız, puanlarınız ve takipçilerinizle ilgili tüm bilgiler
+Bu cihaza indirilen tüm duvar kağıtları, yazı tipleri ve zil sesleri
+Bu cihazda oluşturulan tüm izin tercihleri, ayarlar ve önbelleğe alınmış öğeler
+Şu anda bu cihazda kullanılan tüm kişiselleştirme öğeleri. Varsayılan kişiselleştirme tercihleri geri yüklenecek"</string>
+    <string name="private_pad_fold_revoke_agree_detail_content_3">"4. Duvar kağıdının ve kişiselleştirmenin gizlilik politikasına verdiğiniz onayı geri çekmenizin ardından kişisel bilgilerinizi toplamayı durduracağız. Halihazırda toplanan ve saklanan kişisel bilgiler, aksi gerekmedikçe yürürlükteki kanun ve yönetmeliklere uygun olarak belirli bir süre içinde silinecektir
+5. İznin geri çekilmesinden önce gerçekleştirilen eylemlerin getirdiği sorumluluklarla ilgili olarak muafiyet veya hafifletme anlamına gelmez"</string>
     <string name="provision_default_theme_title">Varsayılan</string>
     <string name="provision_loading_tips">Yükleniyor</string>
     <string name="provision_second_title">Varsayılan birkaç tema içerisinden birini seçin</string>
     <string name="provision_title">Bir tema seçin</string>
+    <string name="prvicay_permission_not_allow_desc">"Bu uygulamanın bu cihazda oluşturulan tüm verileri silmek için depolama alanına erişmesi gerekiyor. Bu izin olmadan bazı veriler silinemez. Yine de hizmetler iptal edilsin mi?
+Bu izni Ayarlar > Gizlilik'te verebilirsiniz"</string>
     <string name="pull_down_view_error_message">Tüh! İnternet bağlantısı bulunamadı. Bağlantınızı kontrol edin veya tekrar deneyin</string>
     <string name="pull_down_view_refresh">Yenile</string>
     <string name="pull_down_view_title">Yenilikler</string>
+    <string name="purchased">Siparişler</string>
+    <string name="read_and_agree_account_privacy">"Mi hesabı "<a href="%3$s"><font color="#37A5FF">Kullanıcı sözleşmesini ve gizlilik politikasını<a href="%4$s"><font color="#37A5FF"> okudum ve kabul ediyorum"</string>
     <string name="recently_used">Son kullanılanlar</string>
     <string name="recommend_trigger">Kişiselleştirilmiş öneriler</string>
     <string name="recommend_trigger_summary">Tercihlerinize göre öneriler almak için açın</string>
@@ -905,6 +1113,10 @@ mm"</string>
     <string name="resource_delete">Sil</string>
     <string name="resource_delete_all">Seçili %1$d kaynak silinsin mi?</string>
     <string name="resource_delete_confirm">Bu kaynaklar silinsin mi?</string>
+    <string name="resource_delete_font_title">Yazı tiplerini sil</string>
+    <string name="resource_delete_icon_title">Simgeleri sil</string>
+    <string name="resource_delete_ring_title">Zil seslerini sil</string>
+    <string name="resource_delete_wallpaper_title">Duvar kağıtlarını sil</string>
     <string name="resource_delta_update_failed">Tema yeniden indiriliyor</string>
     <string name="resource_delta_update_successful">Tema güncellendi</string>
     <string name="resource_delta_update_total">%1$d delta güncellemesi kaydedildi %2$s </string>
@@ -947,6 +1159,7 @@ mm"</string>
     <string name="resource_free_download">Ücretsiz indir</string>
     <string name="resource_get_auth_checking">Doğrulanıyor</string>
     <string name="resource_get_auth_exceed_max_limit_tips">Bu hesaptan zaten 10 adet cihaz yetkilendirildi</string>
+    <string name="resource_get_auth_exceed_max_limit_tips_pad">Kişiselleştirmeyi bir hesapla 10 cihaza kadar kullanabilirsiniz</string>
     <string name="resource_get_auth_exceed_max_limit_title">Yetkilendirilmiş cihaz sayısı aşıldı</string>
     <string name="resource_get_auth_has_been_undercarriaged">Bu tema artık kullanılabilir durumda değil</string>
     <string name="resource_get_auth_not_official">Üçüncü parti kaynaklardan gelen temalar desteklenmemektedir</string>
@@ -1108,7 +1321,7 @@ mm"</string>
     <string name="share_content_text_first_theme">Buna bir bak! %1$s teması telefonunuza tamamen yeni bir görünüm kazandırır</string>
     <string name="share_content_text_first_wallpaper">Buna bir bak! %1$s duvar kağıdı telefonunuza tamamen yeni bir görünüm kazandırır</string>
     <string name="share_content_text_second">" %1$s'da kendi stilinizi bulun"</string>
-    <string name="share_content_topic">"\#MIUI kişiselleştirme#"</string>
+    <string name="share_content_topic">\#MIUI kişiselleştirme#</string>
     <string name="share_copy_theme_url">Tema bağlantısını kopyala</string>
     <string name="share_copy_url_success">Kopyalandı</string>
     <string name="share_copy_wallpaper_url">Duvar kağıdı bağlantısını kopyala</string>
@@ -1140,6 +1353,7 @@ mm"</string>
     <string name="show_mamual_hide_miwallpaper">Gizli ana ekran efektlerini göster</string>
     <string name="show_mamual_hide_theme">Gizli yazı temaları göster</string>
     <string name="show_mamual_hide_wallpaper">Gizli yazı duvar kağıtlarını göster</string>
+    <string name="show_phone_wallpaper">Show phone wallpapers</string>
     <string name="solar_term_autumn_begins">Sonbahar başlıyor</string>
     <string name="solar_term_autumn_equinox">Sonbahar ekinoksu</string>
     <string name="solar_term_clear_and_bright">Açık ve parlak</string>
@@ -1166,13 +1380,15 @@ mm"</string>
     <string name="solar_term_winter_solstice">Kış gündönümü</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="still_apply">Uygula</string>
+    <string name="storage_migration_exit_msg">Temaları androidin gelecek sürümleriyle uyumlu hale getirmek için indirdiğiniz öğeleri yeni bir konuma taşıdık. Değişiklikleri uygulamak ve indirdiğiniz içeriği görüntülemek için uygulamayı yeniden başlatın</string>
+    <string name="storage_permission_denied_desc">Öğeleri görüntüleyebilmek için temaların depolama alanına erişmesine izin verin</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Pazar</string>
     <string name="sunday_short">Pazar</string>
     <string name="sunday_shortest">P</string>
     <string name="super_wallpaper">Süper duvar kağıdı</string>
-    <string name="super_wallpaper_download_progress">%1$d%%</string>
-    <string name="super_wallpaper_list_footer_text">Stay tuned for our new releases!</string>
+    <string name="super_wallpaper_download_progress">%%%1$d</string>
+    <string name="super_wallpaper_list_footer_text">Yeni yayınlarımız için takipte kalın</string>
     <string name="super_wallpaper_list_label">Süper duvar kağıdı</string>
     <string name="super_wallpaper_setting_apply_success_toast">Uygulandı</string>
     <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">Uygula</string>
@@ -1188,10 +1404,15 @@ mm"</string>
     <string name="system_aod_dialog_title">Her zaman açık ekran kapalı</string>
     <string name="system_cta_agree_desc">Bu uygulamanın internete bağlanmasına ve yukarıda listelenen zorunlu izinleri vermesine izin verin</string>
     <string name="system_cta_all_purpose">"Temalara hoş geldiniz. Temalarınızı, duvar kağıtlarınızı, zil seslerinizi ve yazı tiplerinizi yönetmek için bu uygulamayı kullanabilirsiniz. "</string>
+    <string name="system_cta_all_purpose_fold">Duvar kağıdına ve kişiselleştirmeye hoş geldiniz. Her zaman açık ekran temalarınızı, duvar kağıtlarınızı, zil seslerinizi ve yazı tiplerinizi yönetmek için bu uygulamayı kullanabilirsiniz</string>
+    <string name="system_cta_all_purpose_pad">Kişiselleştirmeye hoş geldiniz. Duvar kağıtlarınızı, zil seslerinizi, uygulama simgelerinizi ve yazı tiplerinizi yönetmek için bu uygulamayı kullanabilirsiniz</string>
     <string name="system_cta_main_purpose">Çevrimiçi ve çevrimdışı temaları, duvar kağıtlarını, zil seslerini, yazı tiplerini ve video duvar kağıtlarını kullanın</string>
-    <string name="system_cta_runtime_perm_desc_get_accounts">IMEI bilgisine erişmek ve indirme hizmetleri sağlamak için</string>
-    <string name="system_cta_runtime_perm_desc_read_phone_state">Oturum açmak ve sistem hesaplarını yönetmek için</string>
-    <string name="system_cta_runtime_perm_desc_storage">Kayıtlı temaları, zil seslerini, yazı tiplerini, duvar kağıtlarını ve video duvar kağıtlarını saklamak için</string>
+    <string name="system_cta_retry_get_permission_btn_pad">Start</string>
+    <string name="system_cta_retry_get_permission_msg_pad">Gerekli izinler</string>
+    <string name="system_cta_runtime_perm_desc_get_accounts">IMEI bilgisine erişmek ve indirme hizmetleri sağlamak içindir</string>
+    <string name="system_cta_runtime_perm_desc_read_phone_state">Oturum açmak ve sistem hesaplarını yönetmek içindir</string>
+    <string name="system_cta_runtime_perm_desc_storage">Kayıtlı temaları, zil seslerini, yazı tiplerini, duvar kağıtlarını ve video duvar kağıtlarını saklamak içindir</string>
+    <string name="system_cta_runtime_perm_desc_storage_pad">Kişiselleştirme amacıyla cihazınızda saklanan öğeleri kullanmak ve satın alınan öğeleri kaydetmek içindir</string>
     <string name="system_precust">Önyüklüler</string>
     <string name="tag_ad">Reklam</string>
     <string name="task_already_exist">Bu görev zaten var</string>
@@ -1306,6 +1527,7 @@ mm"</string>
     <string name="theme_import_from_sdcard">İçe aktar</string>
     <string name="theme_is_external_priority_storage">SD karta kaydet</string>
     <string name="theme_is_external_priority_storage_summary">Temalar uygulaması değişikliklerin uygulanabilmesi için yeniden başlatılacaktır</string>
+    <string name="theme_log_out">Sign out</string>
     <string name="theme_multiple_button_title_customize">Kişiselleştir</string>
     <string name="theme_name">%1$s</string>
     <string name="theme_no">Hayır</string>
@@ -1353,6 +1575,7 @@ mm"</string>
     <string name="to_activate_the_account">Mi hesabınızı şimdi etkinleştirin</string>
     <string name="today">Bugün</string>
     <string name="tomorrow">Yarın</string>
+    <string name="trans_wallpaper_offline_notice">Şeffaf duvar kağıtları mevcut değil</string>
     <string name="transparency_pref_summary">Duvar kağıdınızın ne kadar saydam olacağını seçin</string>
     <string name="transparency_pref_title">Opaklık seviyesi</string>
     <string name="transparent_wallpaper">Saydam duvar kağıdı</string>
@@ -1426,8 +1649,13 @@ Daha fazla özellik için Temalar > Profil > Tema laboratuvarı menüsüne gidin
     <string name="video_wallpaper_import">Öğe eklemek için dokunun</string>
     <string name="vip_level_dialog_positive">Biliyorum</string>
     <string name="vip_level_dialog_title">İpuçları</string>
+    <string name="voice_input">Ses girişi</string>
     <string name="wallpaper_24h">24S</string>
     <string name="wallpaper_apply">Uygula</string>
+    <string name="wallpaper_apply_full">Tümü</string>
+    <string name="wallpaper_apply_large">İç ekran</string>
+    <string name="wallpaper_apply_pcmode">PC modu duvar kağıdını ayarla</string>
+    <string name="wallpaper_apply_small">Dış ekran</string>
     <string name="wallpaper_crop">Kırp</string>
     <string name="wallpaper_dark_mode_image_preview_tip">Karanlık mod önizlemesi</string>
     <string name="wallpaper_decoded_error">Duvar kağıdı yüklenemiyor</string>
@@ -1466,10 +1694,16 @@ Daha fazla özellik için Temalar > Profil > Tema laboratuvarı menüsüne gidin
     <string name="wallpaper_online_tip">Daha fazla öğe görüntülemek için ağa bağlanın</string>
     <string name="wallpaper_scroll_type_tips">Duvar kağıdı kaydırma</string>
     <string name="wallpaper_set_as_both">Tümüne uygula</string>
+    <string name="wallpaper_set_as_both_large">Her ikisini de ayarla</string>
+    <string name="wallpaper_set_as_both_small">Her ikisini de ayarla</string>
     <string name="wallpaper_set_as_desktop">Ana ekran olarak ayarla</string>
+    <string name="wallpaper_set_as_desktop_large">Dahili ana ekran olarak ayarla</string>
+    <string name="wallpaper_set_as_desktop_small">Dış ana ekran olarak ayarla</string>
     <string name="wallpaper_set_as_float_wallpaper">Saydam duvar kağıdı olarak ayarla</string>
     <string name="wallpaper_set_as_incall_show">Profil videosu olarak ayarla</string>
     <string name="wallpaper_set_as_lockscreen">Kilit ekranı olarak ayarla</string>
+    <string name="wallpaper_set_as_lockscreen_large">Dahili kilit ekranı olarak ayarla</string>
+    <string name="wallpaper_set_as_lockscreen_small">Dış kilit ekranı olarak ayarla</string>
     <string name="wallpaper_set_as_loop_extra_msg">Herkes kullanıyor</string>
     <string name="wallpaper_setting_all">Tüm duvar kağıtları</string>
     <string name="wallpaper_setting_aod_wallpaper_banner_button_text">Her zaman açık ekran</string>

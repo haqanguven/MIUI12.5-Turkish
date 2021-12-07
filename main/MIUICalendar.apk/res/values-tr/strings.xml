@@ -139,6 +139,7 @@
     <string name="book_card_rating_text">%1$s yorum</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="calendar_account_settings">Hesap ayarları</string>
+    <string name="calendar_data_sharing_instruction">Üçüncü taraflarla veri paylaşımına ilişkin açıklama</string>
     <string name="calendar_desc_withdraw_consent">Takvimin gizlilik politikasına ilişkin onayınızı geri çekin</string>
     <string name="calendar_import_source">Kaynak</string>
     <string name="calendar_privacy_policy">Gizlilik politikası</string>
@@ -325,6 +326,11 @@
     <string name="dialog_ding_allow">İzin ver</string>
     <string name="dialog_ding_cancel">İptal et</string>
     <string name="dialog_ding_title">Takvimden çıkmak üzeresiniz</string>
+    <string name="dialog_share_agree">Kabul et</string>
+    <string name="dialog_share_to_wechat_message">"Bu özelliği sağlamak için WeChat açık platform SDK'sını kullanıyoruz. Önce %1$s'imizi okuyup kabul etmek için bir dakikanızı ayırın"</string>
+    <string name="dialog_share_to_wechat_title">"WeChat'te paylaş"</string>
+    <string name="dialog_share_to_weibo_message">"Bu özelliği sağlamak için Sina Weibo SDK'sını kullanıyoruz. Önce %1$s'imizi okuyup kabul etmek için bir dakikanızı ayırın"</string>
+    <string name="dialog_share_to_weibo_title">"Weibo'da paylaş"</string>
     <string name="directory_searching_fmt">%s aranıyor</string>
     <string name="discard_label">İptal et</string>
     <string name="display_to_calendar">Takvimde göster</string>

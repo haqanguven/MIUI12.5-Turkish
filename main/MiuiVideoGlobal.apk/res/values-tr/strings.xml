@@ -397,11 +397,12 @@ Bu kodu gönderin"</string>
     <string name="dialog_privacy_info_new4">Videolar uygulamasına hoş geldiniz! Bu uygulama aşağıdaki hizmetleri sunmaktadır:<br></br>&lt;br>&lt;/br> - Çevrim içi yayın h<br></br>izmetleri&lt;br>&lt;/br>- Yerel <br></br>"bir video oynatıcı&lt;br>&lt;/br>Temel hizmetleri size sağlayabilmesi için videoların gerekli kişisel bilgileri toplaması gerekmektedir. Topladığımız bilgileri nasıl kullandığımızı Gizlilik politikamızdan öğrenebilirsiniz. İlgili ayarları Ayarlar > Şifreler &amp;amp; Güvenlik menüsünden değiştirebilirsiniz.&lt;br>&lt;/br>Videolar uygulamasını kullanmadan önce &lt;a href=%1$s>Kullanıcı sözleşmesi&lt;/a> ve &lt;a href=%2$s>Gizlilik politikası'nı&lt;/a> okuyun ve kabul edin"</string>
     <string name="dialog_privacy_revoke_cancel">İptal et</string>
     <string name="dialog_privacy_revoke_count_down">Geri çek (%1$d saniye)</string>
-    <string name="dialog_privacy_revoke_description">"Anahtarı kapatarak videolar uygulamasının Gizlilik Politikası'na verdiğiniz izni geri çekiyorsunuz. Kişisel bilgilerinizi toplamaya son vereceğiz. Halihazırda toplanan ve saklanan kişisel veriler, uygulanabilir yasaların gerektirdiği gibi belirli bir süre içinde silinecektir. Gizlilik Politikası'na verdiğiniz izni geri çekmeniz, toplanan kişisel bilgilere dayanan çevrim içi hizmetleri kabul etmeyi reddetmeniz olarak kabul edilecektir"</string>
-    <string name="dialog_privacy_revoke_fail">İznin geri çekilebilmesi için cihazınızın ağa bağlanması gerekir. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
-    <string name="dialog_privacy_revoke_ok">Geri çek</string>
-    <string name="dialog_privacy_revoke_success">Başarıyla geri çekildi</string>
-    <string name="dialog_privacy_revoking">İzin geri çekiliyor</string>
+    <string name="dialog_privacy_revoke_description">"Anahtarı kapatarak videolar uygulamasının Gizlilik politikası'na verdiğiniz izni geri çekiyorsunuz. Kişisel bilgilerinizi toplamaya son vereceğiz. Halihazırda toplanan ve saklanan kişisel veriler, uygulanabilir yasaların gerektirdiği gibi belirli bir süre içinde silinecektir. Gizlilik Politikası'na verdiğiniz izni geri çekmeniz, toplanan kişisel bilgilere dayanan çevrim içi hizmetleri kabul etmeyi reddetmeniz olarak kabul edilecektir"</string>
+    <string name="dialog_privacy_revoke_fail">İznin geri alınabilmesi için cihazınızın ağa bağlanması gerekir. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
+    <string name="dialog_privacy_revoke_ok">Geri al</string>
+    <string name="dialog_privacy_revoke_success">Başarıyla geri alındı</string>
+    <string name="dialog_privacy_revoke_title">İzni geri al</string>
+    <string name="dialog_privacy_revoking">İzin geri alınıyor</string>
     <string name="dialog_privacy_title">Yetkilendirme</string>
     <string name="dialog_revoke_privacy_info_new2">Yetkilendirmeyi kaldırdıktan sonra uygulama veri toplamayı durdurur ve tüm ilgili veriler sunucularımızdan silinir. Bu işlem uygulamayı kullanılamaz hale getirebilir. Yetki yine de kaldırılsın mı?</string>
     <string name="dialog_revoke_privacy_title">Yetkilendirme geri alınıyor</string>
@@ -1448,7 +1449,10 @@ Hesap güvenliğinin arttırılması"</string>
     <string name="popup_click_for_download_video">Video indir</string>
     <string name="popup_pip_activate_button">Ayarlar</string>
     <string name="popup_pip_not_activated">Öncelikle resim içinde resim özelliğini kullanmak için videolara izin verin</string>
+    <string name="privacy_agree_subtitle">Gizlilik politikasına onay vermek videoların tüm özelliklerini kullanmanıza olanak tanır</string>
+    <string name="privacy_agree_title">İzin ver</string>
     <string name="privacy_revoke_setting">"Anahtarı kapatarak videolar uygulamasının Gizlilik Politikası'na verdiğiniz izni geri çekersiniz"</string>
+    <string name="privacy_revoke_subtitle">Videoların gizlilik politikasına ilişkin onayınızı geri çekin</string>
     <string name="privacy_revoke_title">İznin geri çekilmesi</string>
     <string name="pro_prize_popup_style_one">%s karşılığında reklamları kaldırın</string>
     <string name="pro_prize_popup_style_two">%s karşılığında daha fazla özelliğin kilidini açın</string>
@@ -1662,6 +1666,8 @@ Hiçbir şey göstermiyor"</string>
     <string name="tag_index">tag_index</string>
     <string name="tag_key">tag_key</string>
     <string name="tag_object">tag_object</string>
+    <string name="talkback_ad_clicked">Reklamcılık</string>
+    <string name="talkback_background_playback">Arka planda oynat</string>
     <string name="target_sdk_version_30_upgrade_tips">Android 11 kısıtlamaları nedeniyle bazı videolar burada görüntülenemeyebilir. Diğer videoları bulmak için dosyalara dokunun</string>
     <string name="temporary_not_available">Bu özellik henüz kullanılamamaktadır</string>
     <string name="the_anniversary_of_lifting_martial_law">Sıkıyönetim Kanunun Yıldönümü</string>

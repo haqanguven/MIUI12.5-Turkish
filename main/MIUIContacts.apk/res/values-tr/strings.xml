@@ -112,8 +112,8 @@
     <string name="bh_connect_name">Alıcı</string>
     <string name="bh_connect_number">Alıcının telefon numarası</string>
     <string name="bh_contact_number">Kişilerinizden %1$s</string>
-    <string name="bh_ct">China Telecom</string>
-    <string name="bh_cu">China Unicom</string>
+    <string name="bh_ct">Çin Telecom</string>
+    <string name="bh_cu">Çin Unicom</string>
     <string name="bh_current_no_sim">Sim kart takılı değil</string>
     <string name="bh_current_sim_number">Mevcut Sim telefon numarası: %1$s</string>
     <string name="bh_day">gün</string>
@@ -309,7 +309,7 @@
     <string name="call_record_user_notice_all_purpose">Belirli kelimelerin geçtiği aramaları bulun</string>
     <string name="call_record_user_notice_permission_desc_microphone">Aramaları kaydetmek için</string>
     <string name="call_record_user_notice_permission_desc_storage">Kayıtları kaydetmek için</string>
-    <string name="call_record_user_notice_title">Voice call search</string>
+    <string name="call_record_user_notice_title">Sesli arama</string>
     <string name="call_record_whitelist_custom">Seçilen aramalar</string>
     <string name="call_recording_notification_summary">Bir arama kaydedildikten sonra bildirim al</string>
     <string name="call_recording_notification_title">Kaydedilen aramaları bildir</string>
@@ -1418,8 +1418,8 @@ Başlamak için ekranınızın altındaki birleştir simgesine dokunun"</string>
     <string name="t9_search_guide_zhuyin_title2" formatted="false"><font fgcolor="">H</font>akan <font fgcolor="">G</font>"\"üven'i aramak için %d ve %d girin\""</string>
     <string name="take_new_photo">Yeni fotoğraf çek</string>
     <string name="take_photo">Fotoğraf çek</string>
-    <string name="text_msim_balance">Used today</string>
-    <string name="text_vsim_remain_time">Remaining minutes</string>
+    <string name="text_msim_balance">Bugün kullanıldı</string>
+    <string name="text_vsim_remain_time">Kalan dakika</string>
     <string name="the_anniversary_of_lifting_martial_law">Kalkınma sıkı yönetiminin yıldönümü</string>
     <string name="the_anti_aggression_day">Anti saldırganlık günü</string>
     <string name="the_arbor_day">Ağaç dikme günü</string>

@@ -27,6 +27,7 @@
     <string name="abc_shareactionprovider_share_with">Şununla paylaş</string>
     <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
     <string name="abc_toolbar_collapse_description">Daralt</string>
+    <string name="access_denied_info">Çok fazla deneme. Bir veya iki dakika bekleyin ve tekrar deneyin</string>
     <string name="account_bind_secure_email_title">Kurtarma e-postası ekle</string>
     <string name="account_bind_secure_phone_title">Kurtarma telefon numarası ekle</string>
     <string name="account_crop_user_avatar">Fotoğrafı kırp</string>
@@ -94,14 +95,14 @@
     <string name="catch_full_log_category">Tarama kategorisi</string>
     <string name="catch_full_log_dialog_confirm_text">Ana ekrana git</string>
     <string name="catch_full_log_dialog_content">Miui bir kayıt oluşturuyor. Bu durum cihazınızın genel performansını etkileyebilir. Bildirmek istediğiniz sorunu tekrar oluşturamıyorsanız kayıtlara geri gidin ve iptal et seçeneğine dokunun</string>
+    <string name="catch_full_log_dialog_title">Günlükler oluşturuluyor</string>
     <string name="catch_full_log_dump_hprof_failed">Gecikme kaydı oluşturulamadı</string>
     <string name="catch_full_log_item_content_catch_direct">"1. Bildirmek istediğiniz özelliğe geri gidin ve tekrarlayın
 2. Bu sayfaya geri gelin ve bitir ve yükle seçeneğine dokunun"</string>
     <string name="catch_full_log_item_content_catching">Emekleniyor</string>
-    <string name="catch_full_log_item_content_need_open">"1. Günlük yakalama işlevini etkinleştirmek için "Başlat" ı tıklayın
-2. Sorun tekrarlanana kadar önceki sorunlu işlevi tekrar kullanın
-3. Sorun yeniden oluşturulduktan sonra bu sayfaya geri dönün ve "Bitir ve geri bildirim"'e tıklayın
-4. Geri bildirim içeriğini doldurun ve gönderin"</string>
+    <string name="catch_full_log_item_content_need_open">"%1$d. Günlük oluşturmaya başlamak için başlata dokunun
+%2$d. Karşılaştığınız sorunu yeniden oluşturun
+%3$d. Bu sayfaya geri dönün ve bitir ve yükleye dokunun"</string>
     <string name="catch_full_log_item_content_title">Adımlar:</string>
     <string name="catch_full_log_item_title_audio">Ses, ses kaydı ve arama sesi</string>
     <string name="catch_full_log_item_title_bt">Bluetooth</string>
@@ -233,6 +234,9 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="discard_draft_dialog_button_discard">Vazgeç</string>
     <string name="discard_draft_dialog_content">Bu raporda yaptığınız değişikliklerin tamamı kaybolacaktır</string>
     <string name="discard_draft_dialog_title">Taslak iptal edilsin mi?</string>
+    <string name="doing_login">Oturum açılıyor</string>
+    <string name="doing_query_account">Hesap bilgileri kontrol ediliyor</string>
+    <string name="doing_register">Hesap oluşturuluyor</string>
     <string name="early_morning">Sabah</string>
     <string name="earthly_branches_chen">15</string>
     <string name="earthly_branches_chou">12</string>
@@ -440,7 +444,7 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
-    <string name="for_diagnosis_usage_only">Kayıtlar yalnızca tanımlama işlemleri için kullanılır.</string>
+    <string name="for_diagnosis_usage_only">Kayıtlar yalnızca tanımlama işlemleri için kullanılır</string>
     <string name="friday">Cuma</string>
     <string name="friday_short">Cum</string>
     <string name="friday_shortest">Cum</string>
@@ -448,9 +452,11 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="get_ph_ticket">Kodu al</string>
     <string name="get_phone_bind_exceed_limit">Bir telefon numarasını 3 Mi hesabına kadar ilişkilendirebilirsiniz. Yeni hesap eklenemiyor</string>
     <string name="get_phone_verifycode_exceed_limit">Bu numaraya çok fazla sayıda doğrulama kodu gönderildi. 24 saat bekleyin ve tekrar deneyin</string>
+    <string name="getverifycode_seconde">s</string>
     <string name="google_application_id" />
     <string name="goon_feedback_main">Devam et</string>
     <string name="goto_sign_up">Hesap oluştur</string>
+    <string name="header_help">Yrdım</string>
     <string name="heavenly_stems_bing">3</string>
     <string name="heavenly_stems_ding">4</string>
     <string name="heavenly_stems_geng">7</string>
@@ -468,6 +474,7 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="identity">Kimlik doğrulama</string>
     <string name="inconsistent_pwd">Şifreler eşleşmiyor</string>
     <string name="input_email_address_notice">Hesabınızı doğrulamak için bu e-posta adresini kullanacağız</string>
+    <string name="input_length_exceeds_limit">Girdiğiniz metin çok uzun</string>
     <string name="input_new_pwd">Yeni şifreyi girin</string>
     <string name="isornot_your_mi_account">Bu Mi hesabı sizin mi?</string>
     <string name="issue_search">Ara</string>
@@ -502,6 +509,11 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="library_android_database_sqlcipher_repositoryLink">https://github.com/sqlcipher/android-database-sqlcipher</string>
     <string name="loading">Yükleniyor</string>
     <string name="loading_apps">Liste yükleniyor</string>
+    <string name="login_by_local_phone_long_text">Şimdi oturum aç</string>
+    <string name="login_by_local_phone_short_text">Oturum aç</string>
+    <string name="login_other">Başka bir Mi hesabı</string>
+    <string name="login_register_by_local_phone_long_text">Hesap oluştur</string>
+    <string name="login_with_sns">Oturum açmanın diğer yolları</string>
     <string name="logo_title">Geri bildirim</string>
     <string name="logout_account">Oturumu kapat</string>
     <string name="menu_copy">Kopyala</string>
@@ -511,6 +523,7 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="mi_service_dialog_content">Tüm geri bildirim özellikleri yeni hizmetler &amp; geri bildirim uygulamasına taşındı. Geri bildirim uygulaması ana ekranınızdan kaldırılacaktır. Hizmetler &amp; geri bildirim uygulamasını denemek için aç seçeneğine dokunun</string>
     <string name="mi_service_dialog_title">Hizmetler &amp; geri bildirim ile tanışın</string>
     <string name="midnight">Gece</string>
+    <string name="mishop_login_other">Başka bir hesap</string>
     <string name="miuix_access_state_desc">Seçildi</string>
     <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Seçimi kaldır</string>
@@ -527,6 +540,7 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="miuix_appcompat_select_all">Tümünü seç</string>
     <string name="miuix_appcompat_select_all_description">Tümünü seç</string>
     <string name="miuix_appcompat_select_item">Öğeleri seç</string>
+    <string name="miuix_indexer_collect">Koleksiyonlar</string>
     <string name="miuix_indexer_selected">%s seçildi</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için çek</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Yenileme tamamlandı</string>
@@ -606,6 +620,8 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="mtrl_chip_close_icon_content_description">%1$s kaldır</string>
     <string name="net_error_info">Ağ bağlantısı yok. Ayarlara gitmek için buraya hafifçe dokunun</string>
     <string name="network_err">Ağ bağlantısı kurulamıyor</string>
+    <string name="network_error_info">Bir ağ hatası oluştu. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
+    <string name="network_timeout_info">Ağa bağlanılamadı. Tekrar deneyin</string>
     <string name="network_unavailable_dialog_button_ok">Tamam</string>
     <string name="network_unavailable_dialog_content">Raporunuz ağ bağlantınız olduğunda gönderilecektir</string>
     <string name="network_unavailable_dialog_title">Ağa bağlanılamıyor</string>
@@ -721,6 +737,7 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="phone_num_use_for">Telefon numarası bu işlemler için kullanılır:</string>
     <string name="phone_number">Telefon numarası</string>
     <string name="photoPickerNotFoundText">Kullanılabilir fotoğraf yok</string>
+    <string name="please_agree_protocal">Lütfen protokolü kabul edin</string>
     <string name="pm">ÖS</string>
     <string name="post_miui_bbs_failed">Miui foruma gönderilemedi</string>
     <string name="preference_copied">%1$s panoya kopyalandı</string>
@@ -729,19 +746,31 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="privacy_policy_update_hint">"%1$s gizlilik politikası güncellendi:
 %2$s
 Devam etmeden önce %3$s uygulamasının yeni sürümünü okuyun ve kabul edin"</string>
-    <string name="privacy_policy_update_title">Updated Privacy Policy</string>
+    <string name="privacy_policy_update_title">Güncellenmiş gizlilik politikası</string>
+    <string name="progressbar_title">Güvenlik sorunları kontrol ediliyor</string>
+    <string name="protocal_dialog_cancel">İptal et</string>
+    <string name="protocal_dialog_confirm">Kabul et</string>
+    <string name="protocal_dialog_title">Dikkat</string>
     <string name="psw_hint">Şifre</string>
     <string name="psw_sign_in">Şifre kullanarak oturum aç</string>
     <string name="qq_application_id" />
     <string name="qq_login_protocol_scheme">com.xiaomi.passport.ui</string>
     <string name="refresh">Yenile</string>
+    <string name="register_by_local_phone_long_text">Hesap oluştur</string>
+    <string name="register_by_local_phone_short_text">Hesap oluştur</string>
     <string name="related_question_answer_details">İlgili sorun</string>
     <string name="reply_failed">Yanıtlanamadı</string>
     <string name="reply_option_log_hint">İsteğe bağlı</string>
     <string name="reply_select_log_hint">Kayıt seçin</string>
     <string name="reply_successful">Başarıyla yanıtlandı</string>
     <string name="report_miui">Hata bildirimi</string>
+    <string name="request_agree">İzin ver</string>
     <string name="request_camera_permission_message">Bu hizmetin izninizi istemesi gerekir. Kişisel bilgilerinizi korumak için ilgili yasalara kesinlikle uyacağız: &lt;br>&lt;br>&lt;b> Kameraya erişim: Avatar ayarlamak için gerçek zamanlı kayıt hizmetlerini deneyimleyin &lt;/b>&lt;br>&lt;br> Yukarıdaki izinleri aramayı kabul etmiyorsanız bu işlev düzgün çalışmaz ancak bu uygulamanın temel işlevlerini kullanımınızı etkilemez. Onayınızı geri çekmek için sistem ayarlarında yukarıdaki izin çağrısını kapatmayı seçebilirsiniz</string>
+    <string name="request_cancel">İptal et</string>
+    <string name="request_error_invalid_token">Doğrulanamadı</string>
+    <string name="request_error_network">Bir ağ hatası oluştu. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
+    <string name="request_error_unknown">Bir sistem hatası oluştu. Geri dönün ve tekrar deneyin</string>
+    <string name="request_gallery_permission_message">Galeriye erişim izni ver:&lt;br />Profil fotoğraflarını ayarlamak içindir</string>
     <string name="resend_active_email">Tekrar gönder</string>
     <string name="resend_email_reach_limit_message">Çok fazla sayıda doğrulama e-postası talep ettiniz. Doğrulama e-postasının gelen kutunuzun gereksiz klasöründe olup olmadığından emin olun</string>
     <string name="resend_email_reach_limit_title">Çok fazla deneme</string>
@@ -766,6 +795,7 @@ Devam etmeden önce %3$s uygulamasının yeni sürümünü okuyun ve kabul edin"
     <string name="sign_in">Oturum açılıyor</string>
     <string name="sign_in_progress">Oturum açılıyor</string>
     <string name="sign_in_title">Mi hesabınızda oturum açın</string>
+    <string name="skip_query_account">Atla</string>
     <string name="sms_send_success">Başarıyla gönderildi</string>
     <string name="sns_access_token_expired_warning">Oturum sona erdi. Bu hesaba yeniden bağlanmak için tekrar oturum açın</string>
     <string name="sns_bind_limit">Çok fazla sayıda denemede bulundunuz. Diğer oturum açma yöntemlerini deneyin</string>
@@ -816,6 +846,7 @@ Devam etmeden önce %3$s uygulamasının yeni sürümünü okuyun ve kabul edin"
     <string name="sunday_short">Paz</string>
     <string name="sunday_shortest">Paz</string>
     <string name="system_app_select">Yerleşik uygulamalar</string>
+    <string name="system_error_info">Sistem meşgul. Bir veya iki dakika bekleyin ve tekrar deneyin</string>
     <string name="tab_title_chat">Yardım</string>
     <string name="tab_title_my_reports">Raporlarım</string>
     <string name="tab_title_preferences">Ayarlar</string>
@@ -907,6 +938,7 @@ Devam etmeden önce %3$s uygulamasının yeni sürümünü okuyun ve kabul edin"
     <string name="tuesday">Salı</string>
     <string name="tuesday_short">Sal</string>
     <string name="tuesday_shortest">Sal</string>
+    <string name="unknown_error_info">Bilinmeyen hata</string>
     <string name="update_dialog_cancel">İptal et</string>
     <string name="update_dialog_confirm">Güncelle</string>
     <string name="update_dialog_content_log">"Yenilikler:
@@ -919,11 +951,24 @@ Boyut: %2$s"</string>
     <string name="update_phone_notice">Güvenlik ayarlarını değiştir</string>
     <string name="upload_error_log">Kayıtları yükle</string>
     <string name="upload_log_failed">Kayıtlar gönderilemedi</string>
+    <string name="user_agreement_hint_3rd_app">&lt;Data>&lt;a href=%1$s>Kullanıcı sözleşmesi&lt;/a> ve &lt;a href=%2$s>gizlilik politikası&lt;/a> ve Mi hesabı &lt;a href=%3$s>Kullanıcı Sözleşmesi&lt;/a> ve &lt;a href=%4$s>Gizlilik Politikası&lt;/a> sözleşmelerini okudum ve kabul ettim&lt;/Data></string>
+    <string name="user_agreement_hint_3rd_app_mobile">&lt;Data>&lt;a href=%1$s>Kullanıcı sözleşmesi&lt;/a> ve &lt;a href=%2$s>gizlilik politikası&lt;/a> ve Mi hesabı &lt;a href=%3$s>Kullanıcı Sözleşmesi&lt;/a> ve &lt;a href=%4$s>Gizlilik Politikası&lt;/a> sözleşmelerini ayrıca &lt;a href=%5$s>China Mobile doğrulama hizmetleri şartlar ve koşullarını&lt;/a> okudum ve kabul ediyorum&lt;/Data></string>
+    <string name="user_agreement_hint_3rd_app_with_telecom">&lt;Data>&lt;a href=%1$s>Kullanıcı sözleşmesi&lt;/a> ve &lt;a href=%2$s>gizlilik politikası&lt;/a> ve Mi hesabı &lt;a href=%3$s>Kullanıcı Sözleşmesi&lt;/a> ve &lt;a href=%4$s>Gizlilik Politikası&lt;/a> sözleşmelerini ayrıca &lt;a href=%5$s>eSurfing hesabı doğrulama hizmetleri şartlar ve koşullarını&lt;/a> okudum ve kabul ediyorum&lt;/Data></string>
+    <string name="user_agreement_hint_3rd_app_with_unicom">&lt;Data>&lt;a href=%1$s>Kullanıcı sözleşmesi&lt;/a> ve &lt;a href=%2$s>gizlilik politikası&lt;/a> ve Mi hesabı &lt;a href=%3$s>Kullanıcı Sözleşmesi&lt;/a> ve &lt;a href=%4$s>Gizlilik Politikası&lt;/a> sözleşmelerini ayrıca &lt;a href=%5$s>China Unicom doğrulama hizmetleri şartlar ve koşullarını&lt;/a> okudum ve kabul ediyorum&lt;/Data></string>
+    <string name="user_agreement_hint_default">"&lt;Data>Mi Hesabı &lt;a href=%1$s>Kullanıcı sözleşmesi&lt;/a> ve &lt;a href=%2$s>gizlilik politikası'nı&lt;/a> okudum ve kabul ediyorum&lt;/Data>"</string>
+    <string name="user_agreement_hint_default_1"><Data>&lt;a href=\"%1$s\">Kullanıcı sözleşmesi&lt;/a> ve &lt;a href=\"%2$s\">gizlilik politikasını&lt;/a> okudum ve kabul ediyorum</Data></string>
+    <string name="user_agreement_hint_default_extra">"<Data>&lt;a href=\"%1$s\">Kullanıcı sözleşmesi&lt;/a> ve &lt;a href=\"%2$s\">gizlilik politikasını&lt;/a> okudum ve kabul ediyorum</Data>"</string>
+    <string name="user_agreement_hint_first_login">Telefon numaranızı ilk kez kullanıyorsanız otomatik olarak bir hesap oluşturacağız</string>
+    <string name="user_agreement_hint_with_mobile">&lt;Data>Mi Hesabı &lt;a href=%1$s>Kullanıcı sözleşmesi&lt;/a>, &lt;a href=%2$s>gizlilik politikası&lt;/a> ve &lt;a href=%3$s>China Mobile doğrulama hizmetlerinin Şartlar ve koşullarını&lt;/a> okudum ve kabul ediyorum&lt;/Data></string>
+    <string name="user_agreement_hint_with_telecom">&lt;Data>Mi Hesabı &lt;a href=%1$s>Kullanıcı Sözleşmesi&lt;/a> ve &lt;a href=%2$s>gizlilik politikası&lt;/a> ve &lt;a href=%3$s>eSurfing hesabı doğrulama hizmetlerinin Şartlar ve koşullarını&lt;/a> okudum ve kabul ediyorum&lt;/Data></string>
+    <string name="user_agreement_hint_with_unicom">&lt;Data>Mi Hesabı &lt;a href=%1$s>Kullanıcı sözleşmesi&lt;/a> ve &lt;a href=%2$s>gizlilik politikası&lt;/a> ve &lt;a href=%3$s>China Unicom doğrulama hizmetlerinin Şartlar ve koşullarını&lt;/a> okudum ve kabul ediyorum&lt;/Data></string>
+    <string name="user_agreement_protocal_dialog_hint_default"><Data>"&lt;a href=\"%1$s\">Kullanıcı sözleşmesi&lt;/a> ve &lt;a href=\"%2$s\">gizlilik politikası&lt;/a> vede Mi hesabı &lt;a href=\"%3$s\">kullanıcı sözleşmesi&lt;/a> ve &lt;a href=\"%4$s\">gizlilik politikasını&lt;/a> okuyun ve kabul edin"</Data></string>
     <string name="user_avatar_update_title">Profil fotoğrafını değiştir</string>
     <string name="user_avatar_uploading">Yükleniyor</string>
     <string name="user_id_hint">E-posta/Telefon/Mi hesap kimliği</string>
     <string name="user_must_known">Dikkat</string>
     <string name="user_must_known_content">"%s sayfamızın yeni sürümünü kabul etmedikçe hizmetlerimizi kullanmaya devam edemezsiniz. Güncellenmiş gizlilik politikasını şimdi kabul ediyor musunuz?"</string>
+    <string name="user_name_phone_number">Telefon numarası</string>
     <string name="v7_preference_off">Kapalı</string>
     <string name="v7_preference_on">Açık</string>
     <string name="v_code_title">Doğrulama kodunu girin</string>

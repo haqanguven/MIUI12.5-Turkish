@@ -2270,6 +2270,7 @@ ve ses değiştiricimizi keşfedin"</string>
     <string name="gd_setting_title">Akıllı araç kutusu</string>
     <string name="gd_setting_vtb">Videoları oynatırken göster</string>
     <string name="gd_setting_vtb_desc">Video oynatma için özel özellikler</string>
+    <string name="gd_splite_screen_tips">Bölünmüş ekran kayan pencereleri desteklemiyor</string>
     <string name="gdpr_msg">"Güvenlik uygulamasının temel özelliklerini kullanabilmek için Xiaomi'nin kişisel verilerinizi toplayacağını kabul etmelisiniz. Güvenlik özellikleri cihazınızda belirtilen temel bilgiler ve diğer bilgileri içerir. \"\""<a href="http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s">Gizlilik politikamıza</a> göz atın"</string>
     <string name="ge">Daha</string>
     <string name="get_detail_by_click">Detaylar için tıklayın</string>
@@ -2476,7 +2477,10 @@ manzara moduna geçin"</string>
     <string name="install_sucess">%s başarıyla yüklendi</string>
     <string name="install_title">USB üzerinden yükle</string>
     <string name="installing">Yükleniyor</string>
-    <string name="intercept_dimension_ratio">35:24</string>
+    <string name="intercept_dimension_ratio">612:380</string>
+    <string name="intercept_net_fold_external_image_ratio">808:480</string>
+    <string name="intercept_net_split_image_ratio">898:528</string>
+    <string name="intercept_net_split_land_image_ratio">646:380</string>
     <string name="international_Ad">Reklam</string>
     <string name="international_roaming_setting">Veri dolaşımı</string>
     <string name="intl_app_manager_card_permission_title">Gizlilik &amp; izinler</string>
@@ -3183,6 +3187,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="pc_abnormal_scan_reason_use_GPS">Konum servislerini çok sık kullanır</string>
     <string name="pc_abnormal_scan_reason_wake_system">Sistemi çok sık uyandırır</string>
     <string name="pc_activity_title">Pili optimize et</string>
+    <string name="pc_battery_chart_loading">Yükleniyor</string>
     <string name="pc_battery_detail_curve_reference_now">Şimdi</string>
     <string name="pc_battery_detail_device_item_title">Pil kullanım istatistikleri</string>
     <string name="pc_battery_history_battery_detail_menu_item">Ayrıntılar</string>
@@ -5505,6 +5510,7 @@ Kalan veri miktarı geçen aydan kalan veri miktarınıda içerir"</string>
     <string name="vb_ve_settings_picture_stronger">Geliştirilmiş animasyonlar</string>
     <string name="vb_video_effects_3d">Surround ses</string>
     <string name="vb_video_effects_3d_summary">Kulaklıklar ve hoparlörler için ses üretiminin derinliğini artırın</string>
+    <string name="vb_video_effects_3d_summary_headset">Kulaklıkta ses dinlerken daldırma ve sarma hissini artırın</string>
     <string name="vb_video_effects_3d_surround">Surround ses</string>
     <string name="vb_video_effects_display_style">Stil</string>
     <string name="vb_video_effects_dolby">Dolby Atmos</string>

@@ -293,8 +293,8 @@
     <string name="miplay_headset_lc3_hint">"Ses çıkışını bu cihaza geçirebilmek için LC3'ü kapatın"</string>
     <string name="miplay_service_timeout_toast">Bağlantı zaman aşımı. Tekrar deneyin</string>
     <string name="miplay_song_title_empty">Şarkı yok</string>
-    <string name="miui_dnd_count_down">Rahatsız etme modu zamanlayıcı</string>
-    <string name="miui_dnd_count_down_time">"Rahatsız etme modu zamanlayıcı
+    <string name="miui_dnd_count_down">Zamanlayıcı</string>
+    <string name="miui_dnd_count_down_time">"Zamanlayıcı
 %s"</string>
     <string name="miui_guide_dialog_button_negative_text">Ayarlar</string>
     <string name="miui_guide_dialog_button_positive_text">Anladım</string>

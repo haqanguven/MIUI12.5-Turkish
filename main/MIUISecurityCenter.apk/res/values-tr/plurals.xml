@@ -890,6 +890,10 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
         <item quantity="other">%d dakika sonra ekranı kilitle</item>
         <item quantity="one">%d dakika sonra ekranı kilitle</item>
     </plurals>
+    <plurals name="system_anti_fraud_dialog_countdown_unit">
+        <item quantity="other">(%d saniye)</item>
+        <item quantity="one">(%d saniye)</item>
+    </plurals>
     <plurals name="system_check_content">
         <item quantity="other">%1$d öğe güvenli</item>
         <item quantity="one">%1$d öğe güvenli</item>

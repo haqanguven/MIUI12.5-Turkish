@@ -31,16 +31,15 @@
     <string name="about_pure_mode">Güvensiz mod hakkında</string>
     <string name="about_safe_mode">Güvenli mod hakkında</string>
     <string name="actionbar_button_up_description">Geri</string>
-    <string name="ad_developer">Geliştirici: %1$s</string>
     <string name="ad_permissions">&lt;u>Uygulama izinleri&lt;u/></string>
     <string name="ad_privacy">&lt;u>Gizlilik politikası&lt;u/></string>
-    <string name="ad_publisher">Geliştirici: %1$s</string>
     <string name="ads">Reklamlar</string>
     <string name="ads_install_button">Yükle</string>
     <string name="ads_install_button_installed">Aç</string>
     <string name="ads_install_button_isDownloading">İndiriliyor</string>
     <string name="ads_install_button_isInstalling">Yükleniyor</string>
     <string name="ads_install_button_waiting">Bekleniyor</string>
+    <string name="after_install_to_delete">Kurulum paketini sil</string>
     <string name="afternoon">Öğleden sonra</string>
     <string name="alert_authorize_text_format">%1$s%2$s</string>
     <string name="am">ÖÖ</string>
@@ -56,6 +55,7 @@
     <string name="app_info_permissions_format">%1$s %2$s</string>
     <string name="app_info_permissions_format_color">%1$s &lt;font color=#F22424>%2$s&lt;/font></string>
     <string name="app_info_size">Boyut: %1$s</string>
+    <string name="app_info_version">Sürüm: %1$s</string>
     <string name="app_info_version_replace">Sürüm: %1$s -> %2$s</string>
     <string name="app_installing_not_allow">"%1$s uygulamasının uygulama yüklemesine izin vermediniz. Bunu Ayarlar'dan değiştirebilirsiniz"</string>
     <string name="app_name">Mi paket yükleyici</string>
