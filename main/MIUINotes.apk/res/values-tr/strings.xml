@@ -716,9 +716,10 @@
     <string name="pc_note_edit_text_format_title_level1">Başlık</string>
     <string name="pc_note_edit_text_format_title_level2">Üst bilgi</string>
     <string name="pc_note_trash_folder_remind">Bu not silinmiş. Düzenlemek için geri yükleyin</string>
-    <string name="pc_todo_fast_create_hint">"Metin girin ve bitmemiş bir görev eklemek için ''Giriş''e basın"</string>
+    <string name="pc_todo_fast_create_hint">Metin girin ve bitmemiş bir görev eklemek için girişe basın</string>
     <string name="pc_todo_set_remind_time_hint">Zamanı ayarla</string>
     <string name="permdesc_accessNote">Zararlı yazılımlar kişisel verilerinize ulaşmak için bunu kullanabilir</string>
+    <string name="permission_data_shared_desc">Notes üçüncü taraf veri paylaşım bildirimi</string>
     <string name="permission_get_account_desc">Notları bulut ile senkronize et</string>
     <string name="permission_intro_contact">Aramalar sırasında alınan notları işaretlemek için</string>
     <string name="permission_intro_microphone">Sesli notları kaydetmek için</string>
@@ -732,6 +733,8 @@
     <string name="permission_storage_desc_pad_v12">Notlara resim eklemek ve notları resim olarak kaydetmek için</string>
     <string name="permission_storage_desc_v12">Notlara görüntü eklemek ve notları görüntü olarak kaydetmek için</string>
     <string name="permission_xiaoai_desc">Mi AI ses dosyalarını uyarlamak ve sesli not oluşturmak için ses kayıtlarınızı ve cihaz kimliğinizi toplar. Mi AI <a href="%1$s">Gizlilik politikasında</a> daha fazlasını öğrenin</string>
+    <string name="permission_xiaoai_desc_new">"<Data>Konuşmadan metne transkripsiyon hizmetleri sağlamak için Mi AI'nin ses girişi ve rastgele oluşturulan cihaz kimliğinizi toplaması gerekir. Devam etmeden önce &lt;a href=\"%1$s\">notların üçüncü taraf veri paylaşım bildirimini&lt;/a> okuyun ve kabul edin. Ayrıca Mi AI &lt;a href=\"%2$s\">gizlilik politikasını&lt;/a> okuyarak daha fazla bilgi edinebilirsiniz</Data></string>
+    <string name="permission_xiaoai_title">Konuşmadan yazıya</string>
     <string name="permlab_accessNote">Notlara erişim</string>
     <string name="pm">ÖS</string>
     <string name="pref_category_title_quick_func">Hızlı özellikler</string>

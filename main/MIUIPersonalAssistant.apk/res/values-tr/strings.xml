@@ -324,6 +324,7 @@
     <string name="pa_edit_select_image">Biçim</string>
     <string name="pa_edit_set_time">Zamanı ayarla</string>
     <string name="pa_edit_state_onoff">Kontrol durumu</string>
+    <string name="pa_edit_switch">Değiştir</string>
     <string name="pa_edit_text">Görüntülenen öğe</string>
     <string name="pa_edit_text_align">Hizalama</string>
     <string name="pa_edit_text_max_length">Bu metin çok uzun</string>
@@ -502,6 +503,7 @@ Ekspres teslimatı kurye hizmetlerinin resmi internet sitelerinden de takip edeb
     <string name="pa_picker_detail_maml_download_error">İndirelemedi</string>
     <string name="pa_picker_detail_modify_maml">Düzenle</string>
     <string name="pa_picker_detail_net_error">Ağ hatası. Tekrar denemek için dokunun</string>
+    <string name="pa_picker_detail_preview_load_fail_can_not_add_widget">Yükleniyor</string>
     <string name="pa_picker_detail_small_widget">Araçlar</string>
     <string name="pa_picker_detail_theme_app_cta">Ayarlar</string>
     <string name="pa_picker_detail_theme_app_cta_pre">"Bu aracı kullanabilmek için temalara izin verin. "</string>
@@ -515,6 +517,10 @@ Ekspres teslimatı kurye hizmetlerinin resmi internet sitelerinden de takip edeb
     <string name="pa_picker_list_app_footer_classic_widget">Klasik araçlar</string>
     <string name="pa_picker_list_app_title">Araçlı uygulamalar</string>
     <string name="pa_picker_list_app_widget_count">%s</string>
+    <string name="pa_picker_list_load_complete">Daha fazlasını yüklemek için dokunun</string>
+    <string name="pa_picker_list_load_end">Gösterilecek başka öğe yok</string>
+    <string name="pa_picker_list_load_failed">Öğeler yüklenemedi. Tekrar denemek için dokunun</string>
+    <string name="pa_picker_list_loading">Yükleniyor</string>
     <string name="pa_picker_loading">Yükleniyor</string>
     <string name="pa_picker_maml_list_activity_title">Araç ekle</string>
     <string name="pa_picker_permission_denied">"Uygulama kasasının araçları gösterebilmesi için
@@ -524,6 +530,7 @@ yükleme durumuna erişmesi gerekir"</string>
     <string name="pa_picker_search_empty">Sonuç bulunamadı</string>
     <string name="pa_picker_search_error">Ağa bağlanılamadı</string>
     <string name="pa_picker_search_layout_cancel">İptal et</string>
+    <string name="pa_picker_suit_list_activity_title">Kişiselleştirilmiş takım elbise</string>
     <string name="pa_picker_tips_count_limit_forbidden">Uygulama kasasına daha fazla araç eklenemiyor. Yenilerini eklemek için eski araçları silin</string>
     <string name="pa_picker_toast_add_successfully">Başarıyla eklendi</string>
     <string name="pa_picker_toast_count_limit_forbidden">Daha fazla araç eklenemiyor</string>
@@ -645,6 +652,10 @@ yükleme durumuna erişmesi gerekir"</string>
     <string name="pa_sports_title">Spor</string>
     <string name="pa_sports_unstalled_tip_douyu">"Önce Douyu'yu yükleyin"</string>
     <string name="pa_sports_unstalled_tip_hupu">"Önce Hupu'yu yükleyin"</string>
+    <string name="pa_sports_widget_empty_basketball">Basketbol</string>
+    <string name="pa_sports_widget_empty_football">Futbol</string>
+    <string name="pa_sports_widget_empty_game">Kralların onuru</string>
+    <string name="pa_sports_widget_empty_recommend">Önerilen</string>
     <string name="pa_stock_add_stock_button">Ekle</string>
     <string name="pa_stock_color_scheme_label">Renk uyumu</string>
     <string name="pa_stock_delisted">(Liste dışı)</string>

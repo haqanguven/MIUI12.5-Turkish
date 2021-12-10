@@ -1403,8 +1403,8 @@ arama geçmişine geri yüklensin mi?"</string>
     <string name="dlg_not_block_sms">Seçili numaraların engeli kaldırılsın mı? Numaralar istisnalara eklenecektir. Ancak daha önce engellenen öğeler Mesajlar menüsünde görüntülenmeyecektir</string>
     <string name="dlg_onlie_service_summary">Çevrimiçi hizmetleri kapatmak uygulamanın bazı özelliklerini kullanılamaz hale getirecektir. Yine de kapatılsın mı?</string>
     <string name="dlg_open_online_service_pos_text">Aç</string>
-    <string name="dlg_open_online_service_summary">Çevrimiçi hizmetler kapalıyken bazı özellikler kullanılamayacaktır. Çevrimiçi hizmetler şimdi açılsın mı?</string>
-    <string name="dlg_open_online_service_title">Çevrimiçi hizmetler</string>
+    <string name="dlg_open_online_service_summary">Araç kutusu kapalıyken bazı özellikler kullanılamayacaktır. Araç kutusu şimdi açılsın mı?</string>
+    <string name="dlg_open_online_service_title">Araç kutusu</string>
     <string name="dlg_remove_address_blacklist">Bu konum engelli listesinden kaldırılsın mı?</string>
     <string name="dlg_remove_address_whitelist">Bu konum engelli listesinden kaldırılsın mı?</string>
     <string name="dlg_remove_blacklist">Bu numaralar engelli listesinden kaldırılsın mı?</string>
@@ -4321,7 +4321,7 @@ Kalibrasyon işlemi sırasında MIUI kalibrasyon şablonunu almak amacıyla bir 
     <string name="set_traffic_tips">Bir paket oluşturmak veri kullanımını daha etkili bir şekilde görüntülemenize ve yönetmenize yardımcı olabilir ve ekstra ücretlerin paketi aşmasını önleyebilir</string>
     <string name="setting">Ayarlar</string>
     <string name="setting_alarm_summary">Büyük platformlarda kırmızı zarf olayları için alarmları içerir</string>
-    <string name="setting_online_service">Çevrimiçi hizmetler</string>
+    <string name="setting_online_service">Araç kutusu</string>
     <string name="setting_privacy_password">Desen ekle</string>
     <string name="setting_wireless_reverse_charging_fg_control_summary">Bu cihazın pili %s değerine ulaştığında ters kablosuz şarjı durdurun</string>
     <string name="setting_wireless_reverse_charging_summary">Qi kablosuz şarjı destekleyen cihazı bu cihazın arkasının ortasına yerleştirin (Örneğin: telefon veya giyilebilir cihaz)</string>

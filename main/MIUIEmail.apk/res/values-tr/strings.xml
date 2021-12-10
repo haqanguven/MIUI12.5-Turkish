@@ -38,7 +38,7 @@
     <string name="account_cache_provider">Hesap ön bellek sağlayıcısı</string>
     <string name="account_change">Hesap değiştir</string>
     <string name="account_child_dialog_neg_text">Çıkış</string>
-    <string name="account_child_dialog_pos_text">Koruyucuyu kabul et</string>
+    <string name="account_child_dialog_pos_text">Kabul et</string>
     <string name="account_child_dialog_text">"14 yaşının altında bir reşit değilseniz vasinizi Kingsoft reşit olmayanların kişisel verilerinin korunmasına ilişkin bildirimi okuyup kabul etmesi gerektiğini bildirin. Ayrıca hizmetlerimizi kullanmadan veya bize herhangi bir kişisel bilgi vermeden önce onların onayını ve rehberliğini almalısınız
 Bir kullanıcı olarak haklarınızı ve verilerinizi nasıl işlediğimizi tam olarak anlamak için reşit olmayanların kişisel verilerinin korunmasına ilişkin Kingsoft beyannamesini okuyun"</string>
     <string name="account_child_dialog_title">Küçüklerin kişisel verilerinin korunmasına ilişkin açıklama</string>

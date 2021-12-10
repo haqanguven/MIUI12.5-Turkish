@@ -111,6 +111,9 @@
     <string name="close_hotspot_hint">Yansıtma için taşınabilir bağlantı noktasını kapatın</string>
     <string name="close_slave_wifi_hint">Yansıtmadan önce yardımcı wifi ağları ile bağlantıyı kesin</string>
     <string name="close_slave_wifi_hint_china">Yansıtmadan önce yardımcı wifi ağları ile bağlantıyı kesin</string>
+    <string name="config_wifi_label_china">MiPaiPai wifi ağını yapılandırın</string>
+    <string name="config_wifi_label_global">MiPaiPai wifi ağını yapılandırın</string>
+    <string name="connect_device_fail">Cihaza bağlanılamadı</string>
     <string name="console_guide_btn_got_it">Anladım</string>
     <string name="console_guide_subtitle_hang_up">Cihazınızın ekranı kapalıyken yansıtmaya devam edebilirsiniz. Bu özellik güç tüketimini azaltır</string>
     <string name="console_guide_subtitle_private">Kayan bildirimleri, gelen aramaları ve diğer özel öğeleri harici ekranlarda gösterme</string>
@@ -180,6 +183,8 @@ Eğer bağlantı sorunu yaşıyorsanız yardım için görüntüleyin"</string>
     <string name="dialog_select_tv">Cihaz seçin (%d)</string>
     <string name="dialog_show_help">Yardım</string>
     <string name="disconnect">Yansıtmayı durdur</string>
+    <string name="dual_wifi_warning_china">Çift wifi ağını kapatın ve tekrar deneyin</string>
+    <string name="dual_wifi_warning_global">Çift wifi ağını kapatın ve tekrar deneyin</string>
     <string name="early_morning">Sabah</string>
     <string name="earthly_branches_chen">15</string>
     <string name="earthly_branches_chou">12</string>
@@ -429,6 +434,7 @@ Miracast özelliğini açmanız gerekirse, [MENU] tuşuna basın ve Uygulamalar�
     <string name="month_september_shortest">E</string>
     <string name="more">Daha fazla</string>
     <string name="morning">Sabah</string>
+    <string name="msg_send_fail">Veri aktarılamadı</string>
     <string name="nfc_connect_failed_toast">Yansıtılamadı. Tekrar deneyin</string>
     <string name="night">Akşam</string>
     <string name="noon">Gün ortası</string>
@@ -444,6 +450,11 @@ Miracast özelliğini açmanız gerekirse, [MENU] tuşuna basın ve Uygulamalar�
     <string name="notify">Yansıtma arka planda çalışıyor</string>
     <string name="open_game_accelerate">Oyun hızlandırıcıyı aç</string>
     <string name="p2p_location_des">Mobil cihazınızı harici monitörlere bağlamak için</string>
+    <string name="paipai_connect_btn_text">Bitti</string>
+    <string name="paipai_connect_tv1_text">Cihaza bağlandı</string>
+    <string name="paipai_connect_tv2_text">Aktarılan veriler</string>
+    <string name="paipai_error_dialog_msg">Ağ ayarlarınızı kontrol edin ve tekrar deneyin.</string>
+    <string name="paipai_error_dialog_negative">Tamam</string>
     <string name="path_setting_cast">Bağlantı &amp; paylaşma/yayınlama</string>
     <string name="path_setting_cast_demo">Bağlantı &amp; paylaşma/yayınlama/demolar</string>
     <string name="path_setting_cast_demo_document">Bağlantı &amp; paylaşma/yayınlama/demolar/belgeler</string>
@@ -460,8 +471,10 @@ Miracast özelliğini açmanız gerekirse, [MENU] tuşuna basın ve Uygulamalar�
     <string name="privacy_detail">Bu uygulamanın normal çalışabilmesi için internete bağlanması ve kişisel verilerinizi toplaması gerekir. Kullanıcı olarak tüm haklarınızı ayrıca verilerinizi kullanma yöntemlerimizi tam olarak anlamak için <a href="%1$s">Kullanıcı Sözleşmesi</a> ve <a href="%2$s">Gizlilik Politikamızı</a> okuyun ve kabul edin</string>
     <string name="privacy_detail_extra">Bazı özellikler üçüncü taraf bir servis sağlayıcısı olan HappyCast tarafından sağlanmaktadır. Bu özelliği kullanmadan önce, <a href="%1$s">HappyCast Gizlilik Politikası</a> ve <a href="%2$s">HappyCast Yasal Açıklamasını</a> okuyun ve kabul edin</string>
     <string name="privacy_explain">Yansıtmaya hoş geldiniz! Yansıtma telefonunuzun ekranındaki öğeleri daha büyük harici bir monitörde yansıtmanıza olanak tanır. Bu uygulamanın internete bağlanması gerekir ve normal çalışabilmesi için aşağıdaki izinlere ihtiyacı vardır:</string>
-    <string name="privacy_link_1">http://cdn.hpplay.com.cn/xm/lbprivacy/index.html?langType=en</string>
-    <string name="privacy_link_2">http://cdn.hpplay.com.cn/xm/lbservice/index.html?langType=en</string>
+    <string name="privacy_link_lawer_en">http://cdn.hpplay.com.cn/xm/lbservice/index.html?langType=en</string>
+    <string name="privacy_link_lawer_zh">http://cdn.hpplay.com.cn/xm/lawer.html</string>
+    <string name="privacy_link_privacy_en">http://cdn.hpplay.com.cn/xm/lbprivacy/index.html?langType=en</string>
+    <string name="privacy_link_privacy_zh">http://cdn.hpplay.com.cn/xm/privacy.html</string>
     <string name="privacy_negative">Çık</string>
     <string name="privacy_permission_ble">"Bluetooth'u aç veya kapat"</string>
     <string name="privacy_permission_ble_desc">Yakınlardaki kullanılabilir cihazları bulmak için</string>
@@ -519,6 +532,8 @@ Bu özelliği kullanmadan önce "<a href="%1$s">Kullanıcı Sözleşmesi</a> ve 
     <string name="saturday">Cumartesi</string>
     <string name="saturday_short">Cts</string>
     <string name="saturday_shortest">Cts</string>
+    <string name="scan_wifi_label_china">Wifi ağına bağlanın</string>
+    <string name="scan_wifi_label_global">Wifi ağına bağlanın</string>
     <string name="screen_projection">Yansıt</string>
     <string name="screen_projection_characteristics">Özel özellikler</string>
     <string name="screen_projection_characteristics_off_screen_summary">Cihazınızın ekranı kapalıyken yansıtmaya devam edebilirsiniz. Bu özellik güç tüketimini azaltır</string>
@@ -541,6 +556,7 @@ Bu özelliği kullanmadan önce "<a href="%1$s">Kullanıcı Sözleşmesi</a> ve 
     <string name="search_menu_title">Ara</string>
     <string name="send">Gönder</string>
     <string name="service_name">Mi oynatma sesi</string>
+    <string name="show_result_on_tv">"Sonuçları TV'de görüntüle"</string>
     <string name="small_window">Pencereyi küçült</string>
     <string name="small_window_not_supported">Yansıtma yapılıyorken bu uygulama simge durumuna küçültülemez</string>
     <string name="solar_term_autumn_begins">Sonbahar başlıyor</string>
@@ -625,7 +641,8 @@ Bu özelliği kullanmadan önce "<a href="%1$s">Kullanıcı Sözleşmesi</a> ve 
     <string name="title_activity_permission">İzin etkinliği</string>
     <string name="toast_guide_show_more">Daha fazla bilgi edinin</string>
     <string name="toast_guide_title">Yeni özelliklerimizi burada keşfedin</string>
-    <string name="toast_invisible_mode">Gizlisin. Şu anda yayın kullanamazsınız</string>
+    <string name="toast_invisible_mode">Gizli moddasınız. Şu anda yayını kullanamazsınız</string>
+    <string name="toast_invisible_mode1">Gizli olduğunuzda yayın seçimi çalışmaz</string>
     <string name="toast_msg_for_multi_window">Bu özellik, Ekran bölme ile birlikte kullanılamaz</string>
     <string name="toast_msg_for_small_window">Yansıtma işlemini bölmeden cihazınızdaki diğer özellikleri kullanabilmek için yansıtılan pencereyi küçültebilirsiniz</string>
     <string name="toast_nfc_dont_move">Telefonunuzu uzaklaştırmayın</string>
@@ -663,5 +680,11 @@ Bu özelliği kullanmadan önce "<a href="%1$s">Kullanıcı Sözleşmesi</a> ve 
     <string name="wednesday">Çarşamba</string>
     <string name="wednesday_short">Çrş</string>
     <string name="wednesday_shortest">Çrş</string>
+    <string name="wifi_connect_btn_text">Yapılandır</string>
+    <string name="wifi_other">Diğer ağlar</string>
+    <string name="wifi_passwd_et_hint">Şifre gir</string>
+    <string name="wifi_recommendation">Daha iyi yayın deneyimi için %1$d GHz ağları seçin</string>
+    <string name="wifi_scan_btn_text">Tekrar tara</string>
+    <string name="wifi_username_et_hint">Hesap kimliğini girin</string>
     <string name="yesterday">Dün</string>
 </resources>
